@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30 23:07:05 (北京时间)",
+  "updated_at": "2026-08-31 00:07:03 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -56,12 +56,6 @@
               "source": "人民日报"
             },
             {
-              "title": "责编：任成琦 金 晨 邮箱：gtbhwb@people.cn - 人民日报",
-              "summary": "责编：任成琦 金 晨 邮箱：gtbhwb@people.cn 人民日报",
-              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR21nb3doby04UjhRWHdOTkc4TC1LNi1obkdHdkFFNG02WHFrVXpSdzJoRDdIRnF4Rm1ubWUyRXZ1aGlnaHhTaGE3b0xrbWhLX1dIZnp6ZXNHSzlsSWpiMy1nVFk1ckxxaUhmSktzUmh0bHVTM1E3c2hwbWFzSlpGZXBqaDU?oc=5",
-              "source": "人民日报"
-            },
-            {
               "title": "责编：王 平 金 晨 邮箱：gtbhwb@people.cn - 人民日报",
               "summary": "责编：王 平 金 晨 邮箱：gtbhwb@people.cn 人民日报",
               "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdlRZdmRPM3ItcWkwSmpFLUFzNmJuaXh0TlM3UEl3TDdHTDMteHJNR2p2S0VWTTIzV2FCeXh5allSaUNpV3VaaV9HdHA5b1ZzdlljMGhFcVBQeEZLRTVoTjVzeDRLZHNERDVadHk3c2ZXTm1fcS1Jd0JqUHBDM2tpNEdQbzE?oc=5",
@@ -71,6 +65,12 @@
               "title": "习近平抵达比什凯克出席2026年上海合作组织峰会并对吉尔吉斯斯坦进行国事访问 - 人民网-图片频道",
               "summary": "习近平抵达比什凯克出席2026年上海合作组织峰会并对吉尔吉斯斯坦进行国事访问 人民网-图片频道",
               "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaeHREMTFyNTZ2eGgzem90aUVOSUdDZHlUTEtSRzR5Z2Y0SWcxMldLY0x5SXBUY1dwNUlteVRudXRnWkpqTVUzWGdNbm9aYVZ2R0FRRkplUTUzLU9nMXdxVnJLd3ZQZ3ltZDlr?oc=5",
+              "source": "人民日报"
+            },
+            {
+              "title": "救援力量持续推进道路抢通 - 人民网-图片频道",
+              "summary": "救援力量持续推进道路抢通 人民网-图片频道",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kbE1EYWhWWHp1eHhVTDhVLVhvRW9UQXpvT1BuTkM1bHp5VjB3bk1tZmh5TEFkbnVVdFl0ck9Uck1XUkh5MzYxdnViUTNqOW9zM2oycVNyX2dSb05qWGtGbEtrT0Zrdk5C?oc=5",
               "source": "人民日报"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Manhunt underway after woman killed, several injured at Swiss rave shooting",
-              "summary": "A shooting in northern ​Switzerland has left several ‌victims, local police said on Sunday without saying whether anyone ​was killed.",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a94471816e54231b27d39e863fb5e30&url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fseveral-victims-reported-swiss-rave-shooting-blick-says-2026-08-30%2f&c=6549283696920364129&mkt=en-us",
+              "title": "Seven die, many more missing after ferry capsizes off North Cyprus",
+              "summary": "One person died after a boat with around 270 people on board capsized off North Cyprus ​on Sunday, Turkish Cypriot media reported.",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a945526bb6e47969fc676340dde32bb&url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fboat-with-around-270-people-capsizes-off-north-cyprus-media-says-2026-08-30%2f&c=17377093606057481787&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -135,32 +135,32 @@
         {
           "rank": 1,
           "title": "女排 朱婷",
-          "hot_value": "1139926",
+          "hot_value": "1118872",
           "link": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%8E%92%20%E6%9C%B1%E5%A9%B7%23"
         },
         {
           "rank": 2,
-          "title": "中国女排亚锦赛亚军",
-          "hot_value": "831245",
-          "link": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E4%BA%9A%E9%94%A6%E8%B5%9B%E4%BA%9A%E5%86%9B%23"
+          "title": "早春晴朗",
+          "hot_value": "817973",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%23"
         },
         {
           "rank": 3,
           "title": "2026数博会上的数字经济实力",
-          "hot_value": "675527",
+          "hot_value": "731244",
           "link": "https://s.weibo.com/weibo?q=%232026%E6%95%B0%E5%8D%9A%E4%BC%9A%E4%B8%8A%E7%9A%84%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E5%AE%9E%E5%8A%9B%23"
         },
         {
           "rank": 4,
-          "title": "2026PEL夏季赛总决赛",
-          "hot_value": "663763",
-          "link": "https://s.weibo.com/weibo?q=%232026PEL%E5%A4%8F%E5%AD%A3%E8%B5%9B%E6%80%BB%E5%86%B3%E8%B5%9B%23"
+          "title": "许晴花少2表现被理解",
+          "hot_value": "712988",
+          "link": "https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%99%B4%E8%8A%B1%E5%B0%912%E8%A1%A8%E7%8E%B0%E8%A2%AB%E7%90%86%E8%A7%A3%23"
         },
         {
           "rank": 5,
-          "title": "许晴花少2表现被理解",
-          "hot_value": "662158",
-          "link": "https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%99%B4%E8%8A%B1%E5%B0%912%E8%A1%A8%E7%8E%B0%E8%A2%AB%E7%90%86%E8%A7%A3%23"
+          "title": "当动物可以变幻成高跟鞋",
+          "hot_value": "697726",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%8A%A8%E7%89%A9%E5%8F%AF%E4%BB%A5%E5%8F%98%E5%B9%BB%E6%88%90%E9%AB%98%E8%B7%9F%E9%9E%8B%23"
         }
       ]
     }
