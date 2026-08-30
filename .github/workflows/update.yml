@@ -1,0 +1,33 @@
+name: 更新每日早报数据
+
+on:
+  schedule:
+    - cron: "5 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 拉取仓库代码
+        uses: actions/checkout@v4
+
+      - name: 安装 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 安装依赖
+        run: pip install -r scraper/requirements.txt
+
+      - name: 运行抓取脚本
+        run: python scraper/fetch_news.py
+
+      - name: 提交更新后的数据文件
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "自动更新每日早报数据"
+          file_pattern: docs/data.json
