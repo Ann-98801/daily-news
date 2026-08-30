@@ -1,9 +1,311 @@
 {
-  "updated_at": "尚未抓取，请稍候或前往仓库 Actions 页面手动触发一次",
+  "updated_at": "2026-08-30 14:05:33 (北京时间)",
   "sections": [
-    { "id": "domestic", "name": "国内焦点", "sources": [] },
-    { "id": "international", "name": "国际视野", "sources": [] },
-    { "id": "weibo", "name": "微博热搜", "items": [] }
+    {
+      "id": "domestic",
+      "name": "国内焦点",
+      "sources": [
+        {
+          "source_name": "新华社",
+          "items": []
+        },
+        {
+          "source_name": "人民日报",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "name": "国际视野",
+      "sources": [
+        {
+          "source_name": "BBC",
+          "items": [
+            {
+              "title": "Footage of Tibet floods isn't being shown in China - and we know little about vi…",
+              "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+              "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC"
+            },
+            {
+              "title": "Iceland EU referendum on a knife edge as counting continues",
+              "summary": "A vote on whether to resume membership talks with the European Union is too close to call.",
+              "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC"
+            },
+            {
+              "title": "WhatsApp chat used to send cash for crime and extremism",
+              "summary": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
+              "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
+              "source": "BBC"
+            },
+            {
+              "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+              "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+              "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC"
+            },
+            {
+              "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
+              "summary": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
+              "link": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC"
+            },
+            {
+              "title": "Canada installs large Lake Ontario sign in latest jab at US",
+              "summary": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
+              "link": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
+              "source": "BBC"
+            },
+            {
+              "title": "Norway's new king remembers 'my dear father' in first speech",
+              "summary": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.",
+              "link": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC"
+            },
+            {
+              "title": "Former Ecuadorian president imprisoned for corruption",
+              "summary": "Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant.",
+              "link": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC"
+            }
+          ]
+        },
+        {
+          "source_name": "CNN",
+          "items": [
+            {
+              "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledg…",
+              "summary": "",
+              "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+              "source": "CNN"
+            },
+            {
+              "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giulia…",
+              "summary": "",
+              "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+              "source": "CNN"
+            },
+            {
+              "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+              "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+              "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+              "source": "CNN"
+            },
+            {
+              "title": "Judge in Fox News-Dominion defamation trial: 'The parties have resolved their ca…",
+              "summary": "The judge just announced in court that a settlement has been reached in the historic defamation case between Fox News and Dominion Voting Sy…",
+              "link": "https://www.cnn.com/2023/04/18/media/fox-dominion-settlement/index.html",
+              "source": "CNN"
+            },
+            {
+              "title": "'Difficult to say with a straight face': Tapper reacts to Fox News' statement on…",
+              "summary": "A settlement has been reached in Dominion Voting Systems' defamation case against Fox News, the judge for the case announced. The network wi…",
+              "link": "https://www.cnn.com/videos/politics/2023/04/18/jake-tapper-dominion-lawsuit-settlement-fox-news-statement-lead-vpx.cnn",
+              "source": "CNN"
+            },
+            {
+              "title": "Millions in the US could face massive consequences unless McCarthy can navigate…",
+              "summary": "• DeSantis goes to Washington, a place he once despised, looking for support to take on Trump • Opinion: For the GOP to win, it must ditch T…",
+              "link": "https://www.cnn.com/2023/04/18/politics/mccarthy-biden-debt-ceiling/index.html",
+              "source": "CNN"
+            },
+            {
+              "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns him…",
+              "summary": "• 'A major part of Ralph died': Aunt of teen shot after ringing wrong doorbell speaks • 20-year-old woman shot after friend turned into the…",
+              "link": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
+              "source": "CNN"
+            },
+            {
+              "title": "Newly released video shows scene of Jeremy Renner's snowplow accident",
+              "summary": "Newly released body camera footage shows firefighters and sheriff's deputies rushing to help actor Jeremy Renner after a near-fatal snowplow…",
+              "link": "https://www.cnn.com/videos/us/2023/04/18/jeremy-renner-snowplow-accident-bodycam-nc-melas-contd-vpx.cnn",
+              "source": "CNN"
+            }
+          ]
+        },
+        {
+          "source_name": "路透社 Reuters",
+          "items": [
+            {
+              "title": "China identifies countries of 261 foreigners missing in Himalayan mudslide",
+              "summary": "China on Sunday said 261 ​foreign nationals from 23 countries were missing on the Tibetan side of a border crossing with ‌Nepal following a…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a93c82c9da149b3b199336c9968de0a&url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fchina-identifies-countries-261-foreigners-missing-himalayan-mudslide-2026-08-30%2f&c=17441239252807678216&mkt=en-us",
+              "source": "路透社 Reuters"
+            },
+            {
+              "title": "Venezuela's interim president says US energy deal will last 25 years",
+              "summary": "Venezuelan interim President Delcy ​Rodriguez said on Saturday that an energy agreement with the U.S. would remain in force for 25 ‌years, t…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a93c82c9da149b3b199336c9968de0a&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fvenezuelas-interim-president-says-us-energy-deal-will-last-25-years-2026-08-30%2f&c=4850335901422508062&mkt=en-us",
+              "source": "路透社 Reuters"
+            },
+            {
+              "title": "Nepal resumes flood rescue, seeks technical help and billions of dollars",
+              "summary": "Nepal needs foreign help in specialised and technical areas in which it does not have ‌expertise in the aftermath of the devastating flood t…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a93c82c9da149b3b199336c9968de0a&url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fnepal-needs-help-technical-areas-not-search-rescue-foreign-minister-says-2026-08-29%2f&c=1587729023560491654&mkt=en-us",
+              "source": "路透社 Reuters"
+            },
+            {
+              "title": "US to take 35% stake in Venezuelan mogul Betancourt's oil venture, WSJ reports",
+              "summary": "The U.S. government plans to take a 35% passive stake in Venezuelan businessman Alejandro Betancourt’s North American ​Blue Energy Partners,…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a93c82c9da149b3b199336c9968de0a&url=https%3a%2f%2fwww.reuters.com%2flegal%2flegalindustry%2fus-take-35-stake-venezuelan-mogul-betancourts-oil-venture-wsj-reports-2026-08-30%2f&c=11678065983058206693&mkt=en-us",
+              "source": "路透社 Reuters"
+            },
+            {
+              "title": "باري تفوز على ميرتنز وتحرز لقب بطولة مونتيري للتنس",
+              "summary": "أظهرت الفرنسية ديان باري صمودا كبيرا لتتغلب على البلجيكية ​إليسه ميرتنز المصنفة الثانية 6-4 و0-6 و6-3 ‌في نهائي بطولة مونتيري المفتوحة للتنس…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a93c82c9da149b3b199336c9968de0a&url=https%3a%2f%2fwww.reuters.com%2far%2fsports%2fRLN4CAO6BVN4RFUX7GMGY7QUCM-2026-08-30%2f&c=11554416498580606636&mkt=en-us",
+              "source": "路透社 Reuters"
+            },
+            {
+              "title": "Europe's central bankers fear more turbulence in testy U.S. relations",
+              "summary": "Europe's central bankers are leaving an annual getaway with their U.S. counterparts far from reassured that long-standing norms in global co…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a93c82c9da149b3b199336c9968de0a&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2feuropes-central-bankers-fear-more-turbulence-testy-us-relations-2026-08-30%2f&c=7864190702389776954&mkt=en-us",
+              "source": "路透社 Reuters"
+            },
+            {
+              "title": "Iceland starts counting EU talks referendum; 'no' votes move ahead in close cont…",
+              "summary": "Icelanders vote on Saturday on whether to reopen membership talks with the European Union, with islanders split down ​the middle after month…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a93c82c9da149b3b199336c9968de0a&url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2ficeland-votes-whether-start-eu-membership-talks-2026-08-29%2f&c=18326779393179435239&mkt=en-us",
+              "source": "路透社 Reuters"
+            },
+            {
+              "title": "صحيفة: ضحايا في إطلاق نار خلال حفل في سويسرا",
+              "summary": "أفادت ‌صحيفة بليك السويسرية ​اليوم ​الأحد نقلا ⁠عن ​الشرطة بوقوع ​عدد من الضحايا ​إثر ​واقعة إطلاق نار ‌في ⁠الساعات الأولى من ​صباح ​اليوم ⁠…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a93c82c9da149b3b199336c9968de0a&url=https%3a%2f%2fwww.reuters.com%2far%2fworld%2f63SWYXWD7BLLXJBQQ2AI44XZU4-2026-08-30%2f&c=7982533467153750680&mkt=en-us",
+              "source": "路透社 Reuters"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "weibo",
+      "name": "微博热搜",
+      "items": [
+        {
+          "rank": 1,
+          "title": "华为新三折叠",
+          "hot_value": "1122279",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E6%96%B0%E4%B8%89%E6%8A%98%E5%8F%A0%23"
+        },
+        {
+          "rank": 2,
+          "title": "尼泊尔山洪已致675遇难2498失联",
+          "hot_value": "1087301",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%B1%B1%E6%B4%AA%E5%B7%B2%E8%87%B4675%E9%81%87%E9%9A%BE2498%E5%A4%B1%E8%81%94%23"
+        },
+        {
+          "rank": 3,
+          "title": "西藏吉隆泥石流新闻发布会",
+          "hot_value": "1080975",
+          "link": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%97%8F%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23"
+        },
+        {
+          "rank": 4,
+          "title": "这三天请假难度堪比美国签证",
+          "hot_value": "1080606",
+          "link": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%89%E5%A4%A9%E8%AF%B7%E5%81%87%E9%9A%BE%E5%BA%A6%E5%A0%AA%E6%AF%94%E7%BE%8E%E5%9B%BD%E7%AD%BE%E8%AF%81%23"
+        },
+        {
+          "rank": 5,
+          "title": "金牌幼师嫁给了二级厨师",
+          "hot_value": "1080041",
+          "link": "https://s.weibo.com/weibo?q=%23%E9%87%91%E7%89%8C%E5%B9%BC%E5%B8%88%E5%AB%81%E7%BB%99%E4%BA%86%E4%BA%8C%E7%BA%A7%E5%8E%A8%E5%B8%88%23"
+        },
+        {
+          "rank": 6,
+          "title": "冉莹颖爸爸再婚三次为生儿子",
+          "hot_value": "1068222",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%86%89%E8%8E%B9%E9%A2%96%E7%88%B8%E7%88%B8%E5%86%8D%E5%A9%9A%E4%B8%89%E6%AC%A1%E4%B8%BA%E7%94%9F%E5%84%BF%E5%AD%90%23"
+        },
+        {
+          "rank": 7,
+          "title": "孙千送包",
+          "hot_value": "465961",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%83%E9%80%81%E5%8C%85%23"
+        },
+        {
+          "rank": 8,
+          "title": "初中孩子更需要父母接送上下学",
+          "hot_value": "324731",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%B8%AD%E5%AD%A9%E5%AD%90%E6%9B%B4%E9%9C%80%E8%A6%81%E7%88%B6%E6%AF%8D%E6%8E%A5%E9%80%81%E4%B8%8A%E4%B8%8B%E5%AD%A6%23"
+        },
+        {
+          "rank": 9,
+          "title": "青春芒果夜节目单",
+          "hot_value": "324656",
+          "link": "https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%98%A5%E8%8A%92%E6%9E%9C%E5%A4%9C%E8%8A%82%E7%9B%AE%E5%8D%95%23"
+        },
+        {
+          "rank": 10,
+          "title": "有钱的家庭该如何富养孩子",
+          "hot_value": "324541",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%9C%89%E9%92%B1%E7%9A%84%E5%AE%B6%E5%BA%AD%E8%AF%A5%E5%A6%82%E4%BD%95%E5%AF%8C%E5%85%BB%E5%AD%A9%E5%AD%90%23"
+        },
+        {
+          "rank": 11,
+          "title": "男子被冤摸女子臀部妻子气愤",
+          "hot_value": "324493",
+          "link": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E5%86%A4%E6%91%B8%E5%A5%B3%E5%AD%90%E8%87%80%E9%83%A8%E5%A6%BB%E5%AD%90%E6%B0%94%E6%84%A4%23"
+        },
+        {
+          "rank": 12,
+          "title": "鬼鬼女儿都这么大了",
+          "hot_value": "324328",
+          "link": "https://s.weibo.com/weibo?q=%23%E9%AC%BC%E9%AC%BC%E5%A5%B3%E5%84%BF%E9%83%BD%E8%BF%99%E4%B9%88%E5%A4%A7%E4%BA%86%23"
+        },
+        {
+          "rank": 13,
+          "title": "王菲教窦靖童social",
+          "hot_value": "324299",
+          "link": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%B2%E6%95%99%E7%AA%A6%E9%9D%96%E7%AB%A5social%23"
+        },
+        {
+          "rank": 14,
+          "title": "15岁少年因大面积文身无法入学",
+          "hot_value": "324142",
+          "link": "https://s.weibo.com/weibo?q=%2315%E5%B2%81%E5%B0%91%E5%B9%B4%E5%9B%A0%E5%A4%A7%E9%9D%A2%E7%A7%AF%E6%96%87%E8%BA%AB%E6%97%A0%E6%B3%95%E5%85%A5%E5%AD%A6%23"
+        },
+        {
+          "rank": 15,
+          "title": "金价暴跌之前有人直接清仓",
+          "hot_value": "324070",
+          "link": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E4%B9%8B%E5%89%8D%E6%9C%89%E4%BA%BA%E7%9B%B4%E6%8E%A5%E6%B8%85%E4%BB%93%23"
+        },
+        {
+          "rank": 16,
+          "title": "方桃子登COSMO封面引争议",
+          "hot_value": "323981",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%96%B9%E6%A1%83%E5%AD%90%E7%99%BBCOSMO%E5%B0%81%E9%9D%A2%E5%BC%95%E4%BA%89%E8%AE%AE%23"
+        },
+        {
+          "rank": 17,
+          "title": "樊振东赛后情绪低落",
+          "hot_value": "323868",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%B5%9B%E5%90%8E%E6%83%85%E7%BB%AA%E4%BD%8E%E8%90%BD%23"
+        },
+        {
+          "rank": 18,
+          "title": "吴敬平回应樊振东输户上隼辅",
+          "hot_value": "323739",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%95%AC%E5%B9%B3%E5%9B%9E%E5%BA%94%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%BE%93%E6%88%B7%E4%B8%8A%E9%9A%BC%E8%BE%85%23"
+        },
+        {
+          "rank": 19,
+          "title": "王玉雯被龚俊的菜电麻了",
+          "hot_value": "323662",
+          "link": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%8E%89%E9%9B%AF%E8%A2%AB%E9%BE%9A%E4%BF%8A%E7%9A%84%E8%8F%9C%E7%94%B5%E9%BA%BB%E4%BA%86%23"
+        },
+        {
+          "rank": 20,
+          "title": "网友意外拍到吉隆泥石流暴发瞬间",
+          "hot_value": "323536",
+          "link": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%84%8F%E5%A4%96%E6%8B%8D%E5%88%B0%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E6%9A%B4%E5%8F%91%E7%9E%AC%E9%97%B4%23"
+        }
+      ]
+    }
   ],
   "errors": []
 }
