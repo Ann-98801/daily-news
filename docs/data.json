@@ -1,0 +1,9 @@
+{
+  "updated_at": "尚未抓取，请稍候或前往仓库 Actions 页面手动触发一次",
+  "sections": [
+    { "id": "domestic", "name": "国内焦点", "sources": [] },
+    { "id": "international", "name": "国际视野", "sources": [] },
+    { "id": "weibo", "name": "微博热搜", "items": [] }
+  ],
+  "errors": []
+}

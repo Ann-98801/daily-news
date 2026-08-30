@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>每日早报 · 随身版</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@600;700;900&family=Noto+Sans+SC:wght@400;500;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#FAF6EE;
+    --paper-dim:#F1EAD9;
+    --ink:#20242C;
+    --ink-soft:#5B5F6B;
+    --rule:#D8CFB8;
+    --red:#B23A2E;      /* 国内焦点 */
+    --blue:#2C5F7C;      /* 国际视野 */
+    --amber:#C1852A;     /* 微博热搜 */
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:"Noto Sans SC", sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:760px;margin:0 auto;padding:0 20px 80px;}
+
+  /* ---------- 报头 ---------- */
+  .masthead{
+    padding:28px 0 18px;
+    border-bottom:3px double var(--ink);
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-end;
+    flex-wrap:wrap;
+    gap:10px;
+  }
+  .masthead h1{
+    font-family:"Noto Serif SC", serif;
+    font-weight:900;
+    font-size:clamp(30px,7vw,44px);
+    margin:0;
+    letter-spacing:2px;
+  }
+  .masthead .sub{
+    font-family:"Noto Sans SC", sans-serif;
+    font-size:13px;
+    color:var(--ink-soft);
+    letter-spacing:1px;
+  }
+  .date-line{
+    font-family:"JetBrains Mono", monospace;
+    font-size:13px;
+    color:var(--ink-soft);
+  }
+
+  /* ---------- 更新状态 / 邮戳 ---------- */
+  .status-row{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:12px 0;
+    font-family:"JetBrains Mono", monospace;
+    font-size:12px;
+    color:var(--ink-soft);
+    border-bottom:1px solid var(--rule);
+    gap:12px;
+    flex-wrap:wrap;
+  }
+  .stamp{
+    border:1.5px solid var(--ink-soft);
+    border-radius:3px;
+    padding:3px 8px;
+    transform:rotate(-1.5deg);
+    white-space:nowrap;
+  }
+  .refresh-btn{
+    font-family:"Noto Sans SC", sans-serif;
+    font-size:12px;
+    background:var(--ink);
+    color:var(--paper);
+    border:none;
+    border-radius:3px;
+    padding:6px 12px;
+    cursor:pointer;
+  }
+  .refresh-btn:active{opacity:.8;}
+  .error-note{
+    font-size:12px;
+    color:var(--red);
+    padding-top:8px;
+  }
+
+  /* ---------- 板块 ---------- */
+  section.block{margin-top:34px;}
+  .block-head{
+    display:flex;
+    align-items:baseline;
+    gap:10px;
+    margin-bottom:14px;
+  }
+  .block-head .glyph{
+    font-family:"Noto Serif SC", serif;
+    font-weight:900;
+    font-size:22px;
+  }
+  .block-head h2{
+    font-family:"Noto Serif SC", serif;
+    font-size:22px;
+    font-weight:700;
+    margin:0;
+  }
+  .block-head .rule{
+    flex:1;
+    height:1px;
+    background:var(--rule);
+  }
+  #domestic .glyph, #domestic h2{color:var(--red);}
+  #international .glyph, #international h2{color:var(--blue);}
+  #weibo .glyph, #weibo h2{color:var(--amber);}
+
+  .source-group{margin-bottom:22px;}
+  .source-name{
+    font-family:"JetBrains Mono", monospace;
+    font-size:12px;
+    text-transform:uppercase;
+    letter-spacing:1px;
+    color:var(--ink-soft);
+    margin-bottom:8px;
+  }
+  .card{
+    display:block;
+    padding:14px 0;
+    border-bottom:1px solid var(--rule);
+    text-decoration:none;
+    color:inherit;
+  }
+  .card:last-child{border-bottom:none;}
+  .card h3{
+    font-family:"Noto Serif SC", serif;
+    font-size:17px;
+    font-weight:600;
+    margin:0 0 6px;
+    line-height:1.4;
+  }
+  .card p{
+    font-size:13.5px;
+    color:var(--ink-soft);
+    margin:0;
+    line-height:1.6;
+  }
+  .card .arrow{
+    display:inline-block;
+    margin-left:4px;
+    opacity:0;
+    transition:opacity .15s, transform .15s;
+  }
+  .card:hover .arrow{opacity:1;transform:translateX(3px);}
+  .card:hover h3{color:var(--ink);text-decoration:underline;text-decoration-color:var(--rule);}
+
+  /* ---------- 微博热搜列表 ---------- */
+  .weibo-list{list-style:none;margin:0;padding:0;}
+  .weibo-list li{
+    display:flex;
+    align-items:baseline;
+    gap:12px;
+    padding:10px 0;
+    border-bottom:1px solid var(--rule);
+  }
+  .weibo-list li:last-child{border-bottom:none;}
+  .weibo-rank{
+    font-family:"JetBrains Mono", monospace;
+    font-weight:700;
+    font-size:14px;
+    color:var(--amber);
+    width:22px;
+    flex-shrink:0;
+    text-align:right;
+  }
+  .weibo-list li:nth-child(n+4) .weibo-rank{color:var(--ink-soft);}
+  .weibo-title{flex:1;font-size:14.5px;}
+  .weibo-title a{color:var(--ink);text-decoration:none;}
+  .weibo-title a:hover{text-decoration:underline;}
+  .weibo-hot{
+    font-family:"JetBrains Mono", monospace;
+    font-size:11.5px;
+    color:var(--ink-soft);
+    flex-shrink:0;
+  }
+
+  .empty-note{
+    font-size:13px;
+    color:var(--ink-soft);
+    font-style:italic;
+    padding:8px 0;
+  }
+
+  footer{
+    margin-top:50px;
+    padding-top:16px;
+    border-top:1px solid var(--rule);
+    font-size:11.5px;
+    color:var(--ink-soft);
+    text-align:center;
+    font-family:"JetBrains Mono", monospace;
+  }
+
+  @media (prefers-reduced-motion: reduce){
+    .card .arrow{transition:none;}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="masthead">
+    <div>
+      <h1>每日早报</h1>
+      <div class="sub">随身版 · 国内外要闻与微博热搜自动汇编</div>
+    </div>
+    <div class="date-line" id="todayLine"></div>
+  </div>
+
+  <div class="status-row">
+    <span class="stamp" id="updatedStamp">更新时间加载中…</span>
+    <button class="refresh-btn" onclick="location.reload()">刷新页面</button>
+  </div>
+  <div class="error-note" id="errorNote" style="display:none;"></div>
+
+  <section class="block" id="domestic">
+    <div class="block-head"><span class="glyph">国</span><h2>国内焦点</h2><span class="rule"></span></div>
+    <div id="domesticBody"><p class="empty-note">加载中…</p></div>
+  </section>
+
+  <section class="block" id="international">
+    <div class="block-head"><span class="glyph">国</span><h2>国际视野</h2><span class="rule"></span></div>
+    <div id="internationalBody"><p class="empty-note">加载中…</p></div>
+  </section>
+
+  <section class="block" id="weibo">
+    <div class="block-head"><span class="glyph">热</span><h2>微博热搜</h2><span class="rule"></span></div>
+    <ol class="weibo-list" id="weiboBody"><li class="empty-note">加载中…</li></ol>
+  </section>
+
+  <footer>本页数据由后台定时任务自动抓取公开新闻源与热搜榜生成，仅供个人参考</footer>
+</div>
+
+<script>
+const todayLine = document.getElementById('todayLine');
+const weekday = ['周日','周一','周二','周三','周四','周五','周六'][new Date().getDay()];
+todayLine.textContent = new Date().toLocaleDateString('zh-CN', {year:'numeric',month:'long',day:'numeric'}) + ' ' + weekday;
+
+function escapeHtml(str){
+  return (str || '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+
+function renderSourceGroup(group){
+  if(!group.items || group.items.length === 0){
+    return `<div class="source-group">
+      <div class="source-name">${escapeHtml(group.source_name)}</div>
+      <p class="empty-note">该来源暂时抓取失败或无更新</p>
+    </div>`;
+  }
+  const cards = group.items.map(item => `
+    <a class="card" href="${escapeHtml(item.link)}" target="_blank" rel="noopener">
+      <h3>${escapeHtml(item.title)}<span class="arrow">→</span></h3>
+      ${item.summary ? `<p>${escapeHtml(item.summary)}</p>` : ''}
+    </a>`).join('');
+  return `<div class="source-group">
+    <div class="source-name">${escapeHtml(group.source_name)}</div>
+    ${cards}
+  </div>`;
+}
+
+function renderWeibo(items){
+  if(!items || items.length === 0){
+    return '<li class="empty-note">暂时抓取失败或无数据</li>';
+  }
+  return items.map(item => `
+    <li>
+      <span class="weibo-rank">${item.rank}</span>
+      <span class="weibo-title"><a href="${escapeHtml(item.link)}" target="_blank" rel="noopener">${escapeHtml(item.title)}</a></span>
+      ${item.hot_value ? `<span class="weibo-hot">${escapeHtml(item.hot_value)}</span>` : ''}
+    </li>`).join('');
+}
+
+async function load(){
+  try{
+    const res = await fetch('./data.json?t=' + Date.now());
+    const data = await res.json();
+
+    document.getElementById('updatedStamp').textContent = '更新时间：' + data.updated_at;
+
+    if(data.errors && data.errors.length){
+      const note = document.getElementById('errorNote');
+      note.style.display = 'block';
+      note.textContent = '部分来源本次抓取遇到问题：' + data.errors.join('；');
+    }
+
+    const byId = id => (data.sections || []).find(s => s.id === id) || {};
+
+    const domestic = byId('domestic');
+    document.getElementById('domesticBody').innerHTML =
+      (domestic.sources || []).map(renderSourceGroup).join('') || '<p class="empty-note">暂无数据</p>';
+
+    const international = byId('international');
+    document.getElementById('internationalBody').innerHTML =
+      (international.sources || []).map(renderSourceGroup).join('') || '<p class="empty-note">暂无数据</p>';
+
+    const weibo = byId('weibo');
+    document.getElementById('weiboBody').innerHTML = renderWeibo(weibo.items);
+
+  }catch(err){
+    document.getElementById('updatedStamp').textContent = '数据加载失败，请稍后重试';
+    console.error(err);
+  }
+}
+
+load();
+</script>
+</body>
+</html>
