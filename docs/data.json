@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31 01:06:48 (北京时间)",
+  "updated_at": "2026-08-31 02:06:54 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -85,15 +85,15 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "Iceland votes against restarting EU membership talks",
-              "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks.",
-              "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+              "title": "Seven killed and 23 missing in boat capsizing off northern Cyprus",
+              "summary": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
+              "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
             {
-              "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
-              "summary": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
-              "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+              "title": "Iceland votes against restarting EU membership talks",
+              "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks.",
+              "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Europe's central bankers fear more turbulence in testy U.S. relations",
-              "summary": "Europe's central bankers are leaving an annual getaway with their U.S. counterparts far from reassured that long-standing norms in global co…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a946327e91e4f76b710433e9361d78e&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2feuropes-central-bankers-fear-more-turbulence-testy-us-relations-2026-08-30%2f&c=7864190702389776954&mkt=en-us",
+              "title": "Insight: Before flood catastrophe, Nepal asked China for early warnings as risks…",
+              "summary": "Three months before a wall of water, mud and rock killed hundreds when it hurtled down a Himalayan valley bordering Nepal and China, experts…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a94713d3d4b43988d4fa37360b275da&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2fbefore-flood-catastrophe-nepal-asked-china-early-warnings-risks-mounted-2026-08-30%2f&c=11622542930733245571&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -135,31 +135,31 @@
         {
           "rank": 1,
           "title": "女排 朱婷",
-          "hot_value": "1267177",
+          "hot_value": "632508",
           "link": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%8E%92%20%E6%9C%B1%E5%A9%B7%23"
         },
         {
           "rank": 2,
-          "title": "早春晴朗",
-          "hot_value": "543020",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%23"
+          "title": "尼泊尔重大灾害是冰圈松动预警",
+          "hot_value": "232740",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%B3%8A%E5%B0%94%E9%87%8D%E5%A4%A7%E7%81%BE%E5%AE%B3%E6%98%AF%E5%86%B0%E5%9C%88%E6%9D%BE%E5%8A%A8%E9%A2%84%E8%AD%A6%23"
         },
         {
           "rank": 3,
           "title": "我国从月球传照片4分钟缩到12秒",
-          "hot_value": "504777",
+          "hot_value": "195474",
           "link": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E4%BB%8E%E6%9C%88%E7%90%83%E4%BC%A0%E7%85%A7%E7%89%874%E5%88%86%E9%92%9F%E7%BC%A9%E5%88%B012%E7%A7%92%23"
         },
         {
           "rank": 4,
           "title": "许晴花少2表现被理解",
-          "hot_value": "498867",
+          "hot_value": "179372",
           "link": "https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%99%B4%E8%8A%B1%E5%B0%912%E8%A1%A8%E7%8E%B0%E8%A2%AB%E7%90%86%E8%A7%A3%23"
         },
         {
           "rank": 5,
           "title": "花少2心眼子排名",
-          "hot_value": "478208",
+          "hot_value": "169382",
           "link": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%912%E5%BF%83%E7%9C%BC%E5%AD%90%E6%8E%92%E5%90%8D%23"
         }
       ]
