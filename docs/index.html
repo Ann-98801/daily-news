@@ -74,7 +74,6 @@
     border:1.5px solid var(--ink-soft);
     border-radius:3px;
     padding:3px 8px;
-    transform:rotate(-1.5deg);
     white-space:nowrap;
   }
   .refresh-btn{
@@ -102,10 +101,11 @@
     gap:10px;
     margin-bottom:14px;
   }
-  .block-head .glyph{
-    font-family:"Noto Serif SC", serif;
-    font-weight:900;
-    font-size:22px;
+  .block-head .bar{
+    width:6px;
+    height:22px;
+    border-radius:1px;
+    flex-shrink:0;
   }
   .block-head h2{
     font-family:"Noto Serif SC", serif;
@@ -118,9 +118,12 @@
     height:1px;
     background:var(--rule);
   }
-  #domestic .glyph, #domestic h2{color:var(--red);}
-  #international .glyph, #international h2{color:var(--blue);}
-  #weibo .glyph, #weibo h2{color:var(--amber);}
+  #domestic .bar{background:var(--red);}
+  #domestic h2{color:var(--red);}
+  #international .bar{background:var(--blue);}
+  #international h2{color:var(--blue);}
+  #weibo .bar{background:var(--amber);}
+  #weibo h2{color:var(--amber);}
 
   .source-group{margin-bottom:22px;}
   .source-name{
@@ -231,17 +234,17 @@
   <div class="error-note" id="errorNote" style="display:none;"></div>
 
   <section class="block" id="domestic">
-    <div class="block-head"><span class="glyph">国</span><h2>国内焦点</h2><span class="rule"></span></div>
+    <div class="block-head"><span class="bar"></span><h2>国内焦点</h2><span class="rule"></span></div>
     <div id="domesticBody"><p class="empty-note">加载中…</p></div>
   </section>
 
   <section class="block" id="international">
-    <div class="block-head"><span class="glyph">国</span><h2>国际视野</h2><span class="rule"></span></div>
+    <div class="block-head"><span class="bar"></span><h2>国际视野</h2><span class="rule"></span></div>
     <div id="internationalBody"><p class="empty-note">加载中…</p></div>
   </section>
 
   <section class="block" id="weibo">
-    <div class="block-head"><span class="glyph">热</span><h2>微博热搜</h2><span class="rule"></span></div>
+    <div class="block-head"><span class="bar"></span><h2>微博热搜</h2><span class="rule"></span></div>
     <ol class="weibo-list" id="weiboBody"><li class="empty-note">加载中…</li></ol>
   </section>
 
