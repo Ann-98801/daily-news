@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30 21:06:50 (北京时间)",
+  "updated_at": "2026-08-30 22:06:58 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -8,6 +8,12 @@
         {
           "source_name": "新华社",
           "items": [
+            {
+              "title": "受权发布丨全国人民代表大会常务委员会决定免职的名单 - 新华网",
+              "summary": "受权发布丨全国人民代表大会常务委员会决定免职的名单 新华网",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ3daTG56ZWxNUTQ2aUhFSlJQcWU5d2swRVBlQV9ybVdFMWZkRVJIMFJINVplcnpLVFM3ZE1vSWhDaC1oV1lvMG9ZREVUQmR6OEhMY0RuQ3hvcGVfMk9WMzJlRlNObG5JenF2ZVBPZE1uM0FnamRiWmc1emhjNzZWYmlvdw?oc=5",
+              "source": "新华社"
+            },
             {
               "title": "新华视点｜再难，也要挺进——直击西藏吉隆口岸泥石流灾害救援 - 新华网",
               "summary": "新华视点｜再难，也要挺进——直击西藏吉隆口岸泥石流灾害救援 新华网",
@@ -30,12 +36,6 @@
               "title": "中国共产党第二十届中央领导机构 - 新华网",
               "summary": "中国共产党第二十届中央领导机构 新华网",
               "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBWVTBoZDBPUFlpaGlhTEx0Unh1bktrX3Y5V3E4a3NlUlNxWDJhblp3dnBPRXMxSl9OOTRGckpMT1ZIMWtkVnZLdmhrUnY?oc=5",
-              "source": "新华社"
-            },
-            {
-              "title": "我国将在32个城市部署第二批数据标注先行先试工作 - 新华网",
-              "summary": "我国将在32个城市部署第二批数据标注先行先试工作 新华网",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40WEVGRnlHaFc5X3R2Qm5DV055dHM5aEMxdEhxNlFiUURWNXV0YmxPem9nSzh6MDFMQUlQd1o0WURjYmZHVFNQYzcxTmdfdnJFVmZna1MzSk8zNURrYlRYMUJpX1FPMGU0YWpPRnFYUlpJMUd2QVM4?oc=5",
               "source": "新华社"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Boat with around 270 people on board capsizes off North Cyprus; one dead",
-              "summary": "One person died after a boat with around 270 people on board capsized off North Cyprus ​on Sunday, Turkish Cypriot media reported.",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a942ae8460e4031a64706590852af5b&url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fboat-with-around-270-people-capsizes-off-north-cyprus-media-says-2026-08-30%2f&c=17377093606057481787&mkt=en-us",
+              "title": "Astros playing for AL West title; Mets' Juan Soto looking ahead to future",
+              "summary": "For the Astros, the struggles of opener Bennett Sousa and bulk reliever Cristian Javier on Saturday offered another reminder why Houston lur…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9438fc91b2485f9bf0a24f4e766035&url=https%3a%2f%2fwww.reuters.com%2fsports%2fbaseball%2fastros-playing-al-west-title-mets-juan-soto-looking-ahead-future--flm-2026-08-30%2f&c=5025473965342036744&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -134,33 +134,33 @@
       "items": [
         {
           "rank": 1,
-          "title": "某综艺节目在海岛遗弃造景垃圾",
-          "hot_value": "1515343",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%9F%90%E7%BB%BC%E8%89%BA%E8%8A%82%E7%9B%AE%E5%9C%A8%E6%B5%B7%E5%B2%9B%E9%81%97%E5%BC%83%E9%80%A0%E6%99%AF%E5%9E%83%E5%9C%BE%23"
+          "title": "中国女排亚锦赛亚军",
+          "hot_value": "1244858",
+          "link": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E4%BA%9A%E9%94%A6%E8%B5%9B%E4%BA%9A%E5%86%9B%23"
         },
         {
           "rank": 2,
           "title": "早春晴朗",
-          "hot_value": "906953",
+          "hot_value": "885766",
           "link": "https://s.weibo.com/weibo?q=%23%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%23"
         },
         {
           "rank": 3,
           "title": "2026数博会上的数字经济实力",
-          "hot_value": "726519",
+          "hot_value": "699083",
           "link": "https://s.weibo.com/weibo?q=%232026%E6%95%B0%E5%8D%9A%E4%BC%9A%E4%B8%8A%E7%9A%84%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E5%AE%9E%E5%8A%9B%23"
         },
         {
           "rank": 4,
-          "title": "细胞抗老是智商税么",
-          "hot_value": "695739",
-          "link": "https://s.weibo.com/weibo?q=%23%E7%BB%86%E8%83%9E%E6%8A%97%E8%80%81%E6%98%AF%E6%99%BA%E5%95%86%E7%A8%8E%E4%B9%88%23"
+          "title": "2026PEL夏季赛总决赛",
+          "hot_value": "561748",
+          "link": "https://s.weibo.com/weibo?q=%232026PEL%E5%A4%8F%E5%AD%A3%E8%B5%9B%E6%80%BB%E5%86%B3%E8%B5%9B%23"
         },
         {
           "rank": 5,
-          "title": "陈妍希儿子出镜了我家那闺女",
-          "hot_value": "694787",
-          "link": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%E5%84%BF%E5%AD%90%E5%87%BA%E9%95%9C%E4%BA%86%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3%23"
+          "title": "中国女排2比3泰国女排",
+          "hot_value": "543020",
+          "link": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%922%E6%AF%943%E6%B3%B0%E5%9B%BD%E5%A5%B3%E6%8E%92%23"
         }
       ]
     }
