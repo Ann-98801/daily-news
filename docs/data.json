@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31 03:07:02 (北京时间)",
+  "updated_at": "2026-08-31 04:06:38 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -56,12 +56,6 @@
               "source": "人民日报"
             },
             {
-              "title": "责编：任成琦 金 晨 邮箱：gtbhwb@people.cn - 人民日报",
-              "summary": "责编：任成琦 金 晨 邮箱：gtbhwb@people.cn 人民日报",
-              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR21nb3doby04UjhRWHdOTkc4TC1LNi1obkdHdkFFNG02WHFrVXpSdzJoRDdIRnF4Rm1ubWUyRXZ1aGlnaHhTaGE3b0xrbWhLX1dIZnp6ZXNHSzlsSWpiMy1nVFk1ckxxaUhmSktzUmh0bHVTM1E3c2hwbWFzSlpGZXBqaDU?oc=5",
-              "source": "人民日报"
-            },
-            {
               "title": "责编：王 平 金 晨 邮箱：gtbhwb@people.cn - 人民日报",
               "summary": "责编：王 平 金 晨 邮箱：gtbhwb@people.cn 人民日报",
               "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdlRZdmRPM3ItcWkwSmpFLUFzNmJuaXh0TlM3UEl3TDdHTDMteHJNR2p2S0VWTTIzV2FCeXh5allSaUNpV3VaaV9HdHA5b1ZzdlljMGhFcVBQeEZLRTVoTjVzeDRLZHNERDVadHk3c2ZXTm1fcS1Jd0JqUHBDM2tpNEdQbzE?oc=5",
@@ -71,6 +65,12 @@
               "title": "习近平抵达比什凯克出席2026年上海合作组织峰会并对吉尔吉斯斯坦进行国事访问 - 人民网-图片频道",
               "summary": "习近平抵达比什凯克出席2026年上海合作组织峰会并对吉尔吉斯斯坦进行国事访问 人民网-图片频道",
               "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaeHREMTFyNTZ2eGgzem90aUVOSUdDZHlUTEtSRzR5Z2Y0SWcxMldLY0x5SXBUY1dwNUlteVRudXRnWkpqTVUzWGdNbm9aYVZ2R0FRRkplUTUzLU9nMXdxVnJLd3ZQZ3ltZDlr?oc=5",
+              "source": "人民日报"
+            },
+            {
+              "title": "救援力量持续推进道路抢通 - 人民网-图片频道",
+              "summary": "救援力量持续推进道路抢通 人民网-图片频道",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kbE1EYWhWWHp1eHhVTDhVLVhvRW9UQXpvT1BuTkM1bHp5VjB3bk1tZmh5TEFkbnVVdFl0ck9Uck1XUkh5MzYxdnViUTNqOW9zM2oycVNyX2dSb05qWGtGbEtrT0Zrdk5C?oc=5",
               "source": "人民日报"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Manhunt underway after deadly Swiss rave shooting",
-              "summary": "Police have launched a major manhunt after a shooting at an overnight rave in the Swiss town of Aarau (August 30) killed a 22-year-old woman…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a947f55faec44fc9a2ac72381fc1685&url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW898130082026RP1%2f&c=1218621121039703783&mkt=en-us",
+              "title": "At least eight die, 18 missing after ferry capsizes off North Cyprus",
+              "summary": "One person died after a boat with around 270 people on board capsized off North Cyprus ​on Sunday, Turkish Cypriot media reported.",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a948d4db3e74af38758188f8304d956&url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fboat-with-around-270-people-capsizes-off-north-cyprus-media-says-2026-08-30%2f&c=17377093606057481787&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -135,32 +135,32 @@
         {
           "rank": 1,
           "title": "女排 朱婷",
-          "hot_value": "353709",
+          "hot_value": "234811",
           "link": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%8E%92%20%E6%9C%B1%E5%A9%B7%23"
         },
         {
           "rank": 2,
           "title": "尼泊尔重大灾害是冰圈松动预警",
-          "hot_value": "117603",
+          "hot_value": "77664",
           "link": "https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%B3%8A%E5%B0%94%E9%87%8D%E5%A4%A7%E7%81%BE%E5%AE%B3%E6%98%AF%E5%86%B0%E5%9C%88%E6%9D%BE%E5%8A%A8%E9%A2%84%E8%AD%A6%23"
         },
         {
           "rank": 3,
           "title": "我国从月球传照片4分钟缩到12秒",
-          "hot_value": "117599",
+          "hot_value": "64019",
           "link": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E4%BB%8E%E6%9C%88%E7%90%83%E4%BC%A0%E7%85%A7%E7%89%874%E5%88%86%E9%92%9F%E7%BC%A9%E5%88%B012%E7%A7%92%23"
         },
         {
           "rank": 4,
-          "title": "花少2心眼子排名",
-          "hot_value": "117595",
-          "link": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%912%E5%BF%83%E7%9C%BC%E5%AD%90%E6%8E%92%E5%90%8D%23"
+          "title": "许晴花少2表现被理解",
+          "hot_value": "63602",
+          "link": "https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%99%B4%E8%8A%B1%E5%B0%912%E8%A1%A8%E7%8E%B0%E8%A2%AB%E7%90%86%E8%A7%A3%23"
         },
         {
           "rank": 5,
-          "title": "许晴花少2表现被理解",
-          "hot_value": "117583",
-          "link": "https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%99%B4%E8%8A%B1%E5%B0%912%E8%A1%A8%E7%8E%B0%E8%A2%AB%E7%90%86%E8%A7%A3%23"
+          "title": "花少2心眼子排名",
+          "hot_value": "63213",
+          "link": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%912%E5%BF%83%E7%9C%BC%E5%AD%90%E6%8E%92%E5%90%8D%23"
         }
       ]
     }
