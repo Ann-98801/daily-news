@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31 20:07:54 (北京时间)",
+  "updated_at": "2026-08-31 21:07:14 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -46,6 +46,12 @@
             {
               "title": "责编：王 平 金 晨 邮箱：gtbhwb@people.cn - 人民日报",
               "summary": "责编：王 平 金 晨 邮箱：gtbhwb@people.cn 人民日报",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdENHVHE1S0JGLUd4b0FGTmkxTHlLdHktQnlVSE5qXy02ekZpbUZsczY5bHZVaUJwbnZZSWtsVzllUmFVVWxwVUdlaWw0TS1qX25Za3oxVlZmOXBTMzZ6WEpYUHRUVWx2alN1YjVCOUxOYkJOLVh3dDBRZFdrU3BHaldEMGE?oc=5",
+              "source": "人民日报"
+            },
+            {
+              "title": "责编：王 平 金 晨 邮箱：gtbhwb@people.cn - 人民日报",
+              "summary": "责编：王 平 金 晨 邮箱：gtbhwb@people.cn 人民日报",
               "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSEM0SlVWYkhwb1Nzck03OGJTaFp6V1kwUnhYakkwaDVkc2F2UGlwODZ0VXYtY1dHSEZkaVN3SXZZUlVWcThhQzVQNEhGX3ZzdWpMeFFfQ29JR0RGOS0zM21UamdjcEhLUVlaX2cxTlo4LXZsWktnX29CTXpla0wwVGU5Zw?oc=5",
               "source": "人民日报"
             },
@@ -65,12 +71,6 @@
               "title": "责编：王 平 金 晨 邮箱：gtbhwb@people.cn - 人民日报",
               "summary": "责编：王 平 金 晨 邮箱：gtbhwb@people.cn 人民日报",
               "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdlRZdmRPM3ItcWkwSmpFLUFzNmJuaXh0TlM3UEl3TDdHTDMteHJNR2p2S0VWTTIzV2FCeXh5allSaUNpV3VaaV9HdHA5b1ZzdlljMGhFcVBQeEZLRTVoTjVzeDRLZHNERDVadHk3c2ZXTm1fcS1Jd0JqUHBDM2tpNEdQbzE?oc=5",
-              "source": "人民日报"
-            },
-            {
-              "title": "哈伊高铁站展露“容貌”【3】 - 人民网-图片频道",
-              "summary": "哈伊高铁站展露“容貌”【3】 人民网-图片频道",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SVlp4Z2FjbngzN0dVTG1Ha1BXaDJBRGd5RXFFOHczOUlWNzdqY0l4UUpHSUl4UXQ0QUs5Z0ViWU5hM3pTNG9JZ2JXaVBDNTNXRDRMRFVUenBGd1dwUlhFZnZMVHhsejhaU3lB?oc=5",
               "source": "人民日报"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "As U.S. agriculture wilts under financial pressure, former Arkansas farmer culti…",
-              "summary": "A decade ago, Hallie Shoffner quit a career in non-profits to help her aging parents run the family farm. For more than a century, their lan…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a956e99e6b04c318ede100e02c0aade&url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-agriculture-wilts-under-financial-pressure-former-arkansas-farmer-cultivates-2026-08-31%2f&c=16972087945703401525&mkt=en-us",
+              "title": "Iran still wants negotiated end to war, president says after exchanges of fire",
+              "summary": "U.S. President Donald Trump posted an AI-generated video clip that he said was Iran's oil hub ​Kharg Island being blown to smithereens, hour…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a957c811c2b49e6b24d95b540860fa9&url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2ftrump-posts-ai-video-irans-kharg-smithereens-no-evidence-attack-2026-08-31%2f&c=2043759498722750547&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -134,33 +134,33 @@
       "items": [
         {
           "rank": 1,
-          "title": "装腔启示录",
-          "hot_value": "1104014",
-          "link": "https://s.weibo.com/weibo?q=%23%E8%A3%85%E8%85%94%E5%90%AF%E7%A4%BA%E5%BD%95%23"
-        },
-        {
-          "rank": 2,
           "title": "吉隆口岸唯一能看到的建筑",
-          "hot_value": "819436",
+          "hot_value": "1122800",
           "link": "https://s.weibo.com/weibo?q=%23%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%E5%94%AF%E4%B8%80%E8%83%BD%E7%9C%8B%E5%88%B0%E7%9A%84%E5%BB%BA%E7%AD%91%23"
         },
         {
+          "rank": 2,
+          "title": "子涵梓萱的时代已成过去式",
+          "hot_value": "831647",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%AD%90%E6%B6%B5%E6%A2%93%E8%90%B1%E7%9A%84%E6%97%B6%E4%BB%A3%E5%B7%B2%E6%88%90%E8%BF%87%E5%8E%BB%E5%BC%8F%23"
+        },
+        {
           "rank": 3,
-          "title": "9图读懂上合组织峰会",
-          "hot_value": "661896",
-          "link": "https://s.weibo.com/weibo?q=%239%E5%9B%BE%E8%AF%BB%E6%87%82%E4%B8%8A%E5%90%88%E7%BB%84%E7%BB%87%E5%B3%B0%E4%BC%9A%23"
+          "title": "多架次直升机驰援吉隆灾区",
+          "hot_value": "649761",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%9E%B6%E6%AC%A1%E7%9B%B4%E5%8D%87%E6%9C%BA%E9%A9%B0%E6%8F%B4%E5%90%89%E9%9A%86%E7%81%BE%E5%8C%BA%23"
         },
         {
           "rank": 4,
-          "title": "华为上半年营收4678亿元",
-          "hot_value": "661416",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E4%B8%8A%E5%8D%8A%E5%B9%B4%E8%90%A5%E6%94%B64678%E4%BA%BF%E5%85%83%23"
+          "title": "还我季洁",
+          "hot_value": "550628",
+          "link": "https://s.weibo.com/weibo?q=%23%E8%BF%98%E6%88%91%E5%AD%A3%E6%B4%81%23"
         },
         {
           "rank": 5,
-          "title": "2026芭莎之夜阵容官宣",
-          "hot_value": "656278",
-          "link": "https://s.weibo.com/weibo?q=%232026%E8%8A%AD%E8%8E%8E%E4%B9%8B%E5%A4%9C%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23"
+          "title": "重案六组",
+          "hot_value": "548829",
+          "link": "https://s.weibo.com/weibo?q=%23%E9%87%8D%E6%A1%88%E5%85%AD%E7%BB%84%23"
         }
       ]
     }
