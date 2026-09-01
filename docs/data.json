@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02 00:38:39 (北京时间)",
+  "updated_at": "2026-09-02 01:12:25 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -9,8 +9,8 @@
           "source_name": "新华社",
           "items": [
             {
-              "title": "新华网_让新闻离你更近 - news.cn",
-              "summary": "新华网_让新闻离你更近 news.cn",
+              "title": "新华网_让新闻离你更近 - 新华网",
+              "summary": "新华网_让新闻离你更近 新华网",
               "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE5FdWV6S1M3MF9oYnROX0tuQkJLWEhDQmVGUWdYbzAzbjNvd3BRdElPSlVua05Pdw?oc=5",
               "source": "新华社"
             },
@@ -21,8 +21,8 @@
               "source": "新华社"
             },
             {
-              "title": "山钢集团日照公司批量交付冷轧高强双相钢新产品 - sd.news.cn",
-              "summary": "山钢集团日照公司批量交付冷轧高强双相钢新产品 sd.news.cn",
+              "title": "山钢集团日照公司批量交付冷轧高强双相钢新产品 - 新华网",
+              "summary": "山钢集团日照公司批量交付冷轧高强双相钢新产品 新华网",
               "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwR0lCNDZWS053UlBMcDJnN25XQkxtMHpTRm1VdmVJa0RlZ3ZPRzhCNU5qQ1FQQnRIanZQYlgtQkt5UURvanJBT0RBQWZkcXRNMkp6eVZZLVNyQXJCQnZDdnJsSHNEUlRBY3NJMXhRRTduUnYzT1U0SUZBZw?oc=5",
               "source": "新华社"
             },
@@ -44,9 +44,15 @@
           "source_name": "人民日报",
           "items": [
             {
-              "title": "责编：王 平 金 晨 邮箱：gtbhwb@people.cn - paper.people.com.cn",
-              "summary": "责编：王 平 金 晨 邮箱：gtbhwb@people.cn paper.people.com.cn",
+              "title": "责编：王 平 金 晨 邮箱：gtbhwb@people.cn - 人民日报",
+              "summary": "责编：王 平 金 晨 邮箱：gtbhwb@people.cn 人民日报",
               "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUWhCM2diUENaRldUQXV0ellELUVLTVpVaU5ld29KYlVaaWFtcHdDcl9Nb29uWGt4MkFQSS1FZnZLSDhLd2dYZjFaMk54X29OTHZ0dm9EZG1VdDVnVnYxU0xRd2k1dS05cjk0blM3RVBrNWtWYnFQc2NFdjdrQzZfSDhvMA?oc=5",
+              "source": "人民日报"
+            },
+            {
+              "title": "36支团队巅峰对决 京西智谷AI创新创业大赛决赛在AI PARK举行 - 人民网",
+              "summary": "36支团队巅峰对决 京西智谷AI创新创业大赛决赛在AI PARK举行 人民网",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wTWUzLXY4d1M5NV95RDM0RlNpMnBHTUpaUjFLVGxDdzhnRFY0ZUlyS1hHNTI2TVR6aEprNHNhV19lMHJVVkRjZG9Ub3BNb3F6djYtN0NlUEdDMjcwVW5wNEYwM3dFYzlQ?oc=5",
               "source": "人民日报"
             },
             {
@@ -56,21 +62,15 @@
               "source": "人民日报"
             },
             {
+              "title": "在世界制造业大会看机器人大显身手【11】 - 人民网-图片频道",
+              "summary": "在世界制造业大会看机器人大显身手【11】 人民网-图片频道",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rRXlLUWNNLWttUi11Qk1LeEVFS01UcDhLNi1ncllqeW8tVm5BQzB6OU93LTZOR0ZqNDR4N3doTGhvNm5ZZ3NwT2pjNnZnb2VlTlJYeGo3TEJVU3RLY1dwZmZRNXVhWDF6ZTNJQW5n?oc=5",
+              "source": "人民日报"
+            },
+            {
               "title": "习近平会见俄罗斯总统普京 - 人民网-图片频道",
               "summary": "习近平会见俄罗斯总统普京 人民网-图片频道",
               "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VaE5tMWV2Vy1IQkxNaUZjTXJHcmV2b3dKaldhVm9PM1NnTkJSeXJBd0N6TlUyWl9lQzhpQnZVSkxOOVNhQXAxOUFYcFM1S1ZoT2NlanpsY2YzdnlCVm1UVVNLdzY4dVAtaktF?oc=5",
-              "source": "人民日报"
-            },
-            {
-              "title": "海太长江隧道工程掘进抵达最深点【5】 - 人民网-图片频道",
-              "summary": "海太长江隧道工程掘进抵达最深点【5】 人民网-图片频道",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRV29NaHlyTkMtOEU0Yk5tRFk3Y1IyMXNoWHBDUTg1emE5ZHpxcjBvVkxQODhYOE1CTmFzZXlkb2p2WFdnTkdYdXIyYnZOSDFDRTVWTzJXaW1LSmtndUxzb2haQ0FXMFdaUnpz?oc=5",
-              "source": "人民日报"
-            },
-            {
-              "title": "救援力量持续推进道路抢通 - 人民网-图片频道",
-              "summary": "救援力量持续推进道路抢通 人民网-图片频道",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kbE1EYWhWWHp1eHhVTDhVLVhvRW9UQXpvT1BuTkM1bHp5VjB3bk1tZmh5TEFkbnVVdFl0ck9Uck1XUkh5MzYxdnViUTNqOW9zM2oycVNyX2dSb05qWGtGbEtrT0Zrdk5C?oc=5",
               "source": "人民日报"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Nepal flood death toll crosses 1,000, rescuers reach remote areas",
-              "summary": "Rescuers used heavy machinery, helicopters and excavators to reach the thousands still missing, nearly a week after the catastrophic ‌Himala…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a96ff8eaf0c4b7baf0ff71dfed58f64&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2fnepal-rescuers-reach-remote-areas-electricity-restored-nearly-week-after-2026-09-01%2f&c=5066321582634299408&mkt=en-us",
+              "title": "Trump names pastor to advise administration on tobacco health",
+              "summary": "U.S. President Donald Trump ​said on Tuesday ‌that Pastor Darrell Scott will serve his ​administration as ​an adviser for tobacco ⁠health is…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9707787b5943d0a664dea2a9883136&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2ftrump-names-pastor-advise-administration-tobacco-health-2026-09-01%2f&c=16752714126714645695&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -135,31 +135,31 @@
         {
           "rank": 1,
           "title": "手机涨价 卖不动",
-          "hot_value": "841807",
+          "hot_value": "587031",
           "link": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%20%E5%8D%96%E4%B8%8D%E5%8A%A8%23"
         },
         {
           "rank": 2,
-          "title": "花少2",
-          "hot_value": "623317",
-          "link": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%912%23"
+          "title": "张一山演技",
+          "hot_value": "457813",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%B8%80%E5%B1%B1%E6%BC%94%E6%8A%80%23"
         },
         {
           "rank": 3,
           "title": "上合示范区释放区域经贸合作新动能",
-          "hot_value": "492121",
+          "hot_value": "347884",
           "link": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%90%88%E7%A4%BA%E8%8C%83%E5%8C%BA%E9%87%8A%E6%94%BE%E5%8C%BA%E5%9F%9F%E7%BB%8F%E8%B4%B8%E5%90%88%E4%BD%9C%E6%96%B0%E5%8A%A8%E8%83%BD%23"
         },
         {
           "rank": 4,
-          "title": "张一山演技",
-          "hot_value": "395587",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%B8%80%E5%B1%B1%E6%BC%94%E6%8A%80%23"
+          "title": "花少2",
+          "hot_value": "326797",
+          "link": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%912%23"
         },
         {
           "rank": 5,
           "title": "那个用防窥屏的朋友",
-          "hot_value": "331944",
+          "hot_value": "225506",
           "link": "https://s.weibo.com/weibo?q=%23%E9%82%A3%E4%B8%AA%E7%94%A8%E9%98%B2%E7%AA%A5%E5%B1%8F%E7%9A%84%E6%9C%8B%E5%8F%8B%23"
         }
       ]
