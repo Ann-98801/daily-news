@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01 18:13:34 (北京时间)",
+  "updated_at": "2026-09-01 19:12:27 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -9,20 +9,14 @@
           "source_name": "新华社",
           "items": [
             {
-              "title": "新华网_让新闻离你更近 - 新华网",
-              "summary": "新华网_让新闻离你更近 新华网",
+              "title": "新华网_让新闻离你更近 - news.cn",
+              "summary": "新华网_让新闻离你更近 news.cn",
               "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE5FdWV6S1M3MF9oYnROX0tuQkJLWEhDQmVGUWdYbzAzbjNvd3BRdElPSlVua05Pdw?oc=5",
               "source": "新华社"
             },
             {
-              "title": "中国共产党第二十届中央领导机构 - 新华网",
-              "summary": "中国共产党第二十届中央领导机构 新华网",
-              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBWVTBoZDBPUFlpaGlhTEx0Unh1bktrX3Y5V3E4a3NlUlNxWDJhblp3dnBPRXMxSl9OOTRGckpMT1ZIMWtkVnZLdmhrUnY?oc=5",
-              "source": "新华社"
-            },
-            {
-              "title": "同行25载 带你读懂上合之“合” - 新华网",
-              "summary": "同行25载 带你读懂上合之“合” 新华网",
+              "title": "国际_新华网_让新闻离你更近 - news.cn",
+              "summary": "国际_新华网_让新闻离你更近 news.cn",
               "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9zSWtjUFY2VmQyM0J1X1hwYTFvRTh4M2lDeXR0X0FLRk55VFhQM3lTMW5pTWZZaXRPUnNRU093?oc=5",
               "source": "新华社"
             },
@@ -37,6 +31,12 @@
               "summary": "山钢集团日照公司批量交付冷轧高强双相钢新产品 新华网",
               "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwR0lCNDZWS053UlBMcDJnN25XQkxtMHpTRm1VdmVJa0RlZ3ZPRzhCNU5qQ1FQQnRIanZQYlgtQkt5UURvanJBT0RBQWZkcXRNMkp6eVZZLVNyQXJCQnZDdnJsSHNEUlRBY3NJMXhRRTduUnYzT1U0SUZBZw?oc=5",
               "source": "新华社"
+            },
+            {
+              "title": "新学期去追“星” - 新华网江苏频道",
+              "summary": "新学期去追“星” 新华网江苏频道",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xWTVKR1hSOUcwZGFXa2gtYkdIZmI4Z2RFRTd4ME1xNlJNbXA1RGI3c0lOTW1fY2VlREYxWXJKdXJsZk14bF9QOW1UYmg0NjJFNGZlY1NaWllfNXVTVHpKMVdRclpxOUpNaUZYRnQtV1lXc3pK?oc=5",
+              "source": "新华社"
             }
           ]
         },
@@ -50,9 +50,9 @@
               "source": "人民日报"
             },
             {
-              "title": "习近平出席上海合作组织成员国元首理事会第二十六次会议并发表重要讲话 - 人民网-图片频道",
-              "summary": "习近平出席上海合作组织成员国元首理事会第二十六次会议并发表重要讲话 人民网-图片频道",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iYTY0V2pPSWhtRXNmaHp6ajRfWlBOVkd4S3FZZzRDUWFIeFpHV0JjTDluV3dlcEk1NXBDSjNmYXg2MXRLbllWcjNTVGJScFpuaVBzbENjMU4ya1BaZTk5d1JsU1RVTTRNa2p3?oc=5",
+              "title": "习近平出席“上海合作组织+”会议并发表重要讲话 - 人民网-图片频道",
+              "summary": "习近平出席“上海合作组织+”会议并发表重要讲话 人民网-图片频道",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMOUVxUmdlNWpoXzktWnNaVHMxMi1NUEVsU3M3SXJDMEZLOElwN2lIZkZ3Tld5Qm5wRDR6ZWJ2Mi1NOTVMUWxna3otcE0zemJXSHVhbDZxSmFOdEZkVGMxSDNfS0kxNnpjTm9J?oc=5",
               "source": "人民日报"
             },
             {
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "France targets Shein and Temu with fast fashion fees",
-              "summary": "France started imposing penalties on the extreme end of fast fashion ‌on Tuesday to try to curb a surge in sales of cheap clothing sold by e…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a96a54d787443aca0d47ad644c07b0b&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2ffrance-targets-shein-temu-with-fast-fashion-fines-2026-09-01%2f&c=5701472776730932893&mkt=en-us",
+              "title": "More US parents refusing newborn vitamin, risking dangerous bleeding",
+              "summary": "The percentage of parents and caregivers refusing a standard vitamin K shot at birth has accelerated sharply this year, an exclusive data an…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a96b31afacc40089336faf886c9ce04&url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW917831082026RP1%2f&c=15735419649314895843&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -134,33 +134,33 @@
       "items": [
         {
           "rank": 1,
-          "title": "宇树员工称超100元报销需王兴兴审批",
-          "hot_value": "1809506",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E5%91%98%E5%B7%A5%E7%A7%B0%E8%B6%85100%E5%85%83%E6%8A%A5%E9%94%80%E9%9C%80%E7%8E%8B%E5%85%B4%E5%85%B4%E5%AE%A1%E6%89%B9%23"
+          "title": "手机涨价",
+          "hot_value": "2866741",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%23"
         },
         {
           "rank": 2,
-          "title": "深圳校服真香",
-          "hot_value": "949188",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%A0%A1%E6%9C%8D%E7%9C%9F%E9%A6%99%23"
+          "title": "宇树回应报销超100需王兴兴审批",
+          "hot_value": "1038010",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E5%9B%9E%E5%BA%94%E6%8A%A5%E9%94%80%E8%B6%85100%E9%9C%80%E7%8E%8B%E5%85%B4%E5%85%B4%E5%AE%A1%E6%89%B9%23"
         },
         {
           "rank": 3,
-          "title": "第二届北京范儿大赛即将启动",
-          "hot_value": "872508",
-          "link": "https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%BA%8C%E5%B1%8A%E5%8C%97%E4%BA%AC%E8%8C%83%E5%84%BF%E5%A4%A7%E8%B5%9B%E5%8D%B3%E5%B0%86%E5%90%AF%E5%8A%A8%23"
+          "title": "国道216抢通只剩最后800米",
+          "hot_value": "848126",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%81%93216%E6%8A%A2%E9%80%9A%E5%8F%AA%E5%89%A9%E6%9C%80%E5%90%8E800%E7%B1%B3%23"
         },
         {
           "rank": 4,
-          "title": "全校第一个生娃的00后清华女大",
-          "hot_value": "863081",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E6%A0%A1%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%94%9F%E5%A8%83%E7%9A%8400%E5%90%8E%E6%B8%85%E5%8D%8E%E5%A5%B3%E5%A4%A7%23"
+          "title": "舞蹈新风暴封神瞬间",
+          "hot_value": "541029",
+          "link": "https://s.weibo.com/weibo?q=%23%E8%88%9E%E8%B9%88%E6%96%B0%E9%A3%8E%E6%9A%B4%E5%B0%81%E7%A5%9E%E7%9E%AC%E9%97%B4%23"
         },
         {
           "rank": 5,
-          "title": "家族关系为什么贬值了",
-          "hot_value": "587988",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%AE%B6%E6%97%8F%E5%85%B3%E7%B3%BB%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B4%AC%E5%80%BC%E4%BA%86%23"
+          "title": "深圳校服真香",
+          "hot_value": "233931",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%A0%A1%E6%9C%8D%E7%9C%9F%E9%A6%99%23"
         }
       ]
     }
