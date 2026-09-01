@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01 10:11:46 (北京时间)",
+  "updated_at": "2026-09-01 11:13:22 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -8,12 +8,6 @@
         {
           "source_name": "新华社",
           "items": [
-            {
-              "title": "受权发布丨全国人民代表大会常务委员会决定免职的名单 - 新华网",
-              "summary": "受权发布丨全国人民代表大会常务委员会决定免职的名单 新华网",
-              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ3daTG56ZWxNUTQ2aUhFSlJQcWU5d2swRVBlQV9ybVdFMWZkRVJIMFJINVplcnpLVFM3ZE1vSWhDaC1oV1lvMG9ZREVUQmR6OEhMY0RuQ3hvcGVfMk9WMzJlRlNObG5JenF2ZVBPZE1uM0FnamRiWmc1emhjNzZWYmlvdw?oc=5",
-              "source": "新华社"
-            },
             {
               "title": "新华网_让新闻离你更近 - 新华网",
               "summary": "新华网_让新闻离你更近 新华网",
@@ -33,9 +27,15 @@
               "source": "新华社"
             },
             {
-              "title": "银发照相馆：在快节奏时代里守住慢时光 - cq.news.cn",
-              "summary": "银发照相馆：在快节奏时代里守住慢时光 cq.news.cn",
+              "title": "银发照相馆：在快节奏时代里守住慢时光 - 新华网重庆",
+              "summary": "银发照相馆：在快节奏时代里守住慢时光 新华网重庆",
               "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZX1Bsb2ljU0UzSmxZTzRSQjVuSXgtU2x2bm1zMVZzQjJfRjFEcHZTQ1hkYXdISnBuRVV4b01tTkZtNFRIY3lCbVAybHBEeGZjUzl1SnFIZDFEOXhwTkM2Z25xNFhiWi1XWWlyM3NQZy1DZnF4X0E?oc=5",
+              "source": "新华社"
+            },
+            {
+              "title": "山钢集团日照公司批量交付冷轧高强双相钢新产品 - 新华网",
+              "summary": "山钢集团日照公司批量交付冷轧高强双相钢新产品 新华网",
+              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwR0lCNDZWS053UlBMcDJnN25XQkxtMHpTRm1VdmVJa0RlZ3ZPRzhCNU5qQ1FQQnRIanZQYlgtQkt5UURvanJBT0RBQWZkcXRNMkp6eVZZLVNyQXJCQnZDdnJsSHNEUlRBY3NJMXhRRTduUnYzT1U0SUZBZw?oc=5",
               "source": "新华社"
             }
           ]
@@ -46,19 +46,13 @@
             {
               "title": "责编：王 平 金 晨 邮箱：gtbhwb@people.cn - 人民日报",
               "summary": "责编：王 平 金 晨 邮箱：gtbhwb@people.cn 人民日报",
-              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdENHVHE1S0JGLUd4b0FGTmkxTHlLdHktQnlVSE5qXy02ekZpbUZsczY5bHZVaUJwbnZZSWtsVzllUmFVVWxwVUdlaWw0TS1qX25Za3oxVlZmOXBTMzZ6WEpYUHRUVWx2alN1YjVCOUxOYkJOLVh3dDBRZFdrU3BHaldEMGE?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUWhCM2diUENaRldUQXV0ellELUVLTVpVaU5ld29KYlVaaWFtcHdDcl9Nb29uWGt4MkFQSS1FZnZLSDhLd2dYZjFaMk54X29OTHZ0dm9EZG1VdDVnVnYxU0xRd2k1dS05cjk0blM3RVBrNWtWYnFQc2NFdjdrQzZfSDhvMA?oc=5",
               "source": "人民日报"
             },
             {
               "title": "习近平会见俄罗斯总统普京 - 人民网-图片频道",
               "summary": "习近平会见俄罗斯总统普京 人民网-图片频道",
               "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VaE5tMWV2Vy1IQkxNaUZjTXJHcmV2b3dKaldhVm9PM1NnTkJSeXJBd0N6TlUyWl9lQzhpQnZVSkxOOVNhQXAxOUFYcFM1S1ZoT2NlanpsY2YzdnlCVm1UVVNLdzY4dVAtaktF?oc=5",
-              "source": "人民日报"
-            },
-            {
-              "title": "责编：王 平 金 晨 邮箱：gtbhwb@people.cn - 人民日报",
-              "summary": "责编：王 平 金 晨 邮箱：gtbhwb@people.cn 人民日报",
-              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSEM0SlVWYkhwb1Nzck03OGJTaFp6V1kwUnhYakkwaDVkc2F2UGlwODZ0VXYtY1dHSEZkaVN3SXZZUlVWcThhQzVQNEhGX3ZzdWpMeFFfQ29JR0RGOS0zM21UamdjcEhLUVlaX2cxTlo4LXZsWktnX29CTXpla0wwVGU5Zw?oc=5",
               "source": "人民日报"
             },
             {
@@ -71,6 +65,12 @@
               "title": "责编：王 平 金 晨 邮箱：gtbhwb@people.cn - 人民日报",
               "summary": "责编：王 平 金 晨 邮箱：gtbhwb@people.cn 人民日报",
               "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdlRZdmRPM3ItcWkwSmpFLUFzNmJuaXh0TlM3UEl3TDdHTDMteHJNR2p2S0VWTTIzV2FCeXh5allSaUNpV3VaaV9HdHA5b1ZzdlljMGhFcVBQeEZLRTVoTjVzeDRLZHNERDVadHk3c2ZXTm1fcS1Jd0JqUHBDM2tpNEdQbzE?oc=5",
+              "source": "人民日报"
+            },
+            {
+              "title": "哈伊高铁站展露“容貌”【3】 - 人民网-图片频道",
+              "summary": "哈伊高铁站展露“容貌”【3】 人民网-图片频道",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SVlp4Z2FjbngzN0dVTG1Ha1BXaDJBRGd5RXFFOHczOUlWNzdqY0l4UUpHSUl4UXQ0QUs5Z0ViWU5hM3pTNG9JZ2JXaVBDNTNXRDRMRFVUenBGd1dwUlhFZnZMVHhsejhaU3lB?oc=5",
               "source": "人民日报"
             }
           ]
@@ -85,15 +85,15 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait a…",
-              "summary": "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.",
-              "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
+              "title": "What it was like inside court for Tupac Shakur’s murder trial verdict",
+              "summary": "BBC presenter Anoushka Mutanda-Dougherty describes what it was like when Duane \"Keffe D\" Davis was found guilty of murdering the famous rapp…",
+              "link": "https://www.bbc.co.uk/news/videos/cz6zp2pwzx5o?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
             {
-              "title": "US singer D4vd's celebrity lawyers withdraw from murder case",
-              "summary": "The singer, 21, will be now represented by a public defender in the murder trial of 14-year-old Celeste Rivas Hernandez. He has pleaded not…",
-              "link": "https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&at_campaign=rss",
+              "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait a…",
+              "summary": "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.",
+              "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "At least 2 dead in Grand Canyon flooding; Park Service says 20-plus may be missi…",
-              "summary": "One body has been recovered following flash flooding in Grand Canyon National Park over the weekend and recovery operations were underway fo…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9634602f0747d6a761402b4da4fb61&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2ftwo-dead-grand-canyon-after-flash-flood-park-service-says-2026-08-31%2f&c=14660788440602178292&mkt=en-us",
+              "title": "Fast-fashion giant Shein set to open flat in Hong Kong market debut",
+              "summary": "Shares in fast fashion giant Shein were ​set open flat in their ‌Hong Kong market debut on Tuesday, hurt by numerous setbacks that have ​lon…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9642d0e9fd4594a6367a65f532327a&url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2ffast-fashion-giant-shein-set-open-flat-hong-kong-market-debut-2026-09-01%2f&c=5561352193614199117&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -134,33 +134,33 @@
       "items": [
         {
           "rank": 1,
-          "title": "多款手机正式涨价",
-          "hot_value": "1598950",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%AC%BE%E6%89%8B%E6%9C%BA%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7%23"
+          "title": "西藏悼念吉隆泥石流灾害遇难者",
+          "hot_value": "1175861",
+          "link": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%97%8F%E6%82%BC%E5%BF%B5%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BE%E5%AE%B3%E9%81%87%E9%9A%BE%E8%80%85%23"
         },
         {
           "rank": 2,
-          "title": "尼泊尔泥石流974人遇难",
-          "hot_value": "973102",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%B3%A5%E7%9F%B3%E6%B5%81974%E4%BA%BA%E9%81%87%E9%9A%BE%23"
+          "title": "多款手机正式涨价",
+          "hot_value": "878844",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%AC%BE%E6%89%8B%E6%9C%BA%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7%23"
         },
         {
           "rank": 3,
-          "title": "20项措施推动消费扩容升级",
-          "hot_value": "715961",
-          "link": "https://s.weibo.com/weibo?q=%2320%E9%A1%B9%E6%8E%AA%E6%96%BD%E6%8E%A8%E5%8A%A8%E6%B6%88%E8%B4%B9%E6%89%A9%E5%AE%B9%E5%8D%87%E7%BA%A7%23"
+          "title": "救援核心区已有基本通信保障",
+          "hot_value": "876369",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%95%91%E6%8F%B4%E6%A0%B8%E5%BF%83%E5%8C%BA%E5%B7%B2%E6%9C%89%E5%9F%BA%E6%9C%AC%E9%80%9A%E4%BF%A1%E4%BF%9D%E9%9A%9C%23"
         },
         {
           "rank": 4,
-          "title": "栾念 该死的好看",
-          "hot_value": "464482",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%A0%BE%E5%BF%B5%20%E8%AF%A5%E6%AD%BB%E7%9A%84%E5%A5%BD%E7%9C%8B%23"
+          "title": "舞蹈新风暴封神瞬间",
+          "hot_value": "874083",
+          "link": "https://s.weibo.com/weibo?q=%23%E8%88%9E%E8%B9%88%E6%96%B0%E9%A3%8E%E6%9A%B4%E5%B0%81%E7%A5%9E%E7%9E%AC%E9%97%B4%23"
         },
         {
           "rank": 5,
-          "title": "雷军回应小米汽车8月交付量",
-          "hot_value": "377036",
-          "link": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A68%E6%9C%88%E4%BA%A4%E4%BB%98%E9%87%8F%23"
+          "title": "杨瀚森倒地后被自家球迷拿球砸",
+          "hot_value": "871797",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%80%9A%E6%A3%AE%E5%80%92%E5%9C%B0%E5%90%8E%E8%A2%AB%E8%87%AA%E5%AE%B6%E7%90%83%E8%BF%B7%E6%8B%BF%E7%90%83%E7%A0%B8%23"
         }
       ]
     }
