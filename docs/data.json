@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01 20:17:10 (北京时间)",
+  "updated_at": "2026-09-01 21:13:08 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -56,6 +56,12 @@
               "source": "人民日报"
             },
             {
+              "title": "在世界制造业大会看机器人大显身手【11】 - 人民网-图片频道",
+              "summary": "在世界制造业大会看机器人大显身手【11】 人民网-图片频道",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rRXlLUWNNLWttUi11Qk1LeEVFS01UcDhLNi1ncllqeW8tVm5BQzB6OU93LTZOR0ZqNDR4N3doTGhvNm5ZZ3NwT2pjNnZnb2VlTlJYeGo3TEJVU3RLY1dwZmZRNXVhWDF6ZTNJQW5n?oc=5",
+              "source": "人民日报"
+            },
+            {
               "title": "习近平会见俄罗斯总统普京 - 人民网-图片频道",
               "summary": "习近平会见俄罗斯总统普京 人民网-图片频道",
               "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VaE5tMWV2Vy1IQkxNaUZjTXJHcmV2b3dKaldhVm9PM1NnTkJSeXJBd0N6TlUyWl9lQzhpQnZVSkxOOVNhQXAxOUFYcFM1S1ZoT2NlanpsY2YzdnlCVm1UVVNLdzY4dVAtaktF?oc=5",
@@ -65,12 +71,6 @@
               "title": "救援力量持续推进道路抢通 - 人民网-图片频道",
               "summary": "救援力量持续推进道路抢通 人民网-图片频道",
               "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kbE1EYWhWWHp1eHhVTDhVLVhvRW9UQXpvT1BuTkM1bHp5VjB3bk1tZmh5TEFkbnVVdFl0ck9Uck1XUkh5MzYxdnViUTNqOW9zM2oycVNyX2dSb05qWGtGbEtrT0Zrdk5C?oc=5",
-              "source": "人民日报"
-            },
-            {
-              "title": "四川 - 人民网－四川频道",
-              "summary": "四川 人民网－四川频道",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE04TnhGNFR4dEVCOFF2Y0lncXZBWUkzMUNZZWNTZGVSVXE5SVQ3MjBQVWZudURDNk9rLWRzWTFXNlVxeDVnQ3lXQlNhNFRFUFhXZmpFa1g1YWJmQ0hj?oc=5",
               "source": "人民日报"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Iran urges US to comply with interim deal after Trump threatens further strikes",
-              "summary": "Iran said on Tuesday it would reciprocate if the United States honoured its commitments under a ​June interim deal on halting their conflict…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a96c245530b4c1d84f09cd829435d3b&url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firan-urges-us-comply-with-interim-deal-after-trump-threatens-further-strikes-2026-09-01%2f&c=2008102366943545137&mkt=en-us",
+              "title": "Trump's oil deal with Venezuela raises red flags for some major producers, sourc…",
+              "summary": "The U.S. will take a 35% equity stake in the corporate parent company, receive a guaranteed 20% of the oil production and hold a right-of-fi…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a96cf630d004edca083052ed580ac69&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2ftrumps-oil-deal-with-venezuela-raises-red-flags-some-major-producers-sources-say-2026-09-01%2f&c=8575426497655007659&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -135,32 +135,32 @@
         {
           "rank": 1,
           "title": "手机涨价",
-          "hot_value": "2465547",
+          "hot_value": "1138173",
           "link": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%23"
         },
         {
           "rank": 2,
-          "title": "砸杨瀚森球迷已被批评教育",
-          "hot_value": "990106",
-          "link": "https://s.weibo.com/weibo?q=%23%E7%A0%B8%E6%9D%A8%E7%80%9A%E6%A3%AE%E7%90%83%E8%BF%B7%E5%B7%B2%E8%A2%AB%E6%89%B9%E8%AF%84%E6%95%99%E8%82%B2%23"
+          "title": "生逢其时定档",
+          "hot_value": "833302",
+          "link": "https://s.weibo.com/weibo?q=%23%E7%94%9F%E9%80%A2%E5%85%B6%E6%97%B6%E5%AE%9A%E6%A1%A3%23"
         },
         {
           "rank": 3,
           "title": "吉隆新增12座应急基站",
-          "hot_value": "772692",
+          "hot_value": "676716",
           "link": "https://s.weibo.com/weibo?q=%23%E5%90%89%E9%9A%86%E6%96%B0%E5%A2%9E12%E5%BA%A7%E5%BA%94%E6%80%A5%E5%9F%BA%E7%AB%99%23"
         },
         {
           "rank": 4,
-          "title": "全校第一个生娃的00后清华女大",
-          "hot_value": "512923",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E6%A0%A1%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%94%9F%E5%A8%83%E7%9A%8400%E5%90%8E%E6%B8%85%E5%8D%8E%E5%A5%B3%E5%A4%A7%23"
+          "title": "舞蹈新风暴封神瞬间",
+          "hot_value": "674901",
+          "link": "https://s.weibo.com/weibo?q=%23%E8%88%9E%E8%B9%88%E6%96%B0%E9%A3%8E%E6%9A%B4%E5%B0%81%E7%A5%9E%E7%9E%AC%E9%97%B4%23"
         },
         {
           "rank": 5,
-          "title": "GEN送T1进世界赛",
-          "hot_value": "493852",
-          "link": "https://s.weibo.com/weibo?q=%23GEN%E9%80%81T1%E8%BF%9B%E4%B8%96%E7%95%8C%E8%B5%9B%23"
+          "title": "那个用防窥屏的朋友",
+          "hot_value": "673086",
+          "link": "https://s.weibo.com/weibo?q=%23%E9%82%A3%E4%B8%AA%E7%94%A8%E9%98%B2%E7%AA%A5%E5%B1%8F%E7%9A%84%E6%9C%8B%E5%8F%8B%23"
         }
       ]
     }
