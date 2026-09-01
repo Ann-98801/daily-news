@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02 03:11:39 (北京时间)",
+  "updated_at": "2026-09-02 04:13:01 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -44,6 +44,12 @@
           "source_name": "人民日报",
           "items": [
             {
+              "title": "责编：王 平 柴逸扉 邮箱：gtbhwb@people.cn - 人民网",
+              "summary": "责编：王 平 柴逸扉 邮箱：gtbhwb@people.cn 人民网",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPazgtWEZMRlJNMTJXQnZhdzMyQnp0SWZiamFBbjFIVGFqdzJKVkZxU2dNZ0loeVIzTFBSLUxzZHVzUHdscXdpbEdOVHFBVW01LWl2X0l3NDRLQUVpVThiNUg5WlFKYlpwU3ZDRTZKNUVPNWZHcXFTU25ja1kzbzhkNlY0Yw?oc=5",
+              "source": "人民日报"
+            },
+            {
               "title": "责编：王 平 金 晨 邮箱：gtbhwb@people.cn - 人民网",
               "summary": "责编：王 平 金 晨 邮箱：gtbhwb@people.cn 人民网",
               "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUWhCM2diUENaRldUQXV0ellELUVLTVpVaU5ld29KYlVaaWFtcHdDcl9Nb29uWGt4MkFQSS1FZnZLSDhLd2dYZjFaMk54X29OTHZ0dm9EZG1VdDVnVnYxU0xRd2k1dS05cjk0blM3RVBrNWtWYnFQc2NFdjdrQzZfSDhvMA?oc=5",
@@ -56,20 +62,14 @@
               "source": "人民日报"
             },
             {
-              "title": "习近平抵达开罗对埃及进行国事访问 - pic.people.com.cn",
-              "summary": "习近平抵达开罗对埃及进行国事访问 pic.people.com.cn",
+              "title": "习近平抵达开罗对埃及进行国事访问 - 人民网-图片频道",
+              "summary": "习近平抵达开罗对埃及进行国事访问 人民网-图片频道",
               "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kSFA1bmpGRjg0LWV4R1RPSmN5RlJhbkRRQVVfOWZTYnlndUNuaFVpcmNOY21LSTJKODhYVFJweWphY2R3eWRRTXQ4R0k3RXpVeHJJWEJfSFMxOGExRk9sdkN2bEpoVEJJSFZr?oc=5",
               "source": "人民日报"
             },
             {
-              "title": "在世界制造业大会看机器人大显身手【11】 - pic.people.com.cn",
-              "summary": "在世界制造业大会看机器人大显身手【11】 pic.people.com.cn",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rRXlLUWNNLWttUi11Qk1LeEVFS01UcDhLNi1ncllqeW8tVm5BQzB6OU93LTZOR0ZqNDR4N3doTGhvNm5ZZ3NwT2pjNnZnb2VlTlJYeGo3TEJVU3RLY1dwZmZRNXVhWDF6ZTNJQW5n?oc=5",
-              "source": "人民日报"
-            },
-            {
-              "title": "习近平会见俄罗斯总统普京 - pic.people.com.cn",
-              "summary": "习近平会见俄罗斯总统普京 pic.people.com.cn",
+              "title": "习近平会见俄罗斯总统普京 - 人民网-图片频道",
+              "summary": "习近平会见俄罗斯总统普京 人民网-图片频道",
               "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VaE5tMWV2Vy1IQkxNaUZjTXJHcmV2b3dKaldhVm9PM1NnTkJSeXJBd0N6TlUyWl9lQzhpQnZVSkxOOVNhQXAxOUFYcFM1S1ZoT2NlanpsY2YzdnlCVm1UVVNLdzY4dVAtaktF?oc=5",
               "source": "人民日报"
             }
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Wall Street dips as higher yields, rising oil prices mark shaky start to Septemb…",
-              "summary": "Wall Street's main indexes opened ​lower on Tuesday, extending ‌a weak run as elevated bond yields ​and higher ​oil prices kept investors at…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a97236a5a4b45e487d14a45d7e3236e&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fwall-st-futures-kick-off-september-under-pressure-yields-oil-prices-rise-2026-09-01%2f&c=10654719166289862414&mkt=en-us",
+              "title": "Trump administration asks US appeals court to lift order blocking mail-in voting…",
+              "summary": "President Donald Trump's ​administration on Monday asked a U.S. appeals court to lift a judge's order blocking a new ‌rule that would tighte…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9731ccfac6465ea06e75ad55377702&url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2ftrump-administration-asks-us-appeals-court-lift-order-blocking-mail-in-voting-2026-09-01%2f&c=9691922706750239158&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -135,32 +135,32 @@
         {
           "rank": 1,
           "title": "手机涨价 卖不动",
-          "hot_value": "221495",
+          "hot_value": "168384",
           "link": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%20%E5%8D%96%E4%B8%8D%E5%8A%A8%23"
         },
         {
           "rank": 2,
           "title": "张一山演技",
-          "hot_value": "168245",
+          "hot_value": "117157",
           "link": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%B8%80%E5%B1%B1%E6%BC%94%E6%8A%80%23"
         },
         {
           "rank": 3,
           "title": "上合示范区释放区域经贸合作新动能",
-          "hot_value": "118899",
+          "hot_value": "79266",
           "link": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%90%88%E7%A4%BA%E8%8C%83%E5%8C%BA%E9%87%8A%E6%94%BE%E5%8C%BA%E5%9F%9F%E7%BB%8F%E8%B4%B8%E5%90%88%E4%BD%9C%E6%96%B0%E5%8A%A8%E8%83%BD%23"
         },
         {
           "rank": 4,
           "title": "苹果CEO特努斯入驻微博",
-          "hot_value": "83110",
+          "hot_value": "60901",
           "link": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9CCEO%E7%89%B9%E5%8A%AA%E6%96%AF%E5%85%A5%E9%A9%BB%E5%BE%AE%E5%8D%9A%23"
         },
         {
           "rank": 5,
-          "title": "那个用防窥屏的朋友",
-          "hot_value": "65893",
-          "link": "https://s.weibo.com/weibo?q=%23%E9%82%A3%E4%B8%AA%E7%94%A8%E9%98%B2%E7%AA%A5%E5%B1%8F%E7%9A%84%E6%9C%8B%E5%8F%8B%23"
+          "title": "杨洋花少口碑",
+          "hot_value": "50968",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E8%8A%B1%E5%B0%91%E5%8F%A3%E7%A2%91%23"
         }
       ]
     }
