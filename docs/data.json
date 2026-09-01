@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01 23:12:38 (北京时间)",
+  "updated_at": "2026-09-02 00:38:39 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -9,15 +9,9 @@
           "source_name": "新华社",
           "items": [
             {
-              "title": "新华网_让新闻离你更近 - 新华网",
-              "summary": "新华网_让新闻离你更近 新华网",
+              "title": "新华网_让新闻离你更近 - news.cn",
+              "summary": "新华网_让新闻离你更近 news.cn",
               "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE5FdWV6S1M3MF9oYnROX0tuQkJLWEhDQmVGUWdYbzAzbjNvd3BRdElPSlVua05Pdw?oc=5",
-              "source": "新华社"
-            },
-            {
-              "title": "国际_新华网_让新闻离你更近 - 新华网",
-              "summary": "国际_新华网_让新闻离你更近 新华网",
-              "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9zSWtjUFY2VmQyM0J1X1hwYTFvRTh4M2lDeXR0X0FLRk55VFhQM3lTMW5pTWZZaXRPUnNRU093?oc=5",
               "source": "新华社"
             },
             {
@@ -27,8 +21,8 @@
               "source": "新华社"
             },
             {
-              "title": "山钢集团日照公司批量交付冷轧高强双相钢新产品 - 新华网",
-              "summary": "山钢集团日照公司批量交付冷轧高强双相钢新产品 新华网",
+              "title": "山钢集团日照公司批量交付冷轧高强双相钢新产品 - sd.news.cn",
+              "summary": "山钢集团日照公司批量交付冷轧高强双相钢新产品 sd.news.cn",
               "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwR0lCNDZWS053UlBMcDJnN25XQkxtMHpTRm1VdmVJa0RlZ3ZPRzhCNU5qQ1FQQnRIanZQYlgtQkt5UURvanJBT0RBQWZkcXRNMkp6eVZZLVNyQXJCQnZDdnJsSHNEUlRBY3NJMXhRRTduUnYzT1U0SUZBZw?oc=5",
               "source": "新华社"
             },
@@ -37,6 +31,12 @@
               "summary": "新学期去追“星” 新华网江苏频道",
               "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xWTVKR1hSOUcwZGFXa2gtYkdIZmI4Z2RFRTd4ME1xNlJNbXA1RGI3c0lOTW1fY2VlREYxWXJKdXJsZk14bF9QOW1UYmg0NjJFNGZlY1NaWllfNXVTVHpKMVdRclpxOUpNaUZYRnQtV1lXc3pK?oc=5",
               "source": "新华社"
+            },
+            {
+              "title": "中国电气装备集团西南有限公司揭牌 - 新华网重庆",
+              "summary": "中国电气装备集团西南有限公司揭牌 新华网重庆",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wcHlxWE5GQnZBRU53dV80Rl9hS3lHNFNUNThDamp5ZFBKbTJxQjZ0bkxlR2dyNC1jbmh4WHBwR05nWW5UTFNydHJyYlNqOUdCcllZUDVqWmFOUUVnOGZqeHpCZjlFZUUzcXFzLUdLdXBUME53c0E?oc=5",
+              "source": "新华社"
             }
           ]
         },
@@ -44,8 +44,8 @@
           "source_name": "人民日报",
           "items": [
             {
-              "title": "责编：王 平 金 晨 邮箱：gtbhwb@people.cn - 人民日报",
-              "summary": "责编：王 平 金 晨 邮箱：gtbhwb@people.cn 人民日报",
+              "title": "责编：王 平 金 晨 邮箱：gtbhwb@people.cn - paper.people.com.cn",
+              "summary": "责编：王 平 金 晨 邮箱：gtbhwb@people.cn paper.people.com.cn",
               "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUWhCM2diUENaRldUQXV0ellELUVLTVpVaU5ld29KYlVaaWFtcHdDcl9Nb29uWGt4MkFQSS1FZnZLSDhLd2dYZjFaMk54X29OTHZ0dm9EZG1VdDVnVnYxU0xRd2k1dS05cjk0blM3RVBrNWtWYnFQc2NFdjdrQzZfSDhvMA?oc=5",
               "source": "人民日报"
             },
@@ -53,12 +53,6 @@
               "title": "习近平圆满结束出席2026年上海合作组织峰会和对吉尔吉斯斯坦的国事访问 - 人民网-图片频道",
               "summary": "习近平圆满结束出席2026年上海合作组织峰会和对吉尔吉斯斯坦的国事访问 人民网-图片频道",
               "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HQWx4cU0yQlZ2b2ZPMkxtTUYxUTVvM0M5dFktbG9EZzNwaVVsWlNWRklJQVlaVGxMZkV3RFN6SndfLTVobXh0c0NHUEJwOG5RLXNybTVoLXJMQmpmai1tQ0I4WjdhLW1sYVQ0?oc=5",
-              "source": "人民日报"
-            },
-            {
-              "title": "在世界制造业大会看机器人大显身手【13】 - 人民网-图片频道",
-              "summary": "在世界制造业大会看机器人大显身手【13】 人民网-图片频道",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VYU55M3Q5bzJMNnFrMU1hQzdHbzlndzNsaF84ZWNsd0VrTkhtQk5IclFJNGJMc2ZHOGZUNWQ4cTFkdHp6SXgwRGZ5bmNVdW5XREV4ZUpJSDZQaW1JbFh5UnpOallVLXpQdktTbUl3?oc=5",
               "source": "人民日报"
             },
             {
@@ -71,6 +65,12 @@
               "title": "海太长江隧道工程掘进抵达最深点【5】 - 人民网-图片频道",
               "summary": "海太长江隧道工程掘进抵达最深点【5】 人民网-图片频道",
               "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRV29NaHlyTkMtOEU0Yk5tRFk3Y1IyMXNoWHBDUTg1emE5ZHpxcjBvVkxQODhYOE1CTmFzZXlkb2p2WFdnTkdYdXIyYnZOSDFDRTVWTzJXaW1LSmtndUxzb2haQ0FXMFdaUnpz?oc=5",
+              "source": "人民日报"
+            },
+            {
+              "title": "救援力量持续推进道路抢通 - 人民网-图片频道",
+              "summary": "救援力量持续推进道路抢通 人民网-图片频道",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kbE1EYWhWWHp1eHhVTDhVLVhvRW9UQXpvT1BuTkM1bHp5VjB3bk1tZmh5TEFkbnVVdFl0ck9Uck1XUkh5MzYxdnViUTNqOW9zM2oycVNyX2dSb05qWGtGbEtrT0Zrdk5C?oc=5",
               "source": "人民日报"
             }
           ]
@@ -85,15 +85,15 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "'I've never been to Afghanistan': Six million deportees forced to start over und…",
-              "summary": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
-              "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
+              "title": "Germany says Russia behind Leipzig airport drone attack",
+              "summary": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
+              "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
             {
-              "title": "Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-f…",
-              "summary": "Thousands are still missing as Chinese state media report the official number of fatalities in Tibet at 16.",
-              "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
+              "title": "'I've never been to Afghanistan': Six million deportees forced to start over und…",
+              "summary": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
+              "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "US manufacturing activity slows in August; input prices still elevated",
-              "summary": "U.S. manufacturing activity eased in August after strong growth in the prior month, with new orders slowing and input prices remaining high…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a96eb6478e5427f83184bd0d860df32&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-manufacturing-activity-slows-august-input-prices-still-elevated-2026-09-01%2f&c=30487820168092569&mkt=en-us",
+              "title": "Nepal flood death toll crosses 1,000, rescuers reach remote areas",
+              "summary": "Rescuers used heavy machinery, helicopters and excavators to reach the thousands still missing, nearly a week after the catastrophic ‌Himala…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a96ff8eaf0c4b7baf0ff71dfed58f64&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenvironment%2fnepal-rescuers-reach-remote-areas-electricity-restored-nearly-week-after-2026-09-01%2f&c=5066321582634299408&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -135,32 +135,32 @@
         {
           "rank": 1,
           "title": "手机涨价 卖不动",
-          "hot_value": "1159026",
+          "hot_value": "841807",
           "link": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%20%E5%8D%96%E4%B8%8D%E5%8A%A8%23"
         },
         {
           "rank": 2,
-          "title": "深圳校服为什么引发网友共鸣",
-          "hot_value": "813046",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%A0%A1%E6%9C%8D%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BC%95%E5%8F%91%E7%BD%91%E5%8F%8B%E5%85%B1%E9%B8%A3%23"
+          "title": "花少2",
+          "hot_value": "623317",
+          "link": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%912%23"
         },
         {
           "rank": 3,
-          "title": "吉隆新增12座应急基站",
-          "hot_value": "787658",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%90%89%E9%9A%86%E6%96%B0%E5%A2%9E12%E5%BA%A7%E5%BA%94%E6%80%A5%E5%9F%BA%E7%AB%99%23"
+          "title": "上合示范区释放区域经贸合作新动能",
+          "hot_value": "492121",
+          "link": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%90%88%E7%A4%BA%E8%8C%83%E5%8C%BA%E9%87%8A%E6%94%BE%E5%8C%BA%E5%9F%9F%E7%BB%8F%E8%B4%B8%E5%90%88%E4%BD%9C%E6%96%B0%E5%8A%A8%E8%83%BD%23"
         },
         {
           "rank": 4,
-          "title": "那个用防窥屏的朋友",
-          "hot_value": "764317",
-          "link": "https://s.weibo.com/weibo?q=%23%E9%82%A3%E4%B8%AA%E7%94%A8%E9%98%B2%E7%AA%A5%E5%B1%8F%E7%9A%84%E6%9C%8B%E5%8F%8B%23"
+          "title": "张一山演技",
+          "hot_value": "395587",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%B8%80%E5%B1%B1%E6%BC%94%E6%8A%80%23"
         },
         {
           "rank": 5,
-          "title": "张一山演技",
-          "hot_value": "758414",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%B8%80%E5%B1%B1%E6%BC%94%E6%8A%80%23"
+          "title": "那个用防窥屏的朋友",
+          "hot_value": "331944",
+          "link": "https://s.weibo.com/weibo?q=%23%E9%82%A3%E4%B8%AA%E7%94%A8%E9%98%B2%E7%AA%A5%E5%B1%8F%E7%9A%84%E6%9C%8B%E5%8F%8B%23"
         }
       ]
     }
