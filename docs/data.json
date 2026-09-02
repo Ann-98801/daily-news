@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03 05:11:52 (北京时间)",
+  "updated_at": "2026-09-03 06:12:46 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -44,14 +44,14 @@
           "source_name": "人民日报",
           "items": [
             {
-              "title": "责编：王 平 柴逸扉 邮箱：gtbhwb@people.cn - 人民日报",
-              "summary": "责编：王 平 柴逸扉 邮箱：gtbhwb@people.cn 人民日报",
+              "title": "责编：王 平 柴逸扉 邮箱：gtbhwb@people.cn - paper.people.com.cn",
+              "summary": "责编：王 平 柴逸扉 邮箱：gtbhwb@people.cn paper.people.com.cn",
               "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPazgtWEZMRlJNMTJXQnZhdzMyQnp0SWZiamFBbjFIVGFqdzJKVkZxU2dNZ0loeVIzTFBSLUxzZHVzUHdscXdpbEdOVHFBVW01LWl2X0l3NDRLQUVpVThiNUg5WlFKYlpwU3ZDRTZKNUVPNWZHcXFTU25ja1kzbzhkNlY0Yw?oc=5",
               "source": "人民日报"
             },
             {
-              "title": "责编：王 平 金 晨 邮箱：gtbhwb@people.cn - 人民日报",
-              "summary": "责编：王 平 金 晨 邮箱：gtbhwb@people.cn 人民日报",
+              "title": "责编：王 平 金 晨 邮箱：gtbhwb@people.cn - paper.people.com.cn",
+              "summary": "责编：王 平 金 晨 邮箱：gtbhwb@people.cn paper.people.com.cn",
               "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUWhCM2diUENaRldUQXV0ellELUVLTVpVaU5ld29KYlVaaWFtcHdDcl9Nb29uWGt4MkFQSS1FZnZLSDhLd2dYZjFaMk54X29OTHZ0dm9EZG1VdDVnVnYxU0xRd2k1dS05cjk0blM3RVBrNWtWYnFQc2NFdjdrQzZfSDhvMA?oc=5",
               "source": "人民日报"
             },
@@ -85,15 +85,15 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting…",
-              "summary": "Iranian media reports two children were among those killed when shrapnel hit a home. Iran then launched missiles and drones at US targets in…",
-              "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-              "source": "BBC"
-            },
-            {
               "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
               "summary": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.",
               "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
+              "source": "BBC"
+            },
+            {
+              "title": "Protests in Spain over government's handling of Ceuta migrant crisis",
+              "summary": "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta.",
+              "link": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -121,7 +121,7 @@
             {
               "title": "Mamdani imposes one-year ban on AI for most NYC students",
               "summary": "New York City officials announced a one-year moratorium on students using artificial intelligence in public ​elementary and middle schools,…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9891176a13461da1b5a26f62368ecb&url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fmamdani-imposes-one-year-ban-ai-most-nyc-students-2026-09-02%2f&c=16592013036034514927&mkt=en-us",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a989f5d0f7e4353994bcf0bf7942d75&url=https%3a%2f%2fwww.reuters.com%2ftechnology%2fmamdani-imposes-one-year-ban-ai-most-nyc-students-2026-09-02%2f&c=16592013036034514927&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -135,32 +135,32 @@
         {
           "rank": 1,
           "title": "好讨厌需要靠争抢来的东西",
-          "hot_value": "114410",
+          "hot_value": "334293",
           "link": "https://s.weibo.com/weibo?q=%23%E5%A5%BD%E8%AE%A8%E5%8E%8C%E9%9C%80%E8%A6%81%E9%9D%A0%E4%BA%89%E6%8A%A2%E6%9D%A5%E7%9A%84%E4%B8%9C%E8%A5%BF%23"
         },
         {
           "rank": 2,
           "title": "微信新功能专治各种看不见",
-          "hot_value": "77602",
+          "hot_value": "245301",
           "link": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%96%B0%E5%8A%9F%E8%83%BD%E4%B8%93%E6%B2%BB%E5%90%84%E7%A7%8D%E7%9C%8B%E4%B8%8D%E8%A7%81%23"
         },
         {
           "rank": 3,
           "title": "开局之年看山西",
-          "hot_value": "59790",
+          "hot_value": "196032",
           "link": "https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B1%80%E4%B9%8B%E5%B9%B4%E7%9C%8B%E5%B1%B1%E8%A5%BF%23"
         },
         {
           "rank": 4,
           "title": "22.99万元起海狮08全系皆豪配",
-          "hot_value": "58133",
+          "hot_value": "147155",
           "link": "https://s.weibo.com/weibo?q=%2322.99%E4%B8%87%E5%85%83%E8%B5%B7%E6%B5%B7%E7%8B%AE08%E5%85%A8%E7%B3%BB%E7%9A%86%E8%B1%AA%E9%85%8D%23"
         },
         {
           "rank": 5,
-          "title": "花少2毛阿敏放现在算虐待老人",
-          "hot_value": "56023",
-          "link": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%912%E6%AF%9B%E9%98%BF%E6%95%8F%E6%94%BE%E7%8E%B0%E5%9C%A8%E7%AE%97%E8%99%90%E5%BE%85%E8%80%81%E4%BA%BA%23"
+          "title": "李月汝护照遗失缺席世界杯",
+          "hot_value": "84946",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%9C%88%E6%B1%9D%E6%8A%A4%E7%85%A7%E9%81%97%E5%A4%B1%E7%BC%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E6%9D%AF%23"
         }
       ]
     }
