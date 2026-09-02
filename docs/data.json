@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02 11:12:43 (北京时间)",
+  "updated_at": "2026-09-02 12:14:45 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -9,8 +9,8 @@
           "source_name": "新华社",
           "items": [
             {
-              "title": "新华网_让新闻离你更近 - news.cn",
-              "summary": "新华网_让新闻离你更近 news.cn",
+              "title": "新华网_让新闻离你更近 - 新华网",
+              "summary": "新华网_让新闻离你更近 新华网",
               "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE5FdWV6S1M3MF9oYnROX0tuQkJLWEhDQmVGUWdYbzAzbjNvd3BRdElPSlVua05Pdw?oc=5",
               "source": "新华社"
             },
@@ -27,14 +27,14 @@
               "source": "新华社"
             },
             {
-              "title": "中国电气装备集团西南有限公司揭牌 - cq.news.cn",
-              "summary": "中国电气装备集团西南有限公司揭牌 cq.news.cn",
+              "title": "中国电气装备集团西南有限公司揭牌 - 新华网重庆",
+              "summary": "中国电气装备集团西南有限公司揭牌 新华网重庆",
               "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wcHlxWE5GQnZBRU53dV80Rl9hS3lHNFNUNThDamp5ZFBKbTJxQjZ0bkxlR2dyNC1jbmh4WHBwR05nWW5UTFNydHJyYlNqOUdCcllZUDVqWmFOUUVnOGZqeHpCZjlFZUUzcXFzLUdLdXBUME53c0E?oc=5",
               "source": "新华社"
             },
             {
-              "title": "市人大常委会党组（扩大）会议召开 - cq.news.cn",
-              "summary": "市人大常委会党组（扩大）会议召开 cq.news.cn",
+              "title": "市人大常委会党组（扩大）会议召开 - 新华网重庆",
+              "summary": "市人大常委会党组（扩大）会议召开 新华网重庆",
               "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IeWdKZnNrNFVFSkZ2YlNFM1Jsc0xicUZobGJGR2hqNlg2a3F0VkRQSVBWTTl4ajZGXzhPQjlpdEhtand5dWEyWXlKUWJkOFZkVnRGWlI3ZFlQNmJHTjBtYUFEQTBJMkNiMElHRy0xSG02YnVZNWc?oc=5",
               "source": "新华社"
             }
@@ -43,6 +43,12 @@
         {
           "source_name": "人民日报",
           "items": [
+            {
+              "title": "责编：王 平 柴逸扉 邮箱：gtbhwb@people.cn - 人民日报",
+              "summary": "责编：王 平 柴逸扉 邮箱：gtbhwb@people.cn 人民日报",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPazgtWEZMRlJNMTJXQnZhdzMyQnp0SWZiamFBbjFIVGFqdzJKVkZxU2dNZ0loeVIzTFBSLUxzZHVzUHdscXdpbEdOVHFBVW01LWl2X0l3NDRLQUVpVThiNUg5WlFKYlpwU3ZDRTZKNUVPNWZHcXFTU25ja1kzbzhkNlY0Yw?oc=5",
+              "source": "人民日报"
+            },
             {
               "title": "责编：王 平 金 晨 邮箱：gtbhwb@people.cn - 人民日报",
               "summary": "责编：王 平 金 晨 邮箱：gtbhwb@people.cn 人民日报",
@@ -56,21 +62,15 @@
               "source": "人民日报"
             },
             {
-              "title": "在世界制造业大会看机器人大显身手【11】 - 人民网-图片频道",
-              "summary": "在世界制造业大会看机器人大显身手【11】 人民网-图片频道",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rRXlLUWNNLWttUi11Qk1LeEVFS01UcDhLNi1ncllqeW8tVm5BQzB6OU93LTZOR0ZqNDR4N3doTGhvNm5ZZ3NwT2pjNnZnb2VlTlJYeGo3TEJVU3RLY1dwZmZRNXVhWDF6ZTNJQW5n?oc=5",
+              "title": "在世界制造业大会看机器人大显身手【13】 - 人民网-图片频道",
+              "summary": "在世界制造业大会看机器人大显身手【13】 人民网-图片频道",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VYU55M3Q5bzJMNnFrMU1hQzdHbzlndzNsaF84ZWNsd0VrTkhtQk5IclFJNGJMc2ZHOGZUNWQ4cTFkdHp6SXgwRGZ5bmNVdW5XREV4ZUpJSDZQaW1JbFh5UnpOallVLXpQdktTbUl3?oc=5",
               "source": "人民日报"
             },
             {
               "title": "习近平会见俄罗斯总统普京 - 人民网-图片频道",
               "summary": "习近平会见俄罗斯总统普京 人民网-图片频道",
               "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VaE5tMWV2Vy1IQkxNaUZjTXJHcmV2b3dKaldhVm9PM1NnTkJSeXJBd0N6TlUyWl9lQzhpQnZVSkxOOVNhQXAxOUFYcFM1S1ZoT2NlanpsY2YzdnlCVm1UVVNLdzY4dVAtaktF?oc=5",
-              "source": "人民日报"
-            },
-            {
-              "title": "海太长江隧道工程掘进抵达最深点【5】 - 人民网-图片频道",
-              "summary": "海太长江隧道工程掘进抵达最深点【5】 人民网-图片频道",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRV29NaHlyTkMtOEU0Yk5tRFk3Y1IyMXNoWHBDUTg1emE5ZHpxcjBvVkxQODhYOE1CTmFzZXlkb2p2WFdnTkdYdXIyYnZOSDFDRTVWTzJXaW1LSmtndUxzb2haQ0FXMFdaUnpz?oc=5",
               "source": "人民日报"
             }
           ]
@@ -92,7 +92,7 @@
             },
             {
               "title": "Iran retaliates after US strikes kill four at wedding party, state media reports",
-              "summary": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.",
+              "summary": "Iran has launched attacks on US military bases in Iraq and Jordan, according to local state media and the Jordanian Armed Forces.",
               "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "US and Iran exchange attacks as lull in war appears over",
-              "summary": "The U.S. and ​Iran found themselves back in a war footing after the most significant exchange in weeks, with Washington threatening even mor…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9794290f2748a38b298dfe565d787b&url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fus-iran-exchange-attacks-lull-war-appears-over-2026-09-02%2f&c=4723970544334003782&mkt=en-us",
+              "title": "Honda tells suppliers to cut costs in $9 billion push to fend off China, documen…",
+              "summary": "Japan's Honda aims to cut more than $9 billion in costs over the next four years ​and has instructed suppliers to drastically reduce their p…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a97a2b4c2d44bc3bcd5650ba1139986&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2fhonda-tells-suppliers-cut-costs-9-billion-push-fend-off-china-documents-show-2026-09-02%2f&c=8364471626675777784&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -135,32 +135,32 @@
         {
           "rank": 1,
           "title": "花儿与少年2026官宣",
-          "hot_value": "2737327",
+          "hot_value": "2085490",
           "link": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B42026%E5%AE%98%E5%AE%A3%23"
         },
         {
           "rank": 2,
           "title": "苹果小米华为发布时间撞档",
-          "hot_value": "1030036",
+          "hot_value": "966461",
           "link": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%B0%8F%E7%B1%B3%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E6%97%B6%E9%97%B4%E6%92%9E%E6%A1%A3%23"
         },
         {
           "rank": 3,
           "title": "万千气象看北京",
-          "hot_value": "849273",
+          "hot_value": "744084",
           "link": "https://s.weibo.com/weibo?q=%23%E4%B8%87%E5%8D%83%E6%B0%94%E8%B1%A1%E7%9C%8B%E5%8C%97%E4%BA%AC%23"
         },
         {
           "rank": 4,
-          "title": "天猫华服奖",
-          "hot_value": "815273",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E7%8C%AB%E5%8D%8E%E6%9C%8D%E5%A5%96%23"
+          "title": "跟任何人相处都大大方方的秘诀",
+          "hot_value": "713964",
+          "link": "https://s.weibo.com/weibo?q=%23%E8%B7%9F%E4%BB%BB%E4%BD%95%E4%BA%BA%E7%9B%B8%E5%A4%84%E9%83%BD%E5%A4%A7%E5%A4%A7%E6%96%B9%E6%96%B9%E7%9A%84%E7%A7%98%E8%AF%80%23"
         },
         {
           "rank": 5,
-          "title": "跟任何人相处都大大方方的秘诀",
-          "hot_value": "805117",
-          "link": "https://s.weibo.com/weibo?q=%23%E8%B7%9F%E4%BB%BB%E4%BD%95%E4%BA%BA%E7%9B%B8%E5%A4%84%E9%83%BD%E5%A4%A7%E5%A4%A7%E6%96%B9%E6%96%B9%E7%9A%84%E7%A7%98%E8%AF%80%23"
+          "title": "花少2被爆料大量未播细节",
+          "hot_value": "679580",
+          "link": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%912%E8%A2%AB%E7%88%86%E6%96%99%E5%A4%A7%E9%87%8F%E6%9C%AA%E6%92%AD%E7%BB%86%E8%8A%82%23"
         }
       ]
     }
