@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02 23:17:50 (北京时间)",
+  "updated_at": "2026-09-03 00:13:19 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -8,6 +8,12 @@
         {
           "source_name": "新华社",
           "items": [
+            {
+              "title": "尼泊尔泥石流已致1068人死亡 4606人失联 - 新华网",
+              "summary": "尼泊尔泥石流已致1068人死亡 4606人失联 新华网",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03aUx0T01mT3kyWXJjSDRXQWtsaW82UEM2TWtvQ3ktRnYyUGh3UjdLUHE1U3ZCZzU5dWt2bEt4dUtObmY1ZnowdkZ1WVlOY1ZINW42SEM3X3YtQzRFNE9wVXo1cnJGWFZ6MDJISmZrd0RQT3hnRllnLXVmXzJoS0U?oc=5",
+              "source": "新华社"
+            },
             {
               "title": "新华语典·“典”耀齐鲁|黄河岸边的“吨半粮”奇迹:解码德州农业的融合之道 - 新华网",
               "summary": "新华语典·“典”耀齐鲁|黄河岸边的“吨半粮”奇迹:解码德州农业的融合之道 新华网",
@@ -30,12 +36,6 @@
               "title": "山钢集团日照公司批量交付冷轧高强双相钢新产品 - 新华网",
               "summary": "山钢集团日照公司批量交付冷轧高强双相钢新产品 新华网",
               "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwR0lCNDZWS053UlBMcDJnN25XQkxtMHpTRm1VdmVJa0RlZ3ZPRzhCNU5qQ1FQQnRIanZQYlgtQkt5UURvanJBT0RBQWZkcXRNMkp6eVZZLVNyQXJCQnZDdnJsSHNEUlRBY3NJMXhRRTduUnYzT1U0SUZBZw?oc=5",
-              "source": "新华社"
-            },
-            {
-              "title": "重庆万盛6000余亩猕猴桃迎来采收季 - 新华网重庆",
-              "summary": "重庆万盛6000余亩猕猴桃迎来采收季 新华网重庆",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kN0FXTUZTY2hXNU9kdVVIZG1hNUJvakx5ZDhNS0pzUzgtMXNiWEM3YWVHaEJMdldSUzNmalA5U3Z3QlAxaUZka29CLWpSZGItejEtV084Wm1fV0N2Q1lsNXo5UFh6R2VXYjFybzlNU3pMMWhxWVE?oc=5",
               "source": "新华社"
             }
           ]
@@ -85,15 +85,15 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-              "summary": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
-              "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
+              "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting…",
+              "summary": "Iranian media reports two children were among those killed when shrapnel hit a home. Iran then launched missiles and drones at US targets in…",
+              "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
             {
-              "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
-              "summary": "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions.",
-              "link": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
+              "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+              "summary": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
+              "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -121,7 +121,7 @@
             {
               "title": "Bond selloff deepens as oil prices and public debt fears jolt markets",
               "summary": "Global bonds sold off sharply on Wednesday, extending a rout that is raising borrowing costs to multi-decade highs as the Middle ​East confl…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a983e1de4554683b241cae5b67c3d4d&url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fbond-selloff-deepens-inflation-oil-prices-jolt-markets-2026-09-02%2f&c=8137480421953222989&mkt=en-us",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a984b1e7f044ab28cd4b2e8167298bd&url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fbond-selloff-deepens-inflation-oil-prices-jolt-markets-2026-09-02%2f&c=8137480421953222989&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -135,32 +135,32 @@
         {
           "rank": 1,
           "title": "微信新功能专治各种看不见",
-          "hot_value": "1269023",
+          "hot_value": "1036857",
           "link": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%96%B0%E5%8A%9F%E8%83%BD%E4%B8%93%E6%B2%BB%E5%90%84%E7%A7%8D%E7%9C%8B%E4%B8%8D%E8%A7%81%23"
         },
         {
           "rank": 2,
           "title": "张雪惊讶97岁李锦记掌门人喝冰可乐",
-          "hot_value": "860036",
+          "hot_value": "743236",
           "link": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E6%83%8A%E8%AE%B697%E5%B2%81%E6%9D%8E%E9%94%A6%E8%AE%B0%E6%8E%8C%E9%97%A8%E4%BA%BA%E5%96%9D%E5%86%B0%E5%8F%AF%E4%B9%90%23"
         },
         {
           "rank": 3,
           "title": "开局之年看山西",
-          "hot_value": "673245",
+          "hot_value": "616164",
           "link": "https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B1%80%E4%B9%8B%E5%B9%B4%E7%9C%8B%E5%B1%B1%E8%A5%BF%23"
         },
         {
           "rank": 4,
-          "title": "花少2毛阿敏放现在算虐待老人",
-          "hot_value": "581851",
-          "link": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%912%E6%AF%9B%E9%98%BF%E6%95%8F%E6%94%BE%E7%8E%B0%E5%9C%A8%E7%AE%97%E8%99%90%E5%BE%85%E8%80%81%E4%BA%BA%23"
+          "title": "奇瑞捷豹路虎神行者8盛大上市",
+          "hot_value": "616027",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%A5%87%E7%91%9E%E6%8D%B7%E8%B1%B9%E8%B7%AF%E8%99%8E%E7%A5%9E%E8%A1%8C%E8%80%858%E7%9B%9B%E5%A4%A7%E4%B8%8A%E5%B8%82%23"
         },
         {
           "rank": 5,
-          "title": "吉隆泥石流遇难21人失联541人",
-          "hot_value": "423811",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E9%81%87%E9%9A%BE21%E4%BA%BA%E5%A4%B1%E8%81%94541%E4%BA%BA%23"
+          "title": "花少2毛阿敏放现在算虐待老人",
+          "hot_value": "612723",
+          "link": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%912%E6%AF%9B%E9%98%BF%E6%95%8F%E6%94%BE%E7%8E%B0%E5%9C%A8%E7%AE%97%E8%99%90%E5%BE%85%E8%80%81%E4%BA%BA%23"
         }
       ]
     }
