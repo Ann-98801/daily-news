@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03 23:12:57 (北京时间)",
+  "updated_at": "2026-09-04 00:14:16 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -7,11 +7,73 @@
       "sources": [
         {
           "source_name": "新华社",
-          "items": []
+          "items": [
+            {
+              "title": "亚太媒体高端论坛将在广东举行 - 新华网",
+              "summary": "亚太媒体高端论坛将在广东举行 新华网",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pWFdmbmlHSVREUGlXQUxXZXNULXhneU9UbHNHUnl5RnhoMVZTSUIxYnktZmc0Z1FLTDhFYWxVQld5MldzV25qVEJGU1VxamZNNUljVmp5WFhBS0g1RFJ2WVp4THI?oc=5",
+              "source": "新华社"
+            },
+            {
+              "title": "新华网_让新闻离你更近 - 新华网",
+              "summary": "新华网_让新闻离你更近 新华网",
+              "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE5FdWV6S1M3MF9oYnROX0tuQkJLWEhDQmVGUWdYbzAzbjNvd3BRdElPSlVua05Pdw?oc=5",
+              "source": "新华社"
+            },
+            {
+              "title": "威尼斯国际艺术双年展： 中国馆掠影 - 新华网",
+              "summary": "威尼斯国际艺术双年展： 中国馆掠影 新华网",
+              "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9zSWtjUFY2VmQyM0J1X1hwYTFvRTh4M2lDeXR0X0FLRk55VFhQM3lTMW5pTWZZaXRPUnNRU093?oc=5",
+              "source": "新华社"
+            },
+            {
+              "title": "微视频丨以血肉之躯筑长城 - 新华网",
+              "summary": "微视频丨以血肉之躯筑长城 新华网",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU3M3ajdDcmwzOUt0Mmw4TFpZWlBaUU5LeWdES3lXbHRrV3phVlJMbWtHbkoyZExGeVdLQUxGb3hOV0V0Zk1zV1hDZ0JIbTl6Q2FEaG9MT3RiX1kzLVBySU9FWVkxN1dKX0NpSjRtbUxySGxmMnVzUEQ0b0dfY0k0X2UtOA?oc=5",
+              "source": "新华社"
+            },
+            {
+              "title": "习近平同埃及总统塞西会谈 - 新华网",
+              "summary": "习近平同埃及总统塞西会谈 新华网",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YS1JlbTBiTHJTcGFjTDJGLXJqcno4TEpOMml6S1dKQXpyUEdoM0VQZnFsc1FnUmJ5WU9qUzVrNjV3NU5vLXIyVWF2ZWNZNU5Ba0VyWWZYLXVuOXpUbnRMNmZOb3pRbkl1MWRoMk96TWJhQ1ZJV3RNNlo2Zm41ZHc?oc=5",
+              "source": "新华社"
+            }
+          ]
         },
         {
           "source_name": "人民日报",
-          "items": []
+          "items": [
+            {
+              "title": "责编：王 平 柴逸扉 邮箱：gtbhwb@people.cn - 人民日报",
+              "summary": "责编：王 平 柴逸扉 邮箱：gtbhwb@people.cn 人民日报",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWWxvWE5xejVLazVGbXdSVDltNGpGNlpCWU9ucTFKOWVuYnV0R2lGQ2g1QU9DRUVINktJNDluYlB0OEFKb2s5OE92WWtSQXQzVFFQRFhHaldlb2EyTFd4a1ZOWXNYb202TTFwSTQzLWEwaWhVZzloQkNVb3RfejRhenY5Zw?oc=5",
+              "source": "人民日报"
+            },
+            {
+              "title": "责编：王 平 柴逸扉 邮箱：gtbhwb@people.cn - 人民日报",
+              "summary": "责编：王 平 柴逸扉 邮箱：gtbhwb@people.cn 人民日报",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV1J1cll5M09ZQWVwR1BRWU9OekljQWdHeklSWXZlU0NHMjRRd1NHTVZmQ3JmVWtvc2NhQUVUcmE3RDA0OEF6amM3WXdGUEZVMEJUUTRBRzM3LVJzN0szWVVRSVZZZzFRUDg3em5BR3FDdS1mVG5XMFZ1SXdOVDNnRzRVb28?oc=5",
+              "source": "人民日报"
+            },
+            {
+              "title": "责编：王 平 金 晨 邮箱：gtbhwb@people.cn - 人民日报",
+              "summary": "责编：王 平 金 晨 邮箱：gtbhwb@people.cn 人民日报",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUWhCM2diUENaRldUQXV0ellELUVLTVpVaU5ld29KYlVaaWFtcHdDcl9Nb29uWGt4MkFQSS1FZnZLSDhLd2dYZjFaMk54X29OTHZ0dm9EZG1VdDVnVnYxU0xRd2k1dS05cjk0blM3RVBrNWtWYnFQc2NFdjdrQzZfSDhvMA?oc=5",
+              "source": "人民日报"
+            },
+            {
+              "title": "习近平和彭丽媛同埃及总统塞西夫妇共同参观大埃及博物馆 - 人民网-图片频道",
+              "summary": "习近平和彭丽媛同埃及总统塞西夫妇共同参观大埃及博物馆 人民网-图片频道",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaWWdvanpSd2lPTzUzVkpaUUdQMW5SZDEwazJpZDY4OXpIX21UVEsyaUZSZEpMVGU4cU9MWmtjSEYzeHl5bkNja0lYekNMamxVMWN1YkQwQ2RlLXBuc2dLdFhGaUppYlpPTVE4?oc=5",
+              "source": "人民日报"
+            },
+            {
+              "title": "习近平抵达开罗对埃及进行国事访问 - 人民网-图片频道",
+              "summary": "习近平抵达开罗对埃及进行国事访问 人民网-图片频道",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PMXlBODR0bmtPR3BQX0lyVVFMclpiVVBRVUVwazlCRWpNc0Z6ejcyenZ2ejZJNEhRdmFUckNtNkx5YnliNVQ4aUExMktlbDNiZWdmd3l6bkdHekFRUWlxVVpOT0wtOVlxdEJB?oc=5",
+              "source": "人民日报"
+            }
+          ]
         }
       ]
     },
@@ -57,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Iran buries victims of reported US wedding attack, fires on Kuwait",
-              "summary": "The sudden recent escalation of the Iran war has cast renewed attention on its civilian toll ​after Iran reported 18 dead in the last U.S. a…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a998e78935f4e2780a6248587270c40&url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firan-war-escalation-raises-concern-over-civilian-death-toll-2026-09-03%2f&c=6016580958773007424&mkt=en-us",
+              "title": "Texas Republicans turn against data centers, putting big tech on notice",
+              "summary": "Less than a year ago, Texas Governor Greg Abbott hailed Texas as the \"epicenter of AI development.\" Now, in his bid for re-election, he is c…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a999cd7ab8e42378e1ea33114ba800c&url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2ftexas-republicans-turn-against-data-centers-putting-big-tech-notice-2026-09-03%2f&c=3695045999325815988&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -72,39 +134,36 @@
       "items": [
         {
           "rank": 1,
-          "title": "武大通报教师曾某某被举报",
-          "hot_value": "1958756",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E9%80%9A%E6%8A%A5%E6%95%99%E5%B8%88%E6%9B%BE%E6%9F%90%E6%9F%90%E8%A2%AB%E4%B8%BE%E6%8A%A5%23"
+          "title": "早春晴朗 结束肮脏的令人作呕的关系",
+          "hot_value": "1001789",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%20%E7%BB%93%E6%9D%9F%E8%82%AE%E8%84%8F%E7%9A%84%E4%BB%A4%E4%BA%BA%E4%BD%9C%E5%91%95%E7%9A%84%E5%85%B3%E7%B3%BB%23"
         },
         {
           "rank": 2,
           "title": "微信 液态玻璃",
-          "hot_value": "968646",
+          "hot_value": "721971",
           "link": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%20%E6%B6%B2%E6%80%81%E7%8E%BB%E7%92%83%23"
         },
         {
           "rank": 3,
           "title": "195名消防员轮流深度搜救",
-          "hot_value": "927533",
+          "hot_value": "562396",
           "link": "https://s.weibo.com/weibo?q=%23195%E5%90%8D%E6%B6%88%E9%98%B2%E5%91%98%E8%BD%AE%E6%B5%81%E6%B7%B1%E5%BA%A6%E6%90%9C%E6%95%91%23"
         },
         {
           "rank": 4,
-          "title": "22.99万元起海狮08全系皆豪配",
-          "hot_value": "926856",
-          "link": "https://s.weibo.com/weibo?q=%2322.99%E4%B8%87%E5%85%83%E8%B5%B7%E6%B5%B7%E7%8B%AE08%E5%85%A8%E7%B3%BB%E7%9A%86%E8%B1%AA%E9%85%8D%23"
+          "title": "神行者8以28.99万再定义豪华旗舰",
+          "hot_value": "556178",
+          "link": "https://s.weibo.com/weibo?q=%23%E7%A5%9E%E8%A1%8C%E8%80%858%E4%BB%A528.99%E4%B8%87%E5%86%8D%E5%AE%9A%E4%B9%89%E8%B1%AA%E5%8D%8E%E6%97%97%E8%88%B0%23"
         },
         {
           "rank": 5,
           "title": "长生 退役",
-          "hot_value": "925993",
+          "hot_value": "458749",
           "link": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%94%9F%20%E9%80%80%E5%BD%B9%23"
         }
       ]
     }
   ],
-  "errors": [
-    "新华社: 必应搜索失败(HTTP 200，但解析出0条内容（可能页面结构变化或被限流）)；谷歌新闻搜索也失败(HTTP 200，但解析出0条内容（可能页面结构变化或被限流）)",
-    "人民日报: 必应搜索失败(HTTP 200，但解析出0条内容（可能页面结构变化或被限流）)；谷歌新闻搜索也失败(HTTP 200，但解析出0条内容（可能页面结构变化或被限流）)"
-  ]
+  "errors": []
 }
