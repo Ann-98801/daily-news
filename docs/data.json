@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05 06:12:14 (北京时间)",
+  "updated_at": "2026-09-05 07:11:42 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -9,14 +9,14 @@
           "source_name": "新华社",
           "items": [
             {
-              "title": "精彩视频 - news.cn",
-              "summary": "精彩视频 news.cn",
+              "title": "精彩视频 - 新华网",
+              "summary": "精彩视频 新华网",
               "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CTTBTVU5kQlRhOVhBMDBwZUktRUkxc0h0S0wyMTJPMmVFMHFYLXJ1MGxQVkU4emZFMkFQMGg4TjIxa1YxUjViaGVpVi1zVEdqaVBoVG9GQ0ZnUW50NHpNa1M3cw?oc=5",
               "source": "新华社"
             },
             {
-              "title": "高清图片 - news.cn",
-              "summary": "高清图片 news.cn",
+              "title": "高清图片 - 新华网",
+              "summary": "高清图片 新华网",
               "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nV3BtV2I5Ml80M2JNVkI2ZUt5bzh3YWI3bkF4cEZheF93ME4xcFAwUzc1Y2tYN2hGQUs3UE82MkU1ZHVWeDdwWXdEYjVCS1ZNbW1tVDZONDJtNENYcldyY2Fpcw?oc=5",
               "source": "新华社"
             },
@@ -27,14 +27,14 @@
               "source": "新华社"
             },
             {
-              "title": "最新播报 - news.cn",
-              "summary": "最新播报 news.cn",
+              "title": "最新播报 - 新华网",
+              "summary": "最新播报 新华网",
               "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTaVlodnZCMENCZTZnbXJBVXg3eTMyNHpGY056dDJkVlJlNThCek5CQmJQVEs2N3ZKZ1R1RVphdXR2bmdlekc5ZnNrTW04cklnQ1lrQlkwQ3BzaWJkWlYwQTlDYw?oc=5",
               "source": "新华社"
             },
             {
-              "title": "亚太媒体高端论坛将在广东举行 - news.cn",
-              "summary": "亚太媒体高端论坛将在广东举行 news.cn",
+              "title": "亚太媒体高端论坛将在广东举行 - 新华网",
+              "summary": "亚太媒体高端论坛将在广东举行 新华网",
               "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pWFdmbmlHSVREUGlXQUxXZXNULXhneU9UbHNHUnl5RnhoMVZTSUIxYnktZmc0Z1FLTDhFYWxVQld5MldzV25qVEJGU1VxamZNNUljVmp5WFhBS0g1RFJ2WVp4THI?oc=5",
               "source": "新华社"
             }
@@ -56,8 +56,8 @@
               "source": "人民日报"
             },
             {
-              "title": "党建 - 人民网-理论频道",
-              "summary": "党建 人民网-理论频道",
+              "title": "党建 - theory.people.com.cn",
+              "summary": "党建 theory.people.com.cn",
               "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XSV9lUjVCeEFWd1R4aDBaamVyV1pORWFJbk9UWHNwVXhxVVpBTC1SZjlnanRSa29iUXFQcTVGYm9FQWNwb0YwcWhQb2xJdUloS1dYM3Z4NUk?oc=5",
               "source": "人民日报"
             },
@@ -85,15 +85,15 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief sus…",
-              "summary": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
-              "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
+              "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+              "summary": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her…",
+              "link": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
             {
-              "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
-              "summary": "There are still hundreds of workers trapped in a network of tunnels that run along the Trishuli river.",
-              "link": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
+              "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief sus…",
+              "summary": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
+              "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Lindsay Clancy trial highlights growing efforts to aid jurors after traumatic ca…",
-              "summary": "For jurors in the six-week murder trial of Lindsay Clancy, the end of their service could be the start of the emotional fallout.",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9b423dc6bc4b28abce7e8c46f57579&url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2flindsay-clancy-trial-highlights-growing-efforts-aid-jurors-after-traumatic-cases-2026-09-04%2f&c=7051638177404023952&mkt=en-us",
+              "title": "Lindsay Clancy trial over killing her children ends in mistrial",
+              "summary": "A judge declared a mistrial on Friday in the U.S. murder trial of Lindsay Clancy for killing her three young children, a tragedy her attorne…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9b5029c65d45a49a1f7df9bdbacca1&url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fdeadlocked-jury-lindsay-clancys-murder-trial-deliberate-seventh-day-2026-09-04%2f&c=2146315996813536599&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -134,33 +134,33 @@
       "items": [
         {
           "rank": 1,
-          "title": "为什么现在这么流行耳夹式耳机",
-          "hot_value": "336046",
-          "link": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E8%BF%99%E4%B9%88%E6%B5%81%E8%A1%8C%E8%80%B3%E5%A4%B9%E5%BC%8F%E8%80%B3%E6%9C%BA%23"
+          "title": "2岁男童把家中百草枯当饮料喝下",
+          "hot_value": "732719",
+          "link": "https://s.weibo.com/weibo?q=%232%E5%B2%81%E7%94%B7%E7%AB%A5%E6%8A%8A%E5%AE%B6%E4%B8%AD%E7%99%BE%E8%8D%89%E6%9E%AF%E5%BD%93%E9%A5%AE%E6%96%99%E5%96%9D%E4%B8%8B%23"
         },
         {
           "rank": 2,
-          "title": "2岁男童把家中百草枯当饮料喝下",
-          "hot_value": "242809",
-          "link": "https://s.weibo.com/weibo?q=%232%E5%B2%81%E7%94%B7%E7%AB%A5%E6%8A%8A%E5%AE%B6%E4%B8%AD%E7%99%BE%E8%8D%89%E6%9E%AF%E5%BD%93%E9%A5%AE%E6%96%99%E5%96%9D%E4%B8%8B%23"
+          "title": "日本请求俄拆纪念碑菊花纹章遭拒",
+          "hot_value": "517595",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%AF%B7%E6%B1%82%E4%BF%84%E6%8B%86%E7%BA%AA%E5%BF%B5%E7%A2%91%E8%8F%8A%E8%8A%B1%E7%BA%B9%E7%AB%A0%E9%81%AD%E6%8B%92%23"
         },
         {
           "rank": 3,
           "title": "全国多地迎来丰收季",
-          "hot_value": "187592",
+          "hot_value": "417083",
           "link": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E5%A4%9A%E5%9C%B0%E8%BF%8E%E6%9D%A5%E4%B8%B0%E6%94%B6%E5%AD%A3%23"
         },
         {
           "rank": 4,
-          "title": "启境GX7阔五座智能百变SUV",
-          "hot_value": "187123",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%90%AF%E5%A2%83GX7%E9%98%94%E4%BA%94%E5%BA%A7%E6%99%BA%E8%83%BD%E7%99%BE%E5%8F%98SUV%23"
+          "title": "长安启源Q06预售 天枢领航发布",
+          "hot_value": "326639",
+          "link": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%AE%89%E5%90%AF%E6%BA%90Q06%E9%A2%84%E5%94%AE%20%E5%A4%A9%E6%9E%A2%E9%A2%86%E8%88%AA%E5%8F%91%E5%B8%83%23"
         },
         {
           "rank": 5,
-          "title": "日本请求俄拆纪念碑菊花纹章遭拒",
-          "hot_value": "181720",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%AF%B7%E6%B1%82%E4%BF%84%E6%8B%86%E7%BA%AA%E5%BF%B5%E7%A2%91%E8%8F%8A%E8%8A%B1%E7%BA%B9%E7%AB%A0%E9%81%AD%E6%8B%92%23"
+          "title": "为什么现在这么流行耳夹式耳机",
+          "hot_value": "310678",
+          "link": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E8%BF%99%E4%B9%88%E6%B5%81%E8%A1%8C%E8%80%B3%E5%A4%B9%E5%BC%8F%E8%80%B3%E6%9C%BA%23"
         }
       ]
     }
