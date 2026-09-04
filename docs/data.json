@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05 03:10:09 (北京时间)",
+  "updated_at": "2026-09-05 04:12:33 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -9,14 +9,14 @@
           "source_name": "新华社",
           "items": [
             {
-              "title": "精彩视频 - 新华网",
-              "summary": "精彩视频 新华网",
+              "title": "精彩视频 - news.cn",
+              "summary": "精彩视频 news.cn",
               "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CTTBTVU5kQlRhOVhBMDBwZUktRUkxc0h0S0wyMTJPMmVFMHFYLXJ1MGxQVkU4emZFMkFQMGg4TjIxa1YxUjViaGVpVi1zVEdqaVBoVG9GQ0ZnUW50NHpNa1M3cw?oc=5",
               "source": "新华社"
             },
             {
-              "title": "高清图片 - 新华网",
-              "summary": "高清图片 新华网",
+              "title": "高清图片 - news.cn",
+              "summary": "高清图片 news.cn",
               "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nV3BtV2I5Ml80M2JNVkI2ZUt5bzh3YWI3bkF4cEZheF93ME4xcFAwUzc1Y2tYN2hGQUs3UE82MkU1ZHVWeDdwWXdEYjVCS1ZNbW1tVDZONDJtNENYcldyY2Fpcw?oc=5",
               "source": "新华社"
             },
@@ -27,14 +27,14 @@
               "source": "新华社"
             },
             {
-              "title": "最新播报 - 新华网",
-              "summary": "最新播报 新华网",
+              "title": "最新播报 - news.cn",
+              "summary": "最新播报 news.cn",
               "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTaVlodnZCMENCZTZnbXJBVXg3eTMyNHpGY056dDJkVlJlNThCek5CQmJQVEs2N3ZKZ1R1RVphdXR2bmdlekc5ZnNrTW04cklnQ1lrQlkwQ3BzaWJkWlYwQTlDYw?oc=5",
               "source": "新华社"
             },
             {
-              "title": "亚太媒体高端论坛将在广东举行 - 新华网",
-              "summary": "亚太媒体高端论坛将在广东举行 新华网",
+              "title": "亚太媒体高端论坛将在广东举行 - news.cn",
+              "summary": "亚太媒体高端论坛将在广东举行 news.cn",
               "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pWFdmbmlHSVREUGlXQUxXZXNULXhneU9UbHNHUnl5RnhoMVZTSUIxYnktZmc0Z1FLTDhFYWxVQld5MldzV25qVEJGU1VxamZNNUljVmp5WFhBS0g1RFJ2WVp4THI?oc=5",
               "source": "新华社"
             }
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Starbucks anti-unionization case brought by NLRB narrowed by US appeals court",
-              "summary": "A federal appeals court on Friday declined to enforce most of a National Labor Relations Board ruling that Starbucks illegally threatened ​e…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9b1790db724805b8c63cd375beb6c0&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fworld-at-work%2fstarbucks-anti-unionization-case-brought-by-nlrb-narrowed-by-us-appeals-court-2026-09-04%2f&c=18285021028332935337&mkt=en-us",
+              "title": "Lindsay Clancy trial highlights growing efforts to aid jurors after traumatic ca…",
+              "summary": "For jurors in the six-week murder trial of Lindsay Clancy, the end of their service could be the start of the emotional fallout.",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9b2630310141f1900bd369c87b0016&url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2flindsay-clancy-trial-highlights-growing-efforts-aid-jurors-after-traumatic-cases-2026-09-04%2f&c=7051638177404023952&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -135,31 +135,31 @@
         {
           "rank": 1,
           "title": "为什么现在这么流行耳夹式耳机",
-          "hot_value": "242232",
+          "hot_value": "184225",
           "link": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E8%BF%99%E4%B9%88%E6%B5%81%E8%A1%8C%E8%80%B3%E5%A4%B9%E5%BC%8F%E8%80%B3%E6%9C%BA%23"
         },
         {
           "rank": 2,
           "title": "极限挑战 重拍",
-          "hot_value": "207183",
+          "hot_value": "138566",
           "link": "https://s.weibo.com/weibo?q=%23%E6%9E%81%E9%99%90%E6%8C%91%E6%88%98%20%E9%87%8D%E6%8B%8D%23"
         },
         {
           "rank": 3,
           "title": "把青春华章写在祖国大地上",
-          "hot_value": "167838",
+          "hot_value": "110689",
           "link": "https://s.weibo.com/weibo?q=%23%E6%8A%8A%E9%9D%92%E6%98%A5%E5%8D%8E%E7%AB%A0%E5%86%99%E5%9C%A8%E7%A5%96%E5%9B%BD%E5%A4%A7%E5%9C%B0%E4%B8%8A%23"
         },
         {
           "rank": 4,
-          "title": "花少2嘉宾干活表",
-          "hot_value": "147041",
-          "link": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%912%E5%98%89%E5%AE%BE%E5%B9%B2%E6%B4%BB%E8%A1%A8%23"
+          "title": "看喜单总决赛上淘宝闪购喜提一单",
+          "hot_value": "98797",
+          "link": "https://s.weibo.com/weibo?q=%23%E7%9C%8B%E5%96%9C%E5%8D%95%E6%80%BB%E5%86%B3%E8%B5%9B%E4%B8%8A%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD%E5%96%9C%E6%8F%90%E4%B8%80%E5%8D%95%23"
         },
         {
           "rank": 5,
           "title": "披哥二公排名",
-          "hot_value": "146485",
+          "hot_value": "93200",
           "link": "https://s.weibo.com/weibo?q=%23%E6%8A%AB%E5%93%A5%E4%BA%8C%E5%85%AC%E6%8E%92%E5%90%8D%23"
         }
       ]
