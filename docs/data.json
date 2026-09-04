@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05 04:12:33 (北京时间)",
+  "updated_at": "2026-09-05 05:11:56 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -117,14 +117,7 @@
         },
         {
           "source_name": "路透社 Reuters",
-          "items": [
-            {
-              "title": "Lindsay Clancy trial highlights growing efforts to aid jurors after traumatic ca…",
-              "summary": "For jurors in the six-week murder trial of Lindsay Clancy, the end of their service could be the start of the emotional fallout.",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9b2630310141f1900bd369c87b0016&url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2flindsay-clancy-trial-highlights-growing-efforts-aid-jurors-after-traumatic-cases-2026-09-04%2f&c=7051638177404023952&mkt=en-us",
-              "source": "路透社 Reuters"
-            }
-          ]
+          "items": []
         }
       ]
     },
@@ -135,35 +128,37 @@
         {
           "rank": 1,
           "title": "为什么现在这么流行耳夹式耳机",
-          "hot_value": "184225",
+          "hot_value": "170992",
           "link": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E8%BF%99%E4%B9%88%E6%B5%81%E8%A1%8C%E8%80%B3%E5%A4%B9%E5%BC%8F%E8%80%B3%E6%9C%BA%23"
         },
         {
           "rank": 2,
           "title": "极限挑战 重拍",
-          "hot_value": "138566",
+          "hot_value": "101031",
           "link": "https://s.weibo.com/weibo?q=%23%E6%9E%81%E9%99%90%E6%8C%91%E6%88%98%20%E9%87%8D%E6%8B%8D%23"
         },
         {
           "rank": 3,
-          "title": "把青春华章写在祖国大地上",
-          "hot_value": "110689",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%8A%8A%E9%9D%92%E6%98%A5%E5%8D%8E%E7%AB%A0%E5%86%99%E5%9C%A8%E7%A5%96%E5%9B%BD%E5%A4%A7%E5%9C%B0%E4%B8%8A%23"
+          "title": "全国多地迎来丰收季",
+          "hot_value": "90383",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E5%A4%9A%E5%9C%B0%E8%BF%8E%E6%9D%A5%E4%B8%B0%E6%94%B6%E5%AD%A3%23"
         },
         {
           "rank": 4,
-          "title": "看喜单总决赛上淘宝闪购喜提一单",
-          "hot_value": "98797",
-          "link": "https://s.weibo.com/weibo?q=%23%E7%9C%8B%E5%96%9C%E5%8D%95%E6%80%BB%E5%86%B3%E8%B5%9B%E4%B8%8A%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD%E5%96%9C%E6%8F%90%E4%B8%80%E5%8D%95%23"
+          "title": "日本请求俄拆纪念碑菊花纹章遭拒",
+          "hot_value": "85242",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%AF%B7%E6%B1%82%E4%BF%84%E6%8B%86%E7%BA%AA%E5%BF%B5%E7%A2%91%E8%8F%8A%E8%8A%B1%E7%BA%B9%E7%AB%A0%E9%81%AD%E6%8B%92%23"
         },
         {
           "rank": 5,
           "title": "披哥二公排名",
-          "hot_value": "93200",
+          "hot_value": "83278",
           "link": "https://s.weibo.com/weibo?q=%23%E6%8A%AB%E5%93%A5%E4%BA%8C%E5%85%AC%E6%8E%92%E5%90%8D%23"
         }
       ]
     }
   ],
-  "errors": []
+  "errors": [
+    "路透社 Reuters: 必应搜索失败(HTTP 200，但解析出0条内容（可能页面结构变化或被限流）)；谷歌新闻搜索也失败(HTTP 200，但解析出0条内容（可能页面结构变化或被限流）)"
+  ]
 }
