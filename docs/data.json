@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06 06:11:45 (北京时间)",
+  "updated_at": "2026-09-06 07:11:18 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -44,6 +44,12 @@
           "source_name": "人民日报",
           "items": [
             {
+              "title": "责编：金 晨 邮箱：gtbhwb@people.cn - 人民日报",
+              "summary": "责编：金 晨 邮箱：gtbhwb@people.cn 人民日报",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQnFzazN1TEZodWs2LUdhLWVESllnZWtUNVB5cDltQlI0cTB4aXZVZ1M3MmN5aktER25UNkwzX3JPY1d2dVlCaGd1RXZXNWdLYXhIeUM5THNlTGdtTWtsNktNMFVva3dBNnRmaHBBZ0tkMmZFclRmaGRPeVF2SFNoX094VQ?oc=5",
+              "source": "人民日报"
+            },
+            {
               "title": "责编：王 平 柴逸扉 邮箱：gtbhwb@people.cn - 人民日报",
               "summary": "责编：王 平 柴逸扉 邮箱：gtbhwb@people.cn 人民日报",
               "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR2JaV2JNRFlROGF0RF8xd3FOVXBkazJxeXJ0UFE5aVVzMmkzQVZIYVBscndHR2RfSnpFODZpSG1xV3c3NHlrMENEVnZ3eXpXbTNscEJiUDcwX1NNRGx0LVprNUtuX3lMNUY5VmtEZ0dXY3JhWWpCNXlDNWhkaFJycFdkQ1c?oc=5",
@@ -66,12 +72,6 @@
               "summary": "责编：王 平 金 晨 邮箱：gtbhwb@people.cn 人民日报",
               "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUWhCM2diUENaRldUQXV0ellELUVLTVpVaU5ld29KYlVaaWFtcHdDcl9Nb29uWGt4MkFQSS1FZnZLSDhLd2dYZjFaMk54X29OTHZ0dm9EZG1VdDVnVnYxU0xRd2k1dS05cjk0blM3RVBrNWtWYnFQc2NFdjdrQzZfSDhvMA?oc=5",
               "source": "人民日报"
-            },
-            {
-              "title": "习近平和彭丽媛同埃及总统塞西夫妇共同参观大埃及博物馆 - 人民网-图片频道",
-              "summary": "习近平和彭丽媛同埃及总统塞西夫妇共同参观大埃及博物馆 人民网-图片频道",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaWWdvanpSd2lPTzUzVkpaUUdQMW5SZDEwazJpZDY4OXpIX21UVEsyaUZSZEpMVGU4cU9MWmtjSEYzeHl5bkNja0lYekNMamxVMWN1YkQwQ2RlLXBuc2dLdFhGaUppYlpPTVE4?oc=5",
-              "source": "人民日报"
             }
           ]
         }
@@ -91,8 +91,8 @@
               "source": "BBC"
             },
             {
-              "title": "US hits three Iranian oil tankers after saying its warships were targeted",
-              "summary": "Iran's state media reported that Tehran has launched retaliatory attacks against three US-affiliated vessels; the US is yet to comment.",
+              "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
+              "summary": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
               "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Chinese national rescued from Nepal tunnel 10 days after flash flood",
-              "summary": "A Chinese national was pulled alive from a ​tunnel in Nepal on Saturday, ​the authorities said, 10 days ⁠after a wall of ice, ​rock and mud…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9c939fcf9a4a77ab7a878fa10b9421&url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fchinese-national-rescued-nepal-tunnel-day-after-2-nepalis-pulled-out-alive-2026-09-05%2f&c=2033175617070749528&mkt=en-us",
+              "title": "Federal appeals court upholds ban on Trump's bid to use citizenship data for vot…",
+              "summary": "A federal appeals court panel rejected the Trump administration’s bid to lift a ban on using a federal immigration ​database to check the ac…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9ca1945e0b496895d1b6f16ecaa382&url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2ffederal-appeals-court-upholds-ban-trumps-bid-use-citizenship-data-voter-checks-2026-09-05%2f&c=10709346535722612013&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -135,32 +135,32 @@
         {
           "rank": 1,
           "title": "郑钦文美网惊天逆转",
-          "hot_value": "505240",
+          "hot_value": "1181654",
           "link": "https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E7%BE%8E%E7%BD%91%E6%83%8A%E5%A4%A9%E9%80%86%E8%BD%AC%23"
         },
         {
           "rank": 2,
-          "title": "编制不等于绝对稳定",
-          "hot_value": "269372",
-          "link": "https://s.weibo.com/weibo?q=%23%E7%BC%96%E5%88%B6%E4%B8%8D%E7%AD%89%E4%BA%8E%E7%BB%9D%E5%AF%B9%E7%A8%B3%E5%AE%9A%23"
+          "title": "葫芦娃爷爷把葫芦剪掉了目击者发声",
+          "hot_value": "585887",
+          "link": "https://s.weibo.com/weibo?q=%23%E8%91%AB%E8%8A%A6%E5%A8%83%E7%88%B7%E7%88%B7%E6%8A%8A%E8%91%AB%E8%8A%A6%E5%89%AA%E6%8E%89%E4%BA%86%E7%9B%AE%E5%87%BB%E8%80%85%E5%8F%91%E5%A3%B0%23"
         },
         {
           "rank": 3,
           "title": "青春华章",
-          "hot_value": "211440",
+          "hot_value": "474686",
           "link": "https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%98%A5%E5%8D%8E%E7%AB%A0%23"
         },
         {
           "rank": 4,
           "title": "樊振东德甲输掉的全都赢回来了",
-          "hot_value": "108828",
+          "hot_value": "275273",
           "link": "https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%BE%B7%E7%94%B2%E8%BE%93%E6%8E%89%E7%9A%84%E5%85%A8%E9%83%BD%E8%B5%A2%E5%9B%9E%E6%9D%A5%E4%BA%86%23"
         },
         {
           "rank": 5,
-          "title": "避孕药 血栓",
-          "hot_value": "83047",
-          "link": "https://s.weibo.com/weibo?q=%23%E9%81%BF%E5%AD%95%E8%8D%AF%20%E8%A1%80%E6%A0%93%23"
+          "title": "编制不等于绝对稳定",
+          "hot_value": "270806",
+          "link": "https://s.weibo.com/weibo?q=%23%E7%BC%96%E5%88%B6%E4%B8%8D%E7%AD%89%E4%BA%8E%E7%BB%9D%E5%AF%B9%E7%A8%B3%E5%AE%9A%23"
         }
       ]
     }
