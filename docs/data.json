@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06 13:11:42 (北京时间)",
+  "updated_at": "2026-09-06 14:15:43 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -9,20 +9,20 @@
           "source_name": "新华社",
           "items": [
             {
-              "title": "精彩视频 - news.cn",
-              "summary": "精彩视频 news.cn",
+              "title": "精彩视频 - 新华网",
+              "summary": "精彩视频 新华网",
               "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CTTBTVU5kQlRhOVhBMDBwZUktRUkxc0h0S0wyMTJPMmVFMHFYLXJ1MGxQVkU4emZFMkFQMGg4TjIxa1YxUjViaGVpVi1zVEdqaVBoVG9GQ0ZnUW50NHpNa1M3cw?oc=5",
               "source": "新华社"
             },
             {
-              "title": "高清图片 - news.cn",
-              "summary": "高清图片 news.cn",
+              "title": "高清图片 - 新华网",
+              "summary": "高清图片 新华网",
               "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nV3BtV2I5Ml80M2JNVkI2ZUt5bzh3YWI3bkF4cEZheF93ME4xcFAwUzc1Y2tYN2hGQUs3UE82MkU1ZHVWeDdwWXdEYjVCS1ZNbW1tVDZONDJtNENYcldyY2Fpcw?oc=5",
               "source": "新华社"
             },
             {
-              "title": "研究称OpenAI智能体“劫持”网站开展“协作” - news.cn",
-              "summary": "研究称OpenAI智能体“劫持”网站开展“协作” news.cn",
+              "title": "研究称OpenAI智能体“劫持”网站开展“协作” - 新华网",
+              "summary": "研究称OpenAI智能体“劫持”网站开展“协作” 新华网",
               "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mcGtKRzJ0M25YMmcycnN2Rzd0QzZWb285a09sTE1kRGE1aldKY25PYTM5ZDlUQ0Uxd2pFTzFUWlg0NkVsZXRMdDRRY3lWVDJJcW9EQXlvbTYwbjRETFUxMVZhYUhVOERTdTVub25KeWhmNUtfRm1INFlCeVlmdw?oc=5",
               "source": "新华社"
             },
@@ -33,8 +33,8 @@
               "source": "新华社"
             },
             {
-              "title": "向新之翼丨为民族复兴贡献聪明才智 - news.cn",
-              "summary": "向新之翼丨为民族复兴贡献聪明才智 news.cn",
+              "title": "向新之翼丨为民族复兴贡献聪明才智 - 新华网",
+              "summary": "向新之翼丨为民族复兴贡献聪明才智 新华网",
               "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mY2doWERmVjZscU1UcVkwU2NLVndVWE9Vc19DRXcxNmdjbHExRmRxN0loMkFDNG9ZOW5OeVFIOUNESUNSbzRkTmd4S0tGUk82UHRPVGxJempSbExmN0x5MFBJeWNPeVVYZ2NXRG1ORjFzQzN1Ml9yMXdxM18xbVE?oc=5",
               "source": "新华社"
             }
@@ -43,6 +43,12 @@
         {
           "source_name": "人民日报",
           "items": [
+            {
+              "title": "责编：金 晨 邮箱：gtbhwb@people.cn - 人民日报",
+              "summary": "责编：金 晨 邮箱：gtbhwb@people.cn 人民日报",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQnFzazN1TEZodWs2LUdhLWVESllnZWtUNVB5cDltQlI0cTB4aXZVZ1M3MmN5aktER25UNkwzX3JPY1d2dVlCaGd1RXZXNWdLYXhIeUM5THNlTGdtTWtsNktNMFVva3dBNnRmaHBBZ0tkMmZFclRmaGRPeVF2SFNoX094VQ?oc=5",
+              "source": "人民日报"
+            },
             {
               "title": "责编：王 平 柴逸扉 邮箱：gtbhwb@people.cn - 人民日报",
               "summary": "责编：王 平 柴逸扉 邮箱：gtbhwb@people.cn 人民日报",
@@ -66,12 +72,6 @@
               "summary": "责编：王 平 金 晨 邮箱：gtbhwb@people.cn 人民日报",
               "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUWhCM2diUENaRldUQXV0ellELUVLTVpVaU5ld29KYlVaaWFtcHdDcl9Nb29uWGt4MkFQSS1FZnZLSDhLd2dYZjFaMk54X29OTHZ0dm9EZG1VdDVnVnYxU0xRd2k1dS05cjk0blM3RVBrNWtWYnFQc2NFdjdrQzZfSDhvMA?oc=5",
               "source": "人民日报"
-            },
-            {
-              "title": "习近平和彭丽媛同埃及总统塞西夫妇共同参观大埃及博物馆 - 人民网图片频道",
-              "summary": "习近平和彭丽媛同埃及总统塞西夫妇共同参观大埃及博物馆 人民网图片频道",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaWWdvanpSd2lPTzUzVkpaUUdQMW5SZDEwazJpZDY4OXpIX21UVEsyaUZSZEpMVGU4cU9MWmtjSEYzeHl5bkNja0lYekNMamxVMWN1YkQwQ2RlLXBuc2dLdFhGaUppYlpPTVE4?oc=5",
-              "source": "人民日报"
             }
           ]
         }
@@ -86,7 +86,7 @@
           "items": [
             {
               "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
-              "summary": "Steve Witkoff and Jared Kushner left Moscow having \"discussed substantive plans for next steps\" with Putin, according to the White House.",
+              "summary": "It will be the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.",
               "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
@@ -121,7 +121,7 @@
             {
               "title": "Federal appeals court upholds ban on Trump's bid to use citizenship data for vot…",
               "summary": "A federal appeals court panel rejected the Trump administration’s bid to lift a ban on using a federal immigration ​database to check the ac…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9cf60daf1847718832155e75477e78&url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2ffederal-appeals-court-upholds-ban-trumps-bid-use-citizenship-data-voter-checks-2026-09-05%2f&c=10709346535722612013&mkt=en-us",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d050ec5324cdfb349617366ed487b&url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2ffederal-appeals-court-upholds-ban-trumps-bid-use-citizenship-data-voter-checks-2026-09-05%2f&c=10709346535722612013&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -135,32 +135,32 @@
         {
           "rank": 1,
           "title": "绍兴文旅回应葫芦娃爷爷剪掉葫芦",
-          "hot_value": "1088104",
+          "hot_value": "1129626",
           "link": "https://s.weibo.com/weibo?q=%23%E7%BB%8D%E5%85%B4%E6%96%87%E6%97%85%E5%9B%9E%E5%BA%94%E8%91%AB%E8%8A%A6%E5%A8%83%E7%88%B7%E7%88%B7%E5%89%AA%E6%8E%89%E8%91%AB%E8%8A%A6%23"
         },
         {
           "rank": 2,
-          "title": "葫芦娃爷爷把葫芦剪掉了目击者发声",
-          "hot_value": "793890",
-          "link": "https://s.weibo.com/weibo?q=%23%E8%91%AB%E8%8A%A6%E5%A8%83%E7%88%B7%E7%88%B7%E6%8A%8A%E8%91%AB%E8%8A%A6%E5%89%AA%E6%8E%89%E4%BA%86%E7%9B%AE%E5%87%BB%E8%80%85%E5%8F%91%E5%A3%B0%23"
+          "title": "提前剪掉的7个葫芦讽刺了谁",
+          "hot_value": "794670",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%8F%90%E5%89%8D%E5%89%AA%E6%8E%89%E7%9A%847%E4%B8%AA%E8%91%AB%E8%8A%A6%E8%AE%BD%E5%88%BA%E4%BA%86%E8%B0%81%23"
         },
         {
           "rank": 3,
           "title": "地质灾害发生有哪些前兆",
-          "hot_value": "652176",
+          "hot_value": "708241",
           "link": "https://s.weibo.com/weibo?q=%23%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3%E5%8F%91%E7%94%9F%E6%9C%89%E5%93%AA%E4%BA%9B%E5%89%8D%E5%85%86%23"
         },
         {
           "rank": 4,
-          "title": "早春晴朗原著尚之桃开公司不收女员工",
-          "hot_value": "647433",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E5%8E%9F%E8%91%97%E5%B0%9A%E4%B9%8B%E6%A1%83%E5%BC%80%E5%85%AC%E5%8F%B8%E4%B8%8D%E6%94%B6%E5%A5%B3%E5%91%98%E5%B7%A5%23"
+          "title": "陈妍希想要二胎",
+          "hot_value": "702987",
+          "link": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%E6%83%B3%E8%A6%81%E4%BA%8C%E8%83%8E%23"
         },
         {
           "rank": 5,
-          "title": "张雅琪中餐厅 穿帮",
-          "hot_value": "593226",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%85%E7%90%AA%E4%B8%AD%E9%A4%90%E5%8E%85%20%E7%A9%BF%E5%B8%AE%23"
+          "title": "早春晴朗原著尚之桃开公司不收女员工",
+          "hot_value": "699487",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E5%8E%9F%E8%91%97%E5%B0%9A%E4%B9%8B%E6%A1%83%E5%BC%80%E5%85%AC%E5%8F%B8%E4%B8%8D%E6%94%B6%E5%A5%B3%E5%91%98%E5%B7%A5%23"
         }
       ]
     }
