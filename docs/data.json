@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07 03:10:59 (北京时间)",
+  "updated_at": "2026-09-07 04:12:57 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -8,6 +8,12 @@
         {
           "source_name": "新华社",
           "items": [
+            {
+              "title": "研究称OpenAI智能体“劫持”网站开展“协作” - 新华网",
+              "summary": "研究称OpenAI智能体“劫持”网站开展“协作” 新华网",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mcGtKRzJ0M25YMmcycnN2Rzd0QzZWb285a09sTE1kRGE1aldKY25PYTM5ZDlUQ0Uxd2pFTzFUWlg0NkVsZXRMdDRRY3lWVDJJcW9EQXlvbTYwbjRETFUxMVZhYUhVOERTdTVub25KeWhmNUtfRm1INFlCeVlmdw?oc=5",
+              "source": "新华社"
+            },
             {
               "title": "精彩视频 - 新华网",
               "summary": "精彩视频 新华网",
@@ -18,12 +24,6 @@
               "title": "高清图片 - 新华网",
               "summary": "高清图片 新华网",
               "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nV3BtV2I5Ml80M2JNVkI2ZUt5bzh3YWI3bkF4cEZheF93ME4xcFAwUzc1Y2tYN2hGQUs3UE82MkU1ZHVWeDdwWXdEYjVCS1ZNbW1tVDZONDJtNENYcldyY2Fpcw?oc=5",
-              "source": "新华社"
-            },
-            {
-              "title": "研究称OpenAI智能体“劫持”网站开展“协作” - 新华网",
-              "summary": "研究称OpenAI智能体“劫持”网站开展“协作” 新华网",
-              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mcGtKRzJ0M25YMmcycnN2Rzd0QzZWb285a09sTE1kRGE1aldKY25PYTM5ZDlUQ0Uxd2pFTzFUWlg0NkVsZXRMdDRRY3lWVDJJcW9EQXlvbTYwbjRETFUxMVZhYUhVOERTdTVub25KeWhmNUtfRm1INFlCeVlmdw?oc=5",
               "source": "新华社"
             },
             {
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "The Venezuelan billionaire the US investigated for money laundering now has a Pe…",
-              "summary": "The billionaire who helped broker the Trump administration’s sweeping long-term oil deal with Venezuela was until recently a target of U.S.…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9dbac2e982442d88ef2e61b377034b&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fvenezuelan-billionaire-us-investigated-money-laundering-now-has-pentagon-oil-2026-09-05%2f&c=4582737313178278326&mkt=en-us",
+              "title": "Amazon Prime Air Boeing 767 overruns runway at Miami airport",
+              "summary": "An Amazon Prime ​Air cargo flight overran ‌a runway at Miami International Airport on Sunday, ​prompting the closure ​of all runways and tax…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9dc9485fa44c6c8caed08e4f01d96a&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2famazon-prime-air-boeing-767-overruns-runway-miami-airport-2026-09-06%2f&c=8640138497450770903&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -134,33 +134,33 @@
       "items": [
         {
           "rank": 1,
-          "title": "工作人员曾反复劝阻女孩赴港看演唱会",
-          "hot_value": "362637",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%9B%BE%E5%8F%8D%E5%A4%8D%E5%8A%9D%E9%98%BB%E5%A5%B3%E5%AD%A9%E8%B5%B4%E6%B8%AF%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%23"
+          "title": "大家不爱住民宿了吗",
+          "hot_value": "148061",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AE%B6%E4%B8%8D%E7%88%B1%E4%BD%8F%E6%B0%91%E5%AE%BF%E4%BA%86%E5%90%97%23"
         },
         {
           "rank": 2,
-          "title": "大家不爱住民宿了吗",
-          "hot_value": "215050",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AE%B6%E4%B8%8D%E7%88%B1%E4%BD%8F%E6%B0%91%E5%AE%BF%E4%BA%86%E5%90%97%23"
+          "title": "中国女篮大概率小组出线",
+          "hot_value": "90313",
+          "link": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E5%A4%A7%E6%A6%82%E7%8E%87%E5%B0%8F%E7%BB%84%E5%87%BA%E7%BA%BF%23"
         },
         {
           "rank": 3,
           "title": "青春华章向新而行",
-          "hot_value": "85986",
+          "hot_value": "79862",
           "link": "https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%98%A5%E5%8D%8E%E7%AB%A0%E5%90%91%E6%96%B0%E8%80%8C%E8%A1%8C%23"
         },
         {
           "rank": 4,
-          "title": "小米18Fold今晚7点发布",
-          "hot_value": "84111",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B318Fold%E4%BB%8A%E6%99%9A7%E7%82%B9%E5%8F%91%E5%B8%83%23"
+          "title": "小米澎程SUV今晚上市",
+          "hot_value": "79334",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BSUV%E4%BB%8A%E6%99%9A%E4%B8%8A%E5%B8%82%23"
         },
         {
           "rank": 5,
-          "title": "肖战背后拍爸妈看李宇春演唱会",
-          "hot_value": "83969",
-          "link": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%83%8C%E5%90%8E%E6%8B%8D%E7%88%B8%E5%A6%88%E7%9C%8B%E6%9D%8E%E5%AE%87%E6%98%A5%E6%BC%94%E5%94%B1%E4%BC%9A%23"
+          "title": "半个娱乐圈明星都去李宇春演唱会",
+          "hot_value": "77749",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%8D%8A%E4%B8%AA%E5%A8%B1%E4%B9%90%E5%9C%88%E6%98%8E%E6%98%9F%E9%83%BD%E5%8E%BB%E6%9D%8E%E5%AE%87%E6%98%A5%E6%BC%94%E5%94%B1%E4%BC%9A%23"
         }
       ]
     }
