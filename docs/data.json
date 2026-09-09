@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09 07:12:40 (北京时间)",
+  "updated_at": "2026-09-09 08:21:19 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -7,11 +7,73 @@
       "sources": [
         {
           "source_name": "新华社",
-          "items": []
+          "items": [
+            {
+              "title": "嘉宾观点 - 新华网",
+              "summary": "嘉宾观点 新华网",
+              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16TDVyVXlWaVRfLV9wZjRheFR2YTAtWFFCNWlWN1pLNFNxR3dzbDF4aXhJWEh1ZXNJenlLUEZEaWZzcGZfR0pmOGhpUl9zVmQ3dzROM2swLVFaVFN2YmluUnlWTQ?oc=5",
+              "source": "新华社"
+            },
+            {
+              "title": "高清图片 - 新华网",
+              "summary": "高清图片 新华网",
+              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nV3BtV2I5Ml80M2JNVkI2ZUt5bzh3YWI3bkF4cEZheF93ME4xcFAwUzc1Y2tYN2hGQUs3UE82MkU1ZHVWeDdwWXdEYjVCS1ZNbW1tVDZONDJtNENYcldyY2Fpcw?oc=5",
+              "source": "新华社"
+            },
+            {
+              "title": "精彩视频 - 新华网",
+              "summary": "精彩视频 新华网",
+              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CTTBTVU5kQlRhOVhBMDBwZUktRUkxc0h0S0wyMTJPMmVFMHFYLXJ1MGxQVkU4emZFMkFQMGg4TjIxa1YxUjViaGVpVi1zVEdqaVBoVG9GQ0ZnUW50NHpNa1M3cw?oc=5",
+              "source": "新华社"
+            },
+            {
+              "title": "Comments丨Asia-Pacific Media Forum丨English.news.cn - Xinhua",
+              "summary": "Comments丨Asia-Pacific Media Forum丨English.news.cn Xinhua",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16bkxwWTYxdWFMMlpLb3hHQl9IcEY4WS1lRjdQRzFqaUVNWHNNZW0yZmJNM0lNcFVWWUpSRzZ0WmpZNWtfbllLTGtKRV9Mc2toY1JlcFp0cE1jTERxLVBuZUl2ZF9YQm9oUTg5bA?oc=5",
+              "source": "新华社"
+            },
+            {
+              "title": "新华网_让新闻离你更近 - 新华网",
+              "summary": "新华网_让新闻离你更近 新华网",
+              "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE5FdWV6S1M3MF9oYnROX0tuQkJLWEhDQmVGUWdYbzAzbjNvd3BRdElPSlVua05Pdw?oc=5",
+              "source": "新华社"
+            }
+          ]
         },
         {
           "source_name": "人民日报",
-          "items": []
+          "items": [
+            {
+              "title": "责编：王 平 柴逸扉 邮箱：gtbhwb@people.cn - 人民日报",
+              "summary": "责编：王 平 柴逸扉 邮箱：gtbhwb@people.cn 人民日报",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM0pNWEQxUFdpZHRPTWM1VThyRlB1dUZuRzVNUUN1aVIxQmxmZy1STzdWbzhqenlWVkdXTGx2QXZBZmxfZzFpTTE4UmVvdFZjN0R0Sm0wUUZSaVlSLWdjOVEyb202LWg5Sl9OU0NGdEtXSkI0Qk9wUVNsa1dhR05MNDdfNA?oc=5",
+              "source": "人民日报"
+            },
+            {
+              "title": "责编：金 晨 邮箱：gtbhwb@people.cn - 人民日报",
+              "summary": "责编：金 晨 邮箱：gtbhwb@people.cn 人民日报",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQnFzazN1TEZodWs2LUdhLWVESllnZWtUNVB5cDltQlI0cTB4aXZVZ1M3MmN5aktER25UNkwzX3JPY1d2dVlCaGd1RXZXNWdLYXhIeUM5THNlTGdtTWtsNktNMFVva3dBNnRmaHBBZ0tkMmZFclRmaGRPeVF2SFNoX094VQ?oc=5",
+              "source": "人民日报"
+            },
+            {
+              "title": "责编：王 平 柴逸扉 邮箱：gtbhwb@people.cn - 人民日报",
+              "summary": "责编：王 平 柴逸扉 邮箱：gtbhwb@people.cn 人民日报",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV1J1cll5M09ZQWVwR1BRWU9OekljQWdHeklSWXZlU0NHMjRRd1NHTVZmQ3JmVWtvc2NhQUVUcmE3RDA0OEF6amM3WXdGUEZVMEJUUTRBRzM3LVJzN0szWVVRSVZZZzFRUDg3em5BR3FDdS1mVG5XMFZ1SXdOVDNnRzRVb28?oc=5",
+              "source": "人民日报"
+            },
+            {
+              "title": "2026年9月9日国台办新闻发布会 - 人民网台湾",
+              "summary": "2026年9月9日国台办新闻发布会 人民网台湾",
+              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15ZGtPQTE5MFNxSU5uWk1WRkctWGx0QlpTbE9LN1ZvWUlvbk5uQnBycWduWmZoZ211Tml2ODZyRXMyaUg1UjRQSUtvWndTbFl3bkoyTzNZSlNadGVhQ0RN?oc=5",
+              "source": "人民日报"
+            },
+            {
+              "title": "化学兵器禁止機関代表団の訪中について外交部が説明 - 人民網日本語版",
+              "summary": "化学兵器禁止機関代表団の訪中について外交部が説明 人民網日本語版",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TdE5DYmV0R18xVUNnSHNocDZrUmZnZWx6Tkc3V3VjLW9uUHhCcHBSaXhjeEUtUkREQ0RPcDN5ZWhXcC1SYnkwa3REeXpzTnhLZGRYeFdDeTdCc0I2Z0YwTGpGQTZ5MUk?oc=5",
+              "source": "人民日报"
+            }
+          ]
         }
       ]
     },
@@ -57,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "War expands as Iran-backed Houthis attack Saudi cities and US strikes Iranian ta…",
-              "summary": "Iran threatened the United States with \"economic warfare\" on Tuesday and said it had fired an advanced missile at U.S. warships, underscorin…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa09667e9414b56a8de4df60f7a009d&url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firan-says-it-plans-new-gulf-exclusion-zone-threatens-us-with-new-missiles-2026-09-08%2f&c=44500671519671122&mkt=en-us",
+              "title": "Canada's retaliatory tariffs take effect as US trade talks stall",
+              "summary": "Canada's retaliatory tariffs on U.S. goods took effect ​just after midnight on Tuesday as Prime Minister Mark Carney increased economic pres…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa0a67e29044e06a53809b4058a680c&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2fcanadas-retaliatory-tariffs-take-effect-us-trade-talks-stall-2026-09-08%2f&c=7108795831041190119&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -72,39 +134,36 @@
       "items": [
         {
           "rank": 1,
-          "title": "金球奖",
-          "hot_value": "668049",
-          "link": "https://s.weibo.com/weibo?q=%23%E9%87%91%E7%90%83%E5%A5%96%23"
+          "title": "香港首任特首董建华逝世",
+          "hot_value": "2057563",
+          "link": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E9%A6%96%E4%BB%BB%E7%89%B9%E9%A6%96%E8%91%A3%E5%BB%BA%E5%8D%8E%E9%80%9D%E4%B8%96%23"
         },
         {
           "rank": 2,
-          "title": "特朗普一次惹了20国",
-          "hot_value": "489776",
-          "link": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%80%E6%AC%A1%E6%83%B9%E4%BA%8620%E5%9B%BD%23"
+          "title": "美股 光通信",
+          "hot_value": "941958",
+          "link": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%20%E5%85%89%E9%80%9A%E4%BF%A1%23"
         },
         {
           "rank": 3,
           "title": "从瑞金到延安的初心奔赴",
-          "hot_value": "398990",
+          "hot_value": "764542",
           "link": "https://s.weibo.com/weibo?q=%23%E4%BB%8E%E7%91%9E%E9%87%91%E5%88%B0%E5%BB%B6%E5%AE%89%E7%9A%84%E5%88%9D%E5%BF%83%E5%A5%94%E8%B5%B4%23"
         },
         {
           "rank": 4,
           "title": "这段话杀死了内耗型人格",
-          "hot_value": "396810",
+          "hot_value": "758990",
           "link": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%AE%B5%E8%AF%9D%E6%9D%80%E6%AD%BB%E4%BA%86%E5%86%85%E8%80%97%E5%9E%8B%E4%BA%BA%E6%A0%BC%23"
         },
         {
           "rank": 5,
           "title": "这样的吃播该全面叫停了",
-          "hot_value": "390261",
+          "hot_value": "752479",
           "link": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%A0%B7%E7%9A%84%E5%90%83%E6%92%AD%E8%AF%A5%E5%85%A8%E9%9D%A2%E5%8F%AB%E5%81%9C%E4%BA%86%23"
         }
       ]
     }
   ],
-  "errors": [
-    "新华社: 必应搜索失败(HTTP 200，但解析出0条内容（可能页面结构变化或被限流）)；谷歌新闻搜索也失败(503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Anews.cn&hl=zh-CN&gl=CN&ceid=CN:zh-Hans)",
-    "人民日报: 必应搜索失败(HTTP 200，但解析出0条内容（可能页面结构变化或被限流）)；谷歌新闻搜索也失败(503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Apeople.com.cn&hl=zh-CN&gl=CN&ceid=CN:zh-Hans)"
-  ]
+  "errors": []
 }
