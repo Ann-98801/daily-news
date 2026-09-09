@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09 16:14:22 (北京时间)",
+  "updated_at": "2026-09-09 17:13:46 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -12,12 +12,6 @@
               "title": "嘉宾观点 - 新华网",
               "summary": "嘉宾观点 新华网",
               "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16TDVyVXlWaVRfLV9wZjRheFR2YTAtWFFCNWlWN1pLNFNxR3dzbDF4aXhJWEh1ZXNJenlLUEZEaWZzcGZfR0pmOGhpUl9zVmQ3dzROM2swLVFaVFN2YmluUnlWTQ?oc=5",
-              "source": "新华社"
-            },
-            {
-              "title": "“欧佩克+”主要产油国决定保持10月产量不变 - 新华网",
-              "summary": "“欧佩克+”主要产油国决定保持10月产量不变 新华网",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LV2d3YVVfOHhGbTlyMFNNU3NQZmh1a1llUnUyQXNHa0g0akwxckNqMVdDMzlQejBoQlNEUlhMNXl1UlUtamcyOFM3MGpyd2h4ZDFmZEM3di1xM2sxci1kNEE2anFzTE1KOFlNQzR2QXV5eEVSb0MxZnZZeV9PVkE?oc=5",
               "source": "新华社"
             },
             {
@@ -36,6 +30,12 @@
               "title": "新华网_让新闻离你更近 - 新华网",
               "summary": "新华网_让新闻离你更近 新华网",
               "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE5FdWV6S1M3MF9oYnROX0tuQkJLWEhDQmVGUWdYbzAzbjNvd3BRdElPSlVua05Pdw?oc=5",
+              "source": "新华社"
+            },
+            {
+              "title": "国际_新华网_让新闻离你更近 - 新华网",
+              "summary": "国际_新华网_让新闻离你更近 新华网",
+              "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9zSWtjUFY2VmQyM0J1X1hwYTFvRTh4M2lDeXR0X0FLRk55VFhQM3lTMW5pTWZZaXRPUnNRU093?oc=5",
               "source": "新华社"
             }
           ]
@@ -85,15 +85,15 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "US strikes Iranian oil tankers as Tehran targets American base in Jordan",
-              "summary": "Oil prices edged closer to $100 a barrel after an escalation in the tit-for-tat strikes between the US and Iran.",
+              "title": "Oil hits $100 a barrel for first time since July after flare up in US-Iran confl…",
+              "summary": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
               "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
             {
-              "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
-              "summary": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
-              "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
+              "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
+              "summary": "It is the latest strike in a long trade war, and comes as Canadian counter-tariffs on US goods come into force.",
+              "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "US to ban Canadian motorcycle, dairy, alcohol imports as trade war sizzles",
-              "summary": "Canada's retaliatory tariffs on U.S. goods took effect ​just after midnight on Tuesday as Prime Minister Mark Carney increased economic pres…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa1155d66cc4f1a9cdec2e4f429f743&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2fcanadas-retaliatory-tariffs-take-effect-us-trade-talks-stall-2026-09-08%2f&c=7108795831041190119&mkt=en-us",
+              "title": "Republicans are making Muslims a campaign issue in the 2026 US midterms",
+              "summary": "Sayed, a Muslim and a Democrat running for the U.S. Senate in Michigan, \"very, very evil\" at a rally last week, accusing him of defending te…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa12349ef3b486abd5b503372425567&url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2frepublicans-are-making-muslims-campaign-issue-2026-us-midterms-2026-09-08%2f&c=5453097523744729044&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -135,31 +135,31 @@
         {
           "rank": 1,
           "title": "梅姨在广州摆摊卖切块芒果",
-          "hot_value": "1673773",
+          "hot_value": "1129820",
           "link": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E5%A7%A8%E5%9C%A8%E5%B9%BF%E5%B7%9E%E6%91%86%E6%91%8A%E5%8D%96%E5%88%87%E5%9D%97%E8%8A%92%E6%9E%9C%23"
         },
         {
           "rank": 2,
-          "title": "Duo 手机iPad二合一",
-          "hot_value": "935470",
-          "link": "https://s.weibo.com/weibo?q=%23Duo%20%E6%89%8B%E6%9C%BAiPad%E4%BA%8C%E5%90%88%E4%B8%80%23"
+          "title": "duo是什么意思",
+          "hot_value": "940021",
+          "link": "https://s.weibo.com/weibo?q=%23duo%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D%23"
         },
         {
           "rank": 3,
           "title": "服贸会今日开幕",
-          "hot_value": "702716",
+          "hot_value": "643385",
           "link": "https://s.weibo.com/weibo?q=%23%E6%9C%8D%E8%B4%B8%E4%BC%9A%E4%BB%8A%E6%97%A5%E5%BC%80%E5%B9%95%23"
         },
         {
           "rank": 4,
-          "title": "自费买可乐的外卖骑手被奖励一年骑手餐",
-          "hot_value": "508332",
-          "link": "https://s.weibo.com/weibo?q=%23%E8%87%AA%E8%B4%B9%E4%B9%B0%E5%8F%AF%E4%B9%90%E7%9A%84%E5%A4%96%E5%8D%96%E9%AA%91%E6%89%8B%E8%A2%AB%E5%A5%96%E5%8A%B1%E4%B8%80%E5%B9%B4%E9%AA%91%E6%89%8B%E9%A4%90%23"
+          "title": "华为阔直板今日开售",
+          "hot_value": "455399",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E9%98%94%E7%9B%B4%E6%9D%BF%E4%BB%8A%E6%97%A5%E5%BC%80%E5%94%AE%23"
         },
         {
           "rank": 5,
           "title": "栾念尚之桃穿得太少了",
-          "hot_value": "357613",
+          "hot_value": "396035",
           "link": "https://s.weibo.com/weibo?q=%23%E6%A0%BE%E5%BF%B5%E5%B0%9A%E4%B9%8B%E6%A1%83%E7%A9%BF%E5%BE%97%E5%A4%AA%E5%B0%91%E4%BA%86%23"
         }
       ]
