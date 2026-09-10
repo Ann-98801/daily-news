@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11 00:13:17 (北京时间)",
+  "updated_at": "2026-09-11 01:12:03 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -9,8 +9,8 @@
           "source_name": "新华社",
           "items": [
             {
-              "title": "师者担当 启智润心 - education.news.cn",
-              "summary": "师者担当 启智润心 education.news.cn",
+              "title": "师者担当 启智润心 - 新华网",
+              "summary": "师者担当 启智润心 新华网",
               "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pN05fSFp4bGdBa0w1ZkNrWUhNU1dVekVIYUU0ZzcxT2tkMDUweXhRclJhbXBlUnJPb3NFYWo0cDZMdUVkYUswNEtfdmdaTS1MTWM2ME1fZXk2dy0wOF9n?oc=5",
               "source": "新华社"
             },
@@ -85,15 +85,15 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "Trump says every adult American will get $5,000 if Republicans win midterms",
-              "summary": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
-              "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
+              "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
+              "summary": "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route.",
+              "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
             {
-              "title": "Watch: Is Trump's $5,000 election pledge legal?",
-              "summary": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.",
-              "link": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
+              "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
+              "summary": "One pilot told the other about the aircraft's \"excessive speed\" but received an uneven response even as alarms sounded.",
+              "link": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Houthis advance along Yemeni coast, threaten Saudi oil exports in the Red Sea",
-              "summary": "President Donald Trump said he expected the war with Iran to end ​after the November U.S. midterm elections and threatened again to attack a…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa2d71c34974d64914a6be895fd3499&url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2ftrump-says-iran-war-end-after-us-midterm-elections-threatens-attack-pickaxe-2026-09-10%2f&c=7233146672549415934&mkt=en-us",
+              "title": "ECB raises interest rates, bolstering bets for further moves",
+              "summary": "The European Central Bank looks set to raise interest rates on Thursday for the second time this year, seeking to head off an energy-driven…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa2e4e2443b4335b16fa1b9a639e715&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fecb-set-hike-iran-war-fuels-fresh-inflation-fears-2026-09-09%2f&c=10696870335341371548&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -134,32 +134,32 @@
       "items": [
         {
           "rank": 1,
-          "title": "青岛货轮火灾25人遇难",
-          "hot_value": "977199",
-          "link": "https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E8%B4%A7%E8%BD%AE%E7%81%AB%E7%81%BE25%E4%BA%BA%E9%81%87%E9%9A%BE%23"
+          "title": "人为什么要读书最好的答案",
+          "hot_value": "569930",
+          "link": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AF%BB%E4%B9%A6%E6%9C%80%E5%A5%BD%E7%9A%84%E7%AD%94%E6%A1%88%23"
         },
         {
           "rank": 2,
-          "title": "日本梅毒暴发与三个一有关",
-          "hot_value": "724289",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E6%9A%B4%E5%8F%91%E4%B8%8E%E4%B8%89%E4%B8%AA%E4%B8%80%E6%9C%89%E5%85%B3%23"
+          "title": "上海28元一份馄饨只有两颗",
+          "hot_value": "400216",
+          "link": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B728%E5%85%83%E4%B8%80%E4%BB%BD%E9%A6%84%E9%A5%A8%E5%8F%AA%E6%9C%89%E4%B8%A4%E9%A2%97%23"
         },
         {
           "rank": 3,
           "title": "我国成功发射一箭六星",
-          "hot_value": "688523",
+          "hot_value": "336524",
           "link": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E4%B8%80%E7%AE%AD%E5%85%AD%E6%98%9F%23"
         },
         {
           "rank": 4,
           "title": "建议大家把内裤袜子丢洗衣机洗",
-          "hot_value": "674006",
+          "hot_value": "303330",
           "link": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E6%8A%8A%E5%86%85%E8%A3%A4%E8%A2%9C%E5%AD%90%E4%B8%A2%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%B4%97%23"
         },
         {
           "rank": 5,
           "title": "教育界迎来了最严厉的父母",
-          "hot_value": "673724",
+          "hot_value": "299769",
           "link": "https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E7%95%8C%E8%BF%8E%E6%9D%A5%E4%BA%86%E6%9C%80%E4%B8%A5%E5%8E%89%E7%9A%84%E7%88%B6%E6%AF%8D%23"
         }
       ]
