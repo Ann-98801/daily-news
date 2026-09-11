@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11 16:14:44 (北京时间)",
+  "updated_at": "2026-09-11 17:13:15 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -8,6 +8,12 @@
         {
           "source_name": "新华社",
           "items": [
+            {
+              "title": "提质增效惠民生齐鲁医保显担当 - 新华网",
+              "summary": "提质增效惠民生齐鲁医保显担当 新华网",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUSXRmUGdnSzJObkpiOElDZ2lmOE50QVVHRlFzR1RhcURMLWZvQ2MwdFVYcVBoWlZlcWZPMGNnbEZ4N1YwdEVVdm9fWm9xSFk?oc=5",
+              "source": "新华社"
+            },
             {
               "title": "嘉宾观点 - 新华网",
               "summary": "嘉宾观点 新华网",
@@ -21,8 +27,8 @@
               "source": "新华社"
             },
             {
-              "title": "新华网国际看点丨元首战略引领推动中吉关系迈上新高度 - 新华网",
-              "summary": "新华网国际看点丨元首战略引领推动中吉关系迈上新高度 新华网",
+              "title": "国际_新华网_让新闻离你更近 - 新华网",
+              "summary": "国际_新华网_让新闻离你更近 新华网",
               "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9zSWtjUFY2VmQyM0J1X1hwYTFvRTh4M2lDeXR0X0FLRk55VFhQM3lTMW5pTWZZaXRPUnNRU093?oc=5",
               "source": "新华社"
             },
@@ -30,12 +36,6 @@
               "title": "高清图片 - 新华网",
               "summary": "高清图片 新华网",
               "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nV3BtV2I5Ml80M2JNVkI2ZUt5bzh3YWI3bkF4cEZheF93ME4xcFAwUzc1Y2tYN2hGQUs3UE82MkU1ZHVWeDdwWXdEYjVCS1ZNbW1tVDZONDJtNENYcldyY2Fpcw?oc=5",
-              "source": "新华社"
-            },
-            {
-              "title": "精彩视频 - 新华网",
-              "summary": "精彩视频 新华网",
-              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CTTBTVU5kQlRhOVhBMDBwZUktRUkxc0h0S0wyMTJPMmVFMHFYLXJ1MGxQVkU4emZFMkFQMGg4TjIxa1YxUjViaGVpVi1zVEdqaVBoVG9GQ0ZnUW50NHpNa1M3cw?oc=5",
               "source": "新华社"
             }
           ]
@@ -62,8 +62,8 @@
               "source": "人民日报"
             },
             {
-              "title": "化学兵器禁止機関代表団の訪中について外交部が説明 - 人民網日本語版",
-              "summary": "化学兵器禁止機関代表団の訪中について外交部が説明 人民網日本語版",
+              "title": "化学兵器禁止機関代表団の訪中について外交部が説明 - j.people.com.cn",
+              "summary": "化学兵器禁止機関代表団の訪中について外交部が説明 j.people.com.cn",
               "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TdE5DYmV0R18xVUNnSHNocDZrUmZnZWx6Tkc3V3VjLW9uUHhCcHBSaXhjeEUtUkREQ0RPcDN5ZWhXcC1SYnkwa3REeXpzTnhLZGRYeFdDeTdCc0I2Z0YwTGpGQTZ5MUk?oc=5",
               "source": "人民日报"
             },
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "More US lawmakers seek new AI rules after Anthropic researchers warn of human ex…",
-              "summary": "In a September 9 letter to OpenAI CEO Sam Altman, Senator Josh Hawley said the investigation was launched ​in light of \"new, disturbing evid…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa3b8739bb148739202c44f7b89bec4&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fopenai-faces-senate-probe-into-hugging-face-incident-axios-reports-2026-09-10%2f&c=15787941194895894661&mkt=en-us",
+              "title": "Five big takeaways from Trump's midterm convention",
+              "summary": "President Donald Trump and his Republican Party wrapped up an unusual convention in Dallas on Thursday hoping to strengthen their midterm el…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa3c62a905749d584ef6abcf8d30a42&url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ffive-big-takeaways-trumps-midterm-convention-2026-09-11%2f&c=10831138639507811221&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -134,33 +134,33 @@
       "items": [
         {
           "rank": 1,
-          "title": "雷宇扬去世",
-          "hot_value": "1189624",
-          "link": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%AE%87%E6%89%AC%E5%8E%BB%E4%B8%96%23"
+          "title": "葫芦爷爷重新挂出葫芦",
+          "hot_value": "1989396",
+          "link": "https://s.weibo.com/weibo?q=%23%E8%91%AB%E8%8A%A6%E7%88%B7%E7%88%B7%E9%87%8D%E6%96%B0%E6%8C%82%E5%87%BA%E8%91%AB%E8%8A%A6%23"
         },
         {
           "rank": 2,
-          "title": "香蕉地喷3天农药毒死隔壁5万斤牛蛙",
-          "hot_value": "976596",
-          "link": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E8%95%89%E5%9C%B0%E5%96%B73%E5%A4%A9%E5%86%9C%E8%8D%AF%E6%AF%92%E6%AD%BB%E9%9A%94%E5%A3%815%E4%B8%87%E6%96%A4%E7%89%9B%E8%9B%99%23"
+          "title": "打假网红铁头一审获刑8年",
+          "hot_value": "1212665",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%89%93%E5%81%87%E7%BD%91%E7%BA%A2%E9%93%81%E5%A4%B4%E4%B8%80%E5%AE%A1%E8%8E%B7%E5%88%918%E5%B9%B4%23"
         },
         {
           "rank": 3,
           "title": "服贸会上一眼未来",
-          "hot_value": "667072",
+          "hot_value": "1006514",
           "link": "https://s.weibo.com/weibo?q=%23%E6%9C%8D%E8%B4%B8%E4%BC%9A%E4%B8%8A%E4%B8%80%E7%9C%BC%E6%9C%AA%E6%9D%A5%23"
         },
         {
           "rank": 4,
-          "title": "男子离婚6年后发现自己被去父留子",
-          "hot_value": "628799",
-          "link": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A6%BB%E5%A9%9A6%E5%B9%B4%E5%90%8E%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E8%A2%AB%E5%8E%BB%E7%88%B6%E7%95%99%E5%AD%90%23"
+          "title": "香蕉地喷3天农药毒死隔壁5万斤牛蛙",
+          "hot_value": "847727",
+          "link": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E8%95%89%E5%9C%B0%E5%96%B73%E5%A4%A9%E5%86%9C%E8%8D%AF%E6%AF%92%E6%AD%BB%E9%9A%94%E5%A3%815%E4%B8%87%E6%96%A4%E7%89%9B%E8%9B%99%23"
         },
         {
           "rank": 5,
-          "title": "中国汽车全球首次使用折叠屏",
-          "hot_value": "401592",
-          "link": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%A1%E4%BD%BF%E7%94%A8%E6%8A%98%E5%8F%A0%E5%B1%8F%23"
+          "title": "雷宇扬去世",
+          "hot_value": "681915",
+          "link": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%AE%87%E6%89%AC%E5%8E%BB%E4%B8%96%23"
         }
       ]
     }
