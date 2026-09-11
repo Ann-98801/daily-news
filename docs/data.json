@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11 18:13:36 (北京时间)",
+  "updated_at": "2026-09-11 19:13:02 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -85,15 +85,15 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "Yemen's Houthis seize strategic Red Sea port of Mokha",
-              "summary": "Mokha's capture brings the Iran-backed group closer to controlling a key international shipping route.",
-              "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
+              "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
+              "summary": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to hum…",
+              "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
             {
-              "title": "Five killed and 67 injured in Russian strike on shopping centre, Ukraine says",
-              "summary": "The attack in Pavlohrad city centre was the third Russian strike on a mall within days, local media report.",
-              "link": "https://www.bbc.co.uk/news/articles/cpvelrmp1vmo?at_medium=RSS&at_campaign=rss",
+              "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+              "summary": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.",
+              "link": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "More US lawmakers seek new AI rules after Anthropic researchers warn of human ex…",
-              "summary": "In a September 9 letter to OpenAI CEO Sam Altman, Senator Josh Hawley said the investigation was launched ​in light of \"new, disturbing evid…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa3d44f19a84e069270ac8c294e4c12&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fopenai-faces-senate-probe-into-hugging-face-incident-axios-reports-2026-09-10%2f&c=15787941194895894661&mkt=en-us",
+              "title": "Global bond selloff keeps 10-year US yield near 5% on oil, rate-hike fears",
+              "summary": "A global bond selloff pushed U.S. 10-year Treasury yields near the closely watched 5% level on Friday ​as inflationary fears stemming from o…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa3e23c131649efb1d96f09764be7e7&url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fglobal-bond-selloff-pushes-10-year-us-yield-toward-5-oil-rate-hike-fears-2026-09-11%2f&c=5582281952947538595&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -135,32 +135,32 @@
         {
           "rank": 1,
           "title": "男子编造停捐遭威胁事件被抓",
-          "hot_value": "1254160",
+          "hot_value": "1131139",
           "link": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%BC%96%E9%80%A0%E5%81%9C%E6%8D%90%E9%81%AD%E5%A8%81%E8%83%81%E4%BA%8B%E4%BB%B6%E8%A2%AB%E6%8A%93%23"
         },
         {
           "rank": 2,
           "title": "打假网红铁头一审获刑8年",
-          "hot_value": "871189",
+          "hot_value": "839524",
           "link": "https://s.weibo.com/weibo?q=%23%E6%89%93%E5%81%87%E7%BD%91%E7%BA%A2%E9%93%81%E5%A4%B4%E4%B8%80%E5%AE%A1%E8%8E%B7%E5%88%918%E5%B9%B4%23"
         },
         {
           "rank": 3,
           "title": "服贸会上一眼未来",
-          "hot_value": "691943",
+          "hot_value": "638250",
           "link": "https://s.weibo.com/weibo?q=%23%E6%9C%8D%E8%B4%B8%E4%BC%9A%E4%B8%8A%E4%B8%80%E7%9C%BC%E6%9C%AA%E6%9D%A5%23"
         },
         {
           "rank": 4,
-          "title": "雷宇扬去世",
-          "hot_value": "535962",
-          "link": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%AE%87%E6%89%AC%E5%8E%BB%E4%B8%96%23"
+          "title": "资助女生被威胁系男子自导自演",
+          "hot_value": "460045",
+          "link": "https://s.weibo.com/weibo?q=%23%E8%B5%84%E5%8A%A9%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%A8%81%E8%83%81%E7%B3%BB%E7%94%B7%E5%AD%90%E8%87%AA%E5%AF%BC%E8%87%AA%E6%BC%94%23"
         },
         {
           "rank": 5,
-          "title": "罚了51.79亿携程为何还在杀熟",
-          "hot_value": "532381",
-          "link": "https://s.weibo.com/weibo?q=%23%E7%BD%9A%E4%BA%8651.79%E4%BA%BF%E6%90%BA%E7%A8%8B%E4%B8%BA%E4%BD%95%E8%BF%98%E5%9C%A8%E6%9D%80%E7%86%9F%23"
+          "title": "男子停止助学资助反被威胁事件反转",
+          "hot_value": "439187",
+          "link": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%9C%E6%AD%A2%E5%8A%A9%E5%AD%A6%E8%B5%84%E5%8A%A9%E5%8F%8D%E8%A2%AB%E5%A8%81%E8%83%81%E4%BA%8B%E4%BB%B6%E5%8F%8D%E8%BD%AC%23"
         }
       ]
     }
