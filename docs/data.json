@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11 10:13:13 (北京时间)",
+  "updated_at": "2026-09-11 11:13:07 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -8,12 +8,6 @@
         {
           "source_name": "新华社",
           "items": [
-            {
-              "title": "师者担当 启智润心 - 新华网",
-              "summary": "师者担当 启智润心 新华网",
-              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pN05fSFp4bGdBa0w1ZkNrWUhNU1dVekVIYUU0ZzcxT2tkMDUweXhRclJhbXBlUnJPb3NFYWo0cDZMdUVkYUswNEtfdmdaTS1MTWM2ME1fZXk2dy0wOF9n?oc=5",
-              "source": "新华社"
-            },
             {
               "title": "嘉宾观点 - 新华网",
               "summary": "嘉宾观点 新华网",
@@ -36,6 +30,12 @@
               "title": "高清图片 - 新华网",
               "summary": "高清图片 新华网",
               "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nV3BtV2I5Ml80M2JNVkI2ZUt5bzh3YWI3bkF4cEZheF93ME4xcFAwUzc1Y2tYN2hGQUs3UE82MkU1ZHVWeDdwWXdEYjVCS1ZNbW1tVDZONDJtNENYcldyY2Fpcw?oc=5",
+              "source": "新华社"
+            },
+            {
+              "title": "精彩视频 - 新华网",
+              "summary": "精彩视频 新华网",
+              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CTTBTVU5kQlRhOVhBMDBwZUktRUkxc0h0S0wyMTJPMmVFMHFYLXJ1MGxQVkU4emZFMkFQMGg4TjIxa1YxUjViaGVpVi1zVEdqaVBoVG9GQ0ZnUW50NHpNa1M3cw?oc=5",
               "source": "新华社"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Oil surges 6%, Brent and US crude both surpass $100 on more tanker attacks",
-              "summary": "Oil prices rose on Thursday, extending gains that took Brent over $100 a barrel in the previous session, as traders braced for deeper supply…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa363b8ea984cd1829c8bcabb4e4ce1&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fbrent-holds-above-100-tanker-attacks-deepen-supply-fear-2026-09-10%2f&c=9427889895546047168&mkt=en-us",
+              "title": "Altman tells staff OpenAI is open to slowing AI development, Bloomberg News repo…",
+              "summary": "OpenAI Chief Executive Sam Altman told employees at a company meeting this week that the firm was open ​to slowing development of its AI sys…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa371c2e409468fa2fb881a699bbc53&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faltman-tells-staff-openai-is-open-slowing-ai-development-bloomberg-news-reports-2026-09-11%2f&c=10001671456435730123&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -134,33 +134,33 @@
       "items": [
         {
           "rank": 1,
-          "title": "女孩被包办婚姻逃离后父母跨省抓人",
-          "hot_value": "1975964",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%A2%AB%E5%8C%85%E5%8A%9E%E5%A9%9A%E5%A7%BB%E9%80%83%E7%A6%BB%E5%90%8E%E7%88%B6%E6%AF%8D%E8%B7%A8%E7%9C%81%E6%8A%93%E4%BA%BA%23"
-        },
-        {
-          "rank": 2,
           "title": "库克承认是看华为等厂家出折叠机才出的",
-          "hot_value": "1542752",
+          "hot_value": "2249265",
           "link": "https://s.weibo.com/weibo?q=%23%E5%BA%93%E5%85%8B%E6%89%BF%E8%AE%A4%E6%98%AF%E7%9C%8B%E5%8D%8E%E4%B8%BA%E7%AD%89%E5%8E%82%E5%AE%B6%E5%87%BA%E6%8A%98%E5%8F%A0%E6%9C%BA%E6%89%8D%E5%87%BA%E7%9A%84%23"
         },
         {
+          "rank": 2,
+          "title": "景德镇学院通报宿舍调整事件",
+          "hot_value": "976058",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%BE%B7%E9%95%87%E5%AD%A6%E9%99%A2%E9%80%9A%E6%8A%A5%E5%AE%BF%E8%88%8D%E8%B0%83%E6%95%B4%E4%BA%8B%E4%BB%B6%23"
+        },
+        {
           "rank": 3,
-          "title": "我国成功发射一箭六星",
-          "hot_value": "1253354",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E4%B8%80%E7%AE%AD%E5%85%AD%E6%98%9F%23"
+          "title": "服贸会带你解锁消费服务新图景",
+          "hot_value": "808959",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%9C%8D%E8%B4%B8%E4%BC%9A%E5%B8%A6%E4%BD%A0%E8%A7%A3%E9%94%81%E6%B6%88%E8%B4%B9%E6%9C%8D%E5%8A%A1%E6%96%B0%E5%9B%BE%E6%99%AF%23"
         },
         {
           "rank": 4,
-          "title": "梅姨正脸",
-          "hot_value": "1090117",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E5%A7%A8%E6%AD%A3%E8%84%B8%23"
+          "title": "我还在用正太苹果",
+          "hot_value": "687248",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%88%91%E8%BF%98%E5%9C%A8%E7%94%A8%E6%AD%A3%E5%A4%AA%E8%8B%B9%E6%9E%9C%23"
         },
         {
           "rank": 5,
-          "title": "油价",
-          "hot_value": "1047060",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%B2%B9%E4%BB%B7%23"
+          "title": "杭州一阿里员工被派去看苹果发布会",
+          "hot_value": "540609",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B8%80%E9%98%BF%E9%87%8C%E5%91%98%E5%B7%A5%E8%A2%AB%E6%B4%BE%E5%8E%BB%E7%9C%8B%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A%23"
         }
       ]
     }
