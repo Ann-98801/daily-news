@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12 14:16:16 (北京时间)",
+  "updated_at": "2026-09-12 15:11:23 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping",
-              "summary": "Saudi Arabia has shut down its East-West pipeline ​after the vital oil conduit came under aerial attack in the widening Middle East war.",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa4ee2f76bb4b489b43e789a1d707af&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fsaudis-shut-down-oil-pipeline-houthis-tighten-grip-red-sea-shipping-2026-09-12%2f&c=15367998949098121844&mkt=en-us",
+              "title": "Five big takeaways from Trump's midterm convention",
+              "summary": "President Donald Trump and his Republican Party wrapped up an unusual convention in Dallas on Thursday hoping to strengthen their midterm el…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa4fb1a2ddb4cc48167d54b4e7fa3aa&url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ffive-big-takeaways-trumps-midterm-convention-2026-09-11%2f&c=10831138639507811221&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -134,32 +134,32 @@
       "items": [
         {
           "rank": 1,
-          "title": "支付宝 假APP",
-          "hot_value": "2372318",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%94%AF%E4%BB%98%E5%AE%9D%20%E5%81%87APP%23"
-        },
-        {
-          "rank": 2,
           "title": "国乒男单全军覆没",
-          "hot_value": "1857989",
+          "hot_value": "1605110",
           "link": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E7%94%B7%E5%8D%95%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A1%23"
         },
         {
+          "rank": 2,
+          "title": "支付宝回应出现假App",
+          "hot_value": "919122",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%94%AF%E4%BB%98%E5%AE%9D%E5%9B%9E%E5%BA%94%E5%87%BA%E7%8E%B0%E5%81%87App%23"
+        },
+        {
           "rank": 3,
-          "title": "两场展会看中国机遇",
-          "hot_value": "815425",
-          "link": "https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%9C%BA%E5%B1%95%E4%BC%9A%E7%9C%8B%E4%B8%AD%E5%9B%BD%E6%9C%BA%E9%81%87%23"
+          "title": "一组海报带你看金砖",
+          "hot_value": "714741",
+          "link": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%BB%84%E6%B5%B7%E6%8A%A5%E5%B8%A6%E4%BD%A0%E7%9C%8B%E9%87%91%E7%A0%96%23"
         },
         {
           "rank": 4,
-          "title": "杨幂淘宝闪购荣誉合伙人庆生惊喜",
-          "hot_value": "790295",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD%E8%8D%A3%E8%AA%89%E5%90%88%E4%BC%99%E4%BA%BA%E5%BA%86%E7%94%9F%E6%83%8A%E5%96%9C%23"
+          "title": "支付宝 假APP",
+          "hot_value": "668950",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%94%AF%E4%BB%98%E5%AE%9D%20%E5%81%87APP%23"
         },
         {
           "rank": 5,
           "title": "男孩不爱喝牛奶在早餐店销赃",
-          "hot_value": "695755",
+          "hot_value": "586000",
           "link": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E4%B8%8D%E7%88%B1%E5%96%9D%E7%89%9B%E5%A5%B6%E5%9C%A8%E6%97%A9%E9%A4%90%E5%BA%97%E9%94%80%E8%B5%83%23"
         }
       ]
