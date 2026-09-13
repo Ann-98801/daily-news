@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13 08:19:00 (北京时间)",
+  "updated_at": "2026-09-13 09:10:58 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Paris cheers the power of Celine Dion",
-              "summary": "Celine Dion made an emotional return to the stage after a six-year absence on Saturday, overcoming high-profile health woes to ​thrill fans…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa5ebf35d374773ae6ee079a5770826&url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fparis-cheers-power-celine-dion-2026-09-13%2f&c=7148998843039582219&mkt=en-us",
+              "title": "Hyundai Motor to roll out in-house driver-assist system in 2029",
+              "summary": "Hyundai Motor Group will launch vehicles equipped with its proprietary driver-assistance software in late 2029, two years later than planned…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa5f82198174524b0afdde88f901001&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fautos-transportation%2fhyundai-motor-roll-out-in-house-driver-assist-system-2029-2026-09-13%2f&c=3237719523764878988&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -134,33 +134,33 @@
       "items": [
         {
           "rank": 1,
-          "title": "敬一丹去世",
-          "hot_value": "5490378",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%95%AC%E4%B8%80%E4%B8%B9%E5%8E%BB%E4%B8%96%23"
+          "title": "AI短剧 成瘾",
+          "hot_value": "2429243",
+          "link": "https://s.weibo.com/weibo?q=%23AI%E7%9F%AD%E5%89%A7%20%E6%88%90%E7%98%BE%23"
         },
         {
           "rank": 2,
-          "title": "AI短剧 成瘾",
-          "hot_value": "1362736",
-          "link": "https://s.weibo.com/weibo?q=%23AI%E7%9F%AD%E5%89%A7%20%E6%88%90%E7%98%BE%23"
+          "title": "敬一丹生平",
+          "hot_value": "1752917",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%95%AC%E4%B8%80%E4%B8%B9%E7%94%9F%E5%B9%B3%23"
         },
         {
           "rank": 3,
           "title": "金砖合作打造互联互通贸易通道",
-          "hot_value": "1098742",
+          "hot_value": "1569257",
           "link": "https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A0%96%E5%90%88%E4%BD%9C%E6%89%93%E9%80%A0%E4%BA%92%E8%81%94%E4%BA%92%E9%80%9A%E8%B4%B8%E6%98%93%E9%80%9A%E9%81%93%23"
         },
         {
           "rank": 4,
-          "title": "敬一丹女儿发布讣告",
-          "hot_value": "803673",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%95%AC%E4%B8%80%E4%B8%B9%E5%A5%B3%E5%84%BF%E5%8F%91%E5%B8%83%E8%AE%A3%E5%91%8A%23"
+          "title": "三战七周年送1000抽加自选橙卡",
+          "hot_value": "1526497",
+          "link": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%88%98%E4%B8%83%E5%91%A8%E5%B9%B4%E9%80%811000%E6%8A%BD%E5%8A%A0%E8%87%AA%E9%80%89%E6%A9%99%E5%8D%A1%23"
         },
         {
           "rank": 5,
-          "title": "莱巴金娜美网夺冠登顶世界第一",
-          "hot_value": "741668",
-          "link": "https://s.weibo.com/weibo?q=%23%E8%8E%B1%E5%B7%B4%E9%87%91%E5%A8%9C%E7%BE%8E%E7%BD%91%E5%A4%BA%E5%86%A0%E7%99%BB%E9%A1%B6%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%23"
+          "title": "海姆立克急救法变了",
+          "hot_value": "1525174",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%A7%86%E7%AB%8B%E5%85%8B%E6%80%A5%E6%95%91%E6%B3%95%E5%8F%98%E4%BA%86%23"
         }
       ]
     }
