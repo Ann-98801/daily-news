@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14 01:11:23 (北京时间)",
+  "updated_at": "2026-09-14 02:14:44 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -85,13 +85,13 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "Russia struck train near Poland border shortly after Boris Johnson and top Europ…",
+              "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officia…",
               "summary": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this mor…",
               "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
             {
-              "title": "Trump downplays AI risks after dire expert warnings and calls to slow developmen…",
+              "title": "Trump downplays warnings of AI risks, citing rivalry with China",
               "summary": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
               "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Anthropic selects Nasdaq for IPO, Business Insider reports",
-              "summary": "U.S. tech ​startup ‌Anthropic has ​selected ​Nasdaq for its ⁠potential ​initial ​public offering, Business ​Insider ​reported on Sunday, ‌ci…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa6d93ace614228bb239977a0b29ef3&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fanthropic-selects-nasdaq-ipo-business-insider-reports-2026-09-13%2f&c=15891830859290409852&mkt=en-us",
+              "title": "Spanish police move hundreds of migrants to new Ceuta camp",
+              "summary": "Police in the Spanish enclave of Ceuta on Sunday (September 13) transferred more than 800 migrants who had been camping on the streets to a…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa6e813ba1b404a9f998624d5915458&url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidRW246513092026RP1%2f&c=8221965103060447990&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -135,32 +135,32 @@
         {
           "rank": 1,
           "title": "白桃星座一周运势",
-          "hot_value": "577184",
+          "hot_value": "259752",
           "link": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7%E4%B8%80%E5%91%A8%E8%BF%90%E5%8A%BF%23"
         },
         {
           "rank": 2,
-          "title": "王曼昱登顶世界第一",
-          "hot_value": "420485",
-          "link": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E7%99%BB%E9%A1%B6%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%23"
+          "title": "大学生生活费才3000",
+          "hot_value": "170589",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%94%9F%E6%B4%BB%E8%B4%B9%E6%89%8D3000%23"
         },
         {
           "rank": 3,
           "title": "寻找金砖温度的答案",
-          "hot_value": "330838",
+          "hot_value": "132825",
           "link": "https://s.weibo.com/weibo?q=%23%E5%AF%BB%E6%89%BE%E9%87%91%E7%A0%96%E6%B8%A9%E5%BA%A6%E7%9A%84%E7%AD%94%E6%A1%88%23"
         },
         {
           "rank": 4,
-          "title": "哥哥披荆斩棘我披荆斩题",
-          "hot_value": "321551",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%93%A5%E5%93%A5%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%88%91%E6%8A%AB%E8%8D%86%E6%96%A9%E9%A2%98%23"
+          "title": "王曼昱登顶世界第一",
+          "hot_value": "132035",
+          "link": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E7%99%BB%E9%A1%B6%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%23"
         },
         {
           "rank": 5,
-          "title": "井柏然孙千偷偷牵手",
-          "hot_value": "295115",
-          "link": "https://s.weibo.com/weibo?q=%23%E4%BA%95%E6%9F%8F%E7%84%B6%E5%AD%99%E5%8D%83%E5%81%B7%E5%81%B7%E7%89%B5%E6%89%8B%23"
+          "title": "曼联曼城德比大战",
+          "hot_value": "120329",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%9B%BC%E8%81%94%E6%9B%BC%E5%9F%8E%E5%BE%B7%E6%AF%94%E5%A4%A7%E6%88%98%23"
         }
       ]
     }
