@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13 18:18:40 (北京时间)",
+  "updated_at": "2026-09-13 19:11:35 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -85,15 +85,15 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-              "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
-              "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+              "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher t…",
+              "summary": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
+              "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
             {
-              "title": "Trump's comments on a united Ireland may have targeted audience across the Atlan…",
-              "summary": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
-              "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
+              "title": "Six dead, 107 rescued from Indonesian ferry that went missing in Java Sea",
+              "summary": "Ships and helicopters are searching for the remaining 130 missing people from the Virgo Transport 8 ship, which had encountered bad weather.",
+              "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Anthropic CEO urges AI companies to slow model development amid fears over misus…",
-              "summary": "Dario Amodei's essay comes after Anthropic released a threat intelligence ⁠report detailing how several actors used its Claude AI models ​fo…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa6787f30eb4039b482f38032856a95&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fanthropic-ceo-urges-ai-companies-slow-model-development-2026-09-12%2f&c=8644815510828211380&mkt=en-us",
+              "title": "Rescuers search for 130 people after Indonesia passenger ship flipped; six dead,…",
+              "summary": "An Indonesian passenger ship carrying 243 ​people was reported missing after losing ‌contact in the Java Sea early on Sunday during bad weat…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa684e689c64bb99a5dc6a78706ad9c&url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2findonesia-passenger-ship-with-243-people-reported-missing-sea-agency-says-2026-09-13%2f&c=15987823479690710856&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -135,32 +135,32 @@
         {
           "rank": 1,
           "title": "北大图灵班",
-          "hot_value": "1125428",
+          "hot_value": "1101773",
           "link": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%9B%BE%E7%81%B5%E7%8F%AD%23"
         },
         {
           "rank": 2,
           "title": "法考",
-          "hot_value": "827027",
+          "hot_value": "825458",
           "link": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E8%80%83%23"
         },
         {
           "rank": 3,
           "title": "为什么金砖国家合作对全球发展举足轻重",
-          "hot_value": "662923",
+          "hot_value": "654592",
           "link": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E5%90%88%E4%BD%9C%E5%AF%B9%E5%85%A8%E7%90%83%E5%8F%91%E5%B1%95%E4%B8%BE%E8%B6%B3%E8%BD%BB%E9%87%8D%23"
         },
         {
           "rank": 4,
-          "title": "当老妈知道我工资1260后",
-          "hot_value": "647277",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%80%81%E5%A6%88%E7%9F%A5%E9%81%93%E6%88%91%E5%B7%A5%E8%B5%841260%E5%90%8E%23"
+          "title": "三战七周年送1000抽加自选橙卡",
+          "hot_value": "335398",
+          "link": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%88%98%E4%B8%83%E5%91%A8%E5%B9%B4%E9%80%811000%E6%8A%BD%E5%8A%A0%E8%87%AA%E9%80%89%E6%A9%99%E5%8D%A1%23"
         },
         {
           "rank": 5,
-          "title": "陈妍希儿子谢楠儿子见面就打",
-          "hot_value": "499828",
-          "link": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%E5%84%BF%E5%AD%90%E8%B0%A2%E6%A5%A0%E5%84%BF%E5%AD%90%E8%A7%81%E9%9D%A2%E5%B0%B1%E6%89%93%23"
+          "title": "BLG对战AL",
+          "hot_value": "325526",
+          "link": "https://s.weibo.com/weibo?q=%23BLG%E5%AF%B9%E6%88%98AL%23"
         }
       ]
     }
