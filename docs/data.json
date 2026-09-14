@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14 07:11:52 (北京时间)",
+  "updated_at": "2026-09-14 08:19:33 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -44,6 +44,12 @@
           "source_name": "人民日报",
           "items": [
             {
+              "title": "责编：金 晨 邮箱：gtbhwb@people.cn - 人民日报",
+              "summary": "责编：金 晨 邮箱：gtbhwb@people.cn 人民日报",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONWM3MXktMHk2WXZTWmVVenFjVHJSY1g2VGRGVUlNNmVZZXdMNXdDeGl2Vi12UUp4NlBFZnNHYkVkYmRQcEQ2ZUczUldyWWhpelRLMktGOEtRMGd5SE5QNGdJb3dlcVhCaDJPVk5YcG9WdVJYYm5KbDhVWTRsTENSNk55dw?oc=5",
+              "source": "人民日报"
+            },
+            {
               "title": "责编：王 平 柴逸扉 邮箱：gtbhwb@people.cn - 人民日报",
               "summary": "责编：王 平 柴逸扉 邮箱：gtbhwb@people.cn 人民日报",
               "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVWpMeDVTb3JaVHdVMElkb0pxb0w1M2pFSEhacE5jQmVvSlo1VDV6TGpUaFhvWjhwcjBObVlOVXV6MmdrSDVyUEc5OWRseE9ocUhGX0ZzS016UkFCbFNKcmo3UXg4cnJUMTAwM1BqbTk1TDk0bDNGVFowdE1ROFFYMklWeHU?oc=5",
@@ -62,15 +68,9 @@
               "source": "人民日报"
             },
             {
-              "title": "习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话 - 人民网图片频道",
-              "summary": "习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话 人民网图片频道",
+              "title": "习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话 - pic.people.com.cn",
+              "summary": "习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话 pic.people.com.cn",
               "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FMDdSdXFVYUxpbmF2cTlGU0VSejZ3NkpRX1c3YzAteEs5SF9GckotRUV0SzBmcFIwT0RlN3FOejREMWdMVWJCeHNaM09jLV91ZW1kSU1Od0cxZHZJOHhla0w1NjRKZUw1NEtF?oc=5",
-              "source": "人民日报"
-            },
-            {
-              "title": "安徽亳州：红色经典剧目展演迎“七一” - 人民图片",
-              "summary": "安徽亳州：红色经典剧目展演迎“七一” 人民图片",
-              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IM0Zwd0JGT3RFT2I1cldlVXphZm42UUNvVk5qUENvZEJ1ZnZ4OUVRd3lrT2dNWXIzOVdwNC1VRThMWmN6NlE5bWl4TFFMNkNpNDMwbUx6dmJVMzE4ME42WVRZS0ozZVdoeUE1VVhFdw?oc=5",
               "source": "人民日报"
             }
           ]
@@ -92,7 +92,7 @@
             },
             {
               "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-              "summary": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
+              "summary": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
               "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Ahead of Fed meeting, Trump says US should have world's lowest interest rate",
-              "summary": "No country should have lower interest rates than the U.S., President Donald Trump ​said on Sunday, days before the Federal Reserve's next po…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa72db7008f484a841415f5f6db736a&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fahead-fed-meeting-trump-says-us-should-have-worlds-lowest-interest-rate-2026-09-13%2f&c=18361299491806249935&mkt=en-us",
+              "title": "Woman dies of complications from measles in western Pennsylvania",
+              "summary": "The death toll in Pennsylvania's measles outbreak rose this weekend with a county coroner's report of a woman's death from complications rel…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa73d94d5cd46a69c105d443befba00&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fwoman-dies-complications-measles-western-pennsylvania-2026-09-13%2f&c=12685928546200339286&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -134,33 +134,33 @@
       "items": [
         {
           "rank": 1,
-          "title": "中国足球小将西班牙捧杯",
-          "hot_value": "671982",
-          "link": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E8%A5%BF%E7%8F%AD%E7%89%99%E6%8D%A7%E6%9D%AF%23"
+          "title": "上5休1上5休3上3休7上3休1",
+          "hot_value": "1086174",
+          "link": "https://s.weibo.com/weibo?q=%23%E4%B8%8A5%E4%BC%911%E4%B8%8A5%E4%BC%913%E4%B8%8A3%E4%BC%917%E4%B8%8A3%E4%BC%911%23"
         },
         {
           "rank": 2,
-          "title": "女篮世界杯决赛",
-          "hot_value": "501349",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AF%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%23"
+          "title": "英超承认哈兰德进球有效是误判",
+          "hot_value": "764277",
+          "link": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E8%B6%85%E6%89%BF%E8%AE%A4%E5%93%88%E5%85%B0%E5%BE%B7%E8%BF%9B%E7%90%83%E6%9C%89%E6%95%88%E6%98%AF%E8%AF%AF%E5%88%A4%23"
         },
         {
           "rank": 3,
-          "title": "寻找金砖温度的答案",
-          "hot_value": "444133",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%AF%BB%E6%89%BE%E9%87%91%E7%A0%96%E6%B8%A9%E5%BA%A6%E7%9A%84%E7%AD%94%E6%A1%88%23"
+          "title": "我国硬核成果上新了",
+          "hot_value": "602946",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%A1%AC%E6%A0%B8%E6%88%90%E6%9E%9C%E4%B8%8A%E6%96%B0%E4%BA%86%23"
         },
         {
           "rank": 4,
-          "title": "中秋上京东夺金天天领黄金",
-          "hot_value": "437120",
-          "link": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%8B%E4%B8%8A%E4%BA%AC%E4%B8%9C%E5%A4%BA%E9%87%91%E5%A4%A9%E5%A4%A9%E9%A2%86%E9%BB%84%E9%87%91%23"
+          "title": "哥哥披荆斩棘我披荆斩题",
+          "hot_value": "600730",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%93%A5%E5%93%A5%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%88%91%E6%8A%AB%E8%8D%86%E6%96%A9%E9%A2%98%23"
         },
         {
           "rank": 5,
-          "title": "大学生生活费才3000",
-          "hot_value": "432821",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%94%9F%E6%B4%BB%E8%B4%B9%E6%89%8D3000%23"
+          "title": "英国",
+          "hot_value": "594422",
+          "link": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%23"
         }
       ]
     }
