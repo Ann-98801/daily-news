@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15 00:13:25 (北京时间)",
+  "updated_at": "2026-09-15 01:11:38 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -44,12 +44,6 @@
           "source_name": "人民日报",
           "items": [
             {
-              "title": "责编：任成琦 柴逸扉 邮箱：gtbhwb@people.cn - 人民日报",
-              "summary": "责编：任成琦 柴逸扉 邮箱：gtbhwb@people.cn 人民日报",
-              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWTR4TmhpMkZiQkxuYW1IcWJhN250NWlHbjVMU2pnS1NFYzBMNTFxQS1OTUdGMDhEQ3NxWlVCU2t6UnAtY00wNGRtMktuQzh0dUVYMndUV3R1TkJQWXFRbFhMeWt0WXdERF9seklsbElwRENQY1Z1a25nVHFkSTdQcXBQRQ?oc=5",
-              "source": "人民日报"
-            },
-            {
               "title": "责编：金 晨 邮箱：gtbhwb@people.cn - 人民日报",
               "summary": "责编：金 晨 邮箱：gtbhwb@people.cn 人民日报",
               "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONWM3MXktMHk2WXZTWmVVenFjVHJSY1g2VGRGVUlNNmVZZXdMNXdDeGl2Vi12UUp4NlBFZnNHYkVkYmRQcEQ2ZUczUldyWWhpelRLMktGOEtRMGd5SE5QNGdJb3dlcVhCaDJPVk5YcG9WdVJYYm5KbDhVWTRsTENSNk55dw?oc=5",
@@ -71,6 +65,12 @@
               "title": "期待2027金砖“中国年”更加精彩丨大国外交零时差 - politics.people.com.cn",
               "summary": "期待2027金砖“中国年”更加精彩丨大国外交零时差 politics.people.com.cn",
               "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE95NFY3M2dUczZNTmdZMDVQSjRYRzdyT0JWYV92VEN5R1FQS3NTZkZlX0xWQzRZbEZMSGFDeVZ5WG96dHphNkl1TDFUdUJ5MW1FaHZfNXRjMXU1R0xzU0pNR3lyTzRIQ1NIQmVhMU9VTjloUQ?oc=5",
+              "source": "人民日报"
+            },
+            {
+              "title": "责编：王 平 柴逸扉 邮箱：gtbhwb@people.cn - 人民日报",
+              "summary": "责编：王 平 柴逸扉 邮箱：gtbhwb@people.cn 人民日报",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcTVIRzNpV0VLVkZldVFXVFFTcHdxSmE5dmd1cDlzNmFubEhzOXIwdGN2Uml3ZnlRWTd2WE4wckQ0LUs3anVGWE9HYmdLa2oxd2tuY2t2SWNMMV9WNkhvLVVpYkI3anF0UlczeGFDYzB4X0U2QlQ1b1VaNzBWTHFwYktlbko?oc=5",
               "source": "人民日报"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Global AI stocks fall as industry chiefs call for slowing development",
-              "summary": "AI-connected stocks fell sharply in ‌early Asian trading on Monday after the CEOs of the companies developing the most advanced AI models wa…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa81d24add441b08940f193e4d5a7fe&url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fai-linked-asian-stocks-slump-after-top-lab-ceos-call-slowing-down-technologys-2026-09-14%2f&c=10799932376361235943&mkt=en-us",
+              "title": "Trump calls $5,000 payouts 'easy' to fit into federal budget",
+              "summary": "Trump ​unveiled the idea of $5,000 payouts during a speech at the Republican Party convention last week. Speaking to reporters ​on Sunday in…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa82ac9138148f9b707faa57f22a122&url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-calls-5000-payouts-easy-fit-into-federal-budget-2026-09-13%2f&c=7280109432520882863&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -134,33 +134,33 @@
       "items": [
         {
           "rank": 1,
-          "title": "人民日报点名三件流量炒作事件",
-          "hot_value": "1032609",
-          "link": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E7%82%B9%E5%90%8D%E4%B8%89%E4%BB%B6%E6%B5%81%E9%87%8F%E7%82%92%E4%BD%9C%E4%BA%8B%E4%BB%B6%23"
+          "title": "猕猴桃是全世界最团结的水果",
+          "hot_value": "993620",
+          "link": "https://s.weibo.com/weibo?q=%23%E7%8C%95%E7%8C%B4%E6%A1%83%E6%98%AF%E5%85%A8%E4%B8%96%E7%95%8C%E6%9C%80%E5%9B%A2%E7%BB%93%E7%9A%84%E6%B0%B4%E6%9E%9C%23"
         },
         {
           "rank": 2,
-          "title": "台风杜鹃要来了",
-          "hot_value": "744652",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%9D%9C%E9%B9%83%E8%A6%81%E6%9D%A5%E4%BA%86%23"
+          "title": "脑梗前三天身体发出的预警",
+          "hot_value": "485530",
+          "link": "https://s.weibo.com/weibo?q=%23%E8%84%91%E6%A2%97%E5%89%8D%E4%B8%89%E5%A4%A9%E8%BA%AB%E4%BD%93%E5%8F%91%E5%87%BA%E7%9A%84%E9%A2%84%E8%AD%A6%23"
         },
         {
           "rank": 3,
           "title": "网络安全宣传周亮点揭秘",
-          "hot_value": "728947",
+          "hot_value": "397652",
           "link": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%AE%A3%E4%BC%A0%E5%91%A8%E4%BA%AE%E7%82%B9%E6%8F%AD%E7%A7%98%23"
         },
         {
           "rank": 4,
-          "title": "假期搭子选伊利",
-          "hot_value": "728697",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%81%87%E6%9C%9F%E6%90%AD%E5%AD%90%E9%80%89%E4%BC%8A%E5%88%A9%23"
+          "title": "孙颖莎的力量从哪里来",
+          "hot_value": "388741",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E7%9A%84%E5%8A%9B%E9%87%8F%E4%BB%8E%E5%93%AA%E9%87%8C%E6%9D%A5%23"
         },
         {
           "rank": 5,
-          "title": "脑梗前三天身体发出的预警",
-          "hot_value": "728686",
-          "link": "https://s.weibo.com/weibo?q=%23%E8%84%91%E6%A2%97%E5%89%8D%E4%B8%89%E5%A4%A9%E8%BA%AB%E4%BD%93%E5%8F%91%E5%87%BA%E7%9A%84%E9%A2%84%E8%AD%A6%23"
+          "title": "刘学义郑合惠子 cp感玄学",
+          "hot_value": "385445",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AD%A6%E4%B9%89%E9%83%91%E5%90%88%E6%83%A0%E5%AD%90%20cp%E6%84%9F%E7%8E%84%E5%AD%A6%23"
         }
       ]
     }
