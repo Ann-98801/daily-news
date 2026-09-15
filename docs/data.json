@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15 21:14:34 (北京时间)",
+  "updated_at": "2026-09-15 22:14:15 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -21,12 +21,6 @@
               "source": "新华社"
             },
             {
-              "title": "甘肃：祁连山区域植被覆盖度稳步提升 - 新华网-甘肃",
-              "summary": "甘肃：祁连山区域植被覆盖度稳步提升 新华网-甘肃",
-              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94Sm91TWRjNkRMNTNyaGNhTUljdkU2TFNGZXN3ZUxmVW1NUEw3VkRsdGh3WEJpQXJsbXlvUnJqb0R6ZUlGemdoTlFTTl9Bd3FDR2VGM09TUQ?oc=5",
-              "source": "新华社"
-            },
-            {
               "title": "伊朗革命卫队：一艘油轮试图穿越海峡时触雷爆炸 - 新华网",
               "summary": "伊朗革命卫队：一艘油轮试图穿越海峡时触雷爆炸 新华网",
               "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81cDZHMUsyQjdUbFotcThpQWlYaW5iYUlPaXl0N0ZKV2VJNWp0Ynp1ZzNjbjZwTGVEZXBwWUx2LUc2ZEg3bUltU0lLb3dQTUUteDE2YjVLZURfOFJjS3hzY2l2UFlDSWZMam9zU3hhQ0tXLTU3ZUg2dVZwUW14UlE?oc=5",
@@ -36,6 +30,12 @@
               "title": "联合国伊朗问题独立调查团敦促美以遵守国际法 - 新华网",
               "summary": "联合国伊朗问题独立调查团敦促美以遵守国际法 新华网",
               "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1abjZYLWNnWXFnMWJnTGtuUHJsaldaMllSYThKUzVNcFJZRTdkaVBEOHpnN1g3REhaMW9RZjRIQnB2QnZKZ2JCRUJqVEpFUU9kckd0RUZ4SDlGZ1IzR2wxamd0T3NZVElvVlllam5WTjFpUjE2a01wdk5kWTFVb1U?oc=5",
+              "source": "新华社"
+            },
+            {
+              "title": "第29届全国推普周开幕：我国普通话普及率达到87.72% - 新华网",
+              "summary": "第29届全国推普周开幕：我国普通话普及率达到87.72% 新华网",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3TUhiMWhCeTZkaWFUYjQtVGtqdFkxTUoteHlFSmxXTVJhYUsxLXZnVlp5NXRTS0Fuc2tRZzY2WlVTRjhleXd5akZWSS1jZ1lUNXhZVFY2bkhUNzVlRk1QQkx2UkhoZ2lFWWlRUGpiY3VvbU43Y21R?oc=5",
               "source": "新华社"
             }
           ]
@@ -91,9 +91,9 @@
               "source": "BBC"
             },
             {
-              "title": "AI regulation faces political deadlock as calls grow for Congress to act",
-              "summary": "With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure.",
-              "link": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
+              "title": "Denmark says Russian warship fired flares at military helicopter",
+              "summary": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
+              "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Noncitizens accused of illegal US voting challenge Trump's authority to prosecut…",
-              "summary": "As President Donald Trump seeks to crack down on what he says is widespread illegal voting by noncitizens, several people charged with that…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa944b9f07346ada90cc0d2312c5200&url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fnoncitizens-accused-illegal-us-voting-challenge-trumps-authority-prosecute-them-2026-09-15%2f&c=16537920402814363591&mkt=en-us",
+              "title": "Trump lashes out at US Supreme Court justices after ballot ruling",
+              "summary": "President Donald Trump lashed out ​Tuesday at the U.S. ‌Supreme Court justices he appointed after the high ​court declined to let the ​U.S.…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa952b61d6e43988f1d61fed07a3d2d&url=https%3a%2f%2fwww.reuters.com%2fworld%2ftrump-lashes-out-us-supreme-court-justices-after-ballot-ruling-2026-09-15%2f&c=10621613989213636078&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -135,32 +135,32 @@
         {
           "rank": 1,
           "title": "新能源汽车 燃油车",
-          "hot_value": "1166120",
+          "hot_value": "2117522",
           "link": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%20%E7%87%83%E6%B2%B9%E8%BD%A6%23"
         },
         {
           "rank": 2,
           "title": "钟薛高复活了",
-          "hot_value": "847193",
+          "hot_value": "1135808",
           "link": "https://s.weibo.com/weibo?q=%23%E9%92%9F%E8%96%9B%E9%AB%98%E5%A4%8D%E6%B4%BB%E4%BA%86%23"
         },
         {
           "rank": 3,
           "title": "长征高铁开行的背后",
-          "hot_value": "641568",
+          "hot_value": "1045689",
           "link": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%BE%81%E9%AB%98%E9%93%81%E5%BC%80%E8%A1%8C%E7%9A%84%E8%83%8C%E5%90%8E%23"
         },
         {
           "rank": 4,
-          "title": "京东服装真5折年度大促",
-          "hot_value": "640734",
-          "link": "https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C%E6%9C%8D%E8%A3%85%E7%9C%9F5%E6%8A%98%E5%B9%B4%E5%BA%A6%E5%A4%A7%E4%BF%83%23"
+          "title": "地平线智驾芯片量产突破1500万",
+          "hot_value": "1019057",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%9C%B0%E5%B9%B3%E7%BA%BF%E6%99%BA%E9%A9%BE%E8%8A%AF%E7%89%87%E9%87%8F%E4%BA%A7%E7%AA%81%E7%A0%B41500%E4%B8%87%23"
         },
         {
           "rank": 5,
-          "title": "兰香如故首创0人迷男主",
-          "hot_value": "558154",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E9%A6%96%E5%88%9B0%E4%BA%BA%E8%BF%B7%E7%94%B7%E4%B8%BB%23"
+          "title": "兰香如故破3万",
+          "hot_value": "1018233",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E7%A0%B43%E4%B8%87%23"
         }
       ]
     }
