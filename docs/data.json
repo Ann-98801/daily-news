@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18 20:16:24 (北京时间)",
+  "updated_at": "2026-09-18 21:12:35 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -85,15 +85,15 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "Three dead and eight injured in Philippines school shooting",
-              "summary": "The gunman is among the dead in what is the third school shooting in the country since June.",
-              "link": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
+              "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+              "summary": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
+              "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
             {
-              "title": "Police begin operation to move migrants from Ceuta beaches",
-              "summary": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site.",
-              "link": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
+              "title": "Three dead and eight injured in Philippines school shooting",
+              "summary": "The gunman is among the dead in what is the third school shooting in the country since June.",
+              "link": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -121,7 +121,7 @@
             {
               "title": "Barefoot and terrified, Yemenis flee the Houthi advance",
               "summary": "When a terrifying bombardment erupted around their camp in Yemen this week as ​a long-paused civil war reignited, Rawya Hassan and her famil…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aad2b97b5d747bdaf3b68359d81dabc&url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fbarefoot-terrified-yemenis-flee-houthi-advance-2026-09-18%2f&c=3552081783679519506&mkt=en-us",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aad38c294cf45d1837cde890ff4c101&url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fbarefoot-terrified-yemenis-flee-houthi-advance-2026-09-18%2f&c=3552081783679519506&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -135,32 +135,32 @@
         {
           "rank": 1,
           "title": "中国男篮vs日本男篮",
-          "hot_value": "10723832",
+          "hot_value": "5298282",
           "link": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE%23"
         },
         {
           "rank": 2,
-          "title": "中国男篮惨败日本男篮",
-          "hot_value": "2664156",
-          "link": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%83%A8%E8%B4%A5%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE%23"
+          "title": "兰香如故能否成为下一个知否",
+          "hot_value": "1326012",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E8%83%BD%E5%90%A6%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%B8%AA%E7%9F%A5%E5%90%A6%23"
         },
         {
           "rank": 3,
-          "title": "九一八鸣警后老战士这番话令人动容",
-          "hot_value": "1631309",
-          "link": "https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%80%E5%85%AB%E9%B8%A3%E8%AD%A6%E5%90%8E%E8%80%81%E6%88%98%E5%A3%AB%E8%BF%99%E7%95%AA%E8%AF%9D%E4%BB%A4%E4%BA%BA%E5%8A%A8%E5%AE%B9%23"
+          "title": "何以中国千年茶道",
+          "hot_value": "1040949",
+          "link": "https://s.weibo.com/weibo?q=%23%E4%BD%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%E5%8D%83%E5%B9%B4%E8%8C%B6%E9%81%93%23"
         },
         {
           "rank": 4,
-          "title": "23.18万元起小鹏G9L同价位无对手",
-          "hot_value": "773085",
-          "link": "https://s.weibo.com/weibo?q=%2323.18%E4%B8%87%E5%85%83%E8%B5%B7%E5%B0%8F%E9%B9%8FG9L%E5%90%8C%E4%BB%B7%E4%BD%8D%E6%97%A0%E5%AF%B9%E6%89%8B%23"
+          "title": "挑情丑闻尺度",
+          "hot_value": "954365",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%8C%91%E6%83%85%E4%B8%91%E9%97%BB%E5%B0%BA%E5%BA%A6%23"
         },
         {
           "rank": 5,
-          "title": "日本女生否认侵华历史被怼破防",
-          "hot_value": "455659",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E7%94%9F%E5%90%A6%E8%AE%A4%E4%BE%B5%E5%8D%8E%E5%8E%86%E5%8F%B2%E8%A2%AB%E6%80%BC%E7%A0%B4%E9%98%B2%23"
+          "title": "乔尔杰维奇 郭士强",
+          "hot_value": "657553",
+          "link": "https://s.weibo.com/weibo?q=%23%E4%B9%94%E5%B0%94%E6%9D%B0%E7%BB%B4%E5%A5%87%20%E9%83%AD%E5%A3%AB%E5%BC%BA%23"
         }
       ]
     }
