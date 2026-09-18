@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18 15:13:29 (北京时间)",
+  "updated_at": "2026-09-18 16:14:01 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -7,73 +7,11 @@
       "sources": [
         {
           "source_name": "新华社",
-          "items": [
-            {
-              "title": "习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话 - 新华网",
-              "summary": "习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话 新华网",
-              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRDZqaWg4VzliY0F0Q19ZbHdTRnVZbFJVQmlDVW9qa1RWVkQyZlhLRXRvSGdlQ2ozc0JWTUJiWDZOSEZiQUtCZDZobEQ4S0pONmxmQkRqaVBERWhwNTB3STh0TXVvV0lNRkNScFpReklzeG4tWTlDaDB2TkZDblhkY20ydENhRUdzMVduVGx3?oc=5",
-              "source": "新华社"
-            },
-            {
-              "title": "澳大利亚宣布收紧签证政策以削减移民 - 新华网",
-              "summary": "澳大利亚宣布收紧签证政策以削减移民 新华网",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0teUZDNjRWakFnb3pfR0tnQTg1Z3BEc1EyaHFUNW1CS0lfbTJNVU5jUlYyQ0h5ajhkbjJlbEFFc2kzYkF2WjI2QVBSNnkwSHB0eWVFM0ZBdmVTTkR4VUZXeWxNakg2ZXoyZ3pGeGxlaUs4NzRvSVZOcmNEdFgxMWs?oc=5",
-              "source": "新华社"
-            },
-            {
-              "title": "第十三届北京香山论坛在京闭幕 - 新华网",
-              "summary": "第十三届北京香山论坛在京闭幕 新华网",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEWXZFZkpoMzdodWNyeEpyNzlNVjhCNUd0UGo4Y2R1ODV6STNMRFNVR0dFdE9NaXRxLXFFTGpWQnpQdV9FVDNvVUV3RVc0cVFRWktNQ1FiMmI2aElHZWxpT2E0QzhjWkd5QTNRN1A1Mmp4N3BrZzFSM21BNU5KWlE?oc=5",
-              "source": "新华社"
-            },
-            {
-              "title": "日本民间办展揭露二战日军毒气战罪行 - 新华网",
-              "summary": "日本民间办展揭露二战日军毒气战罪行 新华网",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rZm4wcGlmNXhDRzFDZjh2emJBTVZOVWMteTJsLXVMQTgtVlZWbVhKRXByVTlWXzE0b1ZGQXZWTmNnOWlHYVFwSWFtRnJMS3EtdkE2MG1KU0lBRGxaUGhCRXh2ejAxYVJ2dmpmd0MxVXA3M3JBQVBjUlkzamgza0U?oc=5",
-              "source": "新华社"
-            },
-            {
-              "title": "广电总局：机顶盒功能将以软件形态内置于电视机 - 新华网",
-              "summary": "广电总局：机顶盒功能将以软件形态内置于电视机 新华网",
-              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZlgycFBRVVU3TnFhN3ZmZW1EUUJob0NnWVhfOXUyZ1F6ejFPUHZWdEcyZUU0SjhYeEtxNmtRb0VlUWJaUjFvWFVnRzFYaWlhN1BNR19MVVU3OEV0Z2FIeF9uY0Jkc2Ffb1M5Z3pfM1QzcWRRVU1TVG52OVF4Yl9leThWRQ?oc=5",
-              "source": "新华社"
-            }
-          ]
+          "items": []
         },
         {
           "source_name": "人民日报",
-          "items": [
-            {
-              "title": "责编：任成琦 柴逸扉 邮箱：gtbhwb@people.cn - paper.people.com.cn",
-              "summary": "责编：任成琦 柴逸扉 邮箱：gtbhwb@people.cn paper.people.com.cn",
-              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYldTbFFGQV90anNGV2ZELTg0OXdNdG9hcUpnVzQxXzhtdGdYZlZtcTZ3eGRGNTY0Y2h3RXdmNExwZ0FNbHN0aUlTem52Ul96REJKMmZiSnRVOVN6WlZRTnloZHBQTmRxZ1NMY3VjRlVBVml3aF9xQnBPZW1NclBRVm8wYw?oc=5",
-              "source": "人民日报"
-            },
-            {
-              "title": "责编：任成琦 柴逸扉 邮箱：gtbhwb@people.cn - paper.people.com.cn",
-              "summary": "责编：任成琦 柴逸扉 邮箱：gtbhwb@people.cn paper.people.com.cn",
-              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZnRSUlgxNVYzNTJGQ2IwRW9WUF9ZNXBPai0waUdteERvZ1BwUXotYmowLURJNkFPWllxQmlYMTNpOWg3eW5GYTNhSGVwUm5lM3ZKbjdWOGJEbGd6RVdSdDlaa0FNdC1kUjNRUUZMVTQ1My1nRXI0bFdZSHk4bVdaZkpPWE0?oc=5",
-              "source": "人民日报"
-            },
-            {
-              "title": "责编：王 平 柴逸扉 邮箱：gtbhwb@people.cn - paper.people.com.cn",
-              "summary": "责编：王 平 柴逸扉 邮箱：gtbhwb@people.cn paper.people.com.cn",
-              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVWpMeDVTb3JaVHdVMElkb0pxb0w1M2pFSEhacE5jQmVvSlo1VDV6TGpUaFhvWjhwcjBObVlOVXV6MmdrSDVyUEc5OWRseE9ocUhGX0ZzS016UkFCbFNKcmo3UXg4cnJUMTAwM1BqbTk1TDk0bDNGVFowdE1ROFFYMklWeHU?oc=5",
-              "source": "人民日报"
-            },
-            {
-              "title": "责编：王 平 柴逸扉 邮箱：gtbhwb@people.cn - paper.people.com.cn",
-              "summary": "责编：王 平 柴逸扉 邮箱：gtbhwb@people.cn paper.people.com.cn",
-              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNERKSFhuX3pGVVR3MGRXcWw2ellqbExnUndxd2FETFFMcklRZEJzak15SXY1d044dzdQdmY3Y1pydm9sWUZqNjJiZkdPZjNFX0F3dVcwYk45S2RWTGMyeVBxRlFzOFRQbHNTSEZ0eWhrMUFDRkQweHNiOWVxLURyWU03QQ?oc=5",
-              "source": "人民日报"
-            },
-            {
-              "title": "习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话 - 人民网-图片频道",
-              "summary": "习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话 人民网-图片频道",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FMDdSdXFVYUxpbmF2cTlGU0VSejZ3NkpRX1c3YzAteEs5SF9GckotRUV0SzBmcFIwT0RlN3FOejREMWdMVWJCeHNaM09jLV91ZW1kSU1Od0cxZHZJOHhla0w1NjRKZUw1NEtF?oc=5",
-              "source": "人民日报"
-            }
-          ]
+          "items": []
         }
       ]
     },
@@ -121,7 +59,7 @@
             {
               "title": "What will Trump and Xi discuss in Washington next week?",
               "summary": "U.S. President Donald Trump will welcome Chinese leader Xi Jinping next week for their second meeting this year, as the two leaders seek sta…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aace4983a97450da39303f30d0df4a0&url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fwhat-will-trump-xi-discuss-washington-next-week-2026-09-17%2f&c=13997422187888680462&mkt=en-us",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aacf2c81bfc4725ad288f7d5cb4eb48&url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fwhat-will-trump-xi-discuss-washington-next-week-2026-09-17%2f&c=13997422187888680462&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -134,36 +72,39 @@
       "items": [
         {
           "rank": 1,
-          "title": "梅毒被称为皮肤性病科模仿大师",
-          "hot_value": "1117387",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E6%AF%92%E8%A2%AB%E7%A7%B0%E4%B8%BA%E7%9A%AE%E8%82%A4%E6%80%A7%E7%97%85%E7%A7%91%E6%A8%A1%E4%BB%BF%E5%A4%A7%E5%B8%88%23"
+          "title": "女博士辞去医生工作送外卖",
+          "hot_value": "1099854",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8D%9A%E5%A3%AB%E8%BE%9E%E5%8E%BB%E5%8C%BB%E7%94%9F%E5%B7%A5%E4%BD%9C%E9%80%81%E5%A4%96%E5%8D%96%23"
         },
         {
           "rank": 2,
-          "title": "中国射击队因酒店远不参加亚运开幕式",
-          "hot_value": "798310",
-          "link": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%B0%84%E5%87%BB%E9%98%9F%E5%9B%A0%E9%85%92%E5%BA%97%E8%BF%9C%E4%B8%8D%E5%8F%82%E5%8A%A0%E4%BA%9A%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F%23"
+          "title": "梅毒被称为皮肤性病科模仿大师",
+          "hot_value": "789862",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E6%AF%92%E8%A2%AB%E7%A7%B0%E4%B8%BA%E7%9A%AE%E8%82%A4%E6%80%A7%E7%97%85%E7%A7%91%E6%A8%A1%E4%BB%BF%E5%A4%A7%E5%B8%88%23"
         },
         {
           "rank": 3,
-          "title": "每个中国人都不能忘记九一八",
-          "hot_value": "664258",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%AF%8F%E4%B8%AA%E4%B8%AD%E5%9B%BD%E4%BA%BA%E9%83%BD%E4%B8%8D%E8%83%BD%E5%BF%98%E8%AE%B0%E4%B9%9D%E4%B8%80%E5%85%AB%23"
+          "title": "九一八鸣警后老战士这番话令人动容",
+          "hot_value": "624502",
+          "link": "https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%80%E5%85%AB%E9%B8%A3%E8%AD%A6%E5%90%8E%E8%80%81%E6%88%98%E5%A3%AB%E8%BF%99%E7%95%AA%E8%AF%9D%E4%BB%A4%E4%BA%BA%E5%8A%A8%E5%AE%B9%23"
         },
         {
           "rank": 4,
-          "title": "粉笔曝被四海200万高薪挖走老师",
-          "hot_value": "581679",
-          "link": "https://s.weibo.com/weibo?q=%23%E7%B2%89%E7%AC%94%E6%9B%9D%E8%A2%AB%E5%9B%9B%E6%B5%B7200%E4%B8%87%E9%AB%98%E8%96%AA%E6%8C%96%E8%B5%B0%E8%80%81%E5%B8%88%23"
+          "title": "白血病患儿离世不到2小时被安排火化",
+          "hot_value": "440471",
+          "link": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E8%A1%80%E7%97%85%E6%82%A3%E5%84%BF%E7%A6%BB%E4%B8%96%E4%B8%8D%E5%88%B02%E5%B0%8F%E6%97%B6%E8%A2%AB%E5%AE%89%E6%8E%92%E7%81%AB%E5%8C%96%23"
         },
         {
           "rank": 5,
-          "title": "人民币升破6.7",
-          "hot_value": "529481",
-          "link": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E5%B8%81%E5%8D%87%E7%A0%B46.7%23"
+          "title": "花少8 无聊",
+          "hot_value": "426431",
+          "link": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%918%20%E6%97%A0%E8%81%8A%23"
         }
       ]
     }
   ],
-  "errors": []
+  "errors": [
+    "新华社: 必应搜索失败(HTTP 200，但解析出0条内容（可能页面结构变化或被限流）)；谷歌新闻搜索也失败(503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Anews.cn&hl=zh-CN&gl=CN&ceid=CN:zh-Hans)",
+    "人民日报: 必应搜索失败(HTTP 200，但解析出0条内容（可能页面结构变化或被限流）)；谷歌新闻搜索也失败(503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Apeople.com.cn&hl=zh-CN&gl=CN&ceid=CN:zh-Hans)"
+  ]
 }
