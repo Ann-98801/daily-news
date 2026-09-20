@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21 01:11:30 (北京时间)",
+  "updated_at": "2026-09-21 02:14:15 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -85,7 +85,7 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "German Chancellor Merz vows to stay on despite 'disaster' in state election",
+              "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows…",
               "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
               "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "White House turns away CNN, MS NOW, Politico reporters after Trump's ban",
-              "summary": "The White House on ​Saturday denied access to journalists from CNN, MS NOW and Politico, following through with US ‌President Donald Trump's…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab013c138f84a23a3b775ebe0c9af23&url=https%3a%2f%2fwww.reuters.com%2fworld%2fwhite-house-turns-away-cnn-ms-now-politico-reporters-after-trump-announces-ban-2026-09-19%2f&c=1303686443401292071&mkt=en-us",
+              "title": "Iran and US trade threats after Houthi attacks escalate regional conflict",
+              "summary": "Iran said it had information such a move was being prepared, adding ‌to the anxiety in a region already on edge after drone and missile stri…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab02276ee1f4e438deb519533de54d8&url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2firan-warns-against-new-escalation-by-us-allies-2026-09-20%2f&c=10951021409583923049&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -134,33 +134,33 @@
       "items": [
         {
           "rank": 1,
-          "title": "披荆斩棘排名",
-          "hot_value": "829255",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%8E%92%E5%90%8D%23"
+          "title": "把配料表中的白砂糖还给我们",
+          "hot_value": "605743",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%8A%8A%E9%85%8D%E6%96%99%E8%A1%A8%E4%B8%AD%E7%9A%84%E7%99%BD%E7%A0%82%E7%B3%96%E8%BF%98%E7%BB%99%E6%88%91%E4%BB%AC%23"
         },
         {
           "rank": 2,
-          "title": "湾区升明月",
-          "hot_value": "574556",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%23"
+          "title": "披荆斩棘排名",
+          "hot_value": "370381",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%8E%92%E5%90%8D%23"
         },
         {
           "rank": 3,
           "title": "今起公积金提取场景6变9",
-          "hot_value": "555911",
+          "hot_value": "169158",
           "link": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E8%B5%B7%E5%85%AC%E7%A7%AF%E9%87%91%E6%8F%90%E5%8F%96%E5%9C%BA%E6%99%AF6%E5%8F%989%23"
         },
         {
           "rank": 4,
-          "title": "刘畊宏张卓尔淘汰",
-          "hot_value": "549349",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%88%98%E7%95%8A%E5%AE%8F%E5%BC%A0%E5%8D%93%E5%B0%94%E6%B7%98%E6%B1%B0%23"
+          "title": "声幻娱乐声明",
+          "hot_value": "160053",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%A3%B0%E5%B9%BB%E5%A8%B1%E4%B9%90%E5%A3%B0%E6%98%8E%23"
         },
         {
           "rank": 5,
-          "title": "潘展乐最后一米前都觉得要输了",
-          "hot_value": "498524",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%BD%98%E5%B1%95%E4%B9%90%E6%9C%80%E5%90%8E%E4%B8%80%E7%B1%B3%E5%89%8D%E9%83%BD%E8%A7%89%E5%BE%97%E8%A6%81%E8%BE%93%E4%BA%86%23"
+          "title": "崔健",
+          "hot_value": "141464",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%B4%94%E5%81%A5%23"
         }
       ]
     }
