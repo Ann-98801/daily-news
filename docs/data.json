@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23 05:11:46 (北京时间)",
+  "updated_at": "2026-09-23 06:12:20 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -21,12 +21,6 @@
               "source": "新华社"
             },
             {
-              "title": "五大国产手机接入中国地震预警网 - 新华网",
-              "summary": "五大国产手机接入中国地震预警网 新华网",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pRHZXZ2t5U0EySmVxOGhzRjRUVVY0Njl4UEhjTjZxd0ZsZ01SYVhqR0JxWWFKMTh4V2ZuYkFacUc3MmpsNDRWTnJyYkZrNDZXcll1UFNZdTg3b1A5UVU3dUJsbER6WXQ4U2hoaWxqRG5ZMEc1OXFR?oc=5",
-              "source": "新华社"
-            },
-            {
               "title": "新华网_让新闻离你更近 - 新华网",
               "summary": "新华网_让新闻离你更近 新华网",
               "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE5FdWV6S1M3MF9oYnROX0tuQkJLWEhDQmVGUWdYbzAzbjNvd3BRdElPSlVua05Pdw?oc=5",
@@ -36,6 +30,12 @@
               "title": "年轻人的生活新“益”术 - 新华网",
               "summary": "年轻人的生活新“益”术 新华网",
               "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVXZSV2ctQVRweVBOMTFaY2o1ekFaNWVZb3h2MXExQ1gyU2steUJqM3lUMTZadFlQRU8xV241UW1wVmpxWkdHd1VyRTFzbzR4TlNLM213SjA0Skx1a3pyekxiaDczNjFGMFRjQUdZVWxvd3ZWdVYwSjJVd3BxMU5FSTJ3?oc=5",
+              "source": "新华社"
+            },
+            {
+              "title": "新华网国际看点丨全球发展倡议践行合作共赢 - 新华网",
+              "summary": "新华网国际看点丨全球发展倡议践行合作共赢 新华网",
+              "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9zSWtjUFY2VmQyM0J1X1hwYTFvRTh4M2lDeXR0X0FLRk55VFhQM3lTMW5pTWZZaXRPUnNRU093?oc=5",
               "source": "新华社"
             }
           ]
@@ -85,15 +85,15 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "US to build two military bases in Greenland under new deal with Denmark",
-              "summary": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
-              "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
+              "title": "Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines",
+              "summary": "In his speech, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
+              "link": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
             {
-              "title": "How Ceuta, football and Israel are shaping Morocco's election",
-              "summary": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
-              "link": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
+              "title": "Burnham expects to find 'common ground' with Trump in first meeting",
+              "summary": "In New York, the prime minister will also deliver a speech to the UN General Assembly expected to be focused on AI.",
+              "link": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Banned White House outlets cover Trump at UN as court hearing looms",
-              "summary": "As CNN, MS NOW and Politico await a Wednesday court hearing over ​President Donald Trump's decision to ban them from the White House grounds…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab2ef1114f54306b2bef6a393d79b8f&url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fbanned-white-house-outlets-cover-trump-un-court-hearing-looms-2026-09-22%2f&c=5590541107676701846&mkt=en-us",
+              "title": "What is in the US-Greenland-Denmark security deal?",
+              "summary": "The United States, Denmark and Greenland signed a security agreement on Tuesday aimed at ending months of tension over the Danish self-gover…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab2fd43e21e471e997f31c886f863f3&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fwhat-is-us-greenland-denmark-security-deal-2026-09-22%2f&c=4391751209528536761&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -135,32 +135,32 @@
         {
           "rank": 1,
           "title": "13岁女孩遭强奸案闺蜜被认定为共犯",
-          "hot_value": "97560",
+          "hot_value": "318554",
           "link": "https://s.weibo.com/weibo?q=%2313%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%AD%E5%BC%BA%E5%A5%B8%E6%A1%88%E9%97%BA%E8%9C%9C%E8%A2%AB%E8%AE%A4%E5%AE%9A%E4%B8%BA%E5%85%B1%E7%8A%AF%23"
         },
         {
           "rank": 2,
           "title": "汪顺400混的含金量",
-          "hot_value": "72624",
+          "hot_value": "228659",
           "link": "https://s.weibo.com/weibo?q=%23%E6%B1%AA%E9%A1%BA400%E6%B7%B7%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%23"
         },
         {
           "rank": 3,
           "title": "高质量发展中国行",
-          "hot_value": "54065",
+          "hot_value": "189922",
           "link": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E4%B8%AD%E5%9B%BD%E8%A1%8C%23"
         },
         {
           "rank": 4,
-          "title": "吴磊同款华为WATCH 6系列开售",
-          "hot_value": "52655",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E5%90%8C%E6%AC%BE%E5%8D%8E%E4%B8%BAWATCH%206%E7%B3%BB%E5%88%97%E5%BC%80%E5%94%AE%23"
+          "title": "Beats360和娜娜好搭",
+          "hot_value": "186446",
+          "link": "https://s.weibo.com/weibo?q=%23Beats360%E5%92%8C%E5%A8%9C%E5%A8%9C%E5%A5%BD%E6%90%AD%23"
         },
         {
           "rank": 5,
-          "title": "亚运会",
-          "hot_value": "45767",
-          "link": "https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%BC%9A%23"
+          "title": "老人心梗打5次120医院说没接到",
+          "hot_value": "184956",
+          "link": "https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%BF%83%E6%A2%97%E6%89%935%E6%AC%A1120%E5%8C%BB%E9%99%A2%E8%AF%B4%E6%B2%A1%E6%8E%A5%E5%88%B0%23"
         }
       ]
     }
