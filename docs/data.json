@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25 00:14:21 (北京时间)",
+  "updated_at": "2026-09-25 01:12:28 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -85,8 +85,8 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "White House 'repeatedly violated' court order to restore press access, say media…",
-              "summary": "Employees from CNN, Politico and MS Now reported being denied entry, with some having passes confiscated.",
+              "title": "White House restores access to media outlets banned by Trump after judge's order",
+              "summary": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.",
               "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "US to seek Supreme Court relief after court blocks third-country removals",
-              "summary": "President Donald Trump's administration ​will ask the US Supreme Court to allow it to continue to swiftly deport migrants to countries ‌othe…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab54c5cea644881a3b141eeffd19ce7&url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-seek-supreme-court-relief-after-court-blocked-third-country-removals-blanche-2026-09-24%2f&c=15847123707498708634&mkt=en-us",
+              "title": "US new home sales jump to eight-month high in August",
+              "summary": "Sales of new US single-family homes surged to an eight-month high in August as buyers took advantage of price cuts and other incentives, but…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab559fb09a94744872cbb834fec332b&url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-new-home-sales-jump-eight-month-high-august-2026-09-24%2f&c=11096125014946729658&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -135,32 +135,32 @@
         {
           "rank": 1,
           "title": "中美元首华盛顿会晤",
-          "hot_value": "899276",
+          "hot_value": "498836",
           "link": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%8D%8E%E7%9B%9B%E9%A1%BF%E4%BC%9A%E6%99%A4%23"
         },
         {
           "rank": 2,
           "title": "潘展乐责任全在我",
-          "hot_value": "800706",
+          "hot_value": "452243",
           "link": "https://s.weibo.com/weibo?q=%23%E6%BD%98%E5%B1%95%E4%B9%90%E8%B4%A3%E4%BB%BB%E5%85%A8%E5%9C%A8%E6%88%91%23"
         },
         {
           "rank": 3,
           "title": "乒乓情缘续写友谊新篇",
-          "hot_value": "516542",
+          "hot_value": "423264",
           "link": "https://s.weibo.com/weibo?q=%23%E4%B9%92%E4%B9%93%E6%83%85%E7%BC%98%E7%BB%AD%E5%86%99%E5%8F%8B%E8%B0%8A%E6%96%B0%E7%AF%87%23"
         },
         {
           "rank": 4,
-          "title": "短剧大满贯王道铁帅得有理有据",
-          "hot_value": "511025",
-          "link": "https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E5%A4%A7%E6%BB%A1%E8%B4%AF%E7%8E%8B%E9%81%93%E9%93%81%E5%B8%85%E5%BE%97%E6%9C%89%E7%90%86%E6%9C%89%E6%8D%AE%23"
+          "title": "龚俊李乃文拼出两代人的要强",
+          "hot_value": "408979",
+          "link": "https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E6%9D%8E%E4%B9%83%E6%96%87%E6%8B%BC%E5%87%BA%E4%B8%A4%E4%BB%A3%E4%BA%BA%E7%9A%84%E8%A6%81%E5%BC%BA%23"
         },
         {
           "rank": 5,
-          "title": "国乒女团金牌",
-          "hot_value": "488956",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A2%E9%87%91%E7%89%8C%23"
+          "title": "饭桌上吃得越少别人越拿不准",
+          "hot_value": "403695",
+          "link": "https://s.weibo.com/weibo?q=%23%E9%A5%AD%E6%A1%8C%E4%B8%8A%E5%90%83%E5%BE%97%E8%B6%8A%E5%B0%91%E5%88%AB%E4%BA%BA%E8%B6%8A%E6%8B%BF%E4%B8%8D%E5%87%86%23"
         }
       ]
     }
