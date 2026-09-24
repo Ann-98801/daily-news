@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24 22:13:48 (北京时间)",
+  "updated_at": "2026-09-24 23:14:08 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -85,15 +85,15 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-              "summary": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
-              "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+              "title": "White House 'repeatedly violated' court order to restore press access, say media…",
+              "summary": "Employees from CNN, Politico and MS Now reported being denied entry, with some having passes confiscated.",
+              "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
             {
-              "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russ…",
-              "summary": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
-              "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+              "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+              "summary": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
+              "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "China's rare earths dominance to overshadow Trump's talks with Xi",
-              "summary": "The US will remain reliant on China for rare earths well into the 2030s even as it rapidly builds its own mining ​and processing facilities,…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab5301b27784bcca4f9bfbdd0a7073f&url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fchinas-rare-earths-dominance-overshadow-trumps-talks-with-xi-2026-09-24%2f&c=8362088918438647183&mkt=en-us",
+              "title": "Netanyahu expected to berate New York's Mamdani in 'campaign speech' at UN",
+              "summary": "Benjamin Netanyahu is expected to use his UN address on Thursday to berate New York Mayor Zohran Mamdani for calling him a war criminal, a f…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab53e3fa5154330b282adb3296fd39e&url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fnetanyahu-expected-berate-new-yorks-mamdani-campaign-speech-un-address-2026-09-24%2f&c=6722934556115777588&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -135,32 +135,32 @@
         {
           "rank": 1,
           "title": "中美元首华盛顿会晤",
-          "hot_value": "2967842",
+          "hot_value": "1187445",
           "link": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%8D%8E%E7%9B%9B%E9%A1%BF%E4%BC%9A%E6%99%A4%23"
         },
         {
           "rank": 2,
           "title": "国乒女团金牌",
-          "hot_value": "15855737",
+          "hot_value": "1102408",
           "link": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A2%E9%87%91%E7%89%8C%23"
         },
         {
           "rank": 3,
           "title": "跨越太平洋的青春之桥",
-          "hot_value": "1771686",
+          "hot_value": "931618",
           "link": "https://s.weibo.com/weibo?q=%23%E8%B7%A8%E8%B6%8A%E5%A4%AA%E5%B9%B3%E6%B4%8B%E7%9A%84%E9%9D%92%E6%98%A5%E4%B9%8B%E6%A1%A5%23"
         },
         {
           "rank": 4,
-          "title": "享界G9开启交付",
-          "hot_value": "1713807",
-          "link": "https://s.weibo.com/weibo?q=%23%E4%BA%AB%E7%95%8CG9%E5%BC%80%E5%90%AF%E4%BA%A4%E4%BB%98%23"
+          "title": "小米18Pro系列首发评测",
+          "hot_value": "913307",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B318Pro%E7%B3%BB%E5%88%97%E9%A6%96%E5%8F%91%E8%AF%84%E6%B5%8B%23"
         },
         {
           "rank": 5,
-          "title": "国羽男团银牌",
-          "hot_value": "1693470",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E7%BE%BD%E7%94%B7%E5%9B%A2%E9%93%B6%E7%89%8C%23"
+          "title": "潘展乐责任全在我",
+          "hot_value": "902552",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%BD%98%E5%B1%95%E4%B9%90%E8%B4%A3%E4%BB%BB%E5%85%A8%E5%9C%A8%E6%88%91%23"
         }
       ]
     }
