@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25 05:12:46 (北京时间)",
+  "updated_at": "2026-09-25 06:13:16 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -8,12 +8,6 @@
         {
           "source_name": "新华社",
           "items": [
-            {
-              "title": "“多元视角下的国家人权行动计划”边会在日内瓦举行 - 新华网",
-              "summary": "“多元视角下的国家人权行动计划”边会在日内瓦举行 新华网",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PNXBCTkJUaG1HNEJtWndkU3A3LXNSdlUwRU5wSXR4bDFiaGhoWnpwcnFzdzdWU3VFS0NWZUc4bHp1bTVROUhETmtucDdVVTJXVkxsQjN4Rml0dmEzNGZTY1hWVlpZNjM5c19tNm10MkRTdGthc0F3T2RGYW1pSFU?oc=5",
-              "source": "新华社"
-            },
             {
               "title": "亚运会丨皮划艇静水项目首个金牌日 中国队斩获两金两银 - 新华网",
               "summary": "亚运会丨皮划艇静水项目首个金牌日 中国队斩获两金两银 新华网",
@@ -36,6 +30,12 @@
               "title": "第七届全国少数民族文艺会演精彩纷呈 - 新华网",
               "summary": "第七届全国少数民族文艺会演精彩纷呈 新华网",
               "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQejBMeFUxMUZHR2JpVXQ3alFYLU1fRzI2aFRDVlUtcUdzdUNYNkoxdkhDNE5Rd1NXTnBRdk5CVGkwdTc2QUN5QTdIV255NFBLNDFWTUZpV2lEQ2pVT21nSDRNTEIzcXVkRERjTHpDRkhLT20tVDRGY1JObGxYdG5WZXpRNA?oc=5",
+              "source": "新华社"
+            },
+            {
+              "title": "新华网_让新闻离你更近 - 新华网",
+              "summary": "新华网_让新闻离你更近 新华网",
+              "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE5FdWV6S1M3MF9oYnROX0tuQkJLWEhDQmVGUWdYbzAzbjNvd3BRdElPSlVua05Pdw?oc=5",
               "source": "新华社"
             }
           ]
@@ -85,15 +85,15 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "White House restores access to media outlets banned by Trump after judge's order",
-              "summary": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.",
-              "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+              "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+              "summary": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
+              "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
             {
-              "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
-              "summary": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the…",
-              "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+              "title": "White House restores access to media outlets banned by Trump after judge's order",
+              "summary": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.",
+              "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "US senators delay effort to permanently ban Chinese cars",
-              "summary": "The two US senators backing a permanent legislative ban ​on Chinese vehicles in the United States agreed on Thursday to delay their plan to…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab5924d0def4412adf502e0a407eb66&url=https%3a%2f%2fwww.reuters.com%2fworld%2flawmakers-seek-senate-approval-permanent-us-ban-chinese-cars-2026-09-24%2f&c=4622813443702316363&mkt=en-us",
+              "title": "Four takeaways from Trump's summit with Xi in Washington",
+              "summary": "US President Donald Trump welcomed Chinese President Xi Jinping to the White House on Thursday, with talks on trade and artificial intellige…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab5a07b0180470090a4f7277f61eefb&url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2ffour-takeaways-trumps-summit-with-xi-washington-2026-09-24%2f&c=7517007493309271552&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -135,32 +135,32 @@
         {
           "rank": 1,
           "title": "中美元首华盛顿会晤",
-          "hot_value": "90730",
+          "hot_value": "303491",
           "link": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%8D%8E%E7%9B%9B%E9%A1%BF%E4%BC%9A%E6%99%A4%23"
         },
         {
           "rank": 2,
           "title": "邀请10万名美国青少年来华交流学习",
-          "hot_value": "75799",
+          "hot_value": "224262",
           "link": "https://s.weibo.com/weibo?q=%23%E9%82%80%E8%AF%B710%E4%B8%87%E5%90%8D%E7%BE%8E%E5%9B%BD%E9%9D%92%E5%B0%91%E5%B9%B4%E6%9D%A5%E5%8D%8E%E4%BA%A4%E6%B5%81%E5%AD%A6%E4%B9%A0%23"
         },
         {
           "rank": 3,
           "title": "丰收画卷里的中国味道",
-          "hot_value": "75700",
+          "hot_value": "168975",
           "link": "https://s.weibo.com/weibo?q=%23%E4%B8%B0%E6%94%B6%E7%94%BB%E5%8D%B7%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%91%B3%E9%81%93%23"
         },
         {
           "rank": 4,
-          "title": "国乒女团金牌",
-          "hot_value": "75536",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A2%E9%87%91%E7%89%8C%23"
+          "title": "让家更有AI",
+          "hot_value": "168856",
+          "link": "https://s.weibo.com/weibo?q=%23%E8%AE%A9%E5%AE%B6%E6%9B%B4%E6%9C%89AI%23"
         },
         {
           "rank": 5,
-          "title": "亚运会游泳",
-          "hot_value": "75388",
-          "link": "https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E6%B8%B8%E6%B3%B3%23"
+          "title": "国乒女团金牌",
+          "hot_value": "168716",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A2%E9%87%91%E7%89%8C%23"
         }
       ]
     }
