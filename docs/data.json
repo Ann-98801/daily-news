@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24 21:14:33 (北京时间)",
+  "updated_at": "2026-09-24 22:13:48 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -11,7 +11,13 @@
             {
               "title": "亚运会｜大胜巴勒斯坦队 中国棒球队晋级四强 - 新华网",
               "summary": "亚运会｜大胜巴勒斯坦队 中国棒球队晋级四强 新华网",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxdndUSjFLbC1oZW1IQ25rVVZFeHVvWlhHU0pTb3VUQnBlRkluV21yXzJQbllwSmNPbUlxUEpVQThqS0dkOVltbHM2aWFkdFQtaVEtSENXX2NtbGVhLXIwNmFUMEg0Z3FLckV1aTVad0g0eUZ6R2RJ?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRTI2UTVTRjBabWFUZVlwUDlKOTRWNjZ5X19xNVc2SVViT2RFVlZrX0hWVHN1TmdjM3dDd1hUeTBrSkxnQ1h2bTZUaWNUV1g3eGxmTDBkRXpoSmFlZFdxa3BmRFRBSHJLNUZvWWR6V1JNZG9mLVZVS1BmcDkyUGlCVA?oc=5",
+              "source": "新华社"
+            },
+            {
+              "title": "亚运会丨皮划艇静水项目首个金牌日 中国队斩获两金两银 - 新华网",
+              "summary": "亚运会丨皮划艇静水项目首个金牌日 中国队斩获两金两银 新华网",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2SGRhaVFKelpfTlFlZWN5SUhxSFNPUU1oVDVacVQ0Ym5pRWVVOXhSdjNZd01xNUdYV3NzcDh4ajMxYjAxOGRwdUZVYjg1dWpLeTVPOVhHTHVzWVU2Ul9JQnNmRWdycHFONktOcExOWmwxU0k5UXYw?oc=5",
               "source": "新华社"
             },
             {
@@ -30,12 +36,6 @@
               "title": "新华网_让新闻离你更近 - 新华网",
               "summary": "新华网_让新闻离你更近 新华网",
               "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE5FdWV6S1M3MF9oYnROX0tuQkJLWEhDQmVGUWdYbzAzbjNvd3BRdElPSlVua05Pdw?oc=5",
-              "source": "新华社"
-            },
-            {
-              "title": "中国共产党第二十届中央领导机构 - 新华网",
-              "summary": "中国共产党第二十届中央领导机构 新华网",
-              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBWVTBoZDBPUFlpaGlhTEx0Unh1bktrX3Y5V3E4a3NlUlNxWDJhblp3dnBPRXMxSl9OOTRGckpMT1ZIMWtkVnZLdmhrUnY?oc=5",
               "source": "新华社"
             }
           ]
@@ -62,8 +62,8 @@
               "source": "人民日报"
             },
             {
-              "title": "新征程黑龙江省工会的新使命新任务 - hlj.people.com.cn",
-              "summary": "新征程黑龙江省工会的新使命新任务 hlj.people.com.cn",
+              "title": "新征程黑龙江省工会的新使命新任务 - 人民网",
+              "summary": "新征程黑龙江省工会的新使命新任务 人民网",
               "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqREJ6RVo3SGNrc0NNUDJzejVPWEl1VklEd2c4U2xCcnI0NGoxWW5IOFplMUc3ZjNXU1kyN2t4bnJGRF9hTVFqYTNVU3YycFJOSkpRczZ3czhaNEwwMUd6cDlaSnpxbUUxR0N3?oc=5",
               "source": "人民日报"
             },
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "White House pushes for speedy review of voter rolls in hunt for noncitizen voter…",
-              "summary": "The White House has pushed federal agencies to accelerate their review of at least 47 state voter rolls obtained by the Department of Homela…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab52238284946459e893244bc865ba8&url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fwhite-house-pushes-speedy-review-voter-rolls-hunt-noncitizen-voters-2026-09-24%2f&c=18324337894086391675&mkt=en-us",
+              "title": "China's rare earths dominance to overshadow Trump's talks with Xi",
+              "summary": "The US will remain reliant on China for rare earths well into the 2030s even as it rapidly builds its own mining ​and processing facilities,…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab5301b27784bcca4f9bfbdd0a7073f&url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fchinas-rare-earths-dominance-overshadow-trumps-talks-with-xi-2026-09-24%2f&c=8362088918438647183&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -134,33 +134,33 @@
       "items": [
         {
           "rank": 1,
-          "title": "中国人民和美国人民都是伟大的人民",
-          "hot_value": "2558624",
-          "link": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%92%8C%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%B0%91%E9%83%BD%E6%98%AF%E4%BC%9F%E5%A4%A7%E7%9A%84%E4%BA%BA%E6%B0%91%23"
+          "title": "中美元首华盛顿会晤",
+          "hot_value": "2967842",
+          "link": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%8D%8E%E7%9B%9B%E9%A1%BF%E4%BC%9A%E6%99%A4%23"
         },
         {
           "rank": 2,
-          "title": "国乒男团银牌",
-          "hot_value": "8127857",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A2%E9%93%B6%E7%89%8C%23"
+          "title": "国乒女团金牌",
+          "hot_value": "15855737",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A2%E9%87%91%E7%89%8C%23"
         },
         {
           "rank": 3,
-          "title": "丰收画卷里的中国味道",
-          "hot_value": "2446926",
-          "link": "https://s.weibo.com/weibo?q=%23%E4%B8%B0%E6%94%B6%E7%94%BB%E5%8D%B7%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%91%B3%E9%81%93%23"
+          "title": "跨越太平洋的青春之桥",
+          "hot_value": "1771686",
+          "link": "https://s.weibo.com/weibo?q=%23%E8%B7%A8%E8%B6%8A%E5%A4%AA%E5%B9%B3%E6%B4%8B%E7%9A%84%E9%9D%92%E6%98%A5%E4%B9%8B%E6%A1%A5%23"
         },
         {
           "rank": 4,
           "title": "享界G9开启交付",
-          "hot_value": "2425576",
+          "hot_value": "1713807",
           "link": "https://s.weibo.com/weibo?q=%23%E4%BA%AB%E7%95%8CG9%E5%BC%80%E5%90%AF%E4%BA%A4%E4%BB%98%23"
         },
         {
           "rank": 5,
-          "title": "国乒女团vs日本",
-          "hot_value": "2418074",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A2vs%E6%97%A5%E6%9C%AC%23"
+          "title": "国羽男团银牌",
+          "hot_value": "1693470",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E7%BE%BD%E7%94%B7%E5%9B%A2%E9%93%B6%E7%89%8C%23"
         }
       ]
     }
