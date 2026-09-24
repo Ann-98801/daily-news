@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24 10:12:56 (北京时间)",
+  "updated_at": "2026-09-24 11:12:42 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -62,8 +62,8 @@
               "source": "人民日报"
             },
             {
-              "title": "新征程黑龙江省工会的新使命新任务 - 人民网黑龙江频道",
-              "summary": "新征程黑龙江省工会的新使命新任务 人民网黑龙江频道",
+              "title": "新征程黑龙江省工会的新使命新任务 - 人民网",
+              "summary": "新征程黑龙江省工会的新使命新任务 人民网",
               "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqREJ6RVo3SGNrc0NNUDJzejVPWEl1VklEd2c4U2xCcnI0NGoxWW5IOFplMUc3ZjNXU1kyN2t4bnJGRF9hTVFqYTNVU3YycFJOSkpRczZ3czhaNEwwMUd6cDlaSnpxbUUxR0N3?oc=5",
               "source": "人民日报"
             },
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "AI leaders warn UN of security risks as systems grow more powerful",
-              "summary": "Ahead of a meeting between US President Donald Trump and Chinese ​leader Xi Jinping in Washington on Thursday, the US and China have discuss…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab4872704c34bbfb016505b811827a2&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fai-leaders-brief-un-amid-warnings-technology-could-slip-beyond-human-control-2026-09-23%2f&c=5375973977208331691&mkt=en-us",
+              "title": "Meta launches AI gadget Charm as race for post-smartphone hardware heats up",
+              "summary": "Meta Platforms kicked off its annual Connect conference on Wednesday, where it is expected to unveil new smart glasses, including a camera-f…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab495299a6341659fb2166a65a5824e&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmeta-expected-unveil-smart-glasses-without-camera-privacy-concerns-grow-2026-09-23%2f&c=11935673881853857705&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -135,32 +135,32 @@
         {
           "rank": 1,
           "title": "中美元首半年内实现国事互访",
-          "hot_value": "1063673",
+          "hot_value": "3077289",
           "link": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%8D%8A%E5%B9%B4%E5%86%85%E5%AE%9E%E7%8E%B0%E5%9B%BD%E4%BA%8B%E4%BA%92%E8%AE%BF%23"
         },
         {
           "rank": 2,
           "title": "诺贝尔奖好像能保研",
-          "hot_value": "1055464",
+          "hot_value": "2298241",
           "link": "https://s.weibo.com/weibo?q=%23%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%E5%A5%BD%E5%83%8F%E8%83%BD%E4%BF%9D%E7%A0%94%23"
         },
         {
           "rank": 3,
           "title": "一张物流网跑出中国加速度",
-          "hot_value": "1027564",
+          "hot_value": "1757841",
           "link": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BC%A0%E7%89%A9%E6%B5%81%E7%BD%91%E8%B7%91%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%8A%A0%E9%80%9F%E5%BA%A6%23"
         },
         {
           "rank": 4,
-          "title": "享界G9开启交付",
-          "hot_value": "1012484",
-          "link": "https://s.weibo.com/weibo?q=%23%E4%BA%AB%E7%95%8CG9%E5%BC%80%E5%90%AF%E4%BA%A4%E4%BB%98%23"
+          "title": "游本昌去世",
+          "hot_value": "24611840",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%B8%B8%E6%9C%AC%E6%98%8C%E5%8E%BB%E4%B8%96%23"
         },
         {
           "rank": 5,
-          "title": "特朗普抵达机场",
-          "hot_value": "1007185",
-          "link": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E6%9C%BA%E5%9C%BA%23"
+          "title": "特朗普说各领域领军人物都想来欢迎宴会",
+          "hot_value": "1098624",
+          "link": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E5%90%84%E9%A2%86%E5%9F%9F%E9%A2%86%E5%86%9B%E4%BA%BA%E7%89%A9%E9%83%BD%E6%83%B3%E6%9D%A5%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A%23"
         }
       ]
     }
