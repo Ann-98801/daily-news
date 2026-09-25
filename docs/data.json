@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26 03:11:20 (北京时间)",
+  "updated_at": "2026-09-26 04:12:03 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -50,6 +50,12 @@
               "source": "人民日报"
             },
             {
+              "title": "责编：任成琦 柴逸扉 邮箱：gtbhwb@people.cn - 人民日报",
+              "summary": "责编：任成琦 柴逸扉 邮箱：gtbhwb@people.cn 人民日报",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN0JkMmZES2xPZFdRYnlYLVNvWVdzMHNBanZlaVAwN29fXzV0M3VxUC1tc1poOWlYcHFzdTJDdFNtNzVoa0RoY0N3NkdDbld1aTBYWjBfbTZzWUQ2T2ZYWVB1OUlUdlQxLTdPVVZCa25nbXFhT2NYT3l5VUdISElBR3huQ1o?oc=5",
+              "source": "人民日报"
+            },
+            {
               "title": "习近平抵达华盛顿对美国进行国事访问--视频报道 - 中国共产党新闻网",
               "summary": "习近平抵达华盛顿对美国进行国事访问--视频报道 中国共产党新闻网",
               "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jSDFQbllSSl8tUENJUzlrMTZ2cDZSWEVyM2FFdHhrTVpVT3c0UGg2anRSY3NDb1pIeTg3T1A0X0ZMV05yWjdmUEk5Z3RIN2lKS25tdm9UZm1wMHlIQnpDUk5mczdaSnJoTE5yRWJXVGt0TFY5aFE?oc=5",
@@ -66,12 +72,6 @@
               "summary": "新征程黑龙江省工会的新使命新任务 人民网",
               "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqREJ6RVo3SGNrc0NNUDJzejVPWEl1VklEd2c4U2xCcnI0NGoxWW5IOFplMUc3ZjNXU1kyN2t4bnJGRF9hTVFqYTNVU3YycFJOSkpRczZ3czhaNEwwMUd6cDlaSnpxbUUxR0N3?oc=5",
               "source": "人民日报"
-            },
-            {
-              "title": "责编：任成琦 柴逸扉 邮箱：gtbhwb@people.cn - 人民日报",
-              "summary": "责编：任成琦 柴逸扉 邮箱：gtbhwb@people.cn 人民日报",
-              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbjRyd29fSVZoSTNHYTFFNnNRNnhYQl9BSlFJNElBMmk0d0U5RTdsQVM5SFlpMEpNczh5SW1mbWVKQklrZ1VtQ09naGZmQ1JFV29ZdFlzNndlcVVvelg1ZjdqNnZ2VDhnYzZNM0duNGstdDhPQUYwdTRCSlp2a214S1NFSU8?oc=5",
-              "source": "人民日报"
             }
           ]
         }
@@ -85,15 +85,15 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "Special agents' blood and urine test results stolen in FBI hack",
-              "summary": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
-              "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
+              "title": "Russia targeting 'ordinary life' with attacks on data centres, Zelensky says",
+              "summary": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
+              "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
             {
-              "title": "Pope warns against 'losing humanity' to AI machines",
-              "summary": "The pontiff delivered the warning on the first day of his trip to France on Friday.",
-              "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+              "title": "Special agents' blood and urine test results stolen in FBI hack",
+              "summary": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
+              "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Nor'easter expected to disrupt travel, flood basements, knock out power along US…",
-              "summary": "A strong nor'easter is expected to bring flooding, powerful wind gusts, heavy rain ​and rip currents to areas along the East Coast from Main…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab6c757dbb0475883a7cfeb7e70377e&url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fnoreaster-expected-disrupt-travel-flood-basements-knock-out-power-along-us-east-2026-09-25%2f&c=15548787756496053739&mkt=en-us",
+              "title": "Supreme Court restores Trump's mass voter verification system",
+              "summary": "The U.S. Supreme Court revived on Friday an expanded immigration database that President Donald Trump's administration said aims to combat v…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab6d59232764c4491e65521f10db556&url=https%3a%2f%2fwww.reuters.com%2fworld%2fsupreme-court-restores-trumps-mass-voter-verification-system-2026-09-25%2f&c=7676567385907903901&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -135,32 +135,32 @@
         {
           "rank": 1,
           "title": "中美两国元首夫妇参观美国国家档案馆",
-          "hot_value": "79451",
+          "hot_value": "61120",
           "link": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E4%B8%A4%E5%9B%BD%E5%85%83%E9%A6%96%E5%A4%AB%E5%A6%87%E5%8F%82%E8%A7%82%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%AE%B6%E6%A1%A3%E6%A1%88%E9%A6%86%23"
         },
         {
           "rank": 2,
-          "title": "特朗普演讲中秀中文",
-          "hot_value": "79293",
-          "link": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%BC%94%E8%AE%B2%E4%B8%AD%E7%A7%80%E4%B8%AD%E6%96%87%23"
+          "title": "王楚钦说和孙颖莎配了很多年混双",
+          "hot_value": "57984",
+          "link": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AF%B4%E5%92%8C%E5%AD%99%E9%A2%96%E8%8E%8E%E9%85%8D%E4%BA%86%E5%BE%88%E5%A4%9A%E5%B9%B4%E6%B7%B7%E5%8F%8C%23"
         },
         {
           "rank": 3,
           "title": "从一撇一捺看中美青年双向奔赴",
-          "hot_value": "76873",
+          "hot_value": "48813",
           "link": "https://s.weibo.com/weibo?q=%23%E4%BB%8E%E4%B8%80%E6%92%87%E4%B8%80%E6%8D%BA%E7%9C%8B%E4%B8%AD%E7%BE%8E%E9%9D%92%E5%B9%B4%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%23"
         },
         {
           "rank": 4,
-          "title": "杨舒予 宫鲁鸣",
-          "hot_value": "75510",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%88%92%E4%BA%88%20%E5%AE%AB%E9%B2%81%E9%B8%A3%23"
+          "title": "奕境X9上市24小时大定突破9157台",
+          "hot_value": "48612",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%A5%95%E5%A2%83X9%E4%B8%8A%E5%B8%8224%E5%B0%8F%E6%97%B6%E5%A4%A7%E5%AE%9A%E7%AA%81%E7%A0%B49157%E5%8F%B0%23"
         },
         {
           "rank": 5,
-          "title": "王楚钦说和孙颖莎配了很多年混双",
-          "hot_value": "74160",
-          "link": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AF%B4%E5%92%8C%E5%AD%99%E9%A2%96%E8%8E%8E%E9%85%8D%E4%BA%86%E5%BE%88%E5%A4%9A%E5%B9%B4%E6%B7%B7%E5%8F%8C%23"
+          "title": "国乒包揽冠亚军庆祝中秋",
+          "hot_value": "48038",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%8C%85%E6%8F%BD%E5%86%A0%E4%BA%9A%E5%86%9B%E5%BA%86%E7%A5%9D%E4%B8%AD%E7%A7%8B%23"
         }
       ]
     }
