@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26 11:12:12 (北京时间)",
+  "updated_at": "2026-09-26 12:13:08 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "US immigration crackdown hits Kansas, disrupts beef processing",
-              "summary": "US immigration agents fanned out across southwest Kansas, home to a large concentration of feedlots and slaughterhouses, this week in an ope…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab7380b4bc446cf9dfaedb86c87ce57&url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-immigration-crackdown-hits-kansas-disrupts-beef-processing-2026-09-25%2f&c=15663437169102965055&mkt=en-us",
+              "title": "Supreme Court restores Trump's mass voter verification system",
+              "summary": "The U.S. Supreme Court revived on Friday an expanded immigration database that President Donald Trump's administration said aims to combat v…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab7465370904ec9ba96bf6ba27abfb8&url=https%3a%2f%2fwww.reuters.com%2fworld%2fsupreme-court-restores-trumps-mass-voter-verification-system-2026-09-25%2f&c=7676567385907903901&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -135,32 +135,32 @@
         {
           "rank": 1,
           "title": "中美两国元首夫妇参观美国国家档案馆",
-          "hot_value": "1047872",
+          "hot_value": "1022034",
           "link": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E4%B8%A4%E5%9B%BD%E5%85%83%E9%A6%96%E5%A4%AB%E5%A6%87%E5%8F%82%E8%A7%82%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%AE%B6%E6%A1%A3%E6%A1%88%E9%A6%86%23"
         },
         {
           "rank": 2,
           "title": "陈芋汐卢为10米台夺金",
-          "hot_value": "962715",
+          "hot_value": "743294",
           "link": "https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8A%8B%E6%B1%90%E5%8D%A2%E4%B8%BA10%E7%B1%B3%E5%8F%B0%E5%A4%BA%E9%87%91%23"
         },
         {
           "rank": 3,
-          "title": "从一撇一捺看中美青年双向奔赴",
-          "hot_value": "607145",
-          "link": "https://s.weibo.com/weibo?q=%23%E4%BB%8E%E4%B8%80%E6%92%87%E4%B8%80%E6%8D%BA%E7%9C%8B%E4%B8%AD%E7%BE%8E%E9%9D%92%E5%B9%B4%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%23"
+          "title": "中美关系的前途是光明的",
+          "hot_value": "601597",
+          "link": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E7%9A%84%E5%89%8D%E9%80%94%E6%98%AF%E5%85%89%E6%98%8E%E7%9A%84%23"
         },
         {
           "rank": 4,
-          "title": "刘欢不举行遗体告别仪式和追悼会",
-          "hot_value": "602445",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%88%98%E6%AC%A2%E4%B8%8D%E4%B8%BE%E8%A1%8C%E9%81%97%E4%BD%93%E5%91%8A%E5%88%AB%E4%BB%AA%E5%BC%8F%E5%92%8C%E8%BF%BD%E6%82%BC%E4%BC%9A%23"
+          "title": "盖茨称人工智能或致十亿人死亡",
+          "hot_value": "576714",
+          "link": "https://s.weibo.com/weibo?q=%23%E7%9B%96%E8%8C%A8%E7%A7%B0%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%88%96%E8%87%B4%E5%8D%81%E4%BA%BF%E4%BA%BA%E6%AD%BB%E4%BA%A1%23"
         },
         {
           "rank": 5,
-          "title": "全红婵 亚运会",
-          "hot_value": "594512",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%20%E4%BA%9A%E8%BF%90%E4%BC%9A%23"
+          "title": "甄嬛传OST两位演唱者均已离世",
+          "hot_value": "512087",
+          "link": "https://s.weibo.com/weibo?q=%23%E7%94%84%E5%AC%9B%E4%BC%A0OST%E4%B8%A4%E4%BD%8D%E6%BC%94%E5%94%B1%E8%80%85%E5%9D%87%E5%B7%B2%E7%A6%BB%E4%B8%96%23"
         }
       ]
     }
