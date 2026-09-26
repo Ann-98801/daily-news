@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27 01:11:40 (北京时间)",
+  "updated_at": "2026-09-27 02:14:50 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -15,6 +15,12 @@
               "source": "新华社"
             },
             {
+              "title": "雄安日记丨OPC社区里的“雄安机遇” - 新华网",
+              "summary": "雄安日记丨OPC社区里的“雄安机遇” 新华网",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfTjJZOVNTNXlBVWU4dTJCUEdPMk5sLTAwRlVuYmlZQUFGOVNVdk1HNFRVMktldGxCRzVZQWhvT045X0dSV2N3NVRCLUU1NE5RdzNjTE9GMFdoWl9VMWV5dnpLV09VZHc1NkFhTUhMS0JhcFo5Ti05dGVHTC00Z1U?oc=5",
+              "source": "新华社"
+            },
+            {
               "title": "亚运会丨中国皮划艇静水队收官日再夺3金 - 新华网",
               "summary": "亚运会丨中国皮划艇静水队收官日再夺3金 新华网",
               "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZXpKbXhiUTNabFNOTGtadkx0YU0wbGdOcnBXR0p1QmVqVmRQbm9MZ25JMUlCMGg3ZDBjNm5DVEJGRkVneTlSUWNHOV8xaXY4dWF5S214Qm04QzByMUUwNWlURjViRGxsMmdjUEhjYllXLUdsVE5peGktazJiU21Hbg?oc=5",
@@ -24,12 +30,6 @@
               "title": "纽约股市三大股指25日上涨 - 新华网",
               "summary": "纽约股市三大股指25日上涨 新华网",
               "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZOThxQXlwYTNxM0NrT0tYWjBDdGFoY25XWUthS1NtSV9qU1BrQ2l4eTZ3QzlSc3FYNmtNcVFWTHhsR1lEX0UtZ0V5ZXlySHNjY3pyOE1SSkF4VV92TmdIMmlrTTAxR210YjN0RmpteVUySlNiOEd0VDc3cVM2Unc?oc=5",
-              "source": "新华社"
-            },
-            {
-              "title": "中国茅台恭祝全国人民中秋快乐 - 新华网",
-              "summary": "中国茅台恭祝全国人民中秋快乐 新华网",
-              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMlNVckUzeVJDQU9PcXlYQWcxNHVyZ3NfTUc2dGduQlg4c1kxVUlpS1B4MUZjZ3BtQ1kyMDFaemx6d3Y5azY0aGllaEdsTlR4TldKUVR4RkpaMkVqazRoRGZVZkxqS0liYTBfenFMQjJjWlljU20zTlVxTXUwNV9MREdiRU05Zw?oc=5",
               "source": "新华社"
             },
             {
@@ -62,8 +62,8 @@
               "source": "人民日报"
             },
             {
-              "title": "新征程黑龙江省工会的新使命新任务 - hlj.people.com.cn",
-              "summary": "新征程黑龙江省工会的新使命新任务 hlj.people.com.cn",
+              "title": "新征程黑龙江省工会的新使命新任务 - 人民网",
+              "summary": "新征程黑龙江省工会的新使命新任务 人民网",
               "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqREJ6RVo3SGNrc0NNUDJzejVPWEl1VklEd2c4U2xCcnI0NGoxWW5IOFplMUc3ZjNXU1kyN2t4bnJGRF9hTVFqYTNVU3YycFJOSkpRczZ3czhaNEwwMUd6cDlaSnpxbUUxR0N3?oc=5",
               "source": "人民日报"
             },
@@ -91,8 +91,8 @@
               "source": "BBC"
             },
             {
-              "title": "Pope praises 'energy and commitment' of young people as huge crowds join open-ai…",
-              "summary": "Around 700,000 people gathered in central Paris as the Pope celebrated an open-air Mass.",
+              "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Par…",
+              "summary": "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer.",
               "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Supreme Court restores Trump's mass voter verification system",
-              "summary": "The U.S. Supreme Court revived on Friday an expanded immigration database that President Donald Trump's administration said aims to combat v…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab7fccbbedf4268b3232600db871688&url=https%3a%2f%2fwww.reuters.com%2fworld%2fsupreme-court-restores-trumps-mass-voter-verification-system-2026-09-25%2f&c=7676567385907903901&mkt=en-us",
+              "title": "China, US agree to $30 billion tariff cut, AI dialogue during Xi visit, Beijing…",
+              "summary": "China and the US have agreed to a $30 billion reciprocal tariff-reduction arrangement and to launch dialogue ​on AI, under an eight-point co…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab80b981f3945d4a7fd68495f144d5c&url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fchina-us-agree-30-billion-tariff-cut-ai-dialogue-during-xi-visit-2026-09-26%2f&c=15071551859066922136&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -135,32 +135,32 @@
         {
           "rank": 1,
           "title": "中美达成300亿美元对等降税安排",
-          "hot_value": "505785",
+          "hot_value": "201090",
           "link": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E8%BE%BE%E6%88%90300%E4%BA%BF%E7%BE%8E%E5%85%83%E5%AF%B9%E7%AD%89%E9%99%8D%E7%A8%8E%E5%AE%89%E6%8E%92%23"
         },
         {
           "rank": 2,
           "title": "王楚钦感谢孙颖莎一起守住了混双金牌",
-          "hot_value": "495018",
+          "hot_value": "200542",
           "link": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%84%9F%E8%B0%A2%E5%AD%99%E9%A2%96%E8%8E%8E%E4%B8%80%E8%B5%B7%E5%AE%88%E4%BD%8F%E4%BA%86%E6%B7%B7%E5%8F%8C%E9%87%91%E7%89%8C%23"
         },
         {
           "rank": 3,
           "title": "中美八点成果共识公布",
-          "hot_value": "403446",
+          "hot_value": "197368",
           "link": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%AB%E7%82%B9%E6%88%90%E6%9E%9C%E5%85%B1%E8%AF%86%E5%85%AC%E5%B8%83%23"
         },
         {
           "rank": 4,
           "title": "孙颖莎说协会可以报两对混双",
-          "hot_value": "389434",
+          "hot_value": "192598",
           "link": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%AF%B4%E5%8D%8F%E4%BC%9A%E5%8F%AF%E4%BB%A5%E6%8A%A5%E4%B8%A4%E5%AF%B9%E6%B7%B7%E5%8F%8C%23"
         },
         {
           "rank": 5,
-          "title": "国羽男单全军覆没",
-          "hot_value": "364470",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E7%BE%BD%E7%94%B7%E5%8D%95%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A1%23"
+          "title": "乌方公开已将两名朝鲜战俘移送韩国",
+          "hot_value": "191486",
+          "link": "https://s.weibo.com/weibo?q=%23%E4%B9%8C%E6%96%B9%E5%85%AC%E5%BC%80%E5%B7%B2%E5%B0%86%E4%B8%A4%E5%90%8D%E6%9C%9D%E9%B2%9C%E6%88%98%E4%BF%98%E7%A7%BB%E9%80%81%E9%9F%A9%E5%9B%BD%23"
         }
       ]
     }
