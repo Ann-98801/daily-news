@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26 10:12:26 (北京时间)",
+  "updated_at": "2026-09-26 11:12:12 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -9,15 +9,15 @@
           "source_name": "新华社",
           "items": [
             {
-              "title": "纽约股市三大股指25日上涨 - 新华网",
-              "summary": "纽约股市三大股指25日上涨 新华网",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZOThxQXlwYTNxM0NrT0tYWjBDdGFoY25XWUthS1NtSV9qU1BrQ2l4eTZ3QzlSc3FYNmtNcVFWTHhsR1lEX0UtZ0V5ZXlySHNjY3pyOE1SSkF4VV92TmdIMmlrTTAxR210YjN0RmpteVUySlNiOEd0VDc3cVM2Unc?oc=5",
+              "title": "圆月当空 - 新华网",
+              "summary": "圆月当空 新华网",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9INlVydzIyTHVnbll2QU1rd1Y5QXZ5U2RWZk05YzVhaDJMZkVFaWlUN1hGSVdUck9TLXZNanZyQVVVa2haLU56a3NQZWJkZm5VUEpOcW9aTkJFYWVYNHpHV3ZyTERjWE1QT3lGZlB3dHEwc2VKSzAxbTU4ZTBMcjA?oc=5",
               "source": "新华社"
             },
             {
-              "title": "基辅市长：俄军空袭已致32人死伤 - 新华网",
-              "summary": "基辅市长：俄军空袭已致32人死伤 新华网",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WQXp1VTA1cTVzYXVuVmctUnNYVllXWktyajd6TXRJdnRRTDZ4N3lWVHlYMEtYT3ZlRVZLamJCYmZ4TEoxeUswYVJkNGhVZGtKSGZsOEl5Z2lia1hkT1F0bTZkSVU0dDRqUXh4WGIwOUs3YldsU1diMnJyR05Kdlk?oc=5",
+              "title": "纽约股市三大股指25日上涨 - 新华网",
+              "summary": "纽约股市三大股指25日上涨 新华网",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZOThxQXlwYTNxM0NrT0tYWjBDdGFoY25XWUthS1NtSV9qU1BrQ2l4eTZ3QzlSc3FYNmtNcVFWTHhsR1lEX0UtZ0V5ZXlySHNjY3pyOE1SSkF4VV92TmdIMmlrTTAxR210YjN0RmpteVUySlNiOEd0VDc3cVM2Unc?oc=5",
               "source": "新华社"
             },
             {
@@ -91,9 +91,9 @@
               "source": "BBC"
             },
             {
-              "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensk…",
-              "summary": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
-              "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
+              "title": "OpenAI bots meddled with multiple US government agency sites",
+              "summary": "OpenAI said its bots accessed public data from the US Census and the Securities and Exchange Commission, which regulates US stock markets.",
+              "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Iran awaits US move after WSJ report says Trump rejects peace plan",
-              "summary": "Iran on Saturday awaited an official US response to its proposal to reopen the Strait of Hormuz and end fighting in the wider Middle East wa…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab72a09447e454ea23dbe0fad006800&url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firan-awaits-us-move-after-wsj-report-says-trump-rejects-peace-plan-2026-09-26%2f&c=1724161383661671255&mkt=en-us",
+              "title": "US immigration crackdown hits Kansas, disrupts beef processing",
+              "summary": "US immigration agents fanned out across southwest Kansas, home to a large concentration of feedlots and slaughterhouses, this week in an ope…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab7380b4bc446cf9dfaedb86c87ce57&url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-immigration-crackdown-hits-kansas-disrupts-beef-processing-2026-09-25%2f&c=15663437169102965055&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -135,32 +135,32 @@
         {
           "rank": 1,
           "title": "中美两国元首夫妇参观美国国家档案馆",
-          "hot_value": "1031916",
+          "hot_value": "1047872",
           "link": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E4%B8%A4%E5%9B%BD%E5%85%83%E9%A6%96%E5%A4%AB%E5%A6%87%E5%8F%82%E8%A7%82%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%AE%B6%E6%A1%A3%E6%A1%88%E9%A6%86%23"
         },
         {
           "rank": 2,
           "title": "陈芋汐卢为10米台夺金",
-          "hot_value": "1027863",
+          "hot_value": "962715",
           "link": "https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8A%8B%E6%B1%90%E5%8D%A2%E4%B8%BA10%E7%B1%B3%E5%8F%B0%E5%A4%BA%E9%87%91%23"
         },
         {
           "rank": 3,
           "title": "从一撇一捺看中美青年双向奔赴",
-          "hot_value": "596107",
+          "hot_value": "607145",
           "link": "https://s.weibo.com/weibo?q=%23%E4%BB%8E%E4%B8%80%E6%92%87%E4%B8%80%E6%8D%BA%E7%9C%8B%E4%B8%AD%E7%BE%8E%E9%9D%92%E5%B9%B4%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%23"
         },
         {
           "rank": 4,
-          "title": "鸿星尔克于适运动男友风",
-          "hot_value": "550213",
-          "link": "https://s.weibo.com/weibo?q=%23%E9%B8%BF%E6%98%9F%E5%B0%94%E5%85%8B%E4%BA%8E%E9%80%82%E8%BF%90%E5%8A%A8%E7%94%B7%E5%8F%8B%E9%A3%8E%23"
+          "title": "刘欢不举行遗体告别仪式和追悼会",
+          "hot_value": "602445",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%88%98%E6%AC%A2%E4%B8%8D%E4%B8%BE%E8%A1%8C%E9%81%97%E4%BD%93%E5%91%8A%E5%88%AB%E4%BB%AA%E5%BC%8F%E5%92%8C%E8%BF%BD%E6%82%BC%E4%BC%9A%23"
         },
         {
           "rank": 5,
-          "title": "金毛两次假装有主人被识破",
-          "hot_value": "529593",
-          "link": "https://s.weibo.com/weibo?q=%23%E9%87%91%E6%AF%9B%E4%B8%A4%E6%AC%A1%E5%81%87%E8%A3%85%E6%9C%89%E4%B8%BB%E4%BA%BA%E8%A2%AB%E8%AF%86%E7%A0%B4%23"
+          "title": "全红婵 亚运会",
+          "hot_value": "594512",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%20%E4%BA%9A%E8%BF%90%E4%BC%9A%23"
         }
       ]
     }
