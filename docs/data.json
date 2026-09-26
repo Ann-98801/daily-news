@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26 09:11:12 (北京时间)",
+  "updated_at": "2026-09-26 10:12:26 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -9,15 +9,15 @@
           "source_name": "新华社",
           "items": [
             {
-              "title": "习近平同美国总统特朗普会谈 - 新华网",
-              "summary": "习近平同美国总统特朗普会谈 新华网",
-              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRTRGX2JudlJ4R0l4U1Jxbi1PZ19kT2V3Q0pfWDEtYjRqWmdsTDlJVTFBMVlzMmVVQklxRHlkek5uaWRZMzZkc2xnUmxmNzk4NkVQOXVHcUZLU1Zwb3BJT2Mzak1Yd3FYMGxJQnA2VFg2M3k2eXQ4SFVmZmhEMFRwcV9JbXhaR2s0MmRZQ1pn?oc=5",
-              "source": "新华社"
-            },
-            {
               "title": "纽约股市三大股指25日上涨 - 新华网",
               "summary": "纽约股市三大股指25日上涨 新华网",
               "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZOThxQXlwYTNxM0NrT0tYWjBDdGFoY25XWUthS1NtSV9qU1BrQ2l4eTZ3QzlSc3FYNmtNcVFWTHhsR1lEX0UtZ0V5ZXlySHNjY3pyOE1SSkF4VV92TmdIMmlrTTAxR210YjN0RmpteVUySlNiOEd0VDc3cVM2Unc?oc=5",
+              "source": "新华社"
+            },
+            {
+              "title": "基辅市长：俄军空袭已致32人死伤 - 新华网",
+              "summary": "基辅市长：俄军空袭已致32人死伤 新华网",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WQXp1VTA1cTVzYXVuVmctUnNYVllXWktyajd6TXRJdnRRTDZ4N3lWVHlYMEtYT3ZlRVZLamJCYmZ4TEoxeUswYVJkNGhVZGtKSGZsOEl5Z2lia1hkT1F0bTZkSVU0dDRqUXh4WGIwOUs3YldsU1diMnJyR05Kdlk?oc=5",
               "source": "新华社"
             },
             {
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "OpenAI's models accessed public US Census, SEC data, Bloomberg News reports",
-              "summary": "OpenAI's models accessed publicly available information from US government ​websites, including those of the ‌Census Bureau and the Securiti…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab71baf79774b1f964fc245fe4f9710&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fopenais-models-accessed-public-us-census-sec-data-bloomberg-news-reports-2026-09-26%2f&c=12630703728700682175&mkt=en-us",
+              "title": "Iran awaits US move after WSJ report says Trump rejects peace plan",
+              "summary": "Iran on Saturday awaited an official US response to its proposal to reopen the Strait of Hormuz and end fighting in the wider Middle East wa…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab72a09447e454ea23dbe0fad006800&url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2firan-awaits-us-move-after-wsj-report-says-trump-rejects-peace-plan-2026-09-26%2f&c=1724161383661671255&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -135,32 +135,32 @@
         {
           "rank": 1,
           "title": "中美两国元首夫妇参观美国国家档案馆",
-          "hot_value": "1044195",
+          "hot_value": "1031916",
           "link": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E4%B8%A4%E5%9B%BD%E5%85%83%E9%A6%96%E5%A4%AB%E5%A6%87%E5%8F%82%E8%A7%82%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%AE%B6%E6%A1%A3%E6%A1%88%E9%A6%86%23"
         },
         {
           "rank": 2,
-          "title": "国家出手调控油价了",
-          "hot_value": "741486",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%87%BA%E6%89%8B%E8%B0%83%E6%8E%A7%E6%B2%B9%E4%BB%B7%E4%BA%86%23"
+          "title": "陈芋汐卢为10米台夺金",
+          "hot_value": "1027863",
+          "link": "https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8A%8B%E6%B1%90%E5%8D%A2%E4%B8%BA10%E7%B1%B3%E5%8F%B0%E5%A4%BA%E9%87%91%23"
         },
         {
           "rank": 3,
           "title": "从一撇一捺看中美青年双向奔赴",
-          "hot_value": "583334",
+          "hot_value": "596107",
           "link": "https://s.weibo.com/weibo?q=%23%E4%BB%8E%E4%B8%80%E6%92%87%E4%B8%80%E6%8D%BA%E7%9C%8B%E4%B8%AD%E7%BE%8E%E9%9D%92%E5%B9%B4%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%23"
         },
         {
           "rank": 4,
-          "title": "和茅台碰见四季",
-          "hot_value": "579475",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%92%8C%E8%8C%85%E5%8F%B0%E7%A2%B0%E8%A7%81%E5%9B%9B%E5%AD%A3%23"
+          "title": "鸿星尔克于适运动男友风",
+          "hot_value": "550213",
+          "link": "https://s.weibo.com/weibo?q=%23%E9%B8%BF%E6%98%9F%E5%B0%94%E5%85%8B%E4%BA%8E%E9%80%82%E8%BF%90%E5%8A%A8%E7%94%B7%E5%8F%8B%E9%A3%8E%23"
         },
         {
           "rank": 5,
-          "title": "中国人在写死亡的时候出奇的神",
-          "hot_value": "576442",
-          "link": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9C%A8%E5%86%99%E6%AD%BB%E4%BA%A1%E7%9A%84%E6%97%B6%E5%80%99%E5%87%BA%E5%A5%87%E7%9A%84%E7%A5%9E%23"
+          "title": "金毛两次假装有主人被识破",
+          "hot_value": "529593",
+          "link": "https://s.weibo.com/weibo?q=%23%E9%87%91%E6%AF%9B%E4%B8%A4%E6%AC%A1%E5%81%87%E8%A3%85%E6%9C%89%E4%B8%BB%E4%BA%BA%E8%A2%AB%E8%AF%86%E7%A0%B4%23"
         }
       ]
     }
