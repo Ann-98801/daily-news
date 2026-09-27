@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27 13:11:56 (北京时间)",
+  "updated_at": "2026-09-27 14:16:44 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -12,6 +12,12 @@
               "title": "曼谷市政府宣布全市为洪水灾区 - 新华网",
               "summary": "曼谷市政府宣布全市为洪水灾区 新华网",
               "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91V0d3V2lBd1l2dUVxdVNEekZMU0RjTUJBMXZ5a3RzMnI4TlVLU2YtVGI5emphZjdRNVdEamlHdzFLQTBqRkZNT1JYbGZWZEx2X2VIcU8yamtNZGZyYm9GRjRROG9ZMnFwRlNzREJFa3owZU5vX2l1Yl9rd0lOQ1E?oc=5",
+              "source": "新华社"
+            },
+            {
+              "title": "秘鲁能矿部长：欢迎中企扩大在秘能矿领域投资 - 新华网",
+              "summary": "秘鲁能矿部长：欢迎中企扩大在秘能矿领域投资 新华网",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GYjRKckphNUtOcHRtN3VpYUM4b0J3bWFrbUtyUk5hZ2NqV3l4YjZJdW9QbzVnRkVRWXRpZGxnR2VTa0JKQlBxWXQ5OUhTOWl3aFBvWkJ5Q0liSFlXeUFfUVFqWE5FUXVCRk5OLXcyaTU1SHBuZUF3?oc=5",
               "source": "新华社"
             },
             {
@@ -30,12 +36,6 @@
               "title": "在数贸会，见证具身智能应用打开新空间 - 新华网",
               "summary": "在数贸会，见证具身智能应用打开新空间 新华网",
               "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55MDloUTV0UXFObG1CMENvRTRhd2xWMXlJQkY2M0U4SUhhU2plLURlTUVBSUtEY1ZlS3NLUTBwZF9MTkJER2kyTW4tSnRyUzlEc1pNNjJoS1hTOWNQWTdqZkVOSnFuRUxVQ2hHV1B3b2VjUUs4Yjh0Z095RE5VZw?oc=5",
-              "source": "新华社"
-            },
-            {
-              "title": "纽约股市三大股指25日上涨 - 新华网",
-              "summary": "纽约股市三大股指25日上涨 新华网",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZOThxQXlwYTNxM0NrT0tYWjBDdGFoY25XWUthS1NtSV9qU1BrQ2l4eTZ3QzlSc3FYNmtNcVFWTHhsR1lEX0UtZ0V5ZXlySHNjY3pyOE1SSkF4VV92TmdIMmlrTTAxR210YjN0RmpteVUySlNiOEd0VDc3cVM2Unc?oc=5",
               "source": "新华社"
             }
           ]
@@ -85,15 +85,15 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-              "summary": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
-              "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+              "title": "Iran says it will wait for official US response after Trump rejects Strait of Ho…",
+              "summary": "The US president earlier said that Tehran only made the proposal to open the strait within seven days because \"they're losing so badly\".",
+              "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
             {
-              "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Par…",
-              "summary": "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer.",
-              "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+              "title": "Christa Pike to be first woman executed in Tennessee in 200 years - but her defe…",
+              "summary": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened…",
+              "link": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "OpenAI, Anthropic CEOs called to appear at Australian AI probe",
-              "summary": "The CEOs of OpenAI and Anthropic have been called to appear at an Australian Senate inquiry on AI, the head of the ​probe said on Sunday, da…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab8a59b06964f07b2550361415e838a&url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fopenai-anthropic-ceos-called-appear-australian-ai-probe-2026-09-27%2f&c=15207860455539421957&mkt=en-us",
+              "title": "Iran insists on diplomatic solution after Trump rejects peace plan",
+              "summary": "Despite ⁠Trump's public statements, mediators facilitating US-Iran talks with the United States have not officially relayed a US rejection o…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab8b4cb1fdf4513a9a0fded8beaeab1&url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2firan-insists-diplomatic-solution-after-trump-rejects-peace-plan-2026-09-26%2f&c=14099837551869779500&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -134,33 +134,33 @@
       "items": [
         {
           "rank": 1,
-          "title": "温瑞博向鹏vs张本智和筱冢大登",
-          "hot_value": "2439761",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%B8%A9%E7%91%9E%E5%8D%9A%E5%90%91%E9%B9%8Fvs%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E7%AD%B1%E5%86%A2%E5%A4%A7%E7%99%BB%23"
+          "title": "王曼昱vs张本美和",
+          "hot_value": "1585440",
+          "link": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1vs%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%23"
         },
         {
           "rank": 2,
-          "title": "交强险经营亏损两百多亿",
-          "hot_value": "1353699",
-          "link": "https://s.weibo.com/weibo?q=%23%E4%BA%A4%E5%BC%BA%E9%99%A9%E7%BB%8F%E8%90%A5%E4%BA%8F%E6%8D%9F%E4%B8%A4%E7%99%BE%E5%A4%9A%E4%BA%BF%23"
+          "title": "温瑞博向鹏vs张本智和筱冢大登",
+          "hot_value": "1190229",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%B8%A9%E7%91%9E%E5%8D%9A%E5%90%91%E9%B9%8Fvs%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E7%AD%B1%E5%86%A2%E5%A4%A7%E7%99%BB%23"
         },
         {
           "rank": 3,
           "title": "花样文旅点亮中秋假期",
-          "hot_value": "1285156",
+          "hot_value": "1027805",
           "link": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%A0%B7%E6%96%87%E6%97%85%E7%82%B9%E4%BA%AE%E4%B8%AD%E7%A7%8B%E5%81%87%E6%9C%9F%23"
         },
         {
           "rank": 4,
-          "title": "亚运乒乓球女单",
-          "hot_value": "1249206",
-          "link": "https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%B9%92%E4%B9%93%E7%90%83%E5%A5%B3%E5%8D%95%23"
+          "title": "中国赏秋路线一路向秋放心去追",
+          "hot_value": "1023458",
+          "link": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B5%8F%E7%A7%8B%E8%B7%AF%E7%BA%BF%E4%B8%80%E8%B7%AF%E5%90%91%E7%A7%8B%E6%94%BE%E5%BF%83%E5%8E%BB%E8%BF%BD%23"
         },
         {
           "rank": 5,
-          "title": "北京释放7亿只小蜂治毛毛虫",
-          "hot_value": "832761",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E9%87%8A%E6%94%BE7%E4%BA%BF%E5%8F%AA%E5%B0%8F%E8%9C%82%E6%B2%BB%E6%AF%9B%E6%AF%9B%E8%99%AB%23"
+          "title": "侯英超目睹9比3遭逆转愤然离场",
+          "hot_value": "1002229",
+          "link": "https://s.weibo.com/weibo?q=%23%E4%BE%AF%E8%8B%B1%E8%B6%85%E7%9B%AE%E7%9D%B99%E6%AF%943%E9%81%AD%E9%80%86%E8%BD%AC%E6%84%A4%E7%84%B6%E7%A6%BB%E5%9C%BA%23"
         }
       ]
     }
