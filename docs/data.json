@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28 03:11:00 (北京时间)",
+  "updated_at": "2026-09-28 04:12:17 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -44,6 +44,12 @@
           "source_name": "人民日报",
           "items": [
             {
+              "title": "责编：金 晨 邮箱：gtbhwb@people.cn - 人民日报",
+              "summary": "责编：金 晨 邮箱：gtbhwb@people.cn 人民日报",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRXJ0Z3NPTXhFdHo2cjIyWHpCOXFPNUxCbzJMUERMYmRueENPbEV0R3p0Q3QzYU5SY283QjBMTDFfanZSVFNzUXNkVlVUY2wzWlB3a05GNnhKZ3AzVUxZcHRHZ3Z2ZmxJSEdtdE9icVhCWnNuODJjcmFqaUc0WGNDWWRLVQ?oc=5",
+              "source": "人民日报"
+            },
+            {
               "title": "责编：任成琦 柴逸扉 邮箱：gtbhwb@people.cn - 人民日报",
               "summary": "责编：任成琦 柴逸扉 邮箱：gtbhwb@people.cn 人民日报",
               "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMUVsTmFWU1R2Q2xjTjRoUGc1Qi1MSTRmeFRfM2FyQk40ZTFrV1BUUUJOUFBGaUZjRGdUamVoYUNydjFMOTZQTXZNR1ZPQzlNVUZoTlpaZjRHY0FZd1plYmZxMndIUHdzbGRPVC1YMWFjOEtkN1hOZXdOSTFYY1NEUlFLbw?oc=5",
@@ -56,21 +62,15 @@
               "source": "人民日报"
             },
             {
-              "title": "责编：任成琦 柴逸扉 邮箱：gtbhwb@people.cn - 人民日报",
-              "summary": "责编：任成琦 柴逸扉 邮箱：gtbhwb@people.cn 人民日报",
-              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN0JkMmZES2xPZFdRYnlYLVNvWVdzMHNBanZlaVAwN29fXzV0M3VxUC1tc1poOWlYcHFzdTJDdFNtNzVoa0RoY0N3NkdDbld1aTBYWjBfbTZzWUQ2T2ZYWVB1OUlUdlQxLTdPVVZCa25nbXFhT2NYT3l5VUdISElBR3huQ1o?oc=5",
-              "source": "人民日报"
-            },
-            {
-              "title": "习近平结束对美国的国事访问回到北京--视频报道 - cpc.people.com.cn",
-              "summary": "习近平结束对美国的国事访问回到北京--视频报道 cpc.people.com.cn",
+              "title": "习近平结束对美国的国事访问回到北京--视频报道 - 中国共产党新闻网",
+              "summary": "习近平结束对美国的国事访问回到北京--视频报道 中国共产党新闻网",
               "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XdVQxTVFoRi0zZ1FKTW5nTXd3V0gyWkNoTHlsZ2Vjd2pYWmhzMUlkb19PQjB0dHhqb21zR2hrcHhrM3RPSHpXdWJUVE9QTWtSSXVwQUxmeTJnankxcGF4Y2V1bWNVOEdkUU1CUGx5eURXTGdRamc?oc=5",
               "source": "人民日报"
             },
             {
               "title": "责编：任成琦 柴逸扉 邮箱：gtbhwb@people.cn - 人民日报",
               "summary": "责编：任成琦 柴逸扉 邮箱：gtbhwb@people.cn 人民日报",
-              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNlBzNW5yQWo0QmhkTkFkMC1TMjRZWDMwRm5WRkNNcnpNQWp3MXZqQWZFYzlwYmpiOGVDSTlONkZUVDBIMDZNOTBqWjRoM2pFN1VDWEVnc2lpOUcyZ2dWN2s0bnVrdE1teFZWQlNfUnBHVG85QTBaUEhyZ05jSW1zWUUtVUE?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN0JkMmZES2xPZFdRYnlYLVNvWVdzMHNBanZlaVAwN29fXzV0M3VxUC1tc1poOWlYcHFzdTJDdFNtNzVoa0RoY0N3NkdDbld1aTBYWjBfbTZzWUQ2T2ZYWVB1OUlUdlQxLTdPVVZCa25nbXFhT2NYT3l5VUdISElBR3huQ1o?oc=5",
               "source": "人民日报"
             }
           ]
@@ -121,7 +121,7 @@
             {
               "title": "Iran insists on diplomatic solution after Trump rejects peace plan",
               "summary": "Despite ⁠Trump's public statements, mediators facilitating US-Iran talks with the United States have not officially relayed a US rejection o…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab96a4374b94071bf6d814ff8ecc0b5&url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2firan-insists-diplomatic-solution-after-trump-rejects-peace-plan-2026-09-26%2f&c=14099837551869779500&mkt=en-us",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab978a07d1e47969443c4b83cddc40c&url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2firan-insists-diplomatic-solution-after-trump-rejects-peace-plan-2026-09-26%2f&c=14099837551869779500&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -135,31 +135,31 @@
         {
           "rank": 1,
           "title": "贷款中介集体删除朋友圈",
-          "hot_value": "262857",
+          "hot_value": "183786",
           "link": "https://s.weibo.com/weibo?q=%23%E8%B4%B7%E6%AC%BE%E4%B8%AD%E4%BB%8B%E9%9B%86%E4%BD%93%E5%88%A0%E9%99%A4%E6%9C%8B%E5%8F%8B%E5%9C%88%23"
         },
         {
           "rank": 2,
-          "title": "兰香如故热度超过长相思",
-          "hot_value": "115962",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E7%83%AD%E5%BA%A6%E8%B6%85%E8%BF%87%E9%95%BF%E7%9B%B8%E6%80%9D%23"
+          "title": "微微一笑很倾城AI换脸后",
+          "hot_value": "78043",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%BE%AE%E4%B8%80%E7%AC%91%E5%BE%88%E5%80%BE%E5%9F%8EAI%E6%8D%A2%E8%84%B8%E5%90%8E%23"
         },
         {
           "rank": 3,
           "title": "中美建立推进贸易理事会等机制",
-          "hot_value": "94179",
+          "hot_value": "67021",
           "link": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%BB%BA%E7%AB%8B%E6%8E%A8%E8%BF%9B%E8%B4%B8%E6%98%93%E7%90%86%E4%BA%8B%E4%BC%9A%E7%AD%89%E6%9C%BA%E5%88%B6%23"
         },
         {
           "rank": 4,
-          "title": "京东101HOME全球首店盛大开业",
-          "hot_value": "93954",
-          "link": "https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C101HOME%E5%85%A8%E7%90%83%E9%A6%96%E5%BA%97%E7%9B%9B%E5%A4%A7%E5%BC%80%E4%B8%9A%23"
+          "title": "智界RX及鸿蒙智行新品发布会",
+          "hot_value": "66730",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%99%BA%E7%95%8CRX%E5%8F%8A%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A%23"
         },
         {
           "rank": 5,
           "title": "电子竞技项目将退出亚运",
-          "hot_value": "93241",
+          "hot_value": "64940",
           "link": "https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%AD%90%E7%AB%9E%E6%8A%80%E9%A1%B9%E7%9B%AE%E5%B0%86%E9%80%80%E5%87%BA%E4%BA%9A%E8%BF%90%23"
         }
       ]
