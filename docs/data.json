@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27 14:16:44 (北京时间)",
+  "updated_at": "2026-09-27 15:12:54 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -85,8 +85,8 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "Iran says it will wait for official US response after Trump rejects Strait of Ho…",
-              "summary": "The US president earlier said that Tehran only made the proposal to open the strait within seven days because \"they're losing so badly\".",
+              "title": "Iran waiting for official US response after Trump rejects Hormuz deal, minister…",
+              "summary": "The foreign minister says the US has not officially rejected the deal, despite comments from Donald Trump on Saturday.",
               "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
@@ -121,7 +121,7 @@
             {
               "title": "Iran insists on diplomatic solution after Trump rejects peace plan",
               "summary": "Despite ⁠Trump's public statements, mediators facilitating US-Iran talks with the United States have not officially relayed a US rejection o…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab8b4cb1fdf4513a9a0fded8beaeab1&url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2firan-insists-diplomatic-solution-after-trump-rejects-peace-plan-2026-09-26%2f&c=14099837551869779500&mkt=en-us",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab8c1f520b540039a185a8f91838922&url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2firan-insists-diplomatic-solution-after-trump-rejects-peace-plan-2026-09-26%2f&c=14099837551869779500&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -134,33 +134,33 @@
       "items": [
         {
           "rank": 1,
-          "title": "王曼昱vs张本美和",
-          "hot_value": "1585440",
-          "link": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1vs%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%23"
+          "title": "孙颖莎vs早田希娜",
+          "hot_value": "2387692",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8Evs%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C%23"
         },
         {
           "rank": 2,
-          "title": "温瑞博向鹏vs张本智和筱冢大登",
-          "hot_value": "1190229",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%B8%A9%E7%91%9E%E5%8D%9A%E5%90%91%E9%B9%8Fvs%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E7%AD%B1%E5%86%A2%E5%A4%A7%E7%99%BB%23"
+          "title": "乒乓球",
+          "hot_value": "1042179",
+          "link": "https://s.weibo.com/weibo?q=%23%E4%B9%92%E4%B9%93%E7%90%83%23"
         },
         {
           "rank": 3,
-          "title": "花样文旅点亮中秋假期",
-          "hot_value": "1027805",
-          "link": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%A0%B7%E6%96%87%E6%97%85%E7%82%B9%E4%BA%AE%E4%B8%AD%E7%A7%8B%E5%81%87%E6%9C%9F%23"
+          "title": "世界技能大赛的动人瞬间",
+          "hot_value": "960932",
+          "link": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%8A%80%E8%83%BD%E5%A4%A7%E8%B5%9B%E7%9A%84%E5%8A%A8%E4%BA%BA%E7%9E%AC%E9%97%B4%23"
         },
         {
           "rank": 4,
           "title": "中国赏秋路线一路向秋放心去追",
-          "hot_value": "1023458",
+          "hot_value": "951398",
           "link": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B5%8F%E7%A7%8B%E8%B7%AF%E7%BA%BF%E4%B8%80%E8%B7%AF%E5%90%91%E7%A7%8B%E6%94%BE%E5%BF%83%E5%8E%BB%E8%BF%BD%23"
         },
         {
           "rank": 5,
-          "title": "侯英超目睹9比3遭逆转愤然离场",
-          "hot_value": "1002229",
-          "link": "https://s.weibo.com/weibo?q=%23%E4%BE%AF%E8%8B%B1%E8%B6%85%E7%9B%AE%E7%9D%B99%E6%AF%943%E9%81%AD%E9%80%86%E8%BD%AC%E6%84%A4%E7%84%B6%E7%A6%BB%E5%9C%BA%23"
+          "title": "国乒男双无缘会师决赛",
+          "hot_value": "904846",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E7%94%B7%E5%8F%8C%E6%97%A0%E7%BC%98%E4%BC%9A%E5%B8%88%E5%86%B3%E8%B5%9B%23"
         }
       ]
     }
