@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29 05:14:07 (北京时间)",
+  "updated_at": "2026-09-29 06:13:21 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Trump unveils $15 billion planned Iowa steel project",
-              "summary": "President Donald Trump will announce on Monday a Minnesota company's plan ​to build a $15 billion steel mill in Iowa, a White House official…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abad89eaf5b43bea9d8557730e77047&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ftrump-unveil-planned-15-billion-iowa-steel-project-2026-09-28%2f&c=13053695193202448452&mkt=en-us",
+              "title": "SpaceX's Starship makes orbital debut deploying Starlinks before early ending",
+              "summary": "SpaceX's next-generation Starship rocket reached orbit for the first time on Monday despite having one of its engines down, overcoming this…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abae68020814f19a5bae40ad985d87e&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fspacexs-starship-launches-14th-flight-first-headed-orbit-2026-09-28%2f&c=16410126243903446713&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -135,31 +135,31 @@
         {
           "rank": 1,
           "title": "王楚钦快速摘掉银牌",
-          "hot_value": "322912",
+          "hot_value": "610164",
           "link": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%BF%AB%E9%80%9F%E6%91%98%E6%8E%89%E9%93%B6%E7%89%8C%23"
         },
         {
           "rank": 2,
           "title": "Tiffany 小红书",
-          "hot_value": "226167",
+          "hot_value": "299590",
           "link": "https://s.weibo.com/weibo?q=%23Tiffany%20%E5%B0%8F%E7%BA%A2%E4%B9%A6%23"
         },
         {
           "rank": 3,
           "title": "平平福双已运至亚特兰大动物园",
-          "hot_value": "137763",
+          "hot_value": "231596",
           "link": "https://s.weibo.com/weibo?q=%23%E5%B9%B3%E5%B9%B3%E7%A6%8F%E5%8F%8C%E5%B7%B2%E8%BF%90%E8%87%B3%E4%BA%9A%E7%89%B9%E5%85%B0%E5%A4%A7%E5%8A%A8%E7%89%A9%E5%9B%AD%23"
         },
         {
           "rank": 4,
-          "title": "肖战同款荣耀Magic9系列卖爆了",
-          "hot_value": "132155",
-          "link": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%90%8C%E6%AC%BE%E8%8D%A3%E8%80%80Magic9%E7%B3%BB%E5%88%97%E5%8D%96%E7%88%86%E4%BA%86%23"
+          "title": "月薪五万该不该买两万包",
+          "hot_value": "178693",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%9C%88%E8%96%AA%E4%BA%94%E4%B8%87%E8%AF%A5%E4%B8%8D%E8%AF%A5%E4%B9%B0%E4%B8%A4%E4%B8%87%E5%8C%85%23"
         },
         {
           "rank": 5,
           "title": "詹姆斯 76人",
-          "hot_value": "100376",
+          "hot_value": "125495",
           "link": "https://s.weibo.com/weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF%2076%E4%BA%BA%23"
         }
       ]
