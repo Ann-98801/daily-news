@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28 12:14:05 (北京时间)",
+  "updated_at": "2026-09-28 13:13:47 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Trump confirms meeting with Anthropic's Amodei, repeats dismissal of AI fears",
-              "summary": "AI requires safeguards that go beyond self-regulation, Microsoft co-founder Bill Gates said in an interview that aired on Sunday, calling fo…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab9e98c749c4cefa348786594fb18ce&url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fbill-gates-joins-calls-ai-safeguards-including-legislation-2026-09-27%2f&c=1990941736688500083&mkt=en-us",
+              "title": "Iran insists on diplomatic solution after Trump rejects peace plan",
+              "summary": "Despite ⁠Trump's public statements, mediators facilitating US-Iran talks with the United States have not officially relayed a US rejection o…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab9f78a85614e9792264e779a8ff8d2&url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2firan-insists-diplomatic-solution-after-trump-rejects-peace-plan-2026-09-26%2f&c=14099837551869779500&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -134,33 +134,33 @@
       "items": [
         {
           "rank": 1,
-          "title": "作者吐槽自己写的小说被拍成短剧",
-          "hot_value": "1177775",
-          "link": "https://s.weibo.com/weibo?q=%23%E4%BD%9C%E8%80%85%E5%90%90%E6%A7%BD%E8%87%AA%E5%B7%B1%E5%86%99%E7%9A%84%E5%B0%8F%E8%AF%B4%E8%A2%AB%E6%8B%8D%E6%88%90%E7%9F%AD%E5%89%A7%23"
+          "title": "王楚钦vs阿拉米扬",
+          "hot_value": "4925069",
+          "link": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E9%98%BF%E6%8B%89%E7%B1%B3%E6%89%AC%23"
         },
         {
           "rank": 2,
-          "title": "王者亚运中国队全胜进决赛",
-          "hot_value": "876360",
-          "link": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E4%BA%9A%E8%BF%90%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%85%A8%E8%83%9C%E8%BF%9B%E5%86%B3%E8%B5%9B%23"
+          "title": "拾荒老人不知自己每月养老金3700元",
+          "hot_value": "1258897",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%8B%BE%E8%8D%92%E8%80%81%E4%BA%BA%E4%B8%8D%E7%9F%A5%E8%87%AA%E5%B7%B1%E6%AF%8F%E6%9C%88%E5%85%BB%E8%80%81%E9%87%913700%E5%85%83%23"
         },
         {
           "rank": 3,
           "title": "70万人点赞的跨国情谊",
-          "hot_value": "700418",
+          "hot_value": "1043344",
           "link": "https://s.weibo.com/weibo?q=%2370%E4%B8%87%E4%BA%BA%E7%82%B9%E8%B5%9E%E7%9A%84%E8%B7%A8%E5%9B%BD%E6%83%85%E8%B0%8A%23"
         },
         {
           "rank": 4,
-          "title": "严子怡夺金京东抽免单",
-          "hot_value": "596483",
-          "link": "https://s.weibo.com/weibo?q=%23%E4%B8%A5%E5%AD%90%E6%80%A1%E5%A4%BA%E9%87%91%E4%BA%AC%E4%B8%9C%E6%8A%BD%E5%85%8D%E5%8D%95%23"
+          "title": "NBA新赛季为主队爆灯",
+          "hot_value": "1036074",
+          "link": "https://s.weibo.com/weibo?q=%23NBA%E6%96%B0%E8%B5%9B%E5%AD%A3%E4%B8%BA%E4%B8%BB%E9%98%9F%E7%88%86%E7%81%AF%23"
         },
         {
           "rank": 5,
-          "title": "王楚钦半决赛对手曾赢王励勤林高远",
-          "hot_value": "583637",
-          "link": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%AF%B9%E6%89%8B%E6%9B%BE%E8%B5%A2%E7%8E%8B%E5%8A%B1%E5%8B%A4%E6%9E%97%E9%AB%98%E8%BF%9C%23"
+          "title": "陈雨菲0比2不敌安洗莹",
+          "hot_value": "679809",
+          "link": "https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9B%A8%E8%8F%B20%E6%AF%942%E4%B8%8D%E6%95%8C%E5%AE%89%E6%B4%97%E8%8E%B9%23"
         }
       ]
     }
