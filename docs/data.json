@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05 09:43:23 (北京时间)",
+  "updated_at": "2026-10-05 16:35:50 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -8,18 +8,6 @@
         {
           "source_name": "新华社",
           "items": [
-            {
-              "title": "特朗普称伊朗领导层损失惨重 “找不到对接人” - 新华网",
-              "summary": "特朗普称伊朗领导层损失惨重 “找不到对接人” 新华网",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fdHdJRHRhcWR0QVZlMGdueWtNaF9NcGRBejRXb2pRdm53SlBXTWVidmtfWXdURWVoaHk3TU05VDNIdnZMZkNUOWstRGtSQ3UwMkdJWnZJMVlOVGpJOUExbFBDMmc1eGZRVlg0ZXFEcWRVXzFubG13?oc=5",
-              "source": "新华社"
-            },
-            {
-              "title": "武荆宜高速汉江特大桥顺利合龙 - 新华网",
-              "summary": "武荆宜高速汉江特大桥顺利合龙 新华网",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pYVE0eFRXbm1lbmk2Z3RZQkVESkp3LVZpb0RMaVZFeXBFX1Vhc3c1aXpxdUtLV0ZHQlhNNDRzeEFBbHBibV9FSUpFQTBVcm5GWXNzaXFzaG5MUWc1MDI3aUF6aHlLOUx0YkdaSHVqWm51RWZ3MVBrWTZ4NVJ1NXM?oc=5",
-              "source": "新华社"
-            },
             {
               "title": "新华网_让新闻离你更近 - 新华网",
               "summary": "新华网_让新闻离你更近 新华网",
@@ -36,6 +24,18 @@
               "title": "《虞人巷的老屋》导演田敦元：拍好电影之前，先好好生活 - 新华网",
               "summary": "《虞人巷的老屋》导演田敦元：拍好电影之前，先好好生活 新华网",
               "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nM1ZyckFPWmZBNkRnNXRhNEJCeUFmV3VSN0xrUkxOT01HTmlreTdFaVVxQ1ZYZnNSc2k1elFvLU50ZmFKQnptRkItOEFhNnJkallsU0puV2VGM21FVVYybjFaVlNnbWlocDdZU2lobk9iY3VYcUNpOXBKMA?oc=5",
+              "source": "新华社"
+            },
+            {
+              "title": "新华社快讯：西班牙首相宣布将提前举行大选 - 新华网",
+              "summary": "新华社快讯：西班牙首相宣布将提前举行大选 新华网",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KLS1wMlFGdXRwOGJjby1mc1dSMzJPMERaQUFJSHNXaDBTRm9LX1lkaXBLMHFOa3J6NjkxRV9YOVhlLTlkTU5iWVcxdFRid0dyTGhfbUVDQkZVYjRsYnhtMXVaWWpPTlZncVJFYzlybDBRRTR3UTQ5SUwycnBPYjA?oc=5",
+              "source": "新华社"
+            },
+            {
+              "title": "中国共产党第二十届中央领导机构 - 新华网",
+              "summary": "中国共产党第二十届中央领导机构 新华网",
+              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBWVTBoZDBPUFlpaGlhTEx0Unh1bktrX3Y5V3E4a3NlUlNxWDJhblp3dnBPRXMxSl9OOTRGckpMT1ZIMWtkVnZLdmhrUnY?oc=5",
               "source": "新华社"
             }
           ]
@@ -85,15 +85,15 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surpr…",
-              "summary": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
-              "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+              "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
+              "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
+              "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
             {
-              "title": "Watch: What we know about Russian strikes on Kyiv bridges",
-              "summary": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
-              "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
+              "title": "Watch: How Brazil's dramatic election unfolded",
+              "summary": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections.",
+              "link": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Middle East crude oil exports exceed pre-war levels but tanker attacks increase",
-              "summary": "Crude oil exports from the Middle East rose above pre-war levels ​in four of the seven days of the final week of September, shipping data sh…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac300ba789e4d55b1c51e1ccfccaf9d&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2fmiddle-east-crude-oil-exports-exceed-pre-war-levels-tanker-attacks-increase-2026-10-05%2f&c=11504061079067459694&mkt=en-us",
+              "title": "Schneider Electric to buy US software firm PTC in $22.6 billion deal",
+              "summary": "France's Schneider Electric ‌is nearing a deal to buy US software group PTC for about $20 billion, ​the Financial Times reported on ​Sunday…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac36165677649d2aafbc7eafec4d62d&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffrances-schneider-electric-nears-20-billion-deal-buy-us-software-group-ptc-ft-2026-10-04%2f&c=18370713121332209222&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -134,33 +134,33 @@
       "items": [
         {
           "rank": 1,
-          "title": "年轻人开始不买景区冤种三件套了",
-          "hot_value": "1624368",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E4%B8%8D%E4%B9%B0%E6%99%AF%E5%8C%BA%E5%86%A4%E7%A7%8D%E4%B8%89%E4%BB%B6%E5%A5%97%E4%BA%86%23"
+          "title": "五天爬完五岳",
+          "hot_value": "1102812",
+          "link": "https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%A4%A9%E7%88%AC%E5%AE%8C%E4%BA%94%E5%B2%B3%23"
         },
         {
           "rank": 2,
-          "title": "超10万份孕妇血样被偷运出境",
-          "hot_value": "912293",
-          "link": "https://s.weibo.com/weibo?q=%23%E8%B6%8510%E4%B8%87%E4%BB%BD%E5%AD%95%E5%A6%87%E8%A1%80%E6%A0%B7%E8%A2%AB%E5%81%B7%E8%BF%90%E5%87%BA%E5%A2%83%23"
+          "title": "女子被缅北电诈血本无归投河自尽",
+          "hot_value": "929142",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E8%A1%80%E6%9C%AC%E6%97%A0%E5%BD%92%E6%8A%95%E6%B2%B3%E8%87%AA%E5%B0%BD%23"
         },
         {
           "rank": 3,
-          "title": "中国红闪耀亚运闭幕式",
-          "hot_value": "734191",
-          "link": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%BA%A2%E9%97%AA%E8%80%80%E4%BA%9A%E8%BF%90%E9%97%AD%E5%B9%95%E5%BC%8F%23"
+          "title": "十一假期返程安全提示",
+          "hot_value": "707978",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%80%E5%81%87%E6%9C%9F%E8%BF%94%E7%A8%8B%E5%AE%89%E5%85%A8%E6%8F%90%E7%A4%BA%23"
         },
         {
           "rank": 4,
-          "title": "蔡康永现身台独分子竞选会场",
-          "hot_value": "674585",
-          "link": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BA%B7%E6%B0%B8%E7%8E%B0%E8%BA%AB%E5%8F%B0%E7%8B%AC%E5%88%86%E5%AD%90%E7%AB%9E%E9%80%89%E4%BC%9A%E5%9C%BA%23"
+          "title": "刘美含买超点发现戏份都被剪",
+          "hot_value": "702851",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BE%8E%E5%90%AB%E4%B9%B0%E8%B6%85%E7%82%B9%E5%8F%91%E7%8E%B0%E6%88%8F%E4%BB%BD%E9%83%BD%E8%A2%AB%E5%89%AA%23"
         },
         {
           "rank": 5,
-          "title": "央视披露缅北电诈真实案例",
-          "hot_value": "578320",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%8A%AB%E9%9C%B2%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E7%9C%9F%E5%AE%9E%E6%A1%88%E4%BE%8B%23"
+          "title": "飞天奖",
+          "hot_value": "530208",
+          "link": "https://s.weibo.com/weibo?q=%23%E9%A3%9E%E5%A4%A9%E5%A5%96%23"
         }
       ]
     }
