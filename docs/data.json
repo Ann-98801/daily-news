@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05 16:35:50 (北京时间)",
+  "updated_at": "2026-10-06 02:05:20 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -8,6 +8,12 @@
         {
           "source_name": "新华社",
           "items": [
+            {
+              "title": "泰国洪灾死亡人数升至31人 曼谷积水有所缓解 - 新华网",
+              "summary": "泰国洪灾死亡人数升至31人 曼谷积水有所缓解 新华网",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqdGNSbXZFemxJckZGN0FiMWItUE9DampneGJ5Q3VMb1FmcDFNQjFJWjRSZGtCUmxQQkRaWUwtZ2gzSEdRemstU24wc2FQRHV0T2hVaThSdXd0eER6M29KWFQ2SGRiYUxxVkUzaDc0TVljWXZWVFJKNU12TXRRNDg?oc=5",
+              "source": "新华社"
+            },
             {
               "title": "新华网_让新闻离你更近 - 新华网",
               "summary": "新华网_让新闻离你更近 新华网",
@@ -18,12 +24,6 @@
               "title": "第20届亚运会10月4日金牌赛程 - 新华网",
               "summary": "第20届亚运会10月4日金牌赛程 新华网",
               "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR01FQjN4WVZuLU9lS01xZko0V2N3cXVqOUVfYzRVSks0WUVDR1A4TjFjWkNEaDJOQmIyVVdQUVZyY3ZKdHJ6WThyQnAzY2hrcGx4aHpKcTFOUlA1d1NVWEVndVdfdnlwS0lBLVNKSHJwcGpldmp0RjZvVzFDRlp4Wg?oc=5",
-              "source": "新华社"
-            },
-            {
-              "title": "《虞人巷的老屋》导演田敦元：拍好电影之前，先好好生活 - 新华网",
-              "summary": "《虞人巷的老屋》导演田敦元：拍好电影之前，先好好生活 新华网",
-              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nM1ZyckFPWmZBNkRnNXRhNEJCeUFmV3VSN0xrUkxOT01HTmlreTdFaVVxQ1ZYZnNSc2k1elFvLU50ZmFKQnptRkItOEFhNnJkallsU0puV2VGM21FVVYybjFaVlNnbWlocDdZU2lobk9iY3VYcUNpOXBKMA?oc=5",
               "source": "新华社"
             },
             {
@@ -85,15 +85,15 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
-              "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
-              "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+              "title": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
+              "summary": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.",
+              "link": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
             {
-              "title": "Watch: How Brazil's dramatic election unfolded",
-              "summary": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections.",
-              "link": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
+              "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, repo…",
+              "summary": "The Omani national was a \"lone wolf\" extremist, according to the reports.",
+              "link": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Schneider Electric to buy US software firm PTC in $22.6 billion deal",
-              "summary": "France's Schneider Electric ‌is nearing a deal to buy US software group PTC for about $20 billion, ​the Financial Times reported on ​Sunday…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac36165677649d2aafbc7eafec4d62d&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffrances-schneider-electric-nears-20-billion-deal-buy-us-software-group-ptc-ft-2026-10-04%2f&c=18370713121332209222&mkt=en-us",
+              "title": "US to announce $150 million for Alaska power lines as Vance campaigns in Senate…",
+              "summary": "The US Energy Department will announce $150 ‌million in new funding for power lines in Alaska on Monday as Vice President JD Vance visits th…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac3e6dfed794903800ce3514f4c7335&url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fus-announce-150-million-alaska-power-lines-vance-campaigns-senate-battleground-2026-10-05%2f&c=12294149447650241123&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -134,33 +134,33 @@
       "items": [
         {
           "rank": 1,
-          "title": "五天爬完五岳",
-          "hot_value": "1102812",
-          "link": "https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%A4%A9%E7%88%AC%E5%AE%8C%E4%BA%94%E5%B2%B3%23"
+          "title": "孙颖莎开始整顿乒乓球观赛礼仪",
+          "hot_value": "389092",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%BC%80%E5%A7%8B%E6%95%B4%E9%A1%BF%E4%B9%92%E4%B9%93%E7%90%83%E8%A7%82%E8%B5%9B%E7%A4%BC%E4%BB%AA%23"
         },
         {
           "rank": 2,
-          "title": "女子被缅北电诈血本无归投河自尽",
-          "hot_value": "929142",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E8%A1%80%E6%9C%AC%E6%97%A0%E5%BD%92%E6%8A%95%E6%B2%B3%E8%87%AA%E5%B0%BD%23"
+          "title": "未来几年能留住现金流最重要",
+          "hot_value": "304132",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%9C%AA%E6%9D%A5%E5%87%A0%E5%B9%B4%E8%83%BD%E7%95%99%E4%BD%8F%E7%8E%B0%E9%87%91%E6%B5%81%E6%9C%80%E9%87%8D%E8%A6%81%23"
         },
         {
           "rank": 3,
-          "title": "十一假期返程安全提示",
-          "hot_value": "707978",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%80%E5%81%87%E6%9C%9F%E8%BF%94%E7%A8%8B%E5%AE%89%E5%85%A8%E6%8F%90%E7%A4%BA%23"
+          "title": "中国空心光纤网速更快了",
+          "hot_value": "301325",
+          "link": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A9%BA%E5%BF%83%E5%85%89%E7%BA%A4%E7%BD%91%E9%80%9F%E6%9B%B4%E5%BF%AB%E4%BA%86%23"
         },
         {
           "rank": 4,
-          "title": "刘美含买超点发现戏份都被剪",
-          "hot_value": "702851",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BE%8E%E5%90%AB%E4%B9%B0%E8%B6%85%E7%82%B9%E5%8F%91%E7%8E%B0%E6%88%8F%E4%BB%BD%E9%83%BD%E8%A2%AB%E5%89%AA%23"
+          "title": "代露娃不被同情的原因",
+          "hot_value": "287513",
+          "link": "https://s.weibo.com/weibo?q=%23%E4%BB%A3%E9%9C%B2%E5%A8%83%E4%B8%8D%E8%A2%AB%E5%90%8C%E6%83%85%E7%9A%84%E5%8E%9F%E5%9B%A0%23"
         },
         {
           "rank": 5,
-          "title": "飞天奖",
-          "hot_value": "530208",
-          "link": "https://s.weibo.com/weibo?q=%23%E9%A3%9E%E5%A4%A9%E5%A5%96%23"
+          "title": "谭松韵面相都变了",
+          "hot_value": "274127",
+          "link": "https://s.weibo.com/weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E9%9D%A2%E7%9B%B8%E9%83%BD%E5%8F%98%E4%BA%86%23"
         }
       ]
     }
