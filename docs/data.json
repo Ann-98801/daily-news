@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06 15:18:35 (北京时间)",
+  "updated_at": "2026-10-06 22:51:34 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -12,6 +12,12 @@
               "title": "泰国洪灾死亡人数升至31人 曼谷积水有所缓解 - 新华网",
               "summary": "泰国洪灾死亡人数升至31人 曼谷积水有所缓解 新华网",
               "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqdGNSbXZFemxJckZGN0FiMWItUE9DampneGJ5Q3VMb1FmcDFNQjFJWjRSZGtCUmxQQkRaWUwtZ2gzSEdRemstU24wc2FQRHV0T2hVaThSdXd0eER6M29KWFQ2SGRiYUxxVkUzaDc0TVljWXZWVFJKNU12TXRRNDg?oc=5",
+              "source": "新华社"
+            },
+            {
+              "title": "卡塔尔说结束地区冲突的谈判和信息交换仍在继续 - 新华网",
+              "summary": "卡塔尔说结束地区冲突的谈判和信息交换仍在继续 新华网",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zR05zWmlDTUFaNTgwdnYzRXFRN0owVEFFR2djM2lWMWxuMC03VERXTkR0RDFSaWxGRlVYRHFqaVNNN1dXdTNudHRVUWhSRHVwRUlHZWVXMy04amxFY3lnZHZDZ1dTbk9jd1E3eElfTFloYUpVOWkw?oc=5",
               "source": "新华社"
             },
             {
@@ -30,12 +36,6 @@
               "title": "中国共产党第二十届中央领导机构 - 新华网",
               "summary": "中国共产党第二十届中央领导机构 新华网",
               "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBWVTBoZDBPUFlpaGlhTEx0Unh1bktrX3Y5V3E4a3NlUlNxWDJhblp3dnBPRXMxSl9OOTRGckpMT1ZIMWtkVnZLdmhrUnY?oc=5",
-              "source": "新华社"
-            },
-            {
-              "title": "科学健身周周练丨国庆特辑之室内续练篇 - 新华网",
-              "summary": "科学健身周周练丨国庆特辑之室内续练篇 新华网",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMTlRbjJsZnh1dGl4T0lYVDlZRzFxSjNkNGZrdGk2YXY4dHdGaFVnYmZ1aGRtbW11RkpxQWJvemJpdHBZS3VUQ3RZQ190bTVFRi1hbEgyRDUzcE9PLUM2S3h3Q1plb3pGVmp5MDVxamtPTk43UDNmelJSdGhOajJVNQ?oc=5",
               "source": "新华社"
             }
           ]
@@ -85,15 +85,15 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
-              "summary": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
-              "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+              "title": "Former German spy chief arrested for espionage and treason",
+              "summary": "August Hanning is accused of obtaining classified information for a foreign power.",
+              "link": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
             {
-              "title": "France braces for national day of school protests after injuries and mass arrest…",
-              "summary": "France prepares for a day of protests in support of students who’ve been demanding more investment in education.",
-              "link": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
+              "title": "Ship sinks and crew missing after Black Sea drone attack",
+              "summary": "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
+              "link": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Spain's housing crisis bursts into the spotlight at snap election",
-              "summary": "Spain's snap election will revolve around an issue which has topped voters' list of concerns for three years straight but, until a fortnight…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac4a0cab0a3485b9f93be9001695ede&url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fspains-housing-crisis-bursts-into-spotlight-snap-election-2026-10-06%2f&c=16596192166969752030&mkt=en-us",
+              "title": "US software stocks scale fresh 2026 highs as AI disruption worries fade",
+              "summary": "US software stocks are touching fresh 2026 highs, supported by a sharp rise in earnings expectations, which according to several analysts in…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac50af554fd4c1692a3f04b3ec597d7&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fus-software-stocks-scale-fresh-2026-highs-ai-disruption-worries-fade-2026-10-06%2f&c=9050458679987080023&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -134,33 +134,33 @@
       "items": [
         {
           "rank": 1,
-          "title": "ZUIAN两次面签未通过",
-          "hot_value": "1167361",
-          "link": "https://s.weibo.com/weibo?q=%23ZUIAN%E4%B8%A4%E6%AC%A1%E9%9D%A2%E7%AD%BE%E6%9C%AA%E9%80%9A%E8%BF%87%23"
+          "title": "衡水模式为何没人吹了",
+          "hot_value": "1197338",
+          "link": "https://s.weibo.com/weibo?q=%23%E8%A1%A1%E6%B0%B4%E6%A8%A1%E5%BC%8F%E4%B8%BA%E4%BD%95%E6%B2%A1%E4%BA%BA%E5%90%B9%E4%BA%86%23"
         },
         {
           "rank": 2,
-          "title": "韩国博主在延边破大防",
-          "hot_value": "843621",
-          "link": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%8D%9A%E4%B8%BB%E5%9C%A8%E5%BB%B6%E8%BE%B9%E7%A0%B4%E5%A4%A7%E9%98%B2%23"
+          "title": "粤J2888T战绩全网可查",
+          "hot_value": "848067",
+          "link": "https://s.weibo.com/weibo?q=%23%E7%B2%A4J2888T%E6%88%98%E7%BB%A9%E5%85%A8%E7%BD%91%E5%8F%AF%E6%9F%A5%23"
         },
         {
           "rank": 3,
-          "title": "国庆假期返程天气指南",
-          "hot_value": "684089",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E8%BF%94%E7%A8%8B%E5%A4%A9%E6%B0%94%E6%8C%87%E5%8D%97%23"
+          "title": "国庆假期大国重器新突破",
+          "hot_value": "703718",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8%E6%96%B0%E7%AA%81%E7%A0%B4%23"
         },
         {
           "rank": 4,
-          "title": "减肥针抑制食欲靠减慢胃排空",
-          "hot_value": "598634",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%87%8F%E8%82%A5%E9%92%88%E6%8A%91%E5%88%B6%E9%A3%9F%E6%AC%B2%E9%9D%A0%E5%87%8F%E6%85%A2%E8%83%83%E6%8E%92%E7%A9%BA%23"
+          "title": "国足三连败",
+          "hot_value": "651001",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E4%B8%89%E8%BF%9E%E8%B4%A5%23"
         },
         {
           "rank": 5,
-          "title": "县城的年轻人也不结婚了",
-          "hot_value": "583169",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%8E%BF%E5%9F%8E%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B9%9F%E4%B8%8D%E7%BB%93%E5%A9%9A%E4%BA%86%23"
+          "title": "声生不息宝岛季",
+          "hot_value": "512682",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF%E5%AE%9D%E5%B2%9B%E5%AD%A3%23"
         }
       ]
     }
