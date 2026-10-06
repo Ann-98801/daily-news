@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06 02:05:20 (北京时间)",
+  "updated_at": "2026-10-06 08:39:23 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -21,12 +21,6 @@
               "source": "新华社"
             },
             {
-              "title": "第20届亚运会10月4日金牌赛程 - 新华网",
-              "summary": "第20届亚运会10月4日金牌赛程 新华网",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR01FQjN4WVZuLU9lS01xZko0V2N3cXVqOUVfYzRVSks0WUVDR1A4TjFjWkNEaDJOQmIyVVdQUVZyY3ZKdHJ6WThyQnAzY2hrcGx4aHpKcTFOUlA1d1NVWEVndVdfdnlwS0lBLVNKSHJwcGpldmp0RjZvVzFDRlp4Wg?oc=5",
-              "source": "新华社"
-            },
-            {
               "title": "新华社快讯：西班牙首相宣布将提前举行大选 - 新华网",
               "summary": "新华社快讯：西班牙首相宣布将提前举行大选 新华网",
               "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KLS1wMlFGdXRwOGJjby1mc1dSMzJPMERaQUFJSHNXaDBTRm9LX1lkaXBLMHFOa3J6NjkxRV9YOVhlLTlkTU5iWVcxdFRid0dyTGhfbUVDQkZVYjRsYnhtMXVaWWpPTlZncVJFYzlybDBRRTR3UTQ5SUwycnBPYjA?oc=5",
@@ -36,6 +30,12 @@
               "title": "中国共产党第二十届中央领导机构 - 新华网",
               "summary": "中国共产党第二十届中央领导机构 新华网",
               "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBWVTBoZDBPUFlpaGlhTEx0Unh1bktrX3Y5V3E4a3NlUlNxWDJhblp3dnBPRXMxSl9OOTRGckpMT1ZIMWtkVnZLdmhrUnY?oc=5",
+              "source": "新华社"
+            },
+            {
+              "title": "国庆节丨国庆我在岗 - 新华网",
+              "summary": "国庆节丨国庆我在岗 新华网",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XZXNjaWpkWlpJRHZKMXZtQnY0YUs5MGE4ekRWWU1kNDJBTy1KQzRRSDFSd3JaR0MwT0Q2UG1tVFhqbHRYeDc1YmpCU3ZrNHk4bEZXU0dWQVlJRFZoejREUlpVWkhXUFpCNU1MNTllcFF1MDBtcDZJ?oc=5",
               "source": "新华社"
             }
           ]
@@ -85,15 +85,15 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
-              "summary": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.",
-              "link": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
+              "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+              "summary": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
+              "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
             {
-              "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, repo…",
-              "summary": "The Omani national was a \"lone wolf\" extremist, according to the reports.",
-              "link": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
+              "title": "France braces for national day of school protests after injuries and mass arrest…",
+              "summary": "France prepares for a day of protests in support of students who’ve been demanding more investment in education.",
+              "link": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "US to announce $150 million for Alaska power lines as Vance campaigns in Senate…",
-              "summary": "The US Energy Department will announce $150 ‌million in new funding for power lines in Alaska on Monday as Vice President JD Vance visits th…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac3e6dfed794903800ce3514f4c7335&url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fus-announce-150-million-alaska-power-lines-vance-campaigns-senate-battleground-2026-10-05%2f&c=12294149447650241123&mkt=en-us",
+              "title": "Trump says taxpayers will no longer pay for TV ads that praised him",
+              "summary": "President Donald ​Trump on Monday said that he would ‌pay for television advertisements himself or with money raised from the MAGA political…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac4433a1c3e42efb27675967f1f5fc1&url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-says-will-pay-tv-ads-after-pushback-over-taxpayer-funding-close-election-2026-10-05%2f&c=13353167290597831964&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -134,33 +134,33 @@
       "items": [
         {
           "rank": 1,
-          "title": "孙颖莎开始整顿乒乓球观赛礼仪",
-          "hot_value": "389092",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%BC%80%E5%A7%8B%E6%95%B4%E9%A1%BF%E4%B9%92%E4%B9%93%E7%90%83%E8%A7%82%E8%B5%9B%E7%A4%BC%E4%BB%AA%23"
+          "title": "黄金睡眠时长出炉",
+          "hot_value": "1170643",
+          "link": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%9D%A1%E7%9C%A0%E6%97%B6%E9%95%BF%E5%87%BA%E7%82%89%23"
         },
         {
           "rank": 2,
-          "title": "未来几年能留住现金流最重要",
-          "hot_value": "304132",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%9C%AA%E6%9D%A5%E5%87%A0%E5%B9%B4%E8%83%BD%E7%95%99%E4%BD%8F%E7%8E%B0%E9%87%91%E6%B5%81%E6%9C%80%E9%87%8D%E8%A6%81%23"
+          "title": "回老家掰苞米感觉世界割裂",
+          "hot_value": "874444",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%9B%9E%E8%80%81%E5%AE%B6%E6%8E%B0%E8%8B%9E%E7%B1%B3%E6%84%9F%E8%A7%89%E4%B8%96%E7%95%8C%E5%89%B2%E8%A3%82%23"
         },
         {
           "rank": 3,
           "title": "中国空心光纤网速更快了",
-          "hot_value": "301325",
+          "hot_value": "664558",
           "link": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A9%BA%E5%BF%83%E5%85%89%E7%BA%A4%E7%BD%91%E9%80%9F%E6%9B%B4%E5%BF%AB%E4%BA%86%23"
         },
         {
           "rank": 4,
-          "title": "代露娃不被同情的原因",
-          "hot_value": "287513",
-          "link": "https://s.weibo.com/weibo?q=%23%E4%BB%A3%E9%9C%B2%E5%A8%83%E4%B8%8D%E8%A2%AB%E5%90%8C%E6%83%85%E7%9A%84%E5%8E%9F%E5%9B%A0%23"
+          "title": "明珍珍笑着讲述杀人埋尸",
+          "hot_value": "516736",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%98%8E%E7%8F%8D%E7%8F%8D%E7%AC%91%E7%9D%80%E8%AE%B2%E8%BF%B0%E6%9D%80%E4%BA%BA%E5%9F%8B%E5%B0%B8%23"
         },
         {
           "rank": 5,
-          "title": "谭松韵面相都变了",
-          "hot_value": "274127",
-          "link": "https://s.weibo.com/weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E9%9D%A2%E7%9B%B8%E9%83%BD%E5%8F%98%E4%BA%86%23"
+          "title": "三千的工资愣是存了80万",
+          "hot_value": "482851",
+          "link": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8D%83%E7%9A%84%E5%B7%A5%E8%B5%84%E6%84%A3%E6%98%AF%E5%AD%98%E4%BA%8680%E4%B8%87%23"
         }
       ]
     }
