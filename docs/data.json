@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07 12:57:55 (北京时间)",
+  "updated_at": "2026-10-07 19:36:06 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -8,6 +8,12 @@
         {
           "source_name": "新华社",
           "items": [
+            {
+              "title": "在泰失联的上海音乐教师已安全回国 - 新华网",
+              "summary": "在泰失联的上海音乐教师已安全回国 新华网",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90ZnMycVdSQUNIcDB3aXEzT2ZOaFBzSVh3WXhxeXJiTktlUXNqQzBTWFhCTFk0SUJiTS05SmVRa01Cb0NCeS1lUmQzdnAwWnhUZjhMZnVzQ2JqMWhYQmJZOEN5ZHBEZzNtUzJtbmxEc1VxUTlzc1c4?oc=5",
+              "source": "新华社"
+            },
             {
               "title": "泰国洪灾死亡人数升至60人 - 新华网",
               "summary": "泰国洪灾死亡人数升至60人 新华网",
@@ -30,12 +36,6 @@
               "title": "新华网_让新闻离你更近 - 新华网",
               "summary": "新华网_让新闻离你更近 新华网",
               "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE5FdWV6S1M3MF9oYnROX0tuQkJLWEhDQmVGUWdYbzAzbjNvd3BRdElPSlVua05Pdw?oc=5",
-              "source": "新华社"
-            },
-            {
-              "title": "中国共产党第二十届中央领导机构 - 新华网",
-              "summary": "中国共产党第二十届中央领导机构 新华网",
-              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBWVTBoZDBPUFlpaGlhTEx0Unh1bktrX3Y5V3E4a3NlUlNxWDJhblp3dnBPRXMxSl9OOTRGckpMT1ZIMWtkVnZLdmhrUnY?oc=5",
               "source": "新华社"
             }
           ]
@@ -85,15 +85,15 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawy…",
-              "summary": "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injec…",
-              "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+              "title": "France halts use of stun grenades after boy's hand blown off in student protests",
+              "summary": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
+              "link": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
             {
-              "title": "Tear gas in Paris and Marseille as school protests grow across France",
-              "summary": "Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression.",
-              "link": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
+              "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawy…",
+              "summary": "A medical expert advising her legal team says the murderer of Colleen Slemmer is communicating in a \"basic way\".",
+              "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Oil gains as US storm and Houthi air strikes threaten supply",
-              "summary": "Oil prices rose on Wednesday as the market weighed supply constraints from a storm heading for US oil-producing regions and attacks by Yemen…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac5d15241f44dd783d585e471e4dc89&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2foil-prices-rise-storms-air-strikes-threaten-supply-2026-10-07%2f&c=2717965969402631415&mkt=en-us",
+              "title": "Wall St futures slip as yields and oil rebound; Fed minutes in focus",
+              "summary": "Wall Street futures edged lower ​on Wednesday as Treasury yields and oil prices rose again, keeping investors cautious ‌as they awaited the…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac62ea5b18446e5b1395d1a73b118f3&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fwall-st-futures-slip-yields-oil-rebound-fed-minutes-focus-2026-10-07%2f&c=7587529498369049264&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -134,33 +134,33 @@
       "items": [
         {
           "rank": 1,
-          "title": "韩版衣服中国造国内搜不到",
-          "hot_value": "1902081",
-          "link": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%89%88%E8%A1%A3%E6%9C%8D%E4%B8%AD%E5%9B%BD%E9%80%A0%E5%9B%BD%E5%86%85%E6%90%9C%E4%B8%8D%E5%88%B0%23"
+          "title": "王星失联前向女友求救发猫喂了没",
+          "hot_value": "2245016",
+          "link": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E5%A4%B1%E8%81%94%E5%89%8D%E5%90%91%E5%A5%B3%E5%8F%8B%E6%B1%82%E6%95%91%E5%8F%91%E7%8C%AB%E5%96%82%E4%BA%86%E6%B2%A1%23"
         },
         {
           "rank": 2,
-          "title": "白俄女模特因高薪工作被骗缅甸园区",
-          "hot_value": "946627",
-          "link": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E4%BF%84%E5%A5%B3%E6%A8%A1%E7%89%B9%E5%9B%A0%E9%AB%98%E8%96%AA%E5%B7%A5%E4%BD%9C%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E5%9B%AD%E5%8C%BA%23"
+          "title": "高速开智驾睡觉男子处罚结果",
+          "hot_value": "1018924",
+          "link": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9F%E5%BC%80%E6%99%BA%E9%A9%BE%E7%9D%A1%E8%A7%89%E7%94%B7%E5%AD%90%E5%A4%84%E7%BD%9A%E7%BB%93%E6%9E%9C%23"
         },
         {
           "rank": 3,
-          "title": "大国工程重器进度条刷新",
-          "hot_value": "890881",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%BD%E5%B7%A5%E7%A8%8B%E9%87%8D%E5%99%A8%E8%BF%9B%E5%BA%A6%E6%9D%A1%E5%88%B7%E6%96%B0%23"
+          "title": "多举措全力护航假期铁路返程",
+          "hot_value": "796736",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%B8%BE%E6%8E%AA%E5%85%A8%E5%8A%9B%E6%8A%A4%E8%88%AA%E5%81%87%E6%9C%9F%E9%93%81%E8%B7%AF%E8%BF%94%E7%A8%8B%23"
         },
         {
           "rank": 4,
-          "title": "看完AI短剧只想说真人短剧完了",
-          "hot_value": "884041",
-          "link": "https://s.weibo.com/weibo?q=%23%E7%9C%8B%E5%AE%8CAI%E7%9F%AD%E5%89%A7%E5%8F%AA%E6%83%B3%E8%AF%B4%E7%9C%9F%E4%BA%BA%E7%9F%AD%E5%89%A7%E5%AE%8C%E4%BA%86%23"
+          "title": "同事月薪一万五全给老婆",
+          "hot_value": "795966",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%90%8C%E4%BA%8B%E6%9C%88%E8%96%AA%E4%B8%80%E4%B8%87%E4%BA%94%E5%85%A8%E7%BB%99%E8%80%81%E5%A9%86%23"
         },
         {
           "rank": 5,
-          "title": "iPhoneDuo 强制适配",
-          "hot_value": "743484",
-          "link": "https://s.weibo.com/weibo?q=%23iPhoneDuo%20%E5%BC%BA%E5%88%B6%E9%80%82%E9%85%8D%23"
+          "title": "程序员为女友抢号搞瘫医院挂号系统",
+          "hot_value": "777760",
+          "link": "https://s.weibo.com/weibo?q=%23%E7%A8%8B%E5%BA%8F%E5%91%98%E4%B8%BA%E5%A5%B3%E5%8F%8B%E6%8A%A2%E5%8F%B7%E6%90%9E%E7%98%AB%E5%8C%BB%E9%99%A2%E6%8C%82%E5%8F%B7%E7%B3%BB%E7%BB%9F%23"
         }
       ]
     }
