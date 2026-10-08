@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08 21:01:31 (北京时间)",
+  "updated_at": "2026-10-09 03:12:55 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -8,6 +8,18 @@
         {
           "source_name": "新华社",
           "items": [
+            {
+              "title": "伊朗外长说仍在通过调解方与美方进行间接谈判 - 新华网",
+              "summary": "伊朗外长说仍在通过调解方与美方进行间接谈判 新华网",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PbmFRSnN4MFhMNk9ENEhIallIVzlCWWtRSFY3MWdQTU1mU29ZalVyNkdXOHhqcG16Y1kwYVdZWndfUExmZVNISlllRHVSbFNnakUwRFNtZ0c0RjhGRDhJRXRKQTlZdXptemY0dXJVMkVoVjRQd1lIeU91UF9aRHM?oc=5",
+              "source": "新华社"
+            },
+            {
+              "title": "伊朗发生两起针对安全人员袭击致2死3伤 - 新华网",
+              "summary": "伊朗发生两起针对安全人员袭击致2死3伤 新华网",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ya0NJUlBucHJyNW1hNFJyUzRIT3VRdWVXOHpBdG9sRjJyLW1DZmFKT0htWUVyVEFHeTRYS3k2QXk2a2tiZ0lsT1B2YnllV1VCU0VNSzhqaGJ1bmZnaDFrQjZ5ZFBrMGRSS0NpbW1wZTR3TUgzNl9tRmJlUWhIYnM?oc=5",
+              "source": "新华社"
+            },
             {
               "title": "以军称近三年打击中东约10万个目标 - 新华网",
               "summary": "以军称近三年打击中东约10万个目标 新华网",
@@ -24,18 +36,6 @@
               "title": "假期最后一天，如何应对“假期综合征” - 新华网",
               "summary": "假期最后一天，如何应对“假期综合征” 新华网",
               "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5BUmhFREV6ck9fb1RnZENlU3hQTk45dmtVWXBzZmJyNVNpdENRQnplSFJXVjhvdzFyeUFTUHhTc2ZFSE82dzdORUJZSVIyYTFOMndfVVpMMVpXLWl6VzV0aGstbmczSGtqNlV3UGFCY2Q0al9Sdzhv?oc=5",
-              "source": "新华社"
-            },
-            {
-              "title": "俄官方称鼠疫研究机构一名员工确诊“不明原因肺炎” - 新华网",
-              "summary": "俄官方称鼠疫研究机构一名员工确诊“不明原因肺炎” 新华网",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vN01EVncyUkROVHhaUFB5NWVDYmJpd05qTy1RM1Q2TkVZVGNjSkR6QU5NeXoyWElYcm9pZmE3WWNCU1ZzdG5wajBFN2YwamdEQVBZTTNzeFNLM2RsQlFPOEtMWVdNSW0wZWpvejdEd29LVHpCSUpuM1pKUUg0aVU?oc=5",
-              "source": "新华社"
-            },
-            {
-              "title": "新华网_让新闻离你更近 - 新华网",
-              "summary": "新华网_让新闻离你更近 新华网",
-              "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE5FdWV6S1M3MF9oYnROX0tuQkJLWEhDQmVGUWdYbzAzbjNvd3BRdElPSlVua05Pdw?oc=5",
               "source": "新华社"
             }
           ]
@@ -56,6 +56,12 @@
               "source": "人民日报"
             },
             {
+              "title": "先锋事迹 - 中国共产党新闻网",
+              "summary": "先锋事迹 中国共产党新闻网",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WaHRRY2JKanF2TDItc1hRMnNubDhacXBpODZKT0Q5QWpyM0lnTlFnUzJSMDY2WlZVV3lBNzNZNEU5RlNIXzlMN0QzRFJGYjc1clU5Zk1sWVd1ZlB6MWRjWlI4MEVtaHdBV0I0VA?oc=5",
+              "source": "人民日报"
+            },
+            {
               "title": "教育 - 人民网教育",
               "summary": "教育 人民网教育",
               "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RRHVHbTBEV2dnWUxkUDRnY2hzNEtrRHJxb2dOWk5CSG5HZWJ2dHJsN2ZkaUR0NU5LYm4tMmd3NUFFNWZGWXYyUTNnQTMwUjhvWkdhODZZMnYtdFlRd0xPQmtzNGExMkdy?oc=5",
@@ -65,12 +71,6 @@
               "title": "吉隆口岸附近泥石流损毁道路正加紧抢通【2】 - 人民网图片频道",
               "summary": "吉隆口岸附近泥石流损毁道路正加紧抢通【2】 人民网图片频道",
               "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HZ3M3ZVNXSm9fVklhTDdzcW5PRl9IMEVfcnJQUC1ONlBETVpGSGdYd05KdEhBZm1UMVBvdjhiSWNlOXFNUmZBaXBDRWdpZTM0ZktsZVAzYjFlUFotNDF5N3plZkQ3QVFVNHA4?oc=5",
-              "source": "人民日报"
-            },
-            {
-              "title": "新疆人大“我请代表捎句话”征集活动 - 人民网",
-              "summary": "新疆人大“我请代表捎句话”征集活动 人民网",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rOVk0cXBxTVBLaTZTbVFQUW5kZC1yRFZGVTdVSWw0dzI4U3RGZUkwNG14R2ZGWG1tcGpKSkFPcmJ3V1VYYlQ4dWsyb3hJcXJyRWp4eGxGbzhRQklCdjV5bGlHUFNqWTJU?oc=5",
               "source": "人民日报"
             }
           ]
@@ -86,14 +86,14 @@
           "items": [
             {
               "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on U…",
-              "summary": "Ukraine accused Russia of targeting the crowded bus in the frontline city to kill as many civilians as possible.",
+              "summary": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
               "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
             {
-              "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
-              "summary": "Bassam al-Hassan is being sheltered in return for information - including about abducted US reporter Austin Tice.",
-              "link": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
+              "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
+              "summary": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.",
+              "link": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Wall St set to open lower as oil jump, high yields fuel inflation concerns",
-              "summary": "US stock index ​futures fell on Thursday, pressured by inflation concerns as oil jumped nearly 4% ‌and Treasury yields rose, while chipmaker…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7942aebaa4c31876e28713982f7e7&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fwall-st-futures-slide-rising-oil-yields-dampen-mood-2026-10-08%2f&c=12701077909689731380&mkt=en-us",
+              "title": "US 30-year fixed-rate mortgage rate hits 7.40%, likely to further erode housing…",
+              "summary": "The average rate on the popular US 30-year fixed-rate mortgage surged to a near three-year high this week, and could ​increase further as co…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7eb36a6364321828dbaf98e1325f2&url=https%3a%2f%2fwww.reuters.com%2fmarkets%2fus%2fus-30-year-fixed-rate-mortgage-rate-jumps-740-2026-10-08%2f&c=11613761774369868646&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -134,32 +134,32 @@
       "items": [
         {
           "rank": 1,
-          "title": "三甲医生回应喝大水",
-          "hot_value": "1270562",
-          "link": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E7%94%B2%E5%8C%BB%E7%94%9F%E5%9B%9E%E5%BA%94%E5%96%9D%E5%A4%A7%E6%B0%B4%23"
+          "title": "肺鼠疫可飞沫传播",
+          "hot_value": "127495",
+          "link": "https://s.weibo.com/weibo?q=%23%E8%82%BA%E9%BC%A0%E7%96%AB%E5%8F%AF%E9%A3%9E%E6%B2%AB%E4%BC%A0%E6%92%AD%23"
         },
         {
           "rank": 2,
-          "title": "西西弗书店是如何盈利的",
-          "hot_value": "901465",
-          "link": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%A5%BF%E5%BC%97%E4%B9%A6%E5%BA%97%E6%98%AF%E5%A6%82%E4%BD%95%E7%9B%88%E5%88%A9%E7%9A%84%23"
+          "title": "82岁老姑娘养老规划太有智慧",
+          "hot_value": "88776",
+          "link": "https://s.weibo.com/weibo?q=%2382%E5%B2%81%E8%80%81%E5%A7%91%E5%A8%98%E5%85%BB%E8%80%81%E8%A7%84%E5%88%92%E5%A4%AA%E6%9C%89%E6%99%BA%E6%85%A7%23"
         },
         {
           "rank": 3,
           "title": "假期超21亿人次跨区域流动",
-          "hot_value": "686793",
+          "hot_value": "85348",
           "link": "https://s.weibo.com/weibo?q=%23%E5%81%87%E6%9C%9F%E8%B6%8521%E4%BA%BF%E4%BA%BA%E6%AC%A1%E8%B7%A8%E5%8C%BA%E5%9F%9F%E6%B5%81%E5%8A%A8%23"
         },
         {
           "rank": 4,
-          "title": "王一博奥迪e-tron硬核实力登场",
-          "hot_value": "683482",
-          "link": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%A5%A5%E8%BF%AAe-tron%E7%A1%AC%E6%A0%B8%E5%AE%9E%E5%8A%9B%E7%99%BB%E5%9C%BA%23"
+          "title": "肺鼠疫会人传人",
+          "hot_value": "85030",
+          "link": "https://s.weibo.com/weibo?q=%23%E8%82%BA%E9%BC%A0%E7%96%AB%E4%BC%9A%E4%BA%BA%E4%BC%A0%E4%BA%BA%23"
         },
         {
           "rank": 5,
           "title": "赵丽颖 飞天奖",
-          "hot_value": "645397",
+          "hot_value": "83310",
           "link": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E9%A3%9E%E5%A4%A9%E5%A5%96%23"
         }
       ]
