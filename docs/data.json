@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09 08:11:56 (北京时间)",
+  "updated_at": "2026-10-09 15:12:04 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -7,11 +7,73 @@
       "sources": [
         {
           "source_name": "新华社",
-          "items": []
+          "items": [
+            {
+              "title": "伊朗外长说仍在通过调解方与美方进行间接谈判 - 新华网",
+              "summary": "伊朗外长说仍在通过调解方与美方进行间接谈判 新华网",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PbmFRSnN4MFhMNk9ENEhIallIVzlCWWtRSFY3MWdQTU1mU29ZalVyNkdXOHhqcG16Y1kwYVdZWndfUExmZVNISlllRHVSbFNnakUwRFNtZ0c0RjhGRDhJRXRKQTlZdXptemY0dXJVMkVoVjRQd1lIeU91UF9aRHM?oc=5",
+              "source": "新华社"
+            },
+            {
+              "title": "伊朗发生两起针对安全人员袭击致2死3伤 - 新华网",
+              "summary": "伊朗发生两起针对安全人员袭击致2死3伤 新华网",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ya0NJUlBucHJyNW1hNFJyUzRIT3VRdWVXOHpBdG9sRjJyLW1DZmFKT0htWUVyVEFHeTRYS3k2QXk2a2tiZ0lsT1B2YnllV1VCU0VNSzhqaGJ1bmZnaDFrQjZ5ZFBrMGRSS0NpbW1wZTR3TUgzNl9tRmJlUWhIYnM?oc=5",
+              "source": "新华社"
+            },
+            {
+              "title": "美国弗吉尼亚州阿灵顿县就“凯旋门”项目起诉政府 - 新华网",
+              "summary": "美国弗吉尼亚州阿灵顿县就“凯旋门”项目起诉政府 新华网",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnd0pxc25ZeE1pZUVfb3B1c2QyZjc5clVRRFpQMmtfMGdBS2UwUmNDSGt5aXlDdzZpT1VQZ3psVFRPZldGalk2bzlVeXZZWllqQnVIRGwxRzR2Zzl0dUo5S21Bc1hXczN4YjhXbmk4ZUFVWTdCT19j?oc=5",
+              "source": "新华社"
+            },
+            {
+              "title": "俄官方宣布伊尔库茨克市正解除防疫措施 - 新华网",
+              "summary": "俄官方宣布伊尔库茨克市正解除防疫措施 新华网",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSRXpXWlJ3amtwMVpNWGlNeTYyZ1RlWFR1a2pUM1Z1UmVQSHNzZlg3aE1CYXhmUUt6ZXl4WTAyS0lyYlBST2gyMUxGckhUZ0RzSzNOM3VzWm1uZ1RSeTlPa1NMdm55X2gyUEZ0dHV0SzNKTm1BRXo4?oc=5",
+              "source": "新华社"
+            },
+            {
+              "title": "中国诗人走进墨西哥：诗歌为桥助力文明交流互鉴 - 新华网",
+              "summary": "中国诗人走进墨西哥：诗歌为桥助力文明交流互鉴 新华网",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9RWFB4VExzNHhNV2VzYk1fcVEtR1k0U1pJTjRGR2wyVVdjNEpEVk96MU5aN2RhZUJBd1A2SDdGV1RDcVJnSWhmak94bHN4THREdllscE1Td1JVaXBzV2VuVlhNcnhkRVZBaWU3Z2tpV2RYLVVtTDBz?oc=5",
+              "source": "新华社"
+            }
+          ]
         },
         {
           "source_name": "人民日报",
-          "items": []
+          "items": [
+            {
+              "title": "责编：任成琦 张 盼 邮箱：gtbhwb@people.cn - 人民日报",
+              "summary": "责编：任成琦 张 盼 邮箱：gtbhwb@people.cn 人民日报",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcFFvcHpLME9HTENQcU5NbnNtbVJjS1d2eUVFcnBWOWh4YllPUEdPem1DWUpsX0l4YkdrdHlZYVRRREExMW9wRDVnMHVZSzJnYXI4ak5wM01iSkpaNHBjU2RISTJxeUx1ZHpPNk40T2IwMnpLVkxGSUgwc0F5RFdQSktOUQ?oc=5",
+              "source": "人民日报"
+            },
+            {
+              "title": "“伟大的远征——纪念中国工农红军长征胜利90周年主题展览”在京开幕【4】 - 人民网-图片频道",
+              "summary": "“伟大的远征——纪念中国工农红军长征胜利90周年主题展览”在京开幕【4】 人民网-图片频道",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XUlYwQjJKel9NVDY3WkhYVmZJeUw3YndNNEx2Y1hGOWIxeEQ1LTQ3YnpOTE5XM0NCSkJScHp3Q1hMUkVqbHZmb1FfWEwzUkduS0wyeWtJRXpqd3FDQmtXazJDajdpWDFEOWxv?oc=5",
+              "source": "人民日报"
+            },
+            {
+              "title": "先锋事迹 - 中国共产党新闻网",
+              "summary": "先锋事迹 中国共产党新闻网",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WaHRRY2JKanF2TDItc1hRMnNubDhacXBpODZKT0Q5QWpyM0lnTlFnUzJSMDY2WlZVV3lBNzNZNEU5RlNIXzlMN0QzRFJGYjc1clU5Zk1sWVd1ZlB6MWRjWlI4MEVtaHdBV0I0VA?oc=5",
+              "source": "人民日报"
+            },
+            {
+              "title": "出访 - 中国共产党新闻网",
+              "summary": "出访 中国共产党新闻网",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zYlRGNGltb0pyVjRlUGs1WUI2eVhxcFpwaEs4dUpMSEplZy1YdTNBUVpRRG85aFk5cjhRRWdGd24wN3l2Nml3ZFI0RFV1b2I1akpfcFFpS2s0eV9zMzhyVU5qWHRJV0JpRWhv?oc=5",
+              "source": "人民日报"
+            },
+            {
+              "title": "吉隆口岸附近泥石流损毁道路正加紧抢通【2】 - 人民网图片频道",
+              "summary": "吉隆口岸附近泥石流损毁道路正加紧抢通【2】 人民网图片频道",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HZ3M3ZVNXSm9fVklhTDdzcW5PRl9IMEVfcnJQUC1ONlBETVpGSGdYd05KdEhBZm1UMVBvdjhiSWNlOXFNUmZBaXBDRWdpZTM0ZktsZVAzYjFlUFotNDF5N3plZkQ3QVFVNHA4?oc=5",
+              "source": "人民日报"
+            }
+          ]
         }
       ]
     },
@@ -23,14 +85,14 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC",
+              "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC",
               "summary": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
               "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
             {
-              "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon sa…",
-              "summary": "\"We'll make sure that people are able to watch it,\" the US Defence Secretary Pete Hegseth said on Thursday.",
+              "title": "Firing squad execution to be livestreamed, Pentagon says",
+              "summary": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
               "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
@@ -57,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "US to livestream Army execution of Fort Hood shooter, Pentagon official says",
-              "summary": "The US will livestream the Army's upcoming firing squad execution ​on December 3 of Nidal Hasan, who ‌killed 13 people at Fort Hood, Texas,…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac8314ba7724fd395b291266a037f49&url=https%3a%2f%2fwww.reuters.com%2fworld%2fus-livestream-army-execution-fort-hood-shooter-pentagon-official-says-2026-10-08%2f&c=11531089762659408510&mkt=en-us",
+              "title": "OpenAI says it has fired three researchers for violating sensitive information p…",
+              "summary": "OpenAI fired ​three of ‌its researchers ​last ​week after an ⁠investigation ​found ​they violated policies on ​handling ​sensitive informati…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac893c300ce43a3a4e1496ecc9c2d93&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fopenai-says-it-has-fired-three-researchers-violating-sensitive-information-2026-10-09%2f&c=13757478214194677023&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -72,39 +134,36 @@
       "items": [
         {
           "rank": 1,
-          "title": "新郎婚礼当天去医院看病后离世",
-          "hot_value": "1737561",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%83%8E%E5%A9%9A%E7%A4%BC%E5%BD%93%E5%A4%A9%E5%8E%BB%E5%8C%BB%E9%99%A2%E7%9C%8B%E7%97%85%E5%90%8E%E7%A6%BB%E4%B8%96%23"
+          "title": "桂花香是一种非牛顿流体",
+          "hot_value": "1175757",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%A1%82%E8%8A%B1%E9%A6%99%E6%98%AF%E4%B8%80%E7%A7%8D%E9%9D%9E%E7%89%9B%E9%A1%BF%E6%B5%81%E4%BD%93%23"
         },
         {
           "rank": 2,
-          "title": "82岁老姑娘养老规划太有智慧",
-          "hot_value": "921187",
-          "link": "https://s.weibo.com/weibo?q=%2382%E5%B2%81%E8%80%81%E5%A7%91%E5%A8%98%E5%85%BB%E8%80%81%E8%A7%84%E5%88%92%E5%A4%AA%E6%9C%89%E6%99%BA%E6%85%A7%23"
+          "title": "抖音独播",
+          "hot_value": "837567",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%8A%96%E9%9F%B3%E7%8B%AC%E6%92%AD%23"
         },
         {
           "rank": 3,
-          "title": "假期超21亿人次跨区域流动",
-          "hot_value": "736495",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%81%87%E6%9C%9F%E8%B6%8521%E4%BA%BF%E4%BA%BA%E6%AC%A1%E8%B7%A8%E5%8C%BA%E5%9F%9F%E6%B5%81%E5%8A%A8%23"
+          "title": "一场跨越90余年的对话看到泪目",
+          "hot_value": "743073",
+          "link": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9C%BA%E8%B7%A8%E8%B6%8A90%E4%BD%99%E5%B9%B4%E7%9A%84%E5%AF%B9%E8%AF%9D%E7%9C%8B%E5%88%B0%E6%B3%AA%E7%9B%AE%23"
         },
         {
           "rank": 4,
-          "title": "纪委回应女局长被举报婚内出轨多人",
-          "hot_value": "732954",
-          "link": "https://s.weibo.com/weibo?q=%23%E7%BA%AA%E5%A7%94%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%B1%80%E9%95%BF%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%A9%9A%E5%86%85%E5%87%BA%E8%BD%A8%E5%A4%9A%E4%BA%BA%23"
+          "title": "村上春树作息健康到逆天",
+          "hot_value": "721796",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A0%91%E4%BD%9C%E6%81%AF%E5%81%A5%E5%BA%B7%E5%88%B0%E9%80%86%E5%A4%A9%23"
         },
         {
           "rank": 5,
-          "title": "肖战 南京演唱会",
-          "hot_value": "621225",
-          "link": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%20%E5%8D%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A%23"
+          "title": "玉簟秋官宣定档",
+          "hot_value": "610985",
+          "link": "https://s.weibo.com/weibo?q=%23%E7%8E%89%E7%B0%9F%E7%A7%8B%E5%AE%98%E5%AE%A3%E5%AE%9A%E6%A1%A3%23"
         }
       ]
     }
   ],
-  "errors": [
-    "新华社: 必应搜索失败(HTTP 200，但解析出0条内容（可能页面结构变化或被限流）)；谷歌新闻搜索也失败(503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Anews.cn&hl=zh-CN&gl=CN&ceid=CN:zh-Hans)",
-    "人民日报: 必应搜索失败(HTTP 200，但解析出0条内容（可能页面结构变化或被限流）)；谷歌新闻搜索也失败(503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Apeople.com.cn&hl=zh-CN&gl=CN&ceid=CN:zh-Hans)"
-  ]
+  "errors": []
 }
