@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12 02:41:11 (北京时间)",
+  "updated_at": "2026-10-12 06:43:10 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -56,6 +56,12 @@
               "source": "人民日报"
             },
             {
+              "title": "“必须把因地制宜发展新质生产力摆在更加突出的战略位置”（总书记的人民情怀） - 人民日报",
+              "summary": "“必须把因地制宜发展新质生产力摆在更加突出的战略位置”（总书记的人民情怀） 人民日报",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CZUZ1ZGhGSTBVOVc0c1FqMmNpSmw2M3FISnpJMGtUZGd1UFR4WUUwdWhSWHJYbndzWUdhOFp0aUQ0SVBDU0dhbFJ0NzRMLVBTNnpsVWVtYlU5RjRqM0cxOEVQSmQtWnBJYm5MbEt5Qi03WlRvRjVfdFkxdHBHcjA?oc=5",
+              "source": "人民日报"
+            },
+            {
               "title": "“岁月的回响——20世纪遗产”摄影展全国巡展亮相深圳 - 人民网-图片频道",
               "summary": "“岁月的回响——20世纪遗产”摄影展全国巡展亮相深圳 人民网-图片频道",
               "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNMHppaGNHNUFFeEsyOFpZaE9uUlNiT29iZ0dKWGpidEE0clh3d1hKU2VSUW9GUDM1ZFZnTllTNkx1UFhrbFVJbjZSSERfY0dabkZJQkpwZmRGWngyWGxLcmpLU3dRb3MtZHVj?oc=5",
@@ -65,12 +71,6 @@
               "title": "人民锐评：让看不见拳头的黑恶也无处遁形 - 人民网观点",
               "summary": "人民锐评：让看不见拳头的黑恶也无处遁形 人民网观点",
               "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1abEhmTmh5UGl0Mk85LWdYSHpqLVh5UjN5bjdZRWhlSnFRWU40eWVsOUNSNnJ3T2dNbTM3SUk2a0Q1d3RJNzg2QmlTRU8tUFVLcmFlTVpyd2VSMTRoMHpQelk0SUdKZzVTRGdwUS1YWjk?oc=5",
-              "source": "人民日报"
-            },
-            {
-              "title": "先锋事迹 - 中国共产党新闻网",
-              "summary": "先锋事迹 中国共产党新闻网",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WaHRRY2JKanF2TDItc1hRMnNubDhacXBpODZKT0Q5QWpyM0lnTlFnUzJSMDY2WlZVV3lBNzNZNEU5RlNIXzlMN0QzRFJGYjc1clU5Zk1sWVd1ZlB6MWRjWlI4MEVtaHdBV0I0VA?oc=5",
               "source": "人民日报"
             }
           ]
@@ -85,15 +85,15 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "Saudi capital airport hit by second Houthi strike in two days",
-              "summary": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.",
-              "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+              "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+              "summary": "Zelensky says Kyiv would support such a truce. Moscow has yet to comment.",
+              "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
             {
-              "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-              "summary": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
-              "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+              "title": "Saudi capital airport hit by second Houthi strike in two days",
+              "summary": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.",
+              "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Saudi Arabia reports injuries in new attack at Riyadh airport, day after strike…",
-              "summary": "The deadliest attack on the kingdom in more than a decade killed 12 people and wounded more than 300 at Riyadh's international airport.",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbd846c3234371bd6a85bd203955bf&url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fyemens-houthis-renew-warning-over-saudi-airports-after-deadly-riyadh-attack-2026-10-11%2f&c=8345176759583315126&mkt=en-us",
+              "title": "Trump announces Ukraine energy ceasefire with Russia, surprising Zelenskiy",
+              "summary": "He urged Russia to stop attacking Ukrainian energy infrastructure a day after Donald Trump demanded that Kyiv unilaterally stop its strikes…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc10fd37c844e89ba6e3139130c8f2&url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fukraine-will-halt-strikes-refineries-if-russia-stops-energy-attacks-zelenskiy-2026-10-11%2f&c=9545046889043642105&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -135,32 +135,32 @@
         {
           "rank": 1,
           "title": "霸王茶姬买一送一",
-          "hot_value": "591142",
+          "hot_value": "529787",
           "link": "https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E4%B9%B0%E4%B8%80%E9%80%81%E4%B8%80%23"
         },
         {
           "rank": 2,
-          "title": "郑钦文就差一个大满贯冠军了",
-          "hot_value": "218086",
-          "link": "https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E5%B0%B1%E5%B7%AE%E4%B8%80%E4%B8%AA%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%86%A0%E5%86%9B%E4%BA%86%23"
+          "title": "记者暗访有偿陪伴服务",
+          "hot_value": "387381",
+          "link": "https://s.weibo.com/weibo?q=%23%E8%AE%B0%E8%80%85%E6%9A%97%E8%AE%BF%E6%9C%89%E5%81%BF%E9%99%AA%E4%BC%B4%E6%9C%8D%E5%8A%A1%23"
         },
         {
           "rank": 3,
           "title": "本周这些数据值得关注",
-          "hot_value": "170896",
+          "hot_value": "314737",
           "link": "https://s.weibo.com/weibo?q=%23%E6%9C%AC%E5%91%A8%E8%BF%99%E4%BA%9B%E6%95%B0%E6%8D%AE%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8%23"
         },
         {
           "rank": 4,
           "title": "一加16",
-          "hot_value": "157970",
+          "hot_value": "307206",
           "link": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%8A%A016%23"
         },
         {
           "rank": 5,
-          "title": "李九 AG",
-          "hot_value": "154324",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B9%9D%20AG%23"
+          "title": "郑钦文晒图庆祝夺冠",
+          "hot_value": "305081",
+          "link": "https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E6%99%92%E5%9B%BE%E5%BA%86%E7%A5%9D%E5%A4%BA%E5%86%A0%23"
         }
       ]
     }
