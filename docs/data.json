@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11 21:50:49 (北京时间)",
+  "updated_at": "2026-10-12 02:41:11 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -8,6 +8,12 @@
         {
           "source_name": "新华社",
           "items": [
+            {
+              "title": "乌方称俄军袭击扎波罗热地区致死人数上升到20人 - 新华网",
+              "summary": "乌方称俄军袭击扎波罗热地区致死人数上升到20人 新华网",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SMHJZdFptS2x3RHFGUWh5VVJRLWx6ZXpFZFNJQ1ItRUxfTzVFbUpjY1JrTlBpamREUExYUGpYMFBIZkpIb0RVbnAtYVktWTlzYV9kVVdUSFNlU0NyQmJSUUotMERqYTdZS21GdUlwTWNBZzBuZ19n?oc=5",
+              "source": "新华社"
+            },
             {
               "title": "阿联酋检方：迪拜航空副驾驶企图驾机实施自杀式袭击 - 新华网",
               "summary": "阿联酋检方：迪拜航空副驾驶企图驾机实施自杀式袭击 新华网",
@@ -30,12 +36,6 @@
               "title": "新华网_让新闻离你更近 - 新华网",
               "summary": "新华网_让新闻离你更近 新华网",
               "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE5FdWV6S1M3MF9oYnROX0tuQkJLWEhDQmVGUWdYbzAzbjNvd3BRdElPSlVua05Pdw?oc=5",
-              "source": "新华社"
-            },
-            {
-              "title": "三季度高频数据折射我国经济向好态势 - 新华网",
-              "summary": "三季度高频数据折射我国经济向好态势 新华网",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50LV92aXYxaHA4N0R2Z19WTkxVQlA4dzRqdDlVRWZDQnlLN250MEpMaTEzLTV3ODUtbTVvcFNYSEpRbVo2Zjk5Q1BrRTBxYnI3WXZCWE4yby0yMnVncHQzTUFhQ2ZGbDdlZjlFai1GMm1EVjdWdEhr?oc=5",
               "source": "新华社"
             }
           ]
@@ -85,15 +85,15 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "Ukraine strikes Russian data centre again despite Trump warning",
-              "summary": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
-              "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+              "title": "Saudi capital airport hit by second Houthi strike in two days",
+              "summary": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.",
+              "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
             {
-              "title": "Pope Leo to have surgery after lump found on lung",
-              "summary": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
-              "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+              "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+              "summary": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
+              "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Ukraine will stop hitting refineries if Russia halts energy attacks, Zelenskiy s…",
-              "summary": "He urged Russia to stop attacking Ukrainian energy infrastructure a day after Donald Trump demanded that Kyiv unilaterally stop its strikes…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb94380bb3445e81c751b93dbbd5fd&url=https%3a%2f%2fwww.reuters.com%2fworld%2feurope%2fukraine-will-halt-strikes-refineries-if-russia-stops-energy-attacks-zelenskiy-2026-10-11%2f&c=9545046889043642105&mkt=en-us",
+              "title": "Saudi Arabia reports injuries in new attack at Riyadh airport, day after strike…",
+              "summary": "The deadliest attack on the kingdom in more than a decade killed 12 people and wounded more than 300 at Riyadh's international airport.",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbd846c3234371bd6a85bd203955bf&url=https%3a%2f%2fwww.reuters.com%2fworld%2fmiddle-east%2fyemens-houthis-renew-warning-over-saudi-airports-after-deadly-riyadh-attack-2026-10-11%2f&c=8345176759583315126&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -134,33 +134,33 @@
       "items": [
         {
           "rank": 1,
-          "title": "郑钦文中网女单夺冠",
-          "hot_value": "16933577",
-          "link": "https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E4%B8%AD%E7%BD%91%E5%A5%B3%E5%8D%95%E5%A4%BA%E5%86%A0%23"
+          "title": "霸王茶姬买一送一",
+          "hot_value": "591142",
+          "link": "https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E4%B9%B0%E4%B8%80%E9%80%81%E4%B8%80%23"
         },
         {
           "rank": 2,
-          "title": "郑钦文vs安德列娃",
-          "hot_value": "2134315",
-          "link": "https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87vs%E5%AE%89%E5%BE%B7%E5%88%97%E5%A8%83%23"
+          "title": "郑钦文就差一个大满贯冠军了",
+          "hot_value": "218086",
+          "link": "https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E5%B0%B1%E5%B7%AE%E4%B8%80%E4%B8%AA%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%86%A0%E5%86%9B%E4%BA%86%23"
         },
         {
           "rank": 3,
-          "title": "我国经济回升向好态势持续巩固",
-          "hot_value": "1683068",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%9B%9E%E5%8D%87%E5%90%91%E5%A5%BD%E6%80%81%E5%8A%BF%E6%8C%81%E7%BB%AD%E5%B7%A9%E5%9B%BA%23"
+          "title": "本周这些数据值得关注",
+          "hot_value": "170896",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%9C%AC%E5%91%A8%E8%BF%99%E4%BA%9B%E6%95%B0%E6%8D%AE%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8%23"
         },
         {
           "rank": 4,
-          "title": "郑钦文中网决赛收视率第一",
-          "hot_value": "1089398",
-          "link": "https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E4%B8%AD%E7%BD%91%E5%86%B3%E8%B5%9B%E6%94%B6%E8%A7%86%E7%8E%87%E7%AC%AC%E4%B8%80%23"
+          "title": "一加16",
+          "hot_value": "157970",
+          "link": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%8A%A016%23"
         },
         {
           "rank": 5,
-          "title": "霸王茶姬",
-          "hot_value": "997463",
-          "link": "https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%23"
+          "title": "李九 AG",
+          "hot_value": "154324",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B9%9D%20AG%23"
         }
       ]
     }
