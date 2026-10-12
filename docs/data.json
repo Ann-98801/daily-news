@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12 10:09:07 (北京时间)",
+  "updated_at": "2026-10-12 18:25:24 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -8,6 +8,12 @@
         {
           "source_name": "新华社",
           "items": [
+            {
+              "title": "新华网_让新闻离你更近 - 新华网",
+              "summary": "新华网_让新闻离你更近 新华网",
+              "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE5FdWV6S1M3MF9oYnROX0tuQkJLWEhDQmVGUWdYbzAzbjNvd3BRdElPSlVua05Pdw?oc=5",
+              "source": "新华社"
+            },
             {
               "title": "乌方称俄军袭击扎波罗热地区致死人数上升到20人 - 新华网",
               "summary": "乌方称俄军袭击扎波罗热地区致死人数上升到20人 新华网",
@@ -21,21 +27,15 @@
               "source": "新华社"
             },
             {
-              "title": "阿联酋检方：迪拜航空副驾驶企图驾机实施自杀式袭击 - 新华网",
-              "summary": "阿联酋检方：迪拜航空副驾驶企图驾机实施自杀式袭击 新华网",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1RTQzZThJWVBwOVRvb0lISDBiUEZzdkZMaEVfR0F3UDU1ZjRyeEJYQTlMaDh5T2wxTGFiRDBhMWZodWZlTVpwT1FvMW5OR3ZDdU9HU2tCTHpKdDFyeGFjUHY3UlZkSnhLRmZjZkFQTlhUZ3V0V3pz?oc=5",
-              "source": "新华社"
-            },
-            {
-              "title": "伊朗称愿促成沙特与也门胡塞武装对话 - 新华网",
-              "summary": "伊朗称愿促成沙特与也门胡塞武装对话 新华网",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13YUQzemMyRU94Rm8xOEt3SFBoYnJlTGpXbXlPSGV4dGtxMnhrMXJSVEFJMWF3eExvZlpMb1ltbDhpUlpydENIQXRuSHJGTjd4QjhQbzV1MmZ6enpvOE1pYzEzZUU3R0lITkpqSk5abFBKeFlKanlVa3U1WmNnaDg?oc=5",
-              "source": "新华社"
-            },
-            {
               "title": "校馆弦歌丨西安电子科技大学图书馆：半部电台传薪火 满馆书香育新人 - 新华网",
               "summary": "校馆弦歌丨西安电子科技大学图书馆：半部电台传薪火 满馆书香育新人 新华网",
               "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fRnZ4V3QxcDUtOHpzdGVzNVU4RzRmTXNIeTNaTFdUU3daVzJ1R3pkR3RleVpWZGs5RzRienZLNkN4WmhGdHBhZU1SWmswaVAzeFRuTWFzVl9HNDBZTGhid0ZJeE1wSThaVjNyeWhiMkFwbVZ6bXFZ?oc=5",
+              "source": "新华社"
+            },
+            {
+              "title": "三季度高频数据折射我国经济向好态势 - 新华网",
+              "summary": "三季度高频数据折射我国经济向好态势 新华网",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50LV92aXYxaHA4N0R2Z19WTkxVQlA4dzRqdDlVRWZDQnlLN250MEpMaTEzLTV3ODUtbTVvcFNYSEpRbVo2Zjk5Q1BrRTBxYnI3WXZCWE4yby0yMnVncHQzTUFhQ2ZGbDdlZjlFai1GMm1EVjdWdEhr?oc=5",
               "source": "新华社"
             }
           ]
@@ -43,6 +43,12 @@
         {
           "source_name": "人民日报",
           "items": [
+            {
+              "title": "责编：王 平 张 盼 邮箱：gtbhwb@people.cn - 人民日报",
+              "summary": "责编：王 平 张 盼 邮箱：gtbhwb@people.cn 人民日报",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcjBDSlRIWmJocHdFY0JBU1pkWDR3aVVvU2Z4M0d0enpxQlYyOVFDTk4yWk56eUExNjZpOFNBYUQ4elNNOHdQMzVoS0NuLWVwOFA5dmY4VkQwTFZBc0NnbWRRTWxLYnJWTUZ3ZUFaVzJQUTNFZV9wbmZVZ3VwcWZDbWJOcw?oc=5",
+              "source": "人民日报"
+            },
             {
               "title": "责编：金 晨 邮箱：gtbhwb@people.cn - 人民日报",
               "summary": "责编：金 晨 邮箱：gtbhwb@people.cn 人民日报",
@@ -56,21 +62,15 @@
               "source": "人民日报"
             },
             {
+              "title": "伊朗称美国已接受伊方所提部分条件--国际 - 人民网",
+              "summary": "伊朗称美国已接受伊方所提部分条件--国际 人民网",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OeV9PaXBBM194OWhzQ3h0c011bV9YbmdNc3hmQ1VIWkVtRzQxcGo3NE1rZXZWVUlaNjROMUwtN2V1eG43RDlENWYybVk4Nlc1RFRROXpSeDNDRWlGYVNjZlhSY0xWY3hHcXc0?oc=5",
+              "source": "人民日报"
+            },
+            {
               "title": "“岁月的回响——20世纪遗产”摄影展全国巡展亮相深圳 - 人民网-图片频道",
               "summary": "“岁月的回响——20世纪遗产”摄影展全国巡展亮相深圳 人民网-图片频道",
               "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNMHppaGNHNUFFeEsyOFpZaE9uUlNiT29iZ0dKWGpidEE0clh3d1hKU2VSUW9GUDM1ZFZnTllTNkx1UFhrbFVJbjZSSERfY0dabkZJQkpwZmRGWngyWGxLcmpLU3dRb3MtZHVj?oc=5",
-              "source": "人民日报"
-            },
-            {
-              "title": "先锋事迹 - 中国共产党新闻网",
-              "summary": "先锋事迹 中国共产党新闻网",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WaHRRY2JKanF2TDItc1hRMnNubDhacXBpODZKT0Q5QWpyM0lnTlFnUzJSMDY2WlZVV3lBNzNZNEU5RlNIXzlMN0QzRFJGYjc1clU5Zk1sWVd1ZlB6MWRjWlI4MEVtaHdBV0I0VA?oc=5",
-              "source": "人民日报"
-            },
-            {
-              "title": "“伟大的远征——纪念中国工农红军长征胜利90周年主题展览”在京开幕【4】 - 人民网-图片频道",
-              "summary": "“伟大的远征——纪念中国工农红军长征胜利90周年主题展览”在京开幕【4】 人民网-图片频道",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XUlYwQjJKel9NVDY3WkhYVmZJeUw3YndNNEx2Y1hGOWIxeEQ1LTQ3YnpOTE5XM0NCSkJScHp3Q1hMUkVqbHZmb1FfWEwzUkduS0wyeWtJRXpqd3FDQmtXazJDajdpWDFEOWxv?oc=5",
               "source": "人民日报"
             }
           ]
@@ -85,15 +85,15 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+              "title": "Zelensky backs Trump's 'energy ceasefire' but says Russia continues to hit power…",
               "summary": "Ukraine's leader says he will support such a truce if Moscow does, after initially expressing surprise at Donald Trump's announcement.",
               "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
             {
-              "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
-              "summary": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
-              "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+              "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
+              "summary": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.",
+              "link": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Protesters seeking India election chief's ouster detained, as 'cockroach' leader…",
-              "summary": "NEW DELHI, Oct 11 (Reuters) - New Delhi braced for a second day of youth protests demanding the resignation of India's election chief on Sun…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc414201f044a0a11d8d719bf3574d&url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2findian-capital-braces-second-day-protests-against-poll-chief-2026-10-11%2f&c=10003148588409127314&mkt=en-us",
+              "title": "US House races to watch in the 2026 elections",
+              "summary": "Republicans in the US House of Representatives are defending a narrow majority in November's midterm elections. History suggests Democrats w…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accb5929b3340479e0dbb0968a5b0fa&url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fus-house-races-watch-2026-elections-2026-10-12%2f&c=17426820780116926262&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -134,33 +134,33 @@
       "items": [
         {
           "rank": 1,
-          "title": "霸王茶姬买一送一",
-          "hot_value": "2533814",
-          "link": "https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E4%B9%B0%E4%B8%80%E9%80%81%E4%B8%80%23"
+          "title": "爱用洗衣凝珠的人天塌了",
+          "hot_value": "1543912",
+          "link": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E7%94%A8%E6%B4%97%E8%A1%A3%E5%87%9D%E7%8F%A0%E7%9A%84%E4%BA%BA%E5%A4%A9%E5%A1%8C%E4%BA%86%23"
         },
         {
           "rank": 2,
-          "title": "记者暗访有偿陪伴服务",
-          "hot_value": "1025268",
-          "link": "https://s.weibo.com/weibo?q=%23%E8%AE%B0%E8%80%85%E6%9A%97%E8%AE%BF%E6%9C%89%E5%81%BF%E9%99%AA%E4%BC%B4%E6%9C%8D%E5%8A%A1%23"
+          "title": "8千元狗仅退款商家驱车600公里寻狗",
+          "hot_value": "927538",
+          "link": "https://s.weibo.com/weibo?q=%238%E5%8D%83%E5%85%83%E7%8B%97%E4%BB%85%E9%80%80%E6%AC%BE%E5%95%86%E5%AE%B6%E9%A9%B1%E8%BD%A6600%E5%85%AC%E9%87%8C%E5%AF%BB%E7%8B%97%23"
         },
         {
           "rank": 3,
-          "title": "本周这些数据值得关注",
-          "hot_value": "826198",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%9C%AC%E5%91%A8%E8%BF%99%E4%BA%9B%E6%95%B0%E6%8D%AE%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8%23"
+          "title": "红星照耀中国",
+          "hot_value": "732990",
+          "link": "https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%98%9F%E7%85%A7%E8%80%80%E4%B8%AD%E5%9B%BD%23"
         },
         {
           "rank": 4,
           "title": "今晚8点 双11京东开启",
-          "hot_value": "818632",
+          "hot_value": "729282",
           "link": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%99%9A8%E7%82%B9%20%E5%8F%8C11%E4%BA%AC%E4%B8%9C%E5%BC%80%E5%90%AF%23"
         },
         {
           "rank": 5,
-          "title": "14岁女孩肚大如怀孕",
-          "hot_value": "781689",
-          "link": "https://s.weibo.com/weibo?q=%2314%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%82%9A%E5%A4%A7%E5%A6%82%E6%80%80%E5%AD%95%23"
+          "title": "刘国梁16岁女儿夺冠",
+          "hot_value": "711174",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%9B%BD%E6%A2%8116%E5%B2%81%E5%A5%B3%E5%84%BF%E5%A4%BA%E5%86%A0%23"
         }
       ]
     }
