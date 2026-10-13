@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13 10:28:05 (北京时间)",
+  "updated_at": "2026-10-13 18:16:13 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -8,12 +8,6 @@
         {
           "source_name": "新华社",
           "items": [
-            {
-              "title": "中国人民银行发布关于人民币汇率的政策立场 - 新华网",
-              "summary": "中国人民银行发布关于人民币汇率的政策立场 新华网",
-              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdi1kNWc5WEE3MDVVeURlN1NBTGV4Q3lkNE50OVJTTmtfTlphcnVsVWtocVdxR3F2MmxmR19rc2J3d0EwRXNkNExxZGN0NUUza3hpX2x5bHVRZnlUd0VEX21wRnVDbUpjTTQtMHFoTlNFMjFqX2hYZUlMZ3dFLS1ydndR?oc=5",
-              "source": "新华社"
-            },
             {
               "title": "玻利维亚一辆小巴坠河致10人死亡 - 新华网",
               "summary": "玻利维亚一辆小巴坠河致10人死亡 新华网",
@@ -27,15 +21,21 @@
               "source": "新华社"
             },
             {
-              "title": "伊朗称愿促成沙特与也门胡塞武装对话 - 新华网",
-              "summary": "伊朗称愿促成沙特与也门胡塞武装对话 新华网",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13YUQzemMyRU94Rm8xOEt3SFBoYnJlTGpXbXlPSGV4dGtxMnhrMXJSVEFJMWF3eExvZlpMb1ltbDhpUlpydENIQXRuSHJGTjd4QjhQbzV1MmZ6enpvOE1pYzEzZUU3R0lITkpqSk5abFBKeFlKanlVa3U1WmNnaDg?oc=5",
+              "title": "飓风和热带风暴袭击墨西哥致5人死亡 - 新华网",
+              "summary": "飓风和热带风暴袭击墨西哥致5人死亡 新华网",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TQWtpX3V1N0k4UnpjZVZYb1doUmZjSzBEMVJFV2hpNE5GRVF4ZGYteTIyY2FkdGkyUHd5UTZpRlRlOUFjNjd5dUIzVkdmbXEybWR2WFBIRWtZd18xakxlSVgwQVVJN2FrZVA3bENVVDlKbEp5QWNRcllNbWdiTkE?oc=5",
               "source": "新华社"
             },
             {
               "title": "以色列北部发生疑似未爆弹药爆炸致1死19伤 - 新华网",
               "summary": "以色列北部发生疑似未爆弹药爆炸致1死19伤 新华网",
               "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pckFZNzY3c3Rtb0x1Um1BT0R5ZTNMclNaQUpMenQyWWF1ZjFzR2JzMXFwaF9RZVF5TkhoMVEybUFKUl9wZWMwTnZTYUhuMGtYRURKX3o5NWJIckk1LWFwNHFuWUFJQWd0Vk12bW9GUVJnSGo5akkzYWpGdW16enc?oc=5",
+              "source": "新华社"
+            },
+            {
+              "title": "伊朗称正在审议美方意见 重开海峡条件未变 - 新华网",
+              "summary": "伊朗称正在审议美方意见 重开海峡条件未变 新华网",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEandzRm5DUTlYUkZZMFFUaFRaQ01sU0RJeXRrNzlTdFJzbldiLVRud2NMTDNwVnJBc1VPbkdxbDNGRWZCRnJzRWFHajVSTk9Uei1FM1NiVC1tQmlPbVgwZy1rUkIyZnJUUjlEbVptcVhQQUZIS2NHSkhsTlBWSzQ?oc=5",
               "source": "新华社"
             }
           ]
@@ -85,15 +85,15 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelens…",
-              "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
-              "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+              "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
+              "summary": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
+              "link": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
             {
-              "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-              "summary": "While Ukraine's Volodymyr Zelensky suggests he would sign up to a ceasefire on energy infrastructure, Russia has said little.",
-              "link": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
+              "title": "Breaking Bad actor RJ Mitte dies aged 34",
+              "summary": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
+              "link": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Trump defends Russia diesel deal as lawmakers from both parties complain",
-              "summary": "President Donald Trump on Monday defended a diesel oil deal he made with Russia as lawmakers from both parties complained the agreement appe…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd97341a204bfab3ea7df2424c3398&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2ftrump-defends-russia-diesel-deal-lawmakers-both-parties-complain-2026-10-12%2f&c=16674033832109704653&mkt=en-us",
+              "title": "Bank of America loses bankers, tells staff of big ambition, continued hiring",
+              "summary": "Bank of America's top leaders had a problem in the first week of August. Veteran banker Amy Lissauer — one of the company's most senior fema…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace04ec4fa24393914a245b0a7e1892&url=https%3a%2f%2fwww.reuters.com%2fworld%2fbank-america-loses-bankers-tells-staff-big-ambition-continued-hiring-2026-10-13%2f&c=14675386535814903784&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -134,33 +134,33 @@
       "items": [
         {
           "rank": 1,
-          "title": "尊界V800公布制动踏板第三方检测结果",
-          "hot_value": "4921878",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%B0%8A%E7%95%8CV800%E5%85%AC%E5%B8%83%E5%88%B6%E5%8A%A8%E8%B8%8F%E6%9D%BF%E7%AC%AC%E4%B8%89%E6%96%B9%E6%A3%80%E6%B5%8B%E7%BB%93%E6%9E%9C%23"
+          "title": "黄奇帆接受审查调查",
+          "hot_value": "2864113",
+          "link": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%A5%87%E5%B8%86%E6%8E%A5%E5%8F%97%E5%AE%A1%E6%9F%A5%E8%B0%83%E6%9F%A5%23"
         },
         {
           "rank": 2,
-          "title": "国考",
-          "hot_value": "1634956",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%80%83%23"
+          "title": "英方单方面停考雅思",
+          "hot_value": "1536826",
+          "link": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E6%96%B9%E5%8D%95%E6%96%B9%E9%9D%A2%E5%81%9C%E8%80%83%E9%9B%85%E6%80%9D%23"
         },
         {
           "rank": 3,
-          "title": "红星照耀中国",
-          "hot_value": "1602942",
-          "link": "https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%98%9F%E7%85%A7%E8%80%80%E4%B8%AD%E5%9B%BD%23"
+          "title": "你我的长征",
+          "hot_value": "1189120",
+          "link": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%88%91%E7%9A%84%E9%95%BF%E5%BE%81%23"
         },
         {
           "rank": 4,
-          "title": "天猫双11第一波消费券来了",
-          "hot_value": "1601267",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E7%8C%AB%E5%8F%8C11%E7%AC%AC%E4%B8%80%E6%B3%A2%E6%B6%88%E8%B4%B9%E5%88%B8%E6%9D%A5%E4%BA%86%23"
+          "title": "孙颖莎海尔全球品牌代言人",
+          "hot_value": "1160586",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E6%B5%B7%E5%B0%94%E5%85%A8%E7%90%83%E5%93%81%E7%89%8C%E4%BB%A3%E8%A8%80%E4%BA%BA%23"
         },
         {
           "rank": 5,
-          "title": "肖战演唱会官宣",
-          "hot_value": "1597356",
-          "link": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3%23"
+          "title": "疑似肖战经纪人朋友圈",
+          "hot_value": "998888",
+          "link": "https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E8%82%96%E6%88%98%E7%BB%8F%E7%BA%AA%E4%BA%BA%E6%9C%8B%E5%8F%8B%E5%9C%88%23"
         }
       ]
     }
