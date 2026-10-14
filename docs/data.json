@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14 15:15:50 (北京时间)",
+  "updated_at": "2026-10-14 21:25:33 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -8,6 +8,12 @@
         {
           "source_name": "新华社",
           "items": [
+            {
+              "title": "金秋出游必看｜50 岁以上人群，警惕 “三高一疹” 出行风险 - 新华网",
+              "summary": "金秋出游必看｜50 岁以上人群，警惕 “三高一疹” 出行风险 新华网",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSjJkdkFvVDQwMWNZNWpnMUtPVm5rWHY3cFdBQVBQVC0zU3BUNjZyQ256Q2pCTC1PSnEwc0QyUUx3LV9leV9iZjBsQUVibjhDY0g3bFpqUGJXc191aTd3WW9MRXByNjVHZGVVam80NjU2eE5zMnZhQ2JqSVJocExRdA?oc=5",
+              "source": "新华社"
+            },
             {
               "title": "重庆市委原副书记、市政府原市长黄奇帆接受审查调查 - 新华网",
               "summary": "重庆市委原副书记、市政府原市长黄奇帆接受审查调查 新华网",
@@ -21,21 +27,15 @@
               "source": "新华社"
             },
             {
-              "title": "飓风和热带风暴袭击墨西哥致5人死亡 - 新华网",
-              "summary": "飓风和热带风暴袭击墨西哥致5人死亡 新华网",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TQWtpX3V1N0k4UnpjZVZYb1doUmZjSzBEMVJFV2hpNE5GRVF4ZGYteTIyY2FkdGkyUHd5UTZpRlRlOUFjNjd5dUIzVkdmbXEybWR2WFBIRWtZd18xakxlSVgwQVVJN2FrZVA3bENVVDlKbEp5QWNRcllNbWdiTkE?oc=5",
+              "title": "一艘集装箱船在霍尔木兹海峡触雷沉没 - 新华网",
+              "summary": "一艘集装箱船在霍尔木兹海峡触雷沉没 新华网",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GNkJoOHFwMy1qSW83eUlES2xkeGdndV91ZWhxZ1hFQVc5NkNIN2RhYlRtRGJBQzRnSVR5QWxHRk1yM21GTG4xSndqR3ByTE43cXNvVWZuYmFQNlR4TndmSGdFTnJtN0VGLVJwNjdZNWVwcTcxZWE1QVItaDBOLTA?oc=5",
               "source": "新华社"
             },
             {
-              "title": "新华网_让新闻离你更近 - 新华网",
-              "summary": "新华网_让新闻离你更近 新华网",
-              "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE5FdWV6S1M3MF9oYnROX0tuQkJLWEhDQmVGUWdYbzAzbjNvd3BRdElPSlVua05Pdw?oc=5",
-              "source": "新华社"
-            },
-            {
-              "title": "赛场之上，每一击都从容掌控 - 新华网",
-              "summary": "赛场之上，每一击都从容掌控 新华网",
-              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZeUlvZ1ZPQnlsR1BGUUZBM2JwS1lFalNNUUwxeFk3aTJjM0ZZY09NOVNmR3VsRGxwSllUM3NVUXhWX1JsQ0VOWmYtenRIZXF2dFpnbkwwVTdYS3g3Ty1mZ1JMdV9HVE1KM1NCZWhucmJXcmFRZ2VrZjFFeGRrQQ?oc=5",
+              "title": "哥伦比亚在耶路撒冷设立驻以色列大使馆 - 新华网",
+              "summary": "哥伦比亚在耶路撒冷设立驻以色列大使馆 新华网",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nNUItLTB1VEJWd0M3dV9sOWxIUURXM1MtYzZRa0tSdFBKUzgzZGdDWW1XcE5LMll0THh4VU1Yc254VTA4WERPbHJaQ2hsTWtvNjIyY1RmRWU0Y0NtRWpSSXlFYlEwOXJMaWlIdFpXMjNyVzZXQWNiTi1fYmx1ck0?oc=5",
               "source": "新华社"
             }
           ]
@@ -85,15 +85,15 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-              "summary": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
-              "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+              "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+              "summary": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
+              "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
             {
-              "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-              "summary": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
-              "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+              "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+              "summary": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says.",
+              "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "What is lung adenocarcinoma, the cancer diagnosed in Pope Leo?",
-              "summary": "Pope Leo was diagnosed with lung adenocarcinoma after doctors removed the lower lobe of his right lung during surgery on Tuesday, the Vatica…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf2c252ab44ae49b04589029ef4230&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fhealthcare-pharmaceuticals%2fwhat-is-lung-adenocarcinoma-cancer-diagnosed-pope-leo-2026-10-14%2f&c=15794943137787294822&mkt=en-us",
+              "title": "BofA misses profit estimates on trading weakness; books $1.2 billion charge",
+              "summary": "Bank of America's profit fell in the third quarter as it set aside $1.2 billion to cover fines by US regulators over widespread failures to…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf82cc5e8444f3b4e0adf3dd06eb33&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffinance%2fbank-america-profit-hurt-by-12-billion-fine-over-anti-money-laundering-2026-10-14%2f&c=15909238849651844492&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -134,33 +134,33 @@
       "items": [
         {
           "rank": 1,
-          "title": "A股",
-          "hot_value": "1435496",
-          "link": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%23"
+          "title": "CPI",
+          "hot_value": "1161839",
+          "link": "https://s.weibo.com/weibo?q=%23CPI%23"
         },
         {
           "rank": 2,
-          "title": "腾讯打算拿什么撬动红果近2亿日活",
-          "hot_value": "866456",
-          "link": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E6%89%93%E7%AE%97%E6%8B%BF%E4%BB%80%E4%B9%88%E6%92%AC%E5%8A%A8%E7%BA%A2%E6%9E%9C%E8%BF%912%E4%BA%BF%E6%97%A5%E6%B4%BB%23"
+          "title": "香港周生生发生珠宝劫案",
+          "hot_value": "862291",
+          "link": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%91%A8%E7%94%9F%E7%94%9F%E5%8F%91%E7%94%9F%E7%8F%A0%E5%AE%9D%E5%8A%AB%E6%A1%88%23"
         },
         {
           "rank": 3,
-          "title": "前三季度我国外贸增长18.8%",
-          "hot_value": "715038",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E6%88%91%E5%9B%BD%E5%A4%96%E8%B4%B8%E5%A2%9E%E9%95%BF18.8%25%23"
+          "title": "全国秋粮收获进入高峰期",
+          "hot_value": "670618",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E7%A7%8B%E7%B2%AE%E6%94%B6%E8%8E%B7%E8%BF%9B%E5%85%A5%E9%AB%98%E5%B3%B0%E6%9C%9F%23"
         },
         {
           "rank": 4,
-          "title": "全球销量No.1卫生巾",
-          "hot_value": "714993",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%94%80%E9%87%8FNo.1%E5%8D%AB%E7%94%9F%E5%B7%BE%23"
+          "title": "胡杏儿为一家五口选择奕境X9",
+          "hot_value": "606412",
+          "link": "https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%9D%8F%E5%84%BF%E4%B8%BA%E4%B8%80%E5%AE%B6%E4%BA%94%E5%8F%A3%E9%80%89%E6%8B%A9%E5%A5%95%E5%A2%83X9%23"
         },
         {
           "rank": 5,
-          "title": "刘芮麟也想要肖战演唱会门票",
-          "hot_value": "714886",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%88%98%E8%8A%AE%E9%BA%9F%E4%B9%9F%E6%83%B3%E8%A6%81%E8%82%96%E6%88%98%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%23"
+          "title": "绿泡泡对标红果",
+          "hot_value": "586136",
+          "link": "https://s.weibo.com/weibo?q=%23%E7%BB%BF%E6%B3%A1%E6%B3%A1%E5%AF%B9%E6%A0%87%E7%BA%A2%E6%9E%9C%23"
         }
       ]
     }
