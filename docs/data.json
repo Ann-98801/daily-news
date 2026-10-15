@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16 02:05:17 (北京时间)",
+  "updated_at": "2026-10-16 05:59:46 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -15,6 +15,12 @@
               "source": "新华社"
             },
             {
+              "title": "伊朗海军：一艘油轮在霍尔木兹海峡东部海域起火 - 新华网",
+              "summary": "伊朗海军：一艘油轮在霍尔木兹海峡东部海域起火 新华网",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SaWRhdnJUZzhLU2JERnBYSVF1M1FYVHpjV1MyT3N1azA3V2JJbGFwZmV0d2YzemhNaUJpdnN0VUdlbnNRNWxhUWV5cXh6dkpkdWxjQWNCcTh3eEdaU0twMFc0YVRHM2FJQjBNekRFWGQtd1J4M2p1SDZIRWt0R28?oc=5",
+              "source": "新华社"
+            },
+            {
               "title": "哥伦比亚一客车翻车致4死56伤 - 新华网",
               "summary": "哥伦比亚一客车翻车致4死56伤 新华网",
               "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pNmctbElObDc3cVRFSVdWVjZKcnBMdWhNNVRTSTZIVXY5UGcxLVRZdTgxbTZCMnZsWXR2S2c3TUlmUEk1RVhtT1prWGFMUVd4V3V4TmtuQUF0cno4VVVhWWJMdXp5aXIyNk92Vl9OTGpPUmVYSWJF?oc=5",
@@ -23,19 +29,13 @@
             {
               "title": "乌拉圭中国和平统一促进会成立 - 新华网",
               "summary": "乌拉圭中国和平统一促进会成立 新华网",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zQXkwNXM4MkEwUTF3VFIydEowYmVDd0F5NDgxcWU0ZENBSk92UGtpYlNxSVFtU1lmb2wwNUU5R0VoaEF2TXpnTzBJTVhtZ3Fma2lZMkI1MXZoMTgzUF9JN3E3aGt0a0xjbmRXMlhmZkphcEFYTnZ4WUFVU09oTGs?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rbkdWUEE3MGhueG1aY1BCSmtQVFd6TmZ1X2cxazBkMGF0d05xZUhCM2hjcXF2WWhwN0xld0Nld29lUHlQaEo3TjMwVVRjM250eGlTRXB5dEoyZ3VPNW5nMmhQYnMteEVkMVVCRGdSLTFENlZpWHV3?oc=5",
               "source": "新华社"
             },
             {
               "title": "我国批准清洁能源国家标准600余项 - 新华网",
               "summary": "我国批准清洁能源国家标准600余项 新华网",
               "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wOGM5VlZZUDdxRE9SUGtfbW5Wb2lMT3l4N2daQ0ZkYWJ2Uk1uNFpCUVppRFpxb3NrTElFVkJlaGpiTEhYX01iaGlIYkxnX0ZQYVZ3aEY4QkNQS3JvRURUdEhudjFHaFNPZ3FfbnVjQWNuRVFDY3hV?oc=5",
-              "source": "新华社"
-            },
-            {
-              "title": "新华网_让新闻离你更近 - 新华网",
-              "summary": "新华网_让新闻离你更近 新华网",
-              "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE5FdWV6S1M3MF9oYnROX0tuQkJLWEhDQmVGUWdYbzAzbjNvd3BRdElPSlVua05Pdw?oc=5",
               "source": "新华社"
             }
           ]
@@ -85,15 +85,15 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-              "summary": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
-              "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+              "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+              "summary": "Two people were severely injured and evacuated by helicopter but no one's life appeared to be in danger, officials said.",
+              "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
             {
-              "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to…",
-              "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
-              "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+              "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+              "summary": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
+              "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -121,7 +121,7 @@
             {
               "title": "CoreWeave's slump spotlights growing burden of debt behind AI boom",
               "summary": "AI cloud firm CoreWeave's shares and bonds slumped further on Thursday despite CEO assurances about its strong deal backlog, in one of the d…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad115dc2243469ebe4dc53f174dc063&url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2fcoreweave-shares-bonds-slide-further-ai-debt-fears-mount-2026-10-15%2f&c=13970700237164367003&mkt=en-us",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad14cd169cf4a6faf9d9efebf03fe17&url=https%3a%2f%2fwww.reuters.com%2flegal%2ftransactional%2fcoreweave-shares-bonds-slide-further-ai-debt-fears-mount-2026-10-15%2f&c=13970700237164367003&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -135,31 +135,31 @@
         {
           "rank": 1,
           "title": "深圳全市全天禁鸣喇叭5年",
-          "hot_value": "505331",
+          "hot_value": "276936",
           "link": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%85%A8%E5%B8%82%E5%85%A8%E5%A4%A9%E7%A6%81%E9%B8%A3%E5%96%87%E5%8F%AD5%E5%B9%B4%23"
         },
         {
           "rank": 2,
           "title": "大龄读研见老师两面就退学",
-          "hot_value": "234559",
+          "hot_value": "198779",
           "link": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%BE%84%E8%AF%BB%E7%A0%94%E8%A7%81%E8%80%81%E5%B8%88%E4%B8%A4%E9%9D%A2%E5%B0%B1%E9%80%80%E5%AD%A6%23"
         },
         {
           "rank": 3,
           "title": "起初他们参加红军只为找条活路",
-          "hot_value": "175600",
+          "hot_value": "157797",
           "link": "https://s.weibo.com/weibo?q=%23%E8%B5%B7%E5%88%9D%E4%BB%96%E4%BB%AC%E5%8F%82%E5%8A%A0%E7%BA%A2%E5%86%9B%E5%8F%AA%E4%B8%BA%E6%89%BE%E6%9D%A1%E6%B4%BB%E8%B7%AF%23"
         },
         {
           "rank": 4,
-          "title": "双11上淘宝抢华为大额券可叠补贴",
-          "hot_value": "174661",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%8F%8C11%E4%B8%8A%E6%B7%98%E5%AE%9D%E6%8A%A2%E5%8D%8E%E4%B8%BA%E5%A4%A7%E9%A2%9D%E5%88%B8%E5%8F%AF%E5%8F%A0%E8%A1%A5%E8%B4%B4%23"
+          "title": "一杯奶的要强答案",
+          "hot_value": "145580",
+          "link": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%9D%AF%E5%A5%B6%E7%9A%84%E8%A6%81%E5%BC%BA%E7%AD%94%E6%A1%88%23"
         },
         {
           "rank": 5,
           "title": "曝李昀锐去hi6接孟子义下班",
-          "hot_value": "173513",
+          "hot_value": "85932",
           "link": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%9D%8E%E6%98%80%E9%94%90%E5%8E%BBhi6%E6%8E%A5%E5%AD%9F%E5%AD%90%E4%B9%89%E4%B8%8B%E7%8F%AD%23"
         }
       ]
