@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16 08:07:59 (北京时间)",
+  "updated_at": "2026-10-16 13:34:57 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -9,9 +9,15 @@
           "source_name": "新华社",
           "items": [
             {
-              "title": "伊朗革命卫队称“全天候”监控霍尔木兹海峡 - 新华网",
-              "summary": "伊朗革命卫队称“全天候”监控霍尔木兹海峡 新华网",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxOTNENzJkaDhDMURvYUxOWURvb2VqaHB1WHR2TUN5Y0xSWTM1VHJGZFdfQldvTlVzOUR6VWhBUVFYVVhxVmt0b3htQWNfVzVRYmU4RDc1ZkpjVmxVTDAtdE1kbWRNdnNPUThUbFN5WWlTQkJzMTdVdTlDbVJaYkU?oc=5",
+              "title": "沙特称胡塞武装袭击利雅得机场共致17死333伤 - 新华网",
+              "summary": "沙特称胡塞武装袭击利雅得机场共致17死333伤 新华网",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuV29VMGhnakZwMmJ3eWU3azZ4R09yNWJsVHNEZGRKQlE2YnlZektuaDFxMVJfSWFlQmszRWNxdGdtRWgzbklveUtrb1M2VEFmZmtkV2oteWhuS1NrMTU0M3M5dnRVbVZWMEFuM2ppbnhMU2ZZbkp3ak1MSlUwcDA?oc=5",
+              "source": "新华社"
+            },
+            {
+              "title": "乌拉圭中国和平统一促进会成立 - 新华网",
+              "summary": "乌拉圭中国和平统一促进会成立 新华网",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zQXkwNXM4MkEwUTF3VFIydEowYmVDd0F5NDgxcWU0ZENBSk92UGtpYlNxSVFtU1lmb2wwNUU5R0VoaEF2TXpnTzBJTVhtZ3Fma2lZMkI1MXZoMTgzUF9JN3E3aGt0a0xjbmRXMlhmZkphcEFYTnZ4WUFVU09oTGs?oc=5",
               "source": "新华社"
             },
             {
@@ -27,15 +33,9 @@
               "source": "新华社"
             },
             {
-              "title": "乌拉圭中国和平统一促进会成立 - 新华网",
-              "summary": "乌拉圭中国和平统一促进会成立 新华网",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rbkdWUEE3MGhueG1aY1BCSmtQVFd6TmZ1X2cxazBkMGF0d05xZUhCM2hjcXF2WWhwN0xld0Nld29lUHlQaEo3TjMwVVRjM250eGlTRXB5dEoyZ3VPNW5nMmhQYnMteEVkMVVCRGdSLTFENlZpWHV3?oc=5",
-              "source": "新华社"
-            },
-            {
-              "title": "我国批准清洁能源国家标准600余项 - 新华网",
-              "summary": "我国批准清洁能源国家标准600余项 新华网",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wOGM5VlZZUDdxRE9SUGtfbW5Wb2lMT3l4N2daQ0ZkYWJ2Uk1uNFpCUVppRFpxb3NrTElFVkJlaGpiTEhYX01iaGlIYkxnX0ZQYVZ3aEY4QkNQS3JvRURUdEhudjFHaFNPZ3FfbnVjQWNuRVFDY3hV?oc=5",
+              "title": "首份“昆蒙框架”落实评估报告：目标进展普遍滞后 - 新华网",
+              "summary": "首份“昆蒙框架”落实评估报告：目标进展普遍滞后 新华网",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNQW4xWFd5SmtqY1U1azRmYWRsOTg1Y1BuTzU5VHRIRWJKREsxX0FPcDJmN1hsaHZKeWhSRmRfOFlTTFQycGpQNkplaUxneTA3UW1SNVJPZEttUUtnZjdIZVlZX20tcllmZlNlXy1sYlc1XzZUNGNN?oc=5",
               "source": "新华社"
             }
           ]
@@ -85,15 +85,15 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-              "summary": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
-              "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+              "title": "Three children and teacher killed in US primary school shooting",
+              "summary": "The suspect was shot dead by a community member who followed him into the Oregon school, police said.",
+              "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
             {
-              "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to…",
-              "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
-              "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+              "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
+              "summary": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.",
+              "link": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Seven subpoenas engulf Nevada election chief in key midterm battle",
-              "summary": "As the Trump administration escalates its efforts to compel states to hand over voter rolls in search of fraud, the federal pressure is shap…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad16ade6a9e487f8e3860c97d74a25d&url=https%3a%2f%2fwww.reuters.com%2flegal%2fgovernment%2fseven-subpoenas-engulf-nevada-election-chief-key-midterm-battle-2026-10-15%2f&c=8908511079761251818&mkt=en-us",
+              "title": "Shooter kills four at Oregon elementary school before being shot dead by communi…",
+              "summary": "A person with a gun opened fire on Thursday at an elementary school in Bend, Oregon, wounding multiple victims, including children, before t…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1b7802f874059ad26f39c30b30b72&url=https%3a%2f%2fwww.reuters.com%2fworld%2fshooter-is-killed-oregon-elementary-school-least-two-taken-away-ambulance-2026-10-15%2f&c=12550304103505566042&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -134,33 +134,33 @@
       "items": [
         {
           "rank": 1,
-          "title": "深圳全市全天禁鸣喇叭5年",
-          "hot_value": "1400290",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%85%A8%E5%B8%82%E5%85%A8%E5%A4%A9%E7%A6%81%E9%B8%A3%E5%96%87%E5%8F%AD5%E5%B9%B4%23"
+          "title": "芒果真的拍了再见朋友",
+          "hot_value": "1382014",
+          "link": "https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%9E%9C%E7%9C%9F%E7%9A%84%E6%8B%8D%E4%BA%86%E5%86%8D%E8%A7%81%E6%9C%8B%E5%8F%8B%23"
         },
         {
           "rank": 2,
-          "title": "AI射雕英雄传看起来比人演的好",
-          "hot_value": "907807",
-          "link": "https://s.weibo.com/weibo?q=%23AI%E5%B0%84%E9%9B%95%E8%8B%B1%E9%9B%84%E4%BC%A0%E7%9C%8B%E8%B5%B7%E6%9D%A5%E6%AF%94%E4%BA%BA%E6%BC%94%E7%9A%84%E5%A5%BD%23"
+          "title": "母子衣衫不整游荡当事女子回应",
+          "hot_value": "893023",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%AF%8D%E5%AD%90%E8%A1%A3%E8%A1%AB%E4%B8%8D%E6%95%B4%E6%B8%B8%E8%8D%A1%E5%BD%93%E4%BA%8B%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%23"
         },
         {
           "rank": 3,
-          "title": "起初他们参加红军只为找条活路",
-          "hot_value": "705068",
-          "link": "https://s.weibo.com/weibo?q=%23%E8%B5%B7%E5%88%9D%E4%BB%96%E4%BB%AC%E5%8F%82%E5%8A%A0%E7%BA%A2%E5%86%9B%E5%8F%AA%E4%B8%BA%E6%89%BE%E6%9D%A1%E6%B4%BB%E8%B7%AF%23"
+          "title": "70载广交会见证中国经济与创新活力",
+          "hot_value": "694334",
+          "link": "https://s.weibo.com/weibo?q=%2370%E8%BD%BD%E5%B9%BF%E4%BA%A4%E4%BC%9A%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E4%B8%8E%E5%88%9B%E6%96%B0%E6%B4%BB%E5%8A%9B%23"
         },
         {
           "rank": 4,
-          "title": "双11上淘宝抢华为大额券可叠补贴",
-          "hot_value": "664845",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%8F%8C11%E4%B8%8A%E6%B7%98%E5%AE%9D%E6%8A%A2%E5%8D%8E%E4%B8%BA%E5%A4%A7%E9%A2%9D%E5%88%B8%E5%8F%AF%E5%8F%A0%E8%A1%A5%E8%B4%B4%23"
+          "title": "陈奕迅演唱会官宣",
+          "hot_value": "662023",
+          "link": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3%23"
         },
         {
           "rank": 5,
-          "title": "特朗普发长文痛批泽连斯基",
-          "hot_value": "615683",
-          "link": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E9%95%BF%E6%96%87%E7%97%9B%E6%89%B9%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%23"
+          "title": "特斯拉Roadster意向金33.2万",
+          "hot_value": "530365",
+          "link": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89Roadster%E6%84%8F%E5%90%91%E9%87%9133.2%E4%B8%87%23"
         }
       ]
     }
