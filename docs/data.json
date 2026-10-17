@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18 02:16:18 (北京时间)",
+  "updated_at": "2026-10-18 05:19:22 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -8,6 +8,12 @@
         {
           "source_name": "新华社",
           "items": [
+            {
+              "title": "工信部等三部门联合调查有关车辆刹车踏板支架断裂问题 - 新华网",
+              "summary": "工信部等三部门联合调查有关车辆刹车踏板支架断裂问题 新华网",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTDBxdjRfZjR4TGhFeU9ORkdQSWROdV9iV1hCUFlVTXo4S3ZWUU9zOFdpclk5WktHZkk3MndGOEhaeEktbzI3VTQ3RmxNOGl1eXBGSmw2eEs4TFRDR2JnOURRUm9lM3JPemZjLVlrS2s0dVE1NnN0dnUyX2cyY2VwZU5OVQ?oc=5",
+              "source": "新华社"
+            },
             {
               "title": "沙特称胡塞武装袭击利雅得机场共致17死333伤 - 新华网",
               "summary": "沙特称胡塞武装袭击利雅得机场共致17死333伤 新华网",
@@ -31,18 +37,18 @@
               "summary": "美俄勒冈州一小学发生枪击事件 5人死亡 新华网",
               "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfWE1DdFpaaWNjcExGMzZlMGktdGhtcEc5TDlCejNqb3pEOXJQZFhGdEVIQ0xyVThkSEp4bFVoTHh4T290X3BSMlo1MEFzNVhlWWROcS15UDVQYVRTS0ZoRWxqcTdZN2tIYk9hZTYxcjhRcU1fMml6MmtVcV9LWWs?oc=5",
               "source": "新华社"
-            },
-            {
-              "title": "新华网_让新闻离你更近 - 新华网",
-              "summary": "新华网_让新闻离你更近 新华网",
-              "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE5FdWV6S1M3MF9oYnROX0tuQkJLWEhDQmVGUWdYbzAzbjNvd3BRdElPSlVua05Pdw?oc=5",
-              "source": "新华社"
             }
           ]
         },
         {
           "source_name": "人民日报",
           "items": [
+            {
+              "title": "甘肃天水幼儿园铅中毒案一审宣判 - 人民日报",
+              "summary": "甘肃天水幼儿园铅中毒案一审宣判 人民日报",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01ZDFTZGlSZUlZYXpId2k2QkRPRElDdkJaVlc1NE4tT09XdDkybUVoY3lDbGlNZUEySDE0c1V1MktmYlFCcG5RNW5KSnJnZ1ZxUWxiUE9XcExIb0l0YzF3eDRwV1MxZUlKcF83ZVZaME9ZekI5aFc1RDNRaUVSNmM?oc=5",
+              "source": "人民日报"
+            },
             {
               "title": "责编：王 平 张 盼 邮箱：gtbhwb@people.cn - 人民日报",
               "summary": "责编：王 平 张 盼 邮箱：gtbhwb@people.cn 人民日报",
@@ -66,12 +72,6 @@
               "summary": "责编：王 平 柴逸扉 邮箱：gtbhwb@people.cn 人民日报",
               "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNlRZbjlHRHVjNWlWWEp4R3Nhb1hrNUhpLVQ3OFFDWWwzVUctb0twc05WWV9CUG4zanU5dXAydm9lbHJJMlRSa3FFQmxrVjhpbnpYdVhfYkJNV2F2Y1JrczJxNnJBOXlqemNrY0pJWE1qcTVrTGZrWFVQZ3I5ZkVVcEo0dVE?oc=5",
               "source": "人民日报"
-            },
-            {
-              "title": "让中美友谊在青春相遇中扎根生长（和音） - 人民日报",
-              "summary": "让中美友谊在青春相遇中扎根生长（和音） 人民日报",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQODNVZzJIdW45elVSR2hTTnNhUTRmdlJDb0oyYmpacFF6bXRlSnZrcVBycUpSeEROUGNrMVBKTk8xeHFraDhaQjZOUlhRRkhsbjc4WXdTZ2Z1Zkg2bWZuT1JhNGcybGNRWE9HelFseDFLVnpxcFpSZHg0UHBFQ3VpNQ?oc=5",
-              "source": "人民日报"
             }
           ]
         }
@@ -85,15 +85,15 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-              "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-              "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+              "title": "Violent clashes, looting and buildings ablaze as hundreds arrested after France…",
+              "summary": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+              "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
             {
-              "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
-              "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
-              "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+              "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+              "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+              "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Police and protesters clash in some of France's worst unrest in years",
+              "title": "Mass protests in France spiral into worst riots in years",
               "summary": "Tens of thousands of people are expected to protest across France on Saturday, as students, trade unionists and remnants of the Yellow Vest…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3bb7110d1479291b04141aeb4575a&url=https%3a%2f%2fwww.reuters.com%2fworld%2fstudents-trade-unions-yellow-vests-set-protest-across-france-2026-10-17%2f&c=12138939788460749898&mkt=en-us",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3e659f4ef4d889b17d75435cc5542&url=https%3a%2f%2fwww.reuters.com%2fworld%2fstudents-trade-unions-yellow-vests-set-protest-across-france-2026-10-17%2f&c=12138939788460749898&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -135,32 +135,32 @@
         {
           "rank": 1,
           "title": "店员称有碘伏顾客磕响头",
-          "hot_value": "386186",
+          "hot_value": "158158",
           "link": "https://s.weibo.com/weibo?q=%23%E5%BA%97%E5%91%98%E7%A7%B0%E6%9C%89%E7%A2%98%E4%BC%8F%E9%A1%BE%E5%AE%A2%E7%A3%95%E5%93%8D%E5%A4%B4%23"
         },
         {
           "rank": 2,
-          "title": "杭州大三女孩7个月开20家柠檬奶店",
-          "hot_value": "259920",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A4%A7%E4%B8%89%E5%A5%B3%E5%AD%A97%E4%B8%AA%E6%9C%88%E5%BC%8020%E5%AE%B6%E6%9F%A0%E6%AA%AC%E5%A5%B6%E5%BA%97%23"
+          "title": "特斯拉飞行汽车被质疑是噱头",
+          "hot_value": "93133",
+          "link": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E9%A3%9E%E8%A1%8C%E6%B1%BD%E8%BD%A6%E8%A2%AB%E8%B4%A8%E7%96%91%E6%98%AF%E5%99%B1%E5%A4%B4%23"
         },
         {
           "rank": 3,
           "title": "广交会真的太全面了",
-          "hot_value": "238701",
+          "hot_value": "77313",
           "link": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%BA%A4%E4%BC%9A%E7%9C%9F%E7%9A%84%E5%A4%AA%E5%85%A8%E9%9D%A2%E4%BA%86%23"
         },
         {
           "rank": 4,
-          "title": "王力宏力赞披哥在梅边舞台",
-          "hot_value": "226654",
-          "link": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%8A%9B%E8%B5%9E%E6%8A%AB%E5%93%A5%E5%9C%A8%E6%A2%85%E8%BE%B9%E8%88%9E%E5%8F%B0%23"
+          "title": "嫁金钗这是奔着破纪录去的",
+          "hot_value": "77268",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%AB%81%E9%87%91%E9%92%97%E8%BF%99%E6%98%AF%E5%A5%94%E7%9D%80%E7%A0%B4%E7%BA%AA%E5%BD%95%E5%8E%BB%E7%9A%84%23"
         },
         {
           "rank": 5,
-          "title": "马斯克飞行汽车遭踢馆",
-          "hot_value": "201535",
-          "link": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E9%A3%9E%E8%A1%8C%E6%B1%BD%E8%BD%A6%E9%81%AD%E8%B8%A2%E9%A6%86%23"
+          "title": "小沈阳气得咬牙切齿",
+          "hot_value": "64787",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%B2%88%E9%98%B3%E6%B0%94%E5%BE%97%E5%92%AC%E7%89%99%E5%88%87%E9%BD%BF%23"
         }
       ]
     }
