@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19 00:27:52 (北京时间)",
+  "updated_at": "2026-10-19 03:17:19 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -8,6 +8,12 @@
         {
           "source_name": "新华社",
           "items": [
+            {
+              "title": "胡塞：击落一架“阿帕奇” 沙特：摧毁多架无人机 - 新华网",
+              "summary": "胡塞：击落一架“阿帕奇” 沙特：摧毁多架无人机 新华网",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CV0VFeW5NaUpoRmduc29YTTllbEYtdjBxWFlzMHE3c01kV19ySGp4NUVVY3VsTkpLOHVESGFzQmFQU3daNkROSUtsV3U4RXJvM1UxNDRjeVl3VnRuZDYwWHAxUTFWNXRoVzlGMzdGX25PX1NVczdqdE91MjFiSEU?oc=5",
+              "source": "新华社"
+            },
             {
               "title": "俄多地遭大规模无人机袭击 - 新华网",
               "summary": "俄多地遭大规模无人机袭击 新华网",
@@ -21,21 +27,15 @@
               "source": "新华社"
             },
             {
+              "title": "中国裁军大使：反对一些国家歪曲抹黑中国核政策 - 新华网",
+              "summary": "中国裁军大使：反对一些国家歪曲抹黑中国核政策 新华网",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZUFh6MmR5aVBKME9ZeVhheEoyc2k4X0tvQ3BDTXJ1ZzNWaktTNTNoOUdFSU5nSkJsMy1FNzY4RGVWNGpHVklITERYVlFlR254aWV0WVBNYXdMRE50bXVXeFdOMHo2djdvMF95ZkpMWGRFb294ak1reENZeHZTbEk?oc=5",
+              "source": "新华社"
+            },
+            {
               "title": "伊朗议会批准阿赫拉基出任新任国防部长 - 新华网",
               "summary": "伊朗议会批准阿赫拉基出任新任国防部长 新华网",
               "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12MGZBcVZuanJRRUFaMmZHMWtrX1IyQ2w0YjNLaDZKV2NwX0RValJjVHlFYU52TGE3cldSLW9XaXRldTVNYUNNbGpvWm90bGhSVmRQUzBVQWZENkFiZzhuQXljaGc1aG43Q3BoeVhXUnlSY0x1UVpJcHR0TkVLR28?oc=5",
-              "source": "新华社"
-            },
-            {
-              "title": "高市早苗向靖国神社献祭品 - 新华网",
-              "summary": "高市早苗向靖国神社献祭品 新华网",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SNDBPN1lhWDlOdkJJY0tibHhudW5jbWxvOWFwaDVoR0NKS091VXhVdEdqVjAxUzRtS0V4cUlQZHhZdGpGUDM1eVYtZzlCTUV5SGRnbWs2SGM0SzBySlNIWmtvTWNNTUNXYlJlUU0yeV9RQWQ4YjA4X1NEU0tOYkE?oc=5",
-              "source": "新华社"
-            },
-            {
-              "title": "高市早苗向靖国神社献祭品 - 新华网",
-              "summary": "高市早苗向靖国神社献祭品 新华网",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQSzl5N2NSemhVaFg0bnVuNllxT0dITC1uZzViWUJFazBlMlcxYms1YXNnYXZ5N0J3YnRuQjRycHBkeHI5eVM3LWFmdE1BQWFZVEUwdnh2YVF0dmtaM2k3VDNyaGNUTXhiSTFMVzB6UE0zUzc0elQzMDdHYVFDQ00?oc=5",
               "source": "新华社"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "In France's Limoges, the fire-ravaged town hall rekindles memories of Notre Dame",
-              "summary": "LIMOGES, France, Oct 18 (Reuters) - Residents in Limoges recoiled in horror on Sunday at the city's fire-ravaged town ​hall, an ornate 19th…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4f387a40c435fbac34c9dcef51bd5&url=https%3a%2f%2fwww.reuters.com%2fworld%2ffrances-limoges-fire-ravaged-town-hall-rekindles-memories-notre-dame-2026-10-18%2f&c=9037537152895419774&mkt=en-us",
+              "title": "Macron condemns \"shocking\" scenes of violence across France",
+              "summary": "French President Emmanuel Macron condemned on Sunday what he called the \"dissenters\" who looted ​and vandalised cities in \"shocking\" scenes…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad51b3e78804954999f4e05355249bd&url=https%3a%2f%2fwww.reuters.com%2fworld%2fmacron-condemns-shocking-scenes-violence-across-france-2026-10-18%2f&c=6528998635604922513&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -135,32 +135,32 @@
         {
           "rank": 1,
           "title": "日本出现取消吃饭现象",
-          "hot_value": "1129486",
+          "hot_value": "158273",
           "link": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%87%BA%E7%8E%B0%E5%8F%96%E6%B6%88%E5%90%83%E9%A5%AD%E7%8E%B0%E8%B1%A1%23"
         },
         {
           "rank": 2,
-          "title": "恐惧冷漠精致利己的尖子生",
-          "hot_value": "717426",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%81%90%E6%83%A7%E5%86%B7%E6%BC%A0%E7%B2%BE%E8%87%B4%E5%88%A9%E5%B7%B1%E7%9A%84%E5%B0%96%E5%AD%90%E7%94%9F%23"
+          "title": "AI剧真实到几乎可以替代演员",
+          "hot_value": "114181",
+          "link": "https://s.weibo.com/weibo?q=%23AI%E5%89%A7%E7%9C%9F%E5%AE%9E%E5%88%B0%E5%87%A0%E4%B9%8E%E5%8F%AF%E4%BB%A5%E6%9B%BF%E4%BB%A3%E6%BC%94%E5%91%98%23"
         },
         {
           "rank": 3,
           "title": "广交会AI新品热度拉满",
-          "hot_value": "627518",
+          "hot_value": "105687",
           "link": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%BA%A4%E4%BC%9AAI%E6%96%B0%E5%93%81%E7%83%AD%E5%BA%A6%E6%8B%89%E6%BB%A1%23"
         },
         {
           "rank": 4,
-          "title": "上京东买手机电脑以旧换新低至0元",
-          "hot_value": "625483",
-          "link": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E4%BA%AC%E4%B8%9C%E4%B9%B0%E6%89%8B%E6%9C%BA%E7%94%B5%E8%84%91%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E4%BD%8E%E8%87%B30%E5%85%83%23"
+          "title": "黄磊带着黄多多交际一开口落落大方",
+          "hot_value": "103974",
+          "link": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%A3%8A%E5%B8%A6%E7%9D%80%E9%BB%84%E5%A4%9A%E5%A4%9A%E4%BA%A4%E9%99%85%E4%B8%80%E5%BC%80%E5%8F%A3%E8%90%BD%E8%90%BD%E5%A4%A7%E6%96%B9%23"
         },
         {
           "rank": 5,
-          "title": "黄磊带着黄多多交际一开口落落大方",
-          "hot_value": "623094",
-          "link": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%A3%8A%E5%B8%A6%E7%9D%80%E9%BB%84%E5%A4%9A%E5%A4%9A%E4%BA%A4%E9%99%85%E4%B8%80%E5%BC%80%E5%8F%A3%E8%90%BD%E8%90%BD%E5%A4%A7%E6%96%B9%23"
+          "title": "白桃星座",
+          "hot_value": "83347",
+          "link": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7%23"
         }
       ]
     }
