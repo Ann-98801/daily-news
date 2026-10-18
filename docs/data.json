@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18 16:40:58 (北京时间)",
+  "updated_at": "2026-10-18 21:04:04 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -8,6 +8,18 @@
         {
           "source_name": "新华社",
           "items": [
+            {
+              "title": "也门胡塞武装：沙特空袭塔伊兹省造成至少9人死亡 - 新华网",
+              "summary": "也门胡塞武装：沙特空袭塔伊兹省造成至少9人死亡 新华网",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zQjJDNFNLaEJKQ1ZWVktvSWNMM2FxLVJMZW4tcG9mQWhDbHdXUXhINzc5OXdvaW1yYlo0V0o3X0lMRldybzVaY04tNGs2ajNuNzR1anoyUDhmMTVqYmpURzdJd0J0ZDRXTGhSUzAxSTZnWlF1YXhBbm8tXy1YbFU?oc=5",
+              "source": "新华社"
+            },
+            {
+              "title": "伊朗议会批准阿赫拉基出任新任国防部长 - 新华网",
+              "summary": "伊朗议会批准阿赫拉基出任新任国防部长 新华网",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12MGZBcVZuanJRRUFaMmZHMWtrX1IyQ2w0YjNLaDZKV2NwX0RValJjVHlFYU52TGE3cldSLW9XaXRldTVNYUNNbGpvWm90bGhSVmRQUzBVQWZENkFiZzhuQXljaGc1aG43Q3BoeVhXUnlSY0x1UVpJcHR0TkVLR28?oc=5",
+              "source": "新华社"
+            },
             {
               "title": "高市早苗向靖国神社献祭品 - 新华网",
               "summary": "高市早苗向靖国神社献祭品 新华网",
@@ -25,18 +37,6 @@
               "summary": "2026“郑州银行”郑州马拉松 新华网",
               "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00NTh3bXZVNWlQekowUFBob1lkWTZNQUFZRUh3QTc0aHZDd1hFSGhqRHRvN19LSVpVUERKWE1oZ0lxT3dMenEtSndDVXhBLW9BUGJFNjJNejFWVE5vZW9xMFV5X2ZPMUtnaVE?oc=5",
               "source": "新华社"
-            },
-            {
-              "title": "新华网_让新闻离你更近 - 新华网",
-              "summary": "新华网_让新闻离你更近 新华网",
-              "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE5FdWV6S1M3MF9oYnROX0tuQkJLWEhDQmVGUWdYbzAzbjNvd3BRdElPSlVua05Pdw?oc=5",
-              "source": "新华社"
-            },
-            {
-              "title": "伊朗议会批准新任国防部长 - 新华网",
-              "summary": "伊朗议会批准新任国防部长 新华网",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nY09MaFJoNldzdDN2TWU4bElQWGtSWHdpbnlSRFQ4QnJHYVFObTdwM1lWdExKbk5iNFIxYm1HQ2ZOLUdjMzVFVmJhZWZDN1I3MDRyTU9lT21tYVZLTDhFZWN3czNTRjBzY1ZZY21QWnBfb2tHaWNFeUExdU9zQlU?oc=5",
-              "source": "新华社"
             }
           ]
         },
@@ -47,6 +47,12 @@
               "title": "甘肃天水幼儿园铅中毒案一审宣判 - 人民日报",
               "summary": "甘肃天水幼儿园铅中毒案一审宣判 人民日报",
               "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01ZDFTZGlSZUlZYXpId2k2QkRPRElDdkJaVlc1NE4tT09XdDkybUVoY3lDbGlNZUEySDE0c1V1MktmYlFCcG5RNW5KSnJnZ1ZxUWxiUE9XcExIb0l0YzF3eDRwV1MxZUlKcF83ZVZaME9ZekI5aFc1RDNRaUVSNmM?oc=5",
+              "source": "人民日报"
+            },
+            {
+              "title": "党员先锋 - 中国共产党新闻网",
+              "summary": "党员先锋 中国共产党新闻网",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82RjEzdGQ5cVFMRml5SnJKd29icGFEWkZPcHB3ZGZtVWRLc3pLUUoxU1RJdDVWWXBZSUtRUnlUZ1FTUmJ5eTRVcS16YkZoVFhkMzlKQVh5TjFlb2JnYkRjMmRZeW9BNV9nTzFz?oc=5",
               "source": "人民日报"
             },
             {
@@ -66,12 +72,6 @@
               "summary": "责编：王 平 金 晨 邮箱：gtbhwb@people.cn 人民日报",
               "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVEdwSndMSGdWRjc4Q2h1Z3JJRjNmaVNDRXh5V2otM2YtSVdMdF9jT1hlbXhKUXNaNXQ2ZGRNQmZQLXVNbVRuM1lENHluZm80c0Y3NG5jSkFxelE0dTh2emphdlFGMm5ibUFqMlpaNENIR1N2aGg0Nm9Kc1FnOFVQNlpHY0s?oc=5",
               "source": "人民日报"
-            },
-            {
-              "title": "责编：王 平 柴逸扉 邮箱：gtbhwb@people.cn - 人民日报",
-              "summary": "责编：王 平 柴逸扉 邮箱：gtbhwb@people.cn 人民日报",
-              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNlRZbjlHRHVjNWlWWEp4R3Nhb1hrNUhpLVQ3OFFDWWwzVUctb0twc05WWV9CUG4zanU5dXAydm9lbHJJMlRSa3FFQmxrVjhpbnpYdVhfYkJNV2F2Y1JrczJxNnJBOXlqemNrY0pJWE1qcTVrTGZrWFVQZ3I5ZkVVcEo0dVE?oc=5",
-              "source": "人民日报"
             }
           ]
         }
@@ -85,15 +85,15 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "Violent clashes, looting and buildings ablaze in France as more than 1,200 arres…",
-              "summary": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
-              "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+              "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots…",
+              "summary": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+              "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
             {
-              "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer…",
-              "summary": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
-              "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
+              "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+              "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+              "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Lithuania told residents to go to shelters after detecting a flying object",
-              "summary": "Lithuania told residents in central and northern parts ‌of the country to go to shelters for about an hour on Sunday morning due to an unrec…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad48618bfc6407490f8eea179754540&url=https%3a%2f%2fwww.reuters.com%2fworld%2flithuania-told-residents-go-shelters-after-detecting-flying-object-2026-10-18%2f&c=15114635512724104596&mkt=en-us",
+              "title": "In France's Limoges, the fire-ravaged town hall rekindles memories of Notre Dame",
+              "summary": "LIMOGES, France, Oct 18 (Reuters) - Residents in Limoges recoiled in horror on Sunday at the city's fire-ravaged town ​hall, an ornate 19th…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4c3c3378f47e7b2dbdb8deb0b1378&url=https%3a%2f%2fwww.reuters.com%2fworld%2ffrances-limoges-fire-ravaged-town-hall-rekindles-memories-notre-dame-2026-10-18%2f&c=9037537152895419774&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -134,33 +134,33 @@
       "items": [
         {
           "rank": 1,
-          "title": "法国骚乱百年市政厅被烧毁",
-          "hot_value": "1156221",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E9%AA%9A%E4%B9%B1%E7%99%BE%E5%B9%B4%E5%B8%82%E6%94%BF%E5%8E%85%E8%A2%AB%E7%83%A7%E6%AF%81%23"
+          "title": "接到网贷催收电话统一说不认识",
+          "hot_value": "1093253",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%8E%A5%E5%88%B0%E7%BD%91%E8%B4%B7%E5%82%AC%E6%94%B6%E7%94%B5%E8%AF%9D%E7%BB%9F%E4%B8%80%E8%AF%B4%E4%B8%8D%E8%AE%A4%E8%AF%86%23"
         },
         {
           "rank": 2,
-          "title": "开封水下菊花全网刷屏",
-          "hot_value": "864119",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B0%81%E6%B0%B4%E4%B8%8B%E8%8F%8A%E8%8A%B1%E5%85%A8%E7%BD%91%E5%88%B7%E5%B1%8F%23"
+          "title": "建议售价1980的眼镜片批发价30",
+          "hot_value": "790103",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%94%AE%E4%BB%B71980%E7%9A%84%E7%9C%BC%E9%95%9C%E7%89%87%E6%89%B9%E5%8F%91%E4%BB%B730%23"
         },
         {
           "rank": 3,
           "title": "文化中国行九九重阳节",
-          "hot_value": "640191",
+          "hot_value": "787476",
           "link": "https://s.weibo.com/weibo?q=%23%E6%96%87%E5%8C%96%E4%B8%AD%E5%9B%BD%E8%A1%8C%E4%B9%9D%E4%B9%9D%E9%87%8D%E9%98%B3%E8%8A%82%23"
         },
         {
           "rank": 4,
-          "title": "吴越质问花姐骗了多少钱",
-          "hot_value": "378619",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B6%8A%E8%B4%A8%E9%97%AE%E8%8A%B1%E5%A7%90%E9%AA%97%E4%BA%86%E5%A4%9A%E5%B0%91%E9%92%B1%23"
+          "title": "神父弥撒时被十字架砸中身亡",
+          "hot_value": "779704",
+          "link": "https://s.weibo.com/weibo?q=%23%E7%A5%9E%E7%88%B6%E5%BC%A5%E6%92%92%E6%97%B6%E8%A2%AB%E5%8D%81%E5%AD%97%E6%9E%B6%E7%A0%B8%E4%B8%AD%E8%BA%AB%E4%BA%A1%23"
         },
         {
           "rank": 5,
-          "title": "Zuian现身TES出征照",
-          "hot_value": "373386",
-          "link": "https://s.weibo.com/weibo?q=%23Zuian%E7%8E%B0%E8%BA%ABTES%E5%87%BA%E5%BE%81%E7%85%A7%23"
+          "title": "姜妍说东北话肖战以为是英文",
+          "hot_value": "773219",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%A7%9C%E5%A6%8D%E8%AF%B4%E4%B8%9C%E5%8C%97%E8%AF%9D%E8%82%96%E6%88%98%E4%BB%A5%E4%B8%BA%E6%98%AF%E8%8B%B1%E6%96%87%23"
         }
       ]
     }
