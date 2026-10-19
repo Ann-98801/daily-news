@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19 13:51:30 (北京时间)",
+  "updated_at": "2026-10-19 20:30:58 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -8,6 +8,12 @@
         {
           "source_name": "新华社",
           "items": [
+            {
+              "title": "伊朗：一艘“违规”油轮在霍尔木兹海峡触雷爆炸 - 新华网",
+              "summary": "伊朗：一艘“违规”油轮在霍尔木兹海峡触雷爆炸 新华网",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SQjVXTVQ4c0loVnUtT1ZpbVVydnFTcWszeC1VSkpsRDFDQ2pDTEJYWmwtYVVFSmJQQTNCNUZvM3ZhWWRzaXRtTTE3VWRCN3ZTS3RDVWJ4dThFbEI5blJ2czh4M0RhV1JDYWVVeUdVT01tYzdtVmNDZkd4dGF0eEE?oc=5",
+              "source": "新华社"
+            },
             {
               "title": "胡塞：击落一架“阿帕奇” 沙特：摧毁多架无人机 - 新华网",
               "summary": "胡塞：击落一架“阿帕奇” 沙特：摧毁多架无人机 新华网",
@@ -24,12 +30,6 @@
               "title": "也门胡塞武装：沙特空袭塔伊兹省造成至少9人死亡 - 新华网",
               "summary": "也门胡塞武装：沙特空袭塔伊兹省造成至少9人死亡 新华网",
               "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zQjJDNFNLaEJKQ1ZWVktvSWNMM2FxLVJMZW4tcG9mQWhDbHdXUXhINzc5OXdvaW1yYlo0V0o3X0lMRldybzVaY04tNGs2ajNuNzR1anoyUDhmMTVqYmpURzdJd0J0ZDRXTGhSUzAxSTZnWlF1YXhBbm8tXy1YbFU?oc=5",
-              "source": "新华社"
-            },
-            {
-              "title": "中国裁军大使：反对一些国家歪曲抹黑中国核政策 - 新华网",
-              "summary": "中国裁军大使：反对一些国家歪曲抹黑中国核政策 新华网",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZUFh6MmR5aVBKME9ZeVhheEoyc2k4X0tvQ3BDTXJ1ZzNWaktTNTNoOUdFSU5nSkJsMy1FNzY4RGVWNGpHVklITERYVlFlR254aWV0WVBNYXdMRE50bXVXeFdOMHo2djdvMF95ZkpMWGRFb294ak1reENZeHZTbEk?oc=5",
               "source": "新华社"
             },
             {
@@ -85,15 +85,15 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "Macron calls for 'calm and order' after riots across France",
-              "summary": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
-              "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+              "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
+              "summary": "Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive.",
+              "link": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
             {
-              "title": "France's government under pressure after weekend of widespread violence",
-              "summary": "Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes.",
-              "link": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
+              "title": "Kenya pastor accused of ordering parents to starve their children to death faces…",
+              "summary": "Self-proclaimed pastor Paul Mackenzie faces 191 murder charges - all but one of them children.",
+              "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "BOJ chief says underlying inflation 'quite close' to price goal",
-              "summary": "Bank of Japan ​Governor Kazuo Ueda ‌said on Monday underlying inflation ​is \"quite close\" ​to the central ⁠bank's 2% ​target, heightening th…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5afe1080447f98a04e3c99772a01e&url=https%3a%2f%2fwww.reuters.com%2fworld%2fasia-pacific%2fboj-governor-ueda-says-underlying-inflation-quite-close-2-target-2026-10-19%2f&c=2184845792579046321&mkt=en-us",
+              "title": "Fed sees AI boom adding to inflation headache, but others may pay for the medici…",
+              "summary": "The artificial intelligence boom, increasingly acknowledged at the Federal Reserve as helping drive inflation, has left central bankers face…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad60d81362e47728bfd39b3e9f0c365&url=https%3a%2f%2fwww.reuters.com%2fmarkets%2fwealth%2ffed-sees-ai-boom-adding-inflation-headache-others-may-pay-medicine-2026-10-19%2f&c=859398666919123551&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -134,33 +134,33 @@
       "items": [
         {
           "rank": 1,
-          "title": "日本网友受不了中日校园反差",
-          "hot_value": "1799577",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E5%8F%97%E4%B8%8D%E4%BA%86%E4%B8%AD%E6%97%A5%E6%A0%A1%E5%9B%AD%E5%8F%8D%E5%B7%AE%23"
+          "title": "身披旭日旗中国留学生或被开除遣返",
+          "hot_value": "1172615",
+          "link": "https://s.weibo.com/weibo?q=%23%E8%BA%AB%E6%8A%AB%E6%97%AD%E6%97%A5%E6%97%97%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E6%88%96%E8%A2%AB%E5%BC%80%E9%99%A4%E9%81%A3%E8%BF%94%23"
         },
         {
           "rank": 2,
-          "title": "女子离婚6天用AI救了前夫一命",
-          "hot_value": "1327190",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%A9%9A6%E5%A4%A9%E7%94%A8AI%E6%95%91%E4%BA%86%E5%89%8D%E5%A4%AB%E4%B8%80%E5%91%BD%23"
+          "title": "星巴克 消费入座",
+          "hot_value": "825421",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%98%9F%E5%B7%B4%E5%85%8B%20%E6%B6%88%E8%B4%B9%E5%85%A5%E5%BA%A7%23"
         },
         {
           "rank": 3,
-          "title": "何以中国当惊世界殊",
-          "hot_value": "1089977",
-          "link": "https://s.weibo.com/weibo?q=%23%E4%BD%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%E5%BD%93%E6%83%8A%E4%B8%96%E7%95%8C%E6%AE%8A%23"
+          "title": "中国经济呈现向新向优发展态势",
+          "hot_value": "669085",
+          "link": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%91%88%E7%8E%B0%E5%90%91%E6%96%B0%E5%90%91%E4%BC%98%E5%8F%91%E5%B1%95%E6%80%81%E5%8A%BF%23"
         },
         {
           "rank": 4,
-          "title": "沈腾马丽新合作明天京东上线",
-          "hot_value": "1074650",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E9%A9%AC%E4%B8%BD%E6%96%B0%E5%90%88%E4%BD%9C%E6%98%8E%E5%A4%A9%E4%BA%AC%E4%B8%9C%E4%B8%8A%E7%BA%BF%23"
+          "title": "二十年持续做一件事",
+          "hot_value": "655396",
+          "link": "https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%B9%B4%E6%8C%81%E7%BB%AD%E5%81%9A%E4%B8%80%E4%BB%B6%E4%BA%8B%23"
         },
         {
           "rank": 5,
-          "title": "金鸡奖提名",
-          "hot_value": "1072359",
-          "link": "https://s.weibo.com/weibo?q=%23%E9%87%91%E9%B8%A1%E5%A5%96%E6%8F%90%E5%90%8D%23"
+          "title": "田曦薇红裙身材比例",
+          "hot_value": "638665",
+          "link": "https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E7%BA%A2%E8%A3%99%E8%BA%AB%E6%9D%90%E6%AF%94%E4%BE%8B%23"
         }
       ]
     }
