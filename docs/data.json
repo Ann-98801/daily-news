@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26 11:49:50 (北京时间)",
+  "updated_at": "2026-10-26 17:53:24 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -9,21 +9,15 @@
           "source_name": "新华社",
           "items": [
             {
-              "title": "以总理称将“全面封锁”约旦河西岸应对袭击事件 - 新华网",
-              "summary": "以总理称将“全面封锁”约旦河西岸应对袭击事件 新华网",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVUHFndGQ0UkpYWjRfTktqSFAxQ3U5VV9DYVFPLWVVVjh5dmttOENuaHlHUDk4RnVod1NWNFZ2Q2VsRkk4RmpWSWJfajJqOFRZbTdmUDhsc1pPNFdtMFduaGNxZU5vX3VxWTBCNy04NnlIaGFYa1I1QWVidlNBcHM?oc=5",
-              "source": "新华社"
-            },
-            {
               "title": "哥伦比亚宣布击毙10名反政府武装成员 - 新华网",
               "summary": "哥伦比亚宣布击毙10名反政府武装成员 新华网",
               "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jVzRLMWVmSUZvbmlmTlJRSi1jZDFJRVp3ZWtVXzFYS0pUZzBrek10ZHhTQWVwX1JXMXRyeENHOXFOOVowQ2JjRVQ5NFR6c1RZd3BPdjFsNTJkM2ZqamRRQnZJc2x3VV9TY3V6WUNrZ3BzanVFeU9jSzVVdkttNDQ?oc=5",
               "source": "新华社"
             },
             {
-              "title": "伊朗称两艘油轮在海峡以南“未经授权”航线触雷起火 - 新华网",
-              "summary": "伊朗称两艘油轮在海峡以南“未经授权”航线触雷起火 新华网",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qRUMzS0ZyempfcWptV19xQm9IQmUwNGVaTExRaHViekhBLWxmcW12NUZEd1NPenVNYnE3a2Q5OUpJYlhqcGVFM0prbGZVYjZ1eGROWGt3ZVBIRC14NEhSbGFqMFBaOWZGaDNSZ0tRVDZQbi1EVk5GR3pmX1hVYUE?oc=5",
+              "title": "以总理称将“全面封锁”约旦河西岸应对袭击事件 - 新华网",
+              "summary": "以总理称将“全面封锁”约旦河西岸应对袭击事件 新华网",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVUHFndGQ0UkpYWjRfTktqSFAxQ3U5VV9DYVFPLWVVVjh5dmttOENuaHlHUDk4RnVod1NWNFZ2Q2VsRkk4RmpWSWJfajJqOFRZbTdmUDhsc1pPNFdtMFduaGNxZU5vX3VxWTBCNy04NnlIaGFYa1I1QWVidlNBcHM?oc=5",
               "source": "新华社"
             },
             {
@@ -36,6 +30,12 @@
               "title": "沙特主导联军拦截胡塞武装射向利雅得的导弹 - 新华网",
               "summary": "沙特主导联军拦截胡塞武装射向利雅得的导弹 新华网",
               "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iMnBYTXBuSThEMlpCbFlYMDg1RE9tZnItT0txQUUwaHN0dUxCYW9LNk1PUjZndUhfMjdnSnNDVlluQVVRWTdMMVNaZUFydlFQejhRRTF4UnE4Zk9jTmhlVzRrVXBBWkJLUmtiWkp2dlNmODR2REVsUjFFMzBkOWM?oc=5",
+              "source": "新华社"
+            },
+            {
+              "title": "也门胡塞武装：沙特空袭萨那和穆哈造成多人伤亡 - 新华网",
+              "summary": "也门胡塞武装：沙特空袭萨那和穆哈造成多人伤亡 新华网",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DeVFrTmMxaFJIN0RUTHNycXlIRkVRRGxiT2hRNVVnNXlaTUp1c1dZZ0ozeXpULXhabE0tM2IycU5kOHp4eklKcXZ1dTRyOXpmTTIyWjFUZ2UyS2tVVjVJZGF4MzdTLXJCanpTVG4xWFgzV2hpQUNpdDBQQlF5dUk?oc=5",
               "source": "新华社"
             }
           ]
@@ -50,15 +50,15 @@
               "source": "人民日报"
             },
             {
-              "title": "责编：王 平 汪灵犀 邮箱：gtbhwb@people.cn - 人民日报",
-              "summary": "责编：王 平 汪灵犀 邮箱：gtbhwb@people.cn 人民日报",
-              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc3dtaGpVQk00RmhKa2JDUkdyVGstYndXMGJEU2poQVNxUXB3cEd0dEFFUkpBbDB2VjhVR0E1NzYwb0RMdndVaHpzdWIycW9qbVN1TWo3VHpQcEF0dFg4a0RBdTJlbWZUZjBpVlZ6eEl6ZnIyQXBBUWh6bGhOVU5HQXhqakw?oc=5",
-              "source": "人民日报"
-            },
-            {
               "title": "习近平同比利时国王就中比建交55周年互致贺信--视频报道 - 中国共产党新闻网",
               "summary": "习近平同比利时国王就中比建交55周年互致贺信--视频报道 中国共产党新闻网",
               "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80NzBHVVcxZ05LNXBhbGN1am1oZHFzWVJJSDAzWlkwVmxrWi16WXlyR3Jsdk9OZG5wRk94MUtOME00dmx3QzhvRmRVUzg4VGNJQ0ZQMlNjSGlQZWV4UU1NdjBOSjNHclZjUzVVQVVYbHBlRUM3Y1E?oc=5",
+              "source": "人民日报"
+            },
+            {
+              "title": "责编：王 平 汪灵犀 邮箱：gtbhwb@people.cn - 人民日报",
+              "summary": "责编：王 平 汪灵犀 邮箱：gtbhwb@people.cn 人民日报",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc3dtaGpVQk00RmhKa2JDUkdyVGstYndXMGJEU2poQVNxUXB3cEd0dEFFUkpBbDB2VjhVR0E1NzYwb0RMdndVaHpzdWIycW9qbVN1TWo3VHpQcEF0dFg4a0RBdTJlbWZUZjBpVlZ6eEl6ZnIyQXBBUWh6bGhOVU5HQXhqakw?oc=5",
               "source": "人民日报"
             },
             {
@@ -85,15 +85,15 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest…",
+              "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led p…",
               "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
               "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
             {
-              "title": "Deeply divided Israel braces for pivotal election",
-              "summary": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
-              "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+              "title": "Venezuelan opposition leader María Machado returns after months in exile",
+              "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+              "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Lula, Brazil's iconic working class president, wins fourth term in dramatic come…",
-              "summary": "Brazilians head to the polls on Sunday in a tight runoff vote that ‌could shift Latin America's largest nation sharply rightward, bringing i…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adecddd7b42452bb5777bf7219ba3be&url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fbrazil-heads-polls-runoff-between-leftist-lula-bolsonaro-jr-2026-10-25%2f&c=5483265679717927122&mkt=en-us",
+              "title": "Brazil heads back to the future as Flavio Bolsonaro refuses to recognize Lula wi…",
+              "summary": "Right-wing Senator Flavio Bolsonaro has followed his imprisoned father's lead by refusing to concede defeat to leftist ‌President Luiz Inaci…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adf2313ec154f25b43d6b824d8a607d&url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fbrazil-heads-back-future-flavio-bolsonaro-refuses-recognize-lula-win-2026-10-26%2f&c=9965971563397945615&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -134,33 +134,33 @@
       "items": [
         {
           "rank": 1,
-          "title": "韩网热议iG战胜HLE",
-          "hot_value": "1080010",
-          "link": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E7%83%AD%E8%AE%AEiG%E6%88%98%E8%83%9CHLE%23"
+          "title": "长鑫拒绝为苹果降价",
+          "hot_value": "1090116",
+          "link": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%91%AB%E6%8B%92%E7%BB%9D%E4%B8%BA%E8%8B%B9%E6%9E%9C%E9%99%8D%E4%BB%B7%23"
         },
         {
           "rank": 2,
-          "title": "嫁金钗全员恶女TOP10",
-          "hot_value": "768319",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%AB%81%E9%87%91%E9%92%97%E5%85%A8%E5%91%98%E6%81%B6%E5%A5%B3TOP10%23"
+          "title": "月亮",
+          "hot_value": "776718",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%9C%88%E4%BA%AE%23"
         },
         {
           "rank": 3,
-          "title": "在新征程上持之以恒推进全面从严治党",
-          "hot_value": "615268",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%96%B0%E5%BE%81%E7%A8%8B%E4%B8%8A%E6%8C%81%E4%B9%8B%E4%BB%A5%E6%81%92%E6%8E%A8%E8%BF%9B%E5%85%A8%E9%9D%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A%23"
+          "title": "震区3个场景照见生命至上",
+          "hot_value": "651050",
+          "link": "https://s.weibo.com/weibo?q=%23%E9%9C%87%E5%8C%BA3%E4%B8%AA%E5%9C%BA%E6%99%AF%E7%85%A7%E8%A7%81%E7%94%9F%E5%91%BD%E8%87%B3%E4%B8%8A%23"
         },
         {
           "rank": 4,
-          "title": "跟着娄艺潇上京东买5折服饰美妆",
-          "hot_value": "569539",
-          "link": "https://s.weibo.com/weibo?q=%23%E8%B7%9F%E7%9D%80%E5%A8%84%E8%89%BA%E6%BD%87%E4%B8%8A%E4%BA%AC%E4%B8%9C%E4%B9%B05%E6%8A%98%E6%9C%8D%E9%A5%B0%E7%BE%8E%E5%A6%86%23"
+          "title": "过日子的人都来碰一下",
+          "hot_value": "503571",
+          "link": "https://s.weibo.com/weibo?q=%23%E8%BF%87%E6%97%A5%E5%AD%90%E7%9A%84%E4%BA%BA%E9%83%BD%E6%9D%A5%E7%A2%B0%E4%B8%80%E4%B8%8B%23"
         },
         {
           "rank": 5,
-          "title": "马天宇主动提起李明德是要有反转了吗",
-          "hot_value": "559500",
-          "link": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%A4%A9%E5%AE%87%E4%B8%BB%E5%8A%A8%E6%8F%90%E8%B5%B7%E6%9D%8E%E6%98%8E%E5%BE%B7%E6%98%AF%E8%A6%81%E6%9C%89%E5%8F%8D%E8%BD%AC%E4%BA%86%E5%90%97%23"
+          "title": "老干妈涉多起劳动争议纠纷",
+          "hot_value": "377939",
+          "link": "https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B9%B2%E5%A6%88%E6%B6%89%E5%A4%9A%E8%B5%B7%E5%8A%B3%E5%8A%A8%E4%BA%89%E8%AE%AE%E7%BA%A0%E7%BA%B7%23"
         }
       ]
     }
