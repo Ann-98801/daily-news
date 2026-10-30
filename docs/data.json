@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30 23:40:51 (北京时间)",
+  "updated_at": "2026-10-31 04:30:28 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -8,6 +8,12 @@
         {
           "source_name": "新华社",
           "items": [
+            {
+              "title": "阿富汗国防部说对巴基斯坦无人机袭击发动了反击 - 新华网",
+              "summary": "阿富汗国防部说对巴基斯坦无人机袭击发动了反击 新华网",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kR25DbVNQTVVLOV9kWDhoU19pVGZRZHNMaDkyV2JYSjM5U3MxNTI5REh5cEt6VTRSbVNaQ2NYSWgtZ0hmczFZOHo4dzVmQ2V1eHcwWkVMTnNoR0xrSWhvc3VIM3pHcXE1UkdBdmR3TFEwRF81dWt3?oc=5",
+              "source": "新华社"
+            },
             {
               "title": "伊媒：伊朗尚未对美副总统来信作出回应 - 新华网",
               "summary": "伊媒：伊朗尚未对美副总统来信作出回应 新华网",
@@ -30,12 +36,6 @@
               "title": "以色列议会选举计票结束 内塔尼亚胡阵营议席未过半 - 新华网",
               "summary": "以色列议会选举计票结束 内塔尼亚胡阵营议席未过半 新华网",
               "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tcVFUOFZaQktaNHhPdTQtQm9XSHdkNXJldGk3dVhncGZMZmp5MzRjb0tNdjVrWmIzTDd0MGF3b2l3bkJ6UU05OUVubTR2NmNhYmxkYVhOQ0VfMTBNVEFvQ2toN1plS2x5V0pSRkRsb0tSNWEyYlJjal9ENEVGY2s?oc=5",
-              "source": "新华社"
-            },
-            {
-              "title": "外交部：再次敦促美方立即停止对古巴的封锁制裁 - 新华网",
-              "summary": "外交部：再次敦促美方立即停止对古巴的封锁制裁 新华网",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05VmNWNG1TMlRHSXVOMWl1TW5tOU92ZkhRRHZzSjkxU0Yxem9MTGNFdVlFMlNPcEtLUVlKa1dzeFVMRjYwX0VkZjAya1phYXZwQWlmYzRSTXVyX3g3N1Q1Sk92TFlzNldpMWFfSURCcnlJNTNDcnZiYXRxNVFnQ2s?oc=5",
               "source": "新华社"
             }
           ]
@@ -62,15 +62,15 @@
               "source": "人民日报"
             },
             {
-              "title": "权威阐释 - 中国共产党新闻网",
-              "summary": "权威阐释 中国共产党新闻网",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xMC1wanBHVXJLR1VRRC12dzBBWnpMQ1VuRU1UM0ZnUjV3OHpDaF9XdDdRR3FRVjN0RXRZZEhQUEtabV9GMXl0cW9ibWFEMGlBWG1uNGloYnNRZ3ZWVnVDVTZFakZzWjgzc3E0?oc=5",
-              "source": "人民日报"
-            },
-            {
               "title": "习近平会见瑞士联邦主席帕姆兰 - 人民网-图片频道",
               "summary": "习近平会见瑞士联邦主席帕姆兰 人民网-图片频道",
               "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1iTnVrbVBIY0JUeWFGS0ZKclVwS0pKOEh5a2doMXVRVGhLbXgxTTI0cks0SEFkT2hLSEdQQ2VtLVd1UzI2NjNnNXc3THFwMmxxbUNHQXU0MGZicTBUdGdwQnQ3WlR4X0pLcldV?oc=5",
+              "source": "人民日报"
+            },
+            {
+              "title": "权威阐释 - 中国共产党新闻网",
+              "summary": "权威阐释 中国共产党新闻网",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xMC1wanBHVXJLR1VRRC12dzBBWnpMQ1VuRU1UM0ZnUjV3OHpDaF9XdDdRR3FRVjN0RXRZZEhQUEtabV9GMXl0cW9ibWFEMGlBWG1uNGloYnNRZ3ZWVnVDVTZFakZzWjgzc3E0?oc=5",
               "source": "人民日报"
             }
           ]
@@ -85,15 +85,15 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed exec…",
-              "summary": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
-              "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
+              "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North…",
+              "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+              "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
             {
-              "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
-              "summary": "Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.",
-              "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+              "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed exec…",
+              "summary": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
+              "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Nasdaq faces $2 trillion wipeout in October as AI spending fears deepen",
-              "summary": "More than $2 trillion in market value is set to be wiped from the tech-heavy Nasdaq 100 this month, as Big Tech earnings intensified investo…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4ba824a0e4c61987172155e095286&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fmedia-telecom%2fnasdaq-faces-2-trillion-wipeout-october-ai-spending-fears-deepen-2026-10-30%2f&c=3815966341211043635&mkt=en-us",
+              "title": "Fed officials make case for rate hikes amid ongoing inflation concerns",
+              "summary": "St. Louis Federal Reserve President Alberto Musalem said ​on Friday he sees an imminent need to raise interest rates to deal ‌with ongoing h…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4fe63672e411f8e82aac357f44f42&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2ffeds-musalem-says-rate-hike-is-needed-soon-2026-10-30%2f&c=10282653450494701725&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -134,33 +134,33 @@
       "items": [
         {
           "rank": 1,
-          "title": "披荆斩棘成团名单",
-          "hot_value": "2616562",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95%23"
-        },
-        {
-          "rank": 2,
           "title": "黄金",
-          "hot_value": "2612830",
+          "hot_value": "333837",
           "link": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%23"
         },
         {
+          "rank": 2,
+          "title": "披荆斩棘成团名单",
+          "hot_value": "115415",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95%23"
+        },
+        {
           "rank": 3,
-          "title": "透过三季报看中国经济向新向优",
-          "hot_value": "1368628",
-          "link": "https://s.weibo.com/weibo?q=%23%E9%80%8F%E8%BF%87%E4%B8%89%E5%AD%A3%E6%8A%A5%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%90%91%E6%96%B0%E5%90%91%E4%BC%98%23"
+          "title": "开创新时代管党治党兴党强党新局面",
+          "hot_value": "82189",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%88%9B%E6%96%B0%E6%97%B6%E4%BB%A3%E7%AE%A1%E5%85%9A%E6%B2%BB%E5%85%9A%E5%85%B4%E5%85%9A%E5%BC%BA%E5%85%9A%E6%96%B0%E5%B1%80%E9%9D%A2%23"
         },
         {
           "rank": 4,
-          "title": "看披哥决赛上京东追番外领红包",
-          "hot_value": "1322105",
-          "link": "https://s.weibo.com/weibo?q=%23%E7%9C%8B%E6%8A%AB%E5%93%A5%E5%86%B3%E8%B5%9B%E4%B8%8A%E4%BA%AC%E4%B8%9C%E8%BF%BD%E7%95%AA%E5%A4%96%E9%A2%86%E7%BA%A2%E5%8C%85%23"
+          "title": "华为畅享100陪你满电奔赴",
+          "hot_value": "78271",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E7%95%85%E4%BA%AB100%E9%99%AA%E4%BD%A0%E6%BB%A1%E7%94%B5%E5%A5%94%E8%B5%B4%23"
         },
         {
           "rank": 5,
-          "title": "我觉得我都要爱上厉娜了",
-          "hot_value": "980931",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%88%91%E8%A7%89%E5%BE%97%E6%88%91%E9%83%BD%E8%A6%81%E7%88%B1%E4%B8%8A%E5%8E%89%E5%A8%9C%E4%BA%86%23"
+          "title": "小沈阳披荆斩棘冠军",
+          "hot_value": "77786",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%B2%88%E9%98%B3%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E5%86%A0%E5%86%9B%23"
         }
       ]
     }
