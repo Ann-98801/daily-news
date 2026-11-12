@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 23:50:16 (北京时间)",
+  "updated_at": "2026-11-13 06:07:17 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -8,6 +8,12 @@
         {
           "source_name": "新华社",
           "items": [
+            {
+              "title": "意大利多地学校再次收到炸弹威胁邮件 - 新华网",
+              "summary": "意大利多地学校再次收到炸弹威胁邮件 新华网",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GYWZ6N2dfbXRsLUR5SkNCWXlpZkIwbHpVN3g2NXFUNnRUb2ZoRlk1WllMazBjRHdVcm5tc3A5Mk82SWJmWHdqaXBrZ3ZMaDU0RkkzSl8xUEJoZk9hU1RLWmQzQW9JUlJJZlNpTlNSN2NSa2x6YmEzR2tNV0ZZVFU?oc=5",
+              "source": "新华社"
+            },
             {
               "title": "罗马多所学校收到炸弹威胁邮件后疏散师生 - 新华网",
               "summary": "罗马多所学校收到炸弹威胁邮件后疏散师生 新华网",
@@ -31,24 +37,12 @@
               "summary": "央行报告：将加力实施支持资本市场两项货币政策工具 新华网",
               "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbGhwdDZpaHZFT0xPVDV3TDdwcTJxWDJWNExaaWthSHpXamdVYVNBX25SWl9zUGRadGppaWtzNEFtRFZvcDVLc0dVRjc2ZV9TajNFV1VGdWNqa3JqT2dFcXBqdlpMZXNGMzlLU3J6Vmh1SWZESE5DbXJ5WEpxLVE1NmJR?oc=5",
               "source": "新华社"
-            },
-            {
-              "title": "新华网_让新闻离你更近 - 新华网",
-              "summary": "新华网_让新闻离你更近 新华网",
-              "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE5FdWV6S1M3MF9oYnROX0tuQkJLWEhDQmVGUWdYbzAzbjNvd3BRdElPSlVua05Pdw?oc=5",
-              "source": "新华社"
             }
           ]
         },
         {
           "source_name": "人民日报",
           "items": [
-            {
-              "title": "人民网_网上的人民日报 - 人民网",
-              "summary": "人民网_网上的人民日报 人民网",
-              "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9EQUtjSm9pa2h6Yk9uc2RCZkhvTFVyaERuQ1RHY2ZUV29jekU4bWdzdFJFbEw5blk1dnhHODNwVQ?oc=5",
-              "source": "人民日报"
-            },
             {
               "title": "人民日报图文数据库（1946-2026） - 人民日报",
               "summary": "人民日报图文数据库（1946-2026） 人民日报",
@@ -72,6 +66,12 @@
               "summary": "江苏太仓： 汽口加速出海 人民图片",
               "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hUkFJUkg3eGc1YldhVXREU2V6d0xRUXE3cEY3OFQ3VHZfODZIQ3BySWlXSVdad21qdGQ3R0tsb3JxTllBdExxZWpIMzc2RWZsYVZRcEZkY3VRTF9NVl9JeFI2YUs2ZHhyU1l5RFNTdw?oc=5",
               "source": "人民日报"
+            },
+            {
+              "title": "四川乐山： 赶制订单 - 人民图片",
+              "summary": "四川乐山： 赶制订单 人民图片",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10NmxkazV1bktRZzZXUE1wVFBnY0x0OGNpenZ6YXlzOEMwTGliUkRUMkE0NkdIMHNqRlUxSVpaWU9OQ0d4TnV6dUdaZ2JWQW5zdkJYbm5KMUJRY3BSaFFsQjVIcm1KX0lYN3ZzRXBtUQ?oc=5",
+              "source": "人民日报"
             }
           ]
         }
@@ -85,15 +85,15 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-              "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+              "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+              "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
               "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
             {
-              "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threa…",
-              "summary": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
-              "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+              "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+              "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
+              "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Nvidia CEO Jensen Huang resigns in big blow to AI boom",
-              "summary": "Nvidia CEO Jensen Huang is stepping down, leaving the AI industry without its biggest champion and clouding the future of the chipmaker he b…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5e037a0ba4325a569f9c540ff4155&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fretail-consumer%2fnvidia-ceo-jensen-huang-step-down-big-blow-ai-boom-2026-11-12%2f&c=589544866606110510&mkt=en-us",
+              "title": "Trump says US does not need Iran deal, directs Vance to focus on domestic corrup…",
+              "summary": "President Donald Trump said on Thursday he wanted Vice ​President JD Vance to focus \"his complete and ‌total attention\" on any crime and cor…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af63894fcef46fd9828a8a4659c281c&url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ftrump-says-vance-should-focus-domestic-corruption-we-dont-need-deal-with-iran-2026-11-12%2f&c=6113134980533815844&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -134,33 +134,33 @@
       "items": [
         {
           "rank": 1,
-          "title": "刘欢妻子长文",
-          "hot_value": "2231109",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%88%98%E6%AC%A2%E5%A6%BB%E5%AD%90%E9%95%BF%E6%96%87%23"
+          "title": "特朗普回应黄仁勋辞职",
+          "hot_value": "428856",
+          "link": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E9%BB%84%E4%BB%81%E5%8B%8B%E8%BE%9E%E8%81%8C%23"
         },
         {
           "rank": 2,
-          "title": "马化腾 危机感",
-          "hot_value": "2199315",
-          "link": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%8C%96%E8%85%BE%20%E5%8D%B1%E6%9C%BA%E6%84%9F%23"
+          "title": "刘欢妻子长文",
+          "hot_value": "245522",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%88%98%E6%AC%A2%E5%A6%BB%E5%AD%90%E9%95%BF%E6%96%87%23"
         },
         {
           "rank": 3,
-          "title": "传承中山精神的时代价值",
-          "hot_value": "1664408",
-          "link": "https://s.weibo.com/weibo?q=%23%E4%BC%A0%E6%89%BF%E4%B8%AD%E5%B1%B1%E7%B2%BE%E7%A5%9E%E7%9A%84%E6%97%B6%E4%BB%A3%E4%BB%B7%E5%80%BC%23"
+          "title": "APEC中国年看中国外贸底色",
+          "hot_value": "191582",
+          "link": "https://s.weibo.com/weibo?q=%23APEC%E4%B8%AD%E5%9B%BD%E5%B9%B4%E7%9C%8B%E4%B8%AD%E5%9B%BD%E5%A4%96%E8%B4%B8%E5%BA%95%E8%89%B2%23"
         },
         {
           "rank": 4,
-          "title": "黄仁勋辞职",
-          "hot_value": "10627865",
-          "link": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E8%BE%9E%E8%81%8C%23"
+          "title": "美股",
+          "hot_value": "70946",
+          "link": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%23"
         },
         {
           "rank": 5,
-          "title": "给阿嬷的情书获奖反应冷淡",
-          "hot_value": "457382",
-          "link": "https://s.weibo.com/weibo?q=%23%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6%E8%8E%B7%E5%A5%96%E5%8F%8D%E5%BA%94%E5%86%B7%E6%B7%A1%23"
+          "title": "向太问许飞为什么当时不解开误会",
+          "hot_value": "64939",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%90%91%E5%A4%AA%E9%97%AE%E8%AE%B8%E9%A3%9E%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BD%93%E6%97%B6%E4%B8%8D%E8%A7%A3%E5%BC%80%E8%AF%AF%E4%BC%9A%23"
         }
       ]
     }
