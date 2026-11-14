@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 08:45:36 (北京时间)",
+  "updated_at": "2026-11-14 15:26:55 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -27,15 +27,15 @@
               "source": "新华社"
             },
             {
-              "title": "土耳其与卡塔尔签署共同防御协议 - 新华网",
-              "summary": "土耳其与卡塔尔签署共同防御协议 新华网",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11NTQ0VWpLTnpYdkxJb0xud1BtVUIwVVNvaVMtU19zSFlKcTdiTmVwTHBPWnJNWVhEZHdYU0dUNTh5RWFKa2VRcHJlWVo2Q0xCR1pmZnd6NUd4WGR6cHBDTDEyWEZ0VkhNRUU5V2xaUC1sMGFYSFljSTg1R2tMNnc?oc=5",
-              "source": "新华社"
-            },
-            {
               "title": "前沿科技科普解读|快问快答:3D打印能“打印”出人的皮肤吗？ - 新华网",
               "summary": "前沿科技科普解读|快问快答:3D打印能“打印”出人的皮肤吗？ 新华网",
               "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSWRES1Y5Q2NHYVRNWHpFLXBjcC1wSlB3dExhRmRtR1dNOGJrRjJXbE9SdGZpcFNDSTloMXZ6ZkItVU56Z2hWeHpFZEJMQU14VmNMYVl6OEc4dDBqem56YWpLZGFodlFvREhGVzcwRkJpQUFISnFKcEVsLXVCdnBuN0t1cw?oc=5",
+              "source": "新华社"
+            },
+            {
+              "title": "新华网_让新闻离你更近 - 新华网",
+              "summary": "新华网_让新闻离你更近 新华网",
+              "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE5FdWV6S1M3MF9oYnROX0tuQkJLWEhDQmVGUWdYbzAzbjNvd3BRdElPSlVua05Pdw?oc=5",
               "source": "新华社"
             }
           ]
@@ -47,12 +47,6 @@
               "title": "人民日报图文数据库（1946-2026） - 人民日报",
               "summary": "人民日报图文数据库（1946-2026） 人民日报",
               "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1pVWJKRXlxSjNSVC0yRGJsRHdUbDRBNzdNc2hDV3VJcFdKQmhsT0oxbnh6Q3E2cEVWcERrYm0xWWs?oc=5",
-              "source": "人民日报"
-            },
-            {
-              "title": "Yeah！生活｜走马少年 - 人民网",
-              "summary": "Yeah！生活｜走马少年 人民网",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqSkZEZlp2Q3JoVlgxZWUxWTU3bkZaakNTMW5vWTh3cHcySlp5Q1hacUhocTNtTVVtR2dELWZaaldEVV9pY05aT0xZcTFKTlhlb0taTWtETmFjSlM4U2VfT1dsZmEyM1lIYkxr?oc=5",
               "source": "人民日报"
             },
             {
@@ -72,6 +66,12 @@
               "summary": "贵州榕江： 感受非遗魅力 人民图片",
               "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4bUd6VURiUzlRN2p0T0lscXZxQm1tWEl6cm9zUl9TQ1ZTcEtlQURvMUE2SGR0Y185UDA4Ml9FS3BOU2IySUo3cXRpNEdGeUF4RzlMUDlkYVo5Zjg4SUVWelotOTAxNnVoNFJBZEVYaw?oc=5",
               "source": "人民日报"
+            },
+            {
+              "title": "江苏宝应： 警企常联络服务送上门 - 人民图片",
+              "summary": "江苏宝应： 警企常联络服务送上门 人民图片",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBac2pyX2NjYVBYZ2pSMGFsRWpidHRCRmlhc0FwWjQxc3U2Tm5TUS1ibC1NM01lRVZOVHZ6cmNLS21jMmJoNG9yejBpM05JenlneE9VbG9WamRqaU1rdmt1MlI2dkN2eFlCdDZEWDdEYw?oc=5",
+              "source": "人民日报"
             }
           ]
         }
@@ -85,15 +85,15 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "'Miracle on Mississippi' - All rescued after cruise ship hit by tanker in New Or…",
-              "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
-              "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+              "title": "What we know about the longest ground stop since 9/11",
+              "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage.",
+              "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
             {
-              "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-              "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-              "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+              "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship…",
+              "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+              "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Flights grounded across US after air traffic communications outage",
-              "summary": "The US Federal Aviation Administration ‌grounded all departing flights nationwide on Friday after a communications failure hit air traffic c…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7af2f469d4486b73bb6172b8d0013&url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2ffaa-issues-national-ground-stop-due-extraordinary-circumstance-reasons-safety-2026-11-13%2f&c=10755902593398908311&mkt=en-us",
+              "title": "Canada, US make progress on trade deal, Carney says",
+              "summary": "Canadian Prime Minister Mark Carney ​said on Saturday he ‌had held lengthy, substantive talks with US ​President Donald Trump ​and the two c…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af80d3f80014e84a5d7552a0aacb31b&url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fcanada-us-make-progress-trade-deal-carney-says-2026-11-14%2f&c=4522586498560568152&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -134,33 +134,33 @@
       "items": [
         {
           "rank": 1,
-          "title": "老板假装扫了500余次付款码",
-          "hot_value": "1161952",
-          "link": "https://s.weibo.com/weibo?q=%23%E8%80%81%E6%9D%BF%E5%81%87%E8%A3%85%E6%89%AB%E4%BA%86500%E4%BD%99%E6%AC%A1%E4%BB%98%E6%AC%BE%E7%A0%81%23"
+          "title": "曝S16决赛还有重磅官宣",
+          "hot_value": "1146796",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%9B%9DS16%E5%86%B3%E8%B5%9B%E8%BF%98%E6%9C%89%E9%87%8D%E7%A3%85%E5%AE%98%E5%AE%A3%23"
         },
         {
           "rank": 2,
-          "title": "美全国范围实施地面停飞",
-          "hot_value": "820692",
-          "link": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%85%A8%E5%9B%BD%E8%8C%83%E5%9B%B4%E5%AE%9E%E6%96%BD%E5%9C%B0%E9%9D%A2%E5%81%9C%E9%A3%9E%23"
+          "title": "奔驰女司机借300元加油钱后手机关机",
+          "hot_value": "850048",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%A5%94%E9%A9%B0%E5%A5%B3%E5%8F%B8%E6%9C%BA%E5%80%9F300%E5%85%83%E5%8A%A0%E6%B2%B9%E9%92%B1%E5%90%8E%E6%89%8B%E6%9C%BA%E5%85%B3%E6%9C%BA%23"
         },
         {
           "rank": 3,
-          "title": "APEC时隔12年再次来到中国",
-          "hot_value": "681581",
-          "link": "https://s.weibo.com/weibo?q=%23APEC%E6%97%B6%E9%9A%9412%E5%B9%B4%E5%86%8D%E6%AC%A1%E6%9D%A5%E5%88%B0%E4%B8%AD%E5%9B%BD%23"
+          "title": "一图读懂我国消费市场潜力与活力",
+          "hot_value": "650017",
+          "link": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9B%BE%E8%AF%BB%E6%87%82%E6%88%91%E5%9B%BD%E6%B6%88%E8%B4%B9%E5%B8%82%E5%9C%BA%E6%BD%9C%E5%8A%9B%E4%B8%8E%E6%B4%BB%E5%8A%9B%23"
         },
         {
           "rank": 4,
-          "title": "张泉灵新视频被指内涵白小纯",
-          "hot_value": "474278",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%B3%89%E7%81%B5%E6%96%B0%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8C%87%E5%86%85%E6%B6%B5%E7%99%BD%E5%B0%8F%E7%BA%AF%23"
+          "title": "Lisa把钱塞在腰上会不会太帅了",
+          "hot_value": "617830",
+          "link": "https://s.weibo.com/weibo?q=%23Lisa%E6%8A%8A%E9%92%B1%E5%A1%9E%E5%9C%A8%E8%85%B0%E4%B8%8A%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%A4%AA%E5%B8%85%E4%BA%86%23"
         },
         {
           "rank": 5,
-          "title": "产妇求剖腹产遭拒孩子脑瘫丈夫发声",
-          "hot_value": "446277",
-          "link": "https://s.weibo.com/weibo?q=%23%E4%BA%A7%E5%A6%87%E6%B1%82%E5%89%96%E8%85%B9%E4%BA%A7%E9%81%AD%E6%8B%92%E5%AD%A9%E5%AD%90%E8%84%91%E7%98%AB%E4%B8%88%E5%A4%AB%E5%8F%91%E5%A3%B0%23"
+          "title": "年轻人又抠又大方的消费观",
+          "hot_value": "484910",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%8F%88%E6%8A%A0%E5%8F%88%E5%A4%A7%E6%96%B9%E7%9A%84%E6%B6%88%E8%B4%B9%E8%A7%82%23"
         }
       ]
     }
