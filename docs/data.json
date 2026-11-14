@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 15:26:55 (北京时间)",
+  "updated_at": "2026-11-14 22:51:36 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -8,12 +8,6 @@
         {
           "source_name": "新华社",
           "items": [
-            {
-              "title": "意大利多地学校再次收到炸弹威胁邮件 - 新华网",
-              "summary": "意大利多地学校再次收到炸弹威胁邮件 新华网",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GYWZ6N2dfbXRsLUR5SkNCWXlpZkIwbHpVN3g2NXFUNnRUb2ZoRlk1WllMazBjRHdVcm5tc3A5Mk82SWJmWHdqaXBrZ3ZMaDU0RkkzSl8xUEJoZk9hU1RLWmQzQW9JUlJJZlNpTlNSN2NSa2x6YmEzR2tNV0ZZVFU?oc=5",
-              "source": "新华社"
-            },
             {
               "title": "伊朗革命卫队称摧毁美军在巴林的预警雷达 - 新华网",
               "summary": "伊朗革命卫队称摧毁美军在巴林的预警雷达 新华网",
@@ -27,9 +21,15 @@
               "source": "新华社"
             },
             {
-              "title": "前沿科技科普解读|快问快答:3D打印能“打印”出人的皮肤吗？ - 新华网",
-              "summary": "前沿科技科普解读|快问快答:3D打印能“打印”出人的皮肤吗？ 新华网",
-              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSWRES1Y5Q2NHYVRNWHpFLXBjcC1wSlB3dExhRmRtR1dNOGJrRjJXbE9SdGZpcFNDSTloMXZ6ZkItVU56Z2hWeHpFZEJMQU14VmNMYVl6OEc4dDBqem56YWpLZGFodlFvREhGVzcwRkJpQUFISnFKcEVsLXVCdnBuN0t1cw?oc=5",
+              "title": "泽连斯基称美方曾建议乌割地换取加入北约 - 新华网",
+              "summary": "泽连斯基称美方曾建议乌割地换取加入北约 新华网",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11Zkp1SmhxME5LNU5fRnNXcjhXbDJmQ2xZOEVJdTd3clctWUdQemU0Uk5jbWE1dVF3QlJicEhqSHYwNWJsemxFdnZEcEpqNUFhVmJYUm93U25iVW9EUXFHWXd1eVNrSXU2M0hMLWxmZTg2Z3Z0ZldlLTlIVFVPdms?oc=5",
+              "source": "新华社"
+            },
+            {
+              "title": "习近平将出席亚太经合组织第三十三次领导人非正式会议及相关活动 - 新华网",
+              "summary": "习近平将出席亚太经合组织第三十三次领导人非正式会议及相关活动 新华网",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VX2hXdWdQUVV5dGNidFdnaERqZnBiZ3dFWTdVSjd5dC1kQ2hLX0Z1cFJYZkpzUDFtZ3h6LTZ5UG9qYXl5VkRLR1dodTJUS2dUc0phTkpnekc5NS1KMnNCbkRMeHV6TWpi?oc=5",
               "source": "新华社"
             },
             {
@@ -85,15 +85,15 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "What we know about the longest ground stop since 9/11",
-              "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage.",
+              "title": "What we know about the ground stop and what to do if you're affected",
+              "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
               "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
             {
-              "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship…",
-              "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
-              "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+              "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+              "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+              "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Canada, US make progress on trade deal, Carney says",
-              "summary": "Canadian Prime Minister Mark Carney ​said on Saturday he ‌had held lengthy, substantive talks with US ​President Donald Trump ​and the two c…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af80d3f80014e84a5d7552a0aacb31b&url=https%3a%2f%2fwww.reuters.com%2fworld%2famericas%2fcanada-us-make-progress-trade-deal-carney-says-2026-11-14%2f&c=4522586498560568152&mkt=en-us",
+              "title": "Alaska elects first Democratic governor since 1998, US media project",
+              "summary": "Democratic candidate Jonathan Kreiss-Tomkins has been elected governor of ​Alaska, according to projections by ‌the Associated Press and NBC…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af87577582a4202bb0fdc950895d2e4&url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2falaska-elects-first-democratic-governor-since-1998-us-media-project-2026-11-14%2f&c=746132781651331485&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -134,33 +134,33 @@
       "items": [
         {
           "rank": 1,
-          "title": "曝S16决赛还有重磅官宣",
-          "hot_value": "1146796",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%9B%9DS16%E5%86%B3%E8%B5%9B%E8%BF%98%E6%9C%89%E9%87%8D%E7%A3%85%E5%AE%98%E5%AE%A3%23"
+          "title": "WB夺冠",
+          "hot_value": "13275466",
+          "link": "https://s.weibo.com/weibo?q=%23WB%E5%A4%BA%E5%86%A0%23"
         },
         {
           "rank": 2,
-          "title": "奔驰女司机借300元加油钱后手机关机",
-          "hot_value": "850048",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%A5%94%E9%A9%B0%E5%A5%B3%E5%8F%B8%E6%9C%BA%E5%80%9F300%E5%85%83%E5%8A%A0%E6%B2%B9%E9%92%B1%E5%90%8E%E6%89%8B%E6%9C%BA%E5%85%B3%E6%9C%BA%23"
+          "title": "梓墨FMVP",
+          "hot_value": "5266269",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%A2%93%E5%A2%A8FMVP%23"
         },
         {
           "rank": 3,
-          "title": "一图读懂我国消费市场潜力与活力",
-          "hot_value": "650017",
-          "link": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9B%BE%E8%AF%BB%E6%87%82%E6%88%91%E5%9B%BD%E6%B6%88%E8%B4%B9%E5%B8%82%E5%9C%BA%E6%BD%9C%E5%8A%9B%E4%B8%8E%E6%B4%BB%E5%8A%9B%23"
+          "title": "来自深圳的邀请函",
+          "hot_value": "2265027",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%9D%A5%E8%87%AA%E6%B7%B1%E5%9C%B3%E7%9A%84%E9%82%80%E8%AF%B7%E5%87%BD%23"
         },
         {
           "rank": 4,
-          "title": "Lisa把钱塞在腰上会不会太帅了",
-          "hot_value": "617830",
-          "link": "https://s.weibo.com/weibo?q=%23Lisa%E6%8A%8A%E9%92%B1%E5%A1%9E%E5%9C%A8%E8%85%B0%E4%B8%8A%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%A4%AA%E5%B8%85%E4%BA%86%23"
+          "title": "朱天天 梓墨",
+          "hot_value": "2031769",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%A4%A9%E5%A4%A9%20%E6%A2%93%E5%A2%A8%23"
         },
         {
           "rank": 5,
-          "title": "年轻人又抠又大方的消费观",
-          "hot_value": "484910",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%8F%88%E6%8A%A0%E5%8F%88%E5%A4%A7%E6%96%B9%E7%9A%84%E6%B6%88%E8%B4%B9%E8%A7%82%23"
+          "title": "国足马来西亚爆发冲突",
+          "hot_value": "1798573",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E7%88%86%E5%8F%91%E5%86%B2%E7%AA%81%23"
         }
       ]
     }
