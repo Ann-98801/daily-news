@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 08:02:15 (北京时间)",
+  "updated_at": "2026-11-17 15:42:45 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -7,39 +7,70 @@
       "sources": [
         {
           "source_name": "新华社",
-          "items": []
+          "items": [
+            {
+              "title": "一文读懂丨“诈弹”威胁频现，欧洲怎么应对 - 新华网",
+              "summary": "一文读懂丨“诈弹”威胁频现，欧洲怎么应对 新华网",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rRTFSNjBaQTNNa0pRMExoS2kta3BrWUNMaXpYZ0Y2UXotNVVaNmEyUlppemQybG9ZYmpWSUIzY25yVzB1Zk9Jb3VFUG56U3RvM1NscWkzTXRybE9qMV9Nemhib0p2eWF5TUZqZm9GUi1ZN0tEVmtGYXJXbDcwVGc?oc=5",
+              "source": "新华社"
+            },
+            {
+              "title": "新华网_让新闻离你更近 - 新华网",
+              "summary": "新华网_让新闻离你更近 新华网",
+              "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE5FdWV6S1M3MF9oYnROX0tuQkJLWEhDQmVGUWdYbzAzbjNvd3BRdElPSlVua05Pdw?oc=5",
+              "source": "新华社"
+            },
+            {
+              "title": "深圳APEC用什么拍？ - 新华网",
+              "summary": "深圳APEC用什么拍？ 新华网",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORmpjV21ucHVHXy1UVFdYOUNCVmJxSmRYQzhYbXVKVTFqbzdTZjhqNU4tRGpZczd5Wmp0XzJ6R2xCVXk4QmR4Qk5pblViVzBQRU92eGxGWTZ3SzBiS3RxWjRKcDlaY0tZY0RTYVdYMXQ3ODk4UzUtSTNUZklTNFA2c3FQWQ?oc=5",
+              "source": "新华社"
+            },
+            {
+              "title": "飞雪落雄关 - 新华网",
+              "summary": "飞雪落雄关 新华网",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93ZDRkQjVpZ1N5UXJCX0RHaF9aMXVYUnFCZURmYWg0aGdJWl8xX3ZucmUySWpNa0xBQjNoczhVSkhlSXlVSWtEaXdvbU5TMjFJZFdFYTZfNFc2OTk3aTFseDdnN3dGVDdPUjBVX191T1JsbUlEMEhZ?oc=5",
+              "source": "新华社"
+            },
+            {
+              "title": "藏在海岛深处的绿色秘境 - 新华网",
+              "summary": "藏在海岛深处的绿色秘境 新华网",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80cmRDUkoxVDRVUWJ6bmJYSW5ZU1hFb1ZCdUJXNXpLd3NnM3FTNDJ0aU42Y3JfYS05VXQ2WGpfX1hCSEh1MWF3NnVOWXMxZ085OEJoODZURml5LXUwWm44ZVdFMEZsdkJEWGNFbGxocjhGaExsbV9F?oc=5",
+              "source": "新华社"
+            }
+          ]
         },
         {
           "source_name": "人民日报",
           "items": [
             {
-              "title": "期待机器人真正“帮上忙”（记者手记） --经济·科技 - 人民网",
-              "summary": "期待机器人真正“帮上忙”（记者手记） --经济·科技 人民网",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2NzZYcVI3NjhGaE1aMWNST2lBWFVnTFQ4elRBMU9TMWNkTWp5TnZLX2wyS1F0X2k1ZXNWV1RIWEJHLWNPb2dwbkphNkhlSGUwVWVZNGwzZlR4Z3g0dm5xUjJpRG1FOF9hbnRHeS1n?oc=5",
+              "title": "江苏省南京市市长李忠军 - 人民网",
+              "summary": "江苏省南京市市长李忠军 人民网",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90b2NVRTE2UVZKZDNaWFFRaE5CZ29CZEJscnNkT0J0Qlg2SWZreEFUTWxHbWQ0TVBaUUlrWk5kY200YTVsSzVXSkthOXlTMFFYaXpZSy13MlM0b3puMkVBN0RSNmVTa3pzTGc?oc=5",
               "source": "人民日报"
             },
             {
-              "title": "人民日报图文数据库（1946-2026） - 人民日报",
-              "summary": "人民日报图文数据库（1946-2026） 人民日报",
+              "title": "日报 - 人民日报",
+              "summary": "日报 人民日报",
               "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1pVWJKRXlxSjNSVC0yRGJsRHdUbDRBNzdNc2hDV3VJcFdKQmhsT0oxbnh6Q3E2cEVWcERrYm0xWWs?oc=5",
               "source": "人民日报"
             },
             {
-              "title": "习近平在广东中山考察 - 人民网-图片频道",
-              "summary": "习近平在广东中山考察 人民网-图片频道",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4LTVZREpnOTl0blk0RGdKSFlHYTA3MmZibG9iV3Rqd2xsN3Bwc0lCSEQ1UGR4MTZVeVB6Yy0teWp4RFM5ZjF5TU9KcTZWREdFMWJLdzQ3cXVZYjNyclh2MWJBSTZHTWRZelJJ?oc=5",
+              "title": "学习辅导 - 中国共产党新闻网",
+              "summary": "学习辅导 中国共产党新闻网",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIbGNvd3NGa19PZVNQdnN4bjl6RmgxQ1JKMUtNWWVRRzVheENsaTR2NGFPN1RJYU4xWGZBM0N1SHVQUG5UVFd0Y25WajNxZ3J5OGI1S3VSNnNHREt1dHFiaTNDamxHYkt0NWc?oc=5",
               "source": "人民日报"
             },
             {
-              "title": "生产一线火热 经济向新向优 - 人民网-图片频道",
-              "summary": "生产一线火热 经济向新向优 人民网-图片频道",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBldjZVX242R29HYm5FZGYxUGlvc2g5QkREMU9HS1JwWnhkNERHd3RBbUtJMDRuMkRvVWw3T2xNbnFYNmRqbWh0ZVV3bm9YZm8tYmMydjRjdC1ka2E4bFJJelh1MEt3MExv?oc=5",
+              "title": "习近平会见越共中央总书记、国家主席苏林 - 人民网-图片频道",
+              "summary": "习近平会见越共中央总书记、国家主席苏林 人民网-图片频道",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yWmhlRnpsT1J6ZEpvSi1FTGZfZWtLOGZYZmtWcVJCSVlNTTZnbHNxNGxoZGY3UWFNeWtxWHAxSWpRRUJhQldETWNzWnQydC1vVDdNWVVMZWJyZTlBUmF0dVUtMEtlQS1VZDFn?oc=5",
               "source": "人民日报"
             },
             {
-              "title": "12位APEC经济体领导人将出席APEC工商领导人峰会 - 人民网",
-              "summary": "12位APEC经济体领导人将出席APEC工商领导人峰会 人民网",
-              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9kcnROLTBGTlBkOHJMTFRvcVA1N1FqVVpjNmhQc3BBcXZCd1NYQ1g1d3NMSHRXRzNHZ1VEblhUaDU1QTF4aEVZUkVaV2N0dy04NzRPRDJLZ1M5c1RLdjF1d1l0dW1STmhfMzJpcTRkSQ?oc=5",
+              "title": "河北秦皇岛： 交通普法进驿站法律服务零距离 - 人民图片",
+              "summary": "河北秦皇岛： 交通普法进驿站法律服务零距离 人民图片",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uNEZZNjJWV0JPemtqRlBaVmpuWWZpS0MyemhyVFd0TDlrMVZTTlU1N2o3alJ5MTBEQzhuWTl0VFc1QVpDRzVqbm5xbS12ZXlaWVh4WFlzaVRDWDdBcF9fOUZaTzh4cnF1c3VvVGtxTQ?oc=5",
               "source": "人民日报"
             }
           ]
@@ -54,15 +85,15 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "Five EU countries announce migrant deportation centre in Rwanda",
-              "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
-              "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+              "title": "Ukraine and Russia trade strikes on key bridges",
+              "summary": "A bridge linking Crimea and Russia has reportedly been damaged, while two major routes through Kyiv are closed.",
+              "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
             {
-              "title": "Houthi rebel advance in Yemen may further destabilise global economy",
-              "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
-              "link": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+              "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike k…",
+              "summary": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
+              "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -88,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Meta faces sanctions bid over withheld evidence in teen mental health cases",
-              "summary": "Attorneys for thousands of individuals and school ​districts suing Meta Platforms over claims it contributed to a teen mental health crisis…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb99867b7b48e89a47f9d62ee9db61&url=https%3a%2f%2fwww.reuters.com%2flegal%2flitigation%2fmeta-faces-sanctions-bid-over-withheld-evidence-teen-mental-health-cases-2026-11-16%2f&c=18173095115196561911&mkt=en-us",
+              "title": "Trump to kick off Asia trip with Quad talks in Manila ahead of China visit",
+              "summary": "US President Donald Trump flies into the Philippines on Tuesday ​at the tail end of a Southeast Asian summit, where he could face protests a…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc05746d4a4962b64997f7c3f3d66d&url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2ftrump-kick-off-asia-trip-with-quad-talks-manila-ahead-china-visit-2026-11-17%2f&c=15957499769309920145&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -103,38 +134,36 @@
       "items": [
         {
           "rank": 1,
-          "title": "中俄美元首会晤将在深圳举行",
-          "hot_value": "1002156",
-          "link": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%B0%86%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B8%BE%E8%A1%8C%23"
+          "title": "信小呆的1亿奖品清单",
+          "hot_value": "1524947",
+          "link": "https://s.weibo.com/weibo?q=%23%E4%BF%A1%E5%B0%8F%E5%91%86%E7%9A%841%E4%BA%BF%E5%A5%96%E5%93%81%E6%B8%85%E5%8D%95%23"
         },
         {
           "rank": 2,
-          "title": "终于有人说说干发帽了",
-          "hot_value": "809264",
-          "link": "https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%BA%E8%AF%B4%E8%AF%B4%E5%B9%B2%E5%8F%91%E5%B8%BD%E4%BA%86%23"
+          "title": "信小呆称环游世界后落后了太多",
+          "hot_value": "879947",
+          "link": "https://s.weibo.com/weibo?q=%23%E4%BF%A1%E5%B0%8F%E5%91%86%E7%A7%B0%E7%8E%AF%E6%B8%B8%E4%B8%96%E7%95%8C%E5%90%8E%E8%90%BD%E5%90%8E%E4%BA%86%E5%A4%AA%E5%A4%9A%23"
         },
         {
           "rank": 3,
-          "title": "APEC合作成果惠及千家万户",
-          "hot_value": "553240",
-          "link": "https://s.weibo.com/weibo?q=%23APEC%E5%90%88%E4%BD%9C%E6%88%90%E6%9E%9C%E6%83%A0%E5%8F%8A%E5%8D%83%E5%AE%B6%E4%B8%87%E6%88%B7%23"
+          "title": "2026年APEC工商领导人峰会",
+          "hot_value": "722231",
+          "link": "https://s.weibo.com/weibo?q=%232026%E5%B9%B4APEC%E5%B7%A5%E5%95%86%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%23"
         },
         {
           "rank": 4,
-          "title": "APEC",
-          "hot_value": "211302",
-          "link": "https://s.weibo.com/weibo?q=%23APEC%23"
+          "title": "于东来奖励员工310辆坦克700",
+          "hot_value": "702172",
+          "link": "https://s.weibo.com/weibo?q=%23%E4%BA%8E%E4%B8%9C%E6%9D%A5%E5%A5%96%E5%8A%B1%E5%91%98%E5%B7%A5310%E8%BE%86%E5%9D%A6%E5%85%8B700%23"
         },
         {
           "rank": 5,
-          "title": "高市早苗穿菲律宾服饰出席晚宴",
-          "hot_value": "199813",
-          "link": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%A9%BF%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%9C%8D%E9%A5%B0%E5%87%BA%E5%B8%AD%E6%99%9A%E5%AE%B4%23"
+          "title": "王自如谈字节只差一个聊天软件了",
+          "hot_value": "355784",
+          "link": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%87%AA%E5%A6%82%E8%B0%88%E5%AD%97%E8%8A%82%E5%8F%AA%E5%B7%AE%E4%B8%80%E4%B8%AA%E8%81%8A%E5%A4%A9%E8%BD%AF%E4%BB%B6%E4%BA%86%23"
         }
       ]
     }
   ],
-  "errors": [
-    "新华社: 必应搜索失败(HTTP 200，但解析出0条内容（可能页面结构变化或被限流）)；谷歌新闻搜索也失败(429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site%3Anews.cn&hl=zh-CN&gl=CN&ceid=CN:zh-Hans)"
-  ]
+  "errors": []
 }
