@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 04:00:15 (北京时间)",
+  "updated_at": "2026-11-25 11:25:19 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -8,6 +8,12 @@
         {
           "source_name": "新华社",
           "items": [
+            {
+              "title": "我国牵头推动全球首个生成式人工智能治理国际标准提案 - 新华网",
+              "summary": "我国牵头推动全球首个生成式人工智能治理国际标准提案 新华网",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqV3JINVE2NF9NUEQxREpJSkltdHM2Q0k3cXktZjVIZ01SaGNieFItNExYYzZ0cjNUZ0tZVHE2dHlyeWpqNGhkQ1VyOEF1aC1DVjBoMldWa1FwdDZZWDVmVXZJM25lRUFISjdJemh3RmJ6cWI5eWl4R3RQUXpTQQ?oc=5",
+              "source": "新华社"
+            },
             {
               "title": "2027年度北京普惠健康保发布 - 新华网",
               "summary": "2027年度北京普惠健康保发布 新华网",
@@ -31,12 +37,6 @@
               "summary": "快讯｜智元与蓝思科技达成战略合作，部署手机测试产线柔性制造 新华网上海频道",
               "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8yOU9MZjlYLUhmMWtFMF9EYlp3TmdBbnJQUC0yWnNtaXZaMkJPYkV1WW1Pdl9xdzVHVFZQZ2d1SVg3RGdrRzVXWDFqS1I1Y09PR3BnV2xJWkJNaGtGVmViZ0RnbkFGelEtUk1YWjNWUmtlcGFE?oc=5",
               "source": "新华社"
-            },
-            {
-              "title": "北约秘书长：将捍卫波兰“每一寸领土” - 新华网",
-              "summary": "北约秘书长：将捍卫波兰“每一寸领土” 新华网",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXdWdWNG13b2dXT2Q5R0ZYaktfb1FmMVJLMDdTbTJmbDkzVjdldlo2ZXVDZTNsSF81Yk92aERxZEZlSWg3eGVIc0lNMHNNZDlqYkFDVTNqSk1EaG56S1F4QUMzbGVXdjA4b0RoSkgxTVRMXzBkbElz?oc=5",
-              "source": "新华社"
             }
           ]
         },
@@ -44,33 +44,33 @@
           "source_name": "人民日报",
           "items": [
             {
-              "title": "人民网_网上的人民日报 - 人民网",
-              "summary": "人民网_网上的人民日报 人民网",
-              "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9EQUtjSm9pa2h6Yk9uc2RCZkhvTFVyaERuQ1RHY2ZUV29jekU4bWdzdFJFbEw5blk1dnhHODNwVQ?oc=5",
+              "title": "责编：任成琦 汪灵犀 邮箱：gtbhwb@people.cn - 人民日报",
+              "summary": "责编：任成琦 汪灵犀 邮箱：gtbhwb@people.cn 人民日报",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOGh1cHVmTXZlRk9UMDFFX3EzMTZSRHB4bWMyM2pRMWF3RGxMUDVONWNxbVVJdk1wbWotOGtmZTVBRTQzUnk4UFdjY1JEWmN6X2Q4MGdzMHB2QWgzN1REZ0ZkYlNuTXZLY1h0NnF2c0kzMEVBTnBHbUlsU3h4ZXo0Y3NrODM?oc=5",
               "source": "人民日报"
             },
             {
-              "title": "人民日报图文数据库（1946-2026） - 人民日报",
-              "summary": "人民日报图文数据库（1946-2026） 人民日报",
-              "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1pVWJKRXlxSjNSVC0yRGJsRHdUbDRBNzdNc2hDV3VJcFdKQmhsT0oxbnh6Q3E2cEVWcERrYm0xWWs?oc=5",
+              "title": "责编：任成琦 汪灵犀 邮箱：gtbhwb@people.cn - 人民日报",
+              "summary": "责编：任成琦 汪灵犀 邮箱：gtbhwb@people.cn 人民日报",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORVpoQ2c5VVZhT3VXcHNCaUdfelNSbU9sdEI5WXJRd2RoWmZqM2taeEdSYmg3WFNncnY0cTdpQ1FVOTlQVnRFeGZlYk9xWVJQWU80MkZpMWRMS0RXZWItbnYtRmNRV1JucGs1WmVTZ0JNTVNNYXpLSU9wenRUZHEzRDJBdw?oc=5",
               "source": "人民日报"
             },
             {
-              "title": "我国海洋天然产物发现量全球第一--经济·科技 - 人民网",
-              "summary": "我国海洋天然产物发现量全球第一--经济·科技 人民网",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JZzUzbkVzaWRkMFhyRTVwN05odV9tYzQwU3ZRNVBONUlKMnRva081QlJscFVLRG82SmhCQ3ZIVlZZb0NZNTlSSFo2cE82eUxCMzlKdi1YaUh1OUxBTGRESklFS0dkQmFmOXBwZ09B?oc=5",
+              "title": "责编：金 晨 邮箱：gtbhwb@people.cn - 人民日报",
+              "summary": "责编：金 晨 邮箱：gtbhwb@people.cn 人民日报",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONkc5TXdZd2J0N3ZpYTZpX2hQQ3FNdEVNR0Zqa3lZRVFfWFpqSGxvSGUyZFh1MldDOG1WSnVZaVJ2bERoMHJNMUljWDZjU1JOR250ME5FRUMzd0d6TjZLSnFldlRNVEtlb0JzOTM4cDJvWGl2aEJfR0tsNEljTlZ4RTJrOA?oc=5",
               "source": "人民日报"
             },
             {
-              "title": "天津市滨海新区大港片区有了高铁站 - 人民网",
-              "summary": "天津市滨海新区大港片区有了高铁站 人民网",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VY1VaM0hhN01sQzZ3Rm5NcllKREtMYUw3NXFucS15TWZTQlBNLWZUQkR2NnF6dEk3Z3NYclgxdkVNcld1bzh6eWx0TWJXWWtsdDJ0WXJaa0xGTGlYdzZNamlCMWhtclBSN3c?oc=5",
+              "title": "首批全国法治宣传教育创新案例发布 - 人民网-福建频道",
+              "summary": "首批全国法治宣传教育创新案例发布 人民网-福建频道",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6OU1fZ2RUMC10dU1mN0RRQ0tYTjdKOF9nZlFhdGRDdUszakU4SXBCVEpjbU1NOXBRdklGSGlNQTdSU1FXUHBFSGJpTG92VXhrbUdTUUZ1Z0h3MTBRcHFsa2NpX1dWNGdkNGdwLU1wVQ?oc=5",
               "source": "人民日报"
             },
             {
-              "title": "2030年前 天津市乡镇（街道）级储备库（点）全覆盖 - 人民网",
-              "summary": "2030年前 天津市乡镇（街道）级储备库（点）全覆盖 人民网",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53QVdiTjBYV05aSkxPa2N0dVJFcG4weXdlOTV4RllfYnVTWV9XMWRENldxZTMtQTM3OVlUUzlYVmt5MmFTbUFuT2M3b2tvTGJjdjdLNmo1aHJSZjk4Y1FtWEFMcjZUTHdueXc?oc=5",
+              "title": "第十四届中国中部投资贸易博览会在河南郑州举行 - 人民网-图片频道",
+              "summary": "第十四届中国中部投资贸易博览会在河南郑州举行 人民网-图片频道",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54WHNPSm5zYTVzWGZMUEg4LVhuNC11Ny1CU1BRQUVWWnh4WTZEcEN2VGkwaEoxNTBNLVlYdjhGWVZQdndOY2lpX0VBbEwzRHNfSU5mQ2FDdU03SFRURkktdER3aHpUQUFl?oc=5",
               "source": "人民日报"
             }
           ]
@@ -91,9 +91,9 @@
               "source": "BBC"
             },
             {
-              "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK fl…",
-              "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
-              "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+              "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+              "summary": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
+              "link": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "US consumer confidence jumps to highest level in nearly two years",
-              "summary": "US consumer confidence surged in November, touching its highest level ​in nearly two years, amid optimism ‌over labor market conditions and…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05eccda8b84d8faebd8f4e08a49ca4&url=https%3a%2f%2fwww.reuters.com%2fworld%2fus%2fus-consumer-confidence-surges-highest-level-nearly-two-years-2026-11-24%2f&c=13733804831464086270&mkt=en-us",
+              "title": "Shenzhou-24 live: China to launch crew including Pakistani to its space station",
+              "summary": "China is launching a mission carrying a Pakistani astronaut to its Tiangong space station, a milestone in the two countries' space cooperati…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06551e3d544db686286e853746a500&url=https%3a%2f%2fwww.reuters.com%2flive%2fchina-space-launch-live-shenzhou-24-crew-includes-first-pakistani-its-space-2026-11-25%2f&c=14637304115462844090&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -134,33 +134,33 @@
       "items": [
         {
           "rank": 1,
-          "title": "特朗普对一道中国菜念念不忘",
-          "hot_value": "160180",
-          "link": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%B8%80%E9%81%93%E4%B8%AD%E5%9B%BD%E8%8F%9C%E5%BF%B5%E5%BF%B5%E4%B8%8D%E5%BF%98%23"
+          "title": "天霸 体坛",
+          "hot_value": "2523120",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E9%9C%B8%20%E4%BD%93%E5%9D%9B%23"
         },
         {
           "rank": 2,
-          "title": "王牌对王牌第十季阵容",
-          "hot_value": "119856",
-          "link": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%89%8C%E5%AF%B9%E7%8E%8B%E7%89%8C%E7%AC%AC%E5%8D%81%E5%AD%A3%E9%98%B5%E5%AE%B9%23"
+          "title": "可口可乐不再标生产日期",
+          "hot_value": "2226716",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90%E4%B8%8D%E5%86%8D%E6%A0%87%E7%94%9F%E4%BA%A7%E6%97%A5%E6%9C%9F%23"
         },
         {
           "rank": 3,
-          "title": "神24出征续写航天荣光",
-          "hot_value": "99047",
-          "link": "https://s.weibo.com/weibo?q=%23%E7%A5%9E24%E5%87%BA%E5%BE%81%E7%BB%AD%E5%86%99%E8%88%AA%E5%A4%A9%E8%8D%A3%E5%85%89%23"
+          "title": "神舟24发射圆满成功",
+          "hot_value": "1350742",
+          "link": "https://s.weibo.com/weibo?q=%23%E7%A5%9E%E8%88%9F24%E5%8F%91%E5%B0%84%E5%9C%86%E6%BB%A1%E6%88%90%E5%8A%9F%23"
         },
         {
           "rank": 4,
-          "title": "科技旗​舰第三代唐上市18.79万起",
-          "hot_value": "98876",
-          "link": "https://s.weibo.com/weibo?q=%23%E7%A7%91%E6%8A%80%E6%97%97%E2%80%8B%E8%88%B0%E7%AC%AC%E4%B8%89%E4%BB%A3%E5%94%90%E4%B8%8A%E5%B8%8218.79%E4%B8%87%E8%B5%B7%23"
+          "title": "捷途环游者EV全球上市8.99万元起",
+          "hot_value": "1075736",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%8D%B7%E9%80%94%E7%8E%AF%E6%B8%B8%E8%80%85EV%E5%85%A8%E7%90%83%E4%B8%8A%E5%B8%828.99%E4%B8%87%E5%85%83%E8%B5%B7%23"
         },
         {
           "rank": 5,
-          "title": "情侣包间求婚服务员推门打断要纸箱",
-          "hot_value": "94761",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E5%8C%85%E9%97%B4%E6%B1%82%E5%A9%9A%E6%9C%8D%E5%8A%A1%E5%91%98%E6%8E%A8%E9%97%A8%E6%89%93%E6%96%AD%E8%A6%81%E7%BA%B8%E7%AE%B1%23"
+          "title": "巴基斯坦航天员手指国旗向镜头敬礼",
+          "hot_value": "1034643",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E5%91%98%E6%89%8B%E6%8C%87%E5%9B%BD%E6%97%97%E5%90%91%E9%95%9C%E5%A4%B4%E6%95%AC%E7%A4%BC%23"
         }
       ]
     }
