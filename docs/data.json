@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 06:58:40 (北京时间)",
+  "updated_at": "2026-11-26 12:44:19 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -8,18 +8,6 @@
         {
           "source_name": "新华社",
           "items": [
-            {
-              "title": "神舟二十四号丨中国航天员将首次执行一年期在轨驻留试验任务 - 新华网",
-              "summary": "神舟二十四号丨中国航天员将首次执行一年期在轨驻留试验任务 新华网",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PUnVDcTNvWl9rQTY4RmRzaUlUeGxNcFFYZGZJSFowb1lfOTlTOUxXbU0yTkdjeE53TkJXdmlRM2RkdVd0a3M2bjlSN0w1QnpxSEQweFhGeURsZWo0bFlhSnRXTm5CaHZwSVJkUzI0V1ZocFJZbUtJ?oc=5",
-              "source": "新华社"
-            },
-            {
-              "title": "大运河畔，看人工智能产业如何拔节生长 - 新华网",
-              "summary": "大运河畔，看人工智能产业如何拔节生长 新华网",
-              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaXdUNkNOZGJCSzdEbldLMlBReHdTem9qbm50eGhxaFFQX2RvVTIyU1RLekR6d2xlQXdaeUNkbTVRYmJkZk91MVE2S0tRLUphUURUbU41YWhpbFE0MlM0b3hDWWxrWWVQaVFkZWZuV2pFZlV5OU8xZGxVZF95dndUVWpn?oc=5",
-              "source": "新华社"
-            },
             {
               "title": "神舟二十四号丨中巴航天员将在空间站开展这些实验 - 新华网",
               "summary": "神舟二十四号丨中巴航天员将在空间站开展这些实验 新华网",
@@ -33,9 +21,21 @@
               "source": "新华社"
             },
             {
-              "title": "我国牵头推动全球首个生成式人工智能治理国际标准提案 - 新华网",
-              "summary": "我国牵头推动全球首个生成式人工智能治理国际标准提案 新华网",
-              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqV3JINVE2NF9NUEQxREpJSkltdHM2Q0k3cXktZjVIZ01SaGNieFItNExYYzZ0cjNUZ0tZVHE2dHlyeWpqNGhkQ1VyOEF1aC1DVjBoMldWa1FwdDZZWDVmVXZJM25lRUFISjdJemh3RmJ6cWI5eWl4R3RQUXpTQQ?oc=5",
+              "title": "美军开始在日本冲绳常态部署新型战斗机 - 新华网",
+              "summary": "美军开始在日本冲绳常态部署新型战斗机 新华网",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YSmNYallPNmF2Z3BWQ1FVSFdCalIwSmtzcFdTdjloSmtBbEFUWUE5bjJjcDhJSWhHMTVKeTVzdlFMQ0JDdG53N3p4UzJkNi1Ta1FscVQwamVsMjZnU1d5M0ltOUlEUVdTSmhXcDIySnREY0hhRlFPaUwxeHRWR2M?oc=5",
+              "source": "新华社"
+            },
+            {
+              "title": "两名工人地下室施工作业中毒昏迷 - 新华网",
+              "summary": "两名工人地下室施工作业中毒昏迷 新华网",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uZEh5VVZlRnhfNm9BUVFMRkdzNWVpV0FQXzVCbjF6bU5KOUJkd2ljMnQ0dEdTc0cySE1BZUgzWDRCaldscUIya1hQR0d2WWx6XzZxc1JmdUNyblUyTFJONkEtQlBHcUw2bm9aYXRQLVRtSzlCZjhKM0pyUVFqQQ?oc=5",
+              "source": "新华社"
+            },
+            {
+              "title": "以军称打死又一名哈马斯内部安全机构负责人 - 新华网",
+              "summary": "以军称打死又一名哈马斯内部安全机构负责人 新华网",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MMlYyMmk2dUU3U2RzeE9tUlRkYWo2SUtodXQ0UWxlek9hMk1PaUFnRUNkbUFrUmFzMDBDTWM3RmkwSU1xTDUxQ1ByTXNfUUtLS2k5cVZBZjdGMXZiaHA1eVdtZ3hoalpWeDJjM1NLcFdOcVd6ZEg0?oc=5",
               "source": "新华社"
             }
           ]
@@ -62,15 +62,15 @@
               "source": "人民日报"
             },
             {
-              "title": "铺开的是里程 承载的是温度（新时代画卷） - 人民网-图片频道",
-              "summary": "铺开的是里程 承载的是温度（新时代画卷） 人民网-图片频道",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44eG0wOEIyOTVzM1hUeHVHTUpwcXVBTDQxOVVpaXRDZGxXVE1nRUxSVU9qa2ZSTVBKQjUtT2tNdTVJTVZtbFZTaHdZZHBSUnpXTjNuWVVTUDVVNEhGdE12bWQ0S1NfcmJs?oc=5",
+              "title": "习近平同巴基斯坦总统就中巴航天员执行联合飞行任务互致贺电--视频报道 - 中国共产党新闻网",
+              "summary": "习近平同巴基斯坦总统就中巴航天员执行联合飞行任务互致贺电--视频报道 中国共产党新闻网",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rVHB6aXgxOF9jSGlDZUt3dnJBWV9GSEUzcjBTbWg0YWV2MTBvaTlDeFpiNmtHT09pa09NeE1sVjJUN0N3dEY2QjE4SjkyWnJBVWdKY21oRldzSWxvcGw2V2RVX24wSjNyOVhfRFByU3U3YkVX?oc=5",
               "source": "人民日报"
             },
             {
-              "title": "香港教育研究院公布AI调研报告--大湾区频道 - 人民网",
-              "summary": "香港教育研究院公布AI调研报告--大湾区频道 人民网",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RME1fbkZwc2lwdlZNM0RXQmV3ODhyQ2M5dVg4Umw3WDBGMlNMZVR2N0hfM3N5Q2QzS2puWExvSTZVVVY2LXp5UFEzazlEaGd3MFl6TjNtazVDd3puak9Fbm11TnEtbVE4?oc=5",
+              "title": "90项实（试）验项目多点布局 - 人民网教育",
+              "summary": "90项实（试）验项目多点布局 人民网教育",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92bFppMnZwQXVxQl8xTl9vTTh0NFI3eE8tdEVxcC1NbVVYcmI3SHNDV2t4UXgxMjFqYl9JX2d6dXNxbUZXcjczSmNWUDItN083ZDYwdGNZVVFGQ0k0UmFHbS1MYmZvQzJp?oc=5",
               "source": "人民日报"
             }
           ]
@@ -119,9 +119,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Trump unveils new tariffs over excess industrial capacity, undeterred by midterm…",
-              "summary": "US President Donald Trump on Wednesday fired a new tariff salvo on 14 major trading ​partners including China, Japan and the European Union,…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07681f76d342a893973192fd7b46bb&url=https%3a%2f%2fwww.reuters.com%2fworld%2fchina%2fus-proposes-new-tariffs-14-trading-partners-fight-excess-factory-capacity-2026-11-25%2f&c=13719442579833479170&mkt=en-us",
+              "title": "Oil rises on supply concerns as Iran claims mine strikes on ships",
+              "summary": "Crude oil prices rose in early Asian trade on Thursday, extending gains from the previous session on supply concerns after Yemen's Houthis s…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07b9215ef74ae6840c3bf2a67c9502&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2foil-rises-supply-concerns-iran-claims-mine-strikes-ships-2026-11-26%2f&c=2303070735230524722&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -134,33 +134,33 @@
       "items": [
         {
           "rank": 1,
-          "title": "金价扛不住了",
-          "hot_value": "847315",
-          "link": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%89%9B%E4%B8%8D%E4%BD%8F%E4%BA%86%23"
+          "title": "普京打包深圳炒菜上飞机",
+          "hot_value": "1871344",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%89%93%E5%8C%85%E6%B7%B1%E5%9C%B3%E7%82%92%E8%8F%9C%E4%B8%8A%E9%A3%9E%E6%9C%BA%23"
         },
         {
           "rank": 2,
-          "title": "小米SU7 Ultra上工信部",
-          "hot_value": "494142",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3SU7%20Ultra%E4%B8%8A%E5%B7%A5%E4%BF%A1%E9%83%A8%23"
+          "title": "蔡磊已进渐冻症终末期",
+          "hot_value": "1390738",
+          "link": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E7%A3%8A%E5%B7%B2%E8%BF%9B%E6%B8%90%E5%86%BB%E7%97%87%E7%BB%88%E6%9C%AB%E6%9C%9F%23"
         },
         {
           "rank": 3,
-          "title": "神24乘组进驻天宫",
-          "hot_value": "400367",
-          "link": "https://s.weibo.com/weibo?q=%23%E7%A5%9E24%E4%B9%98%E7%BB%84%E8%BF%9B%E9%A9%BB%E5%A4%A9%E5%AE%AB%23"
+          "title": "新一代通信网建设实施方案来了",
+          "hot_value": "1232077",
+          "link": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B8%80%E4%BB%A3%E9%80%9A%E4%BF%A1%E7%BD%91%E5%BB%BA%E8%AE%BE%E5%AE%9E%E6%96%BD%E6%96%B9%E6%A1%88%E6%9D%A5%E4%BA%86%23"
         },
         {
           "rank": 4,
-          "title": "巴基斯坦电视主持人激动播报",
-          "hot_value": "387574",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%94%B5%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%BF%80%E5%8A%A8%E6%92%AD%E6%8A%A5%23"
+          "title": "后会友期",
+          "hot_value": "1177558",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%23"
         },
         {
           "rank": 5,
-          "title": "你好星期六",
-          "hot_value": "383953",
-          "link": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%23"
+          "title": "男子花700万买房搜到诅咒孩子WiFi名",
+          "hot_value": "879571",
+          "link": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%8A%B1700%E4%B8%87%E4%B9%B0%E6%88%BF%E6%90%9C%E5%88%B0%E8%AF%85%E5%92%92%E5%AD%A9%E5%AD%90WiFi%E5%90%8D%23"
         }
       ]
     }
