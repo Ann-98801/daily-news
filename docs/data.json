@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 12:44:19 (北京时间)",
+  "updated_at": "2026-11-26 22:47:33 (北京时间)",
   "sections": [
     {
       "id": "domestic",
@@ -7,73 +7,11 @@
       "sources": [
         {
           "source_name": "新华社",
-          "items": [
-            {
-              "title": "神舟二十四号丨中巴航天员将在空间站开展这些实验 - 新华网",
-              "summary": "神舟二十四号丨中巴航天员将在空间站开展这些实验 新华网",
-              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUWhZN3dPWFNaRVpDYjhkT1FNdFlGUk11Q1V3MFNTYkh5dTV4ZW5LWFF6UGU5VW1ieDdXa1ZZQ3AzODJNWnpHTFNlS3ZjZVJieWJFOXh5YjkwNXFxZ204LTZxb2gteFdnbWZQdWJ2MW1nbVN6QmtnTi1MZWItWGNBbWQ5MA?oc=5",
-              "source": "新华社"
-            },
-            {
-              "title": "受权发布丨中国共产党第二十届中央委员会第五次全体会议公报 - 新华网",
-              "summary": "受权发布丨中国共产党第二十届中央委员会第五次全体会议公报 新华网",
-              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQm96aXpLbERKQ2d3c3ctMXREQmgwZGlCcjZ5TGpubXlndW11OFlnVUVCVUotZjBuSEtPbkxMUlZ3Nzd2aHlfQWdQMlA4cF9aNEprNkVMSmRWRkFyR1ZRcVVKZDE2NFN2RHF4MlVidUhYemRRdE1nNDljLUVSa0lsNkFzWG1pTTBrNlYxRUxB?oc=5",
-              "source": "新华社"
-            },
-            {
-              "title": "美军开始在日本冲绳常态部署新型战斗机 - 新华网",
-              "summary": "美军开始在日本冲绳常态部署新型战斗机 新华网",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YSmNYallPNmF2Z3BWQ1FVSFdCalIwSmtzcFdTdjloSmtBbEFUWUE5bjJjcDhJSWhHMTVKeTVzdlFMQ0JDdG53N3p4UzJkNi1Ta1FscVQwamVsMjZnU1d5M0ltOUlEUVdTSmhXcDIySnREY0hhRlFPaUwxeHRWR2M?oc=5",
-              "source": "新华社"
-            },
-            {
-              "title": "两名工人地下室施工作业中毒昏迷 - 新华网",
-              "summary": "两名工人地下室施工作业中毒昏迷 新华网",
-              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uZEh5VVZlRnhfNm9BUVFMRkdzNWVpV0FQXzVCbjF6bU5KOUJkd2ljMnQ0dEdTc0cySE1BZUgzWDRCaldscUIya1hQR0d2WWx6XzZxc1JmdUNyblUyTFJONkEtQlBHcUw2bm9aYXRQLVRtSzlCZjhKM0pyUVFqQQ?oc=5",
-              "source": "新华社"
-            },
-            {
-              "title": "以军称打死又一名哈马斯内部安全机构负责人 - 新华网",
-              "summary": "以军称打死又一名哈马斯内部安全机构负责人 新华网",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MMlYyMmk2dUU3U2RzeE9tUlRkYWo2SUtodXQ0UWxlek9hMk1PaUFnRUNkbUFrUmFzMDBDTWM3RmkwSU1xTDUxQ1ByTXNfUUtLS2k5cVZBZjdGMXZiaHA1eVdtZ3hoalpWeDJjM1NLcFdOcVd6ZEg0?oc=5",
-              "source": "新华社"
-            }
-          ]
+          "items": []
         },
         {
           "source_name": "人民日报",
-          "items": [
-            {
-              "title": "人民网_网上的人民日报 - 人民网",
-              "summary": "人民网_网上的人民日报 人民网",
-              "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9EQUtjSm9pa2h6Yk9uc2RCZkhvTFVyaERuQ1RHY2ZUV29jekU4bWdzdFJFbEw5blk1dnhHODNwVQ?oc=5",
-              "source": "人民日报"
-            },
-            {
-              "title": "人民日报图文数据库（1946-2026） - 人民日报",
-              "summary": "人民日报图文数据库（1946-2026） 人民日报",
-              "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1pVWJKRXlxSjNSVC0yRGJsRHdUbDRBNzdNc2hDV3VJcFdKQmhsT0oxbnh6Q3E2cEVWcERrYm0xWWs?oc=5",
-              "source": "人民日报"
-            },
-            {
-              "title": "中国政要资料库--资料中心 - 中国共产党新闻网",
-              "summary": "中国政要资料库--资料中心 中国共产党新闻网",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NZUQyVGhFVmM0bE9oejRwYmhHcFA1bjcxcEVtOFBab0FZNFV2aU9QTEliY0VZd1Y3ZGwzQ21CTkd1am9MRlhSRktSWVNDOG05aGhTemVDM0Q4RXBIekIwOA?oc=5",
-              "source": "人民日报"
-            },
-            {
-              "title": "习近平同巴基斯坦总统就中巴航天员执行联合飞行任务互致贺电--视频报道 - 中国共产党新闻网",
-              "summary": "习近平同巴基斯坦总统就中巴航天员执行联合飞行任务互致贺电--视频报道 中国共产党新闻网",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rVHB6aXgxOF9jSGlDZUt3dnJBWV9GSEUzcjBTbWg0YWV2MTBvaTlDeFpiNmtHT09pa09NeE1sVjJUN0N3dEY2QjE4SjkyWnJBVWdKY21oRldzSWxvcGw2V2RVX24wSjNyOVhfRFByU3U3YkVX?oc=5",
-              "source": "人民日报"
-            },
-            {
-              "title": "90项实（试）验项目多点布局 - 人民网教育",
-              "summary": "90项实（试）验项目多点布局 人民网教育",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92bFppMnZwQXVxQl8xTl9vTTh0NFI3eE8tdEVxcC1NbVVYcmI3SHNDV2t4UXgxMjFqYl9JX2d6dXNxbUZXcjczSmNWUDItN083ZDYwdGNZVVFGQ0k0UmFHbS1MYmZvQzJp?oc=5",
-              "source": "人民日报"
-            }
-          ]
+          "items": []
         }
       ]
     },
@@ -85,15 +23,15 @@
           "source_name": "BBC",
           "items": [
             {
-              "title": "US announces new tariffs on host of countries including China",
-              "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-              "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+              "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+              "summary": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.",
+              "link": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             },
             {
-              "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
-              "summary": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago",
-              "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+              "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small…",
+              "summary": "Marvin Reuter is contesting extradition to France, where he could face smuggling, criminal conspiracy and involuntary manslaughter charges.",
+              "link": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
               "source": "BBC"
             }
           ]
@@ -119,9 +57,9 @@
           "source_name": "路透社 Reuters",
           "items": [
             {
-              "title": "Oil rises on supply concerns as Iran claims mine strikes on ships",
-              "summary": "Crude oil prices rose in early Asian trade on Thursday, extending gains from the previous session on supply concerns after Yemen's Houthis s…",
-              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07b9215ef74ae6840c3bf2a67c9502&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2fenergy%2foil-rises-supply-concerns-iran-claims-mine-strikes-ships-2026-11-26%2f&c=2303070735230524722&mkt=en-us",
+              "title": "Airline Norse Atlantic flags bankruptcy risk as flights suspended",
+              "summary": "Norwegian airline Norse Atlantic suspended its flights on Thursday and said ​its board intends to file for bankruptcy if a ‌short-term finan…",
+              "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b084684d1d242688b7738d787a160a5&url=https%3a%2f%2fwww.reuters.com%2fbusiness%2faerospace-defense%2fairline-norse-atlantic-suspends-flights-warns-possible-bankruptcy-2026-11-26%2f&c=12265253056884573649&mkt=en-us",
               "source": "路透社 Reuters"
             }
           ]
@@ -134,36 +72,39 @@
       "items": [
         {
           "rank": 1,
-          "title": "普京打包深圳炒菜上飞机",
-          "hot_value": "1871344",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%89%93%E5%8C%85%E6%B7%B1%E5%9C%B3%E7%82%92%E8%8F%9C%E4%B8%8A%E9%A3%9E%E6%9C%BA%23"
+          "title": "花花独狼吃鸡",
+          "hot_value": "1231635",
+          "link": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E7%8B%AC%E7%8B%BC%E5%90%83%E9%B8%A1%23"
         },
         {
           "rank": 2,
-          "title": "蔡磊已进渐冻症终末期",
-          "hot_value": "1390738",
-          "link": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E7%A3%8A%E5%B7%B2%E8%BF%9B%E6%B8%90%E5%86%BB%E7%97%87%E7%BB%88%E6%9C%AB%E6%9C%9F%23"
+          "title": "董明珠称汽车行业有老鼠",
+          "hot_value": "878779",
+          "link": "https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E6%B1%BD%E8%BD%A6%E8%A1%8C%E4%B8%9A%E6%9C%89%E8%80%81%E9%BC%A0%23"
         },
         {
           "rank": 3,
-          "title": "新一代通信网建设实施方案来了",
-          "hot_value": "1232077",
-          "link": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B8%80%E4%BB%A3%E9%80%9A%E4%BF%A1%E7%BD%91%E5%BB%BA%E8%AE%BE%E5%AE%9E%E6%96%BD%E6%96%B9%E6%A1%88%E6%9D%A5%E4%BA%86%23"
+          "title": "城市轨道交通的万里版图",
+          "hot_value": "702635",
+          "link": "https://s.weibo.com/weibo?q=%23%E5%9F%8E%E5%B8%82%E8%BD%A8%E9%81%93%E4%BA%A4%E9%80%9A%E7%9A%84%E4%B8%87%E9%87%8C%E7%89%88%E5%9B%BE%23"
         },
         {
           "rank": 4,
-          "title": "后会友期",
-          "hot_value": "1177558",
-          "link": "https://s.weibo.com/weibo?q=%23%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%23"
+          "title": "许飞口碑",
+          "hot_value": "672683",
+          "link": "https://s.weibo.com/weibo?q=%23%E8%AE%B8%E9%A3%9E%E5%8F%A3%E7%A2%91%23"
         },
         {
           "rank": 5,
-          "title": "男子花700万买房搜到诅咒孩子WiFi名",
-          "hot_value": "879571",
-          "link": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%8A%B1700%E4%B8%87%E4%B9%B0%E6%88%BF%E6%90%9C%E5%88%B0%E8%AF%85%E5%92%92%E5%AD%A9%E5%AD%90WiFi%E5%90%8D%23"
+          "title": "中国男篮vs沙特男篮",
+          "hot_value": "458105",
+          "link": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E6%B2%99%E7%89%B9%E7%94%B7%E7%AF%AE%23"
         }
       ]
     }
   ],
-  "errors": []
+  "errors": [
+    "新华社: 必应搜索失败(HTTP 200，但解析出0条内容（可能页面结构变化或被限流）)；谷歌新闻搜索也失败(503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Anews.cn&hl=zh-CN&gl=CN&ceid=CN:zh-Hans)",
+    "人民日报: 必应搜索失败(HTTP 200，但解析出0条内容（可能页面结构变化或被限流）)；谷歌新闻搜索也失败(503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Apeople.com.cn&hl=zh-CN&gl=CN&ceid=CN:zh-Hans)"
+  ]
 }
